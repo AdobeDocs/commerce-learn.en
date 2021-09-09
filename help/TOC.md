@@ -9,7 +9,7 @@ breadcrumb-title: Adobe Commerce Tutorials
 + [Overview](overview.md) {#overview}
 
 + Getting started {#getting-started}
-  + Adobe Commerce on our cloud infrastructure {#commerce-on-cloud}
+  + Adobe Commerce on cloud infrastructure {#commerce-on-cloud}
     + [1 - Overview](./cloud/intro-1.md)
     + [2 - Hosted accounts](./cloud/intro-2.md)
     + [3 - Cloud projects](./cloud/intro-3.md)
@@ -65,7 +65,7 @@ breadcrumb-title: Adobe Commerce Tutorials
     + [5 - Custom themes](./developer/page-builder/5-customize-theme.md)
     + [6 - Custom content types](developer/page-builder/6-custom-content-types.md)
   + [Add a JavaScript module](developer/add-javascript-module.md)
-  + [Create a new page](developer/create-new-page.md)
+  + [Create a page](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
   + PWA Studio for developers {#introduction-developers}
