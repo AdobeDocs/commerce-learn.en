@@ -28,6 +28,6 @@ In this unit:
 
 ## Additional resources
 
-[Creating an admin page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
-[Creating an Access Control List (ACL) rule](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html)
-[Running Unit Tests](https://devdocs.magento.com/guides/v2.4/test/unit/unit_test_execution.html)
+- [Creating an admin page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
+- [Creating an Access Control List (ACL) rule](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html)
+- [Running Unit Tests](https://devdocs.magento.com/guides/v2.4/test/unit/unit_test_execution.html)

@@ -28,7 +28,7 @@ In this unit:
 
 ## Additional resources
 
-[About component file structure](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
-[Component development](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-[Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-[Commerce module reference guide](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [About component file structure](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
+- [Component development](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
+- [Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
+- [Commerce module reference guide](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)

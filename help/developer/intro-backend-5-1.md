@@ -28,5 +28,5 @@ In this unit:
 
 ## Additional resources
 
-[Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-[Configure your store](https://devdocs.magento.com/cloud/configure/configuration-overview.html)
+- [Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
+- [Configure your store](https://devdocs.magento.com/cloud/configure/configuration-overview.html)

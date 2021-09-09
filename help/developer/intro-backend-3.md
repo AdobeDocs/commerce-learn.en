@@ -28,7 +28,7 @@ In this unit:
 
 ## Additional resources
 
-[Verify the installation](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
-[Optionally set a umask](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
-[Install sample data](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
-[About application modes](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)
+- [Verify the installation](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
+- [Optionally set a umask](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
+- [Install sample data](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
+- [About application modes](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)

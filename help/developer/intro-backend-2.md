@@ -21,5 +21,5 @@ In this unit:
 
 ## Additional resources
 
-[Introduction to Composer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
-[Commerce installation guide](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html)
+- [Introduction to Composer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
+- [Commerce installation guide](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html)
