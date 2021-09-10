@@ -1,7 +1,7 @@
 ---
-user-guide-title: Adobe Commerce Videos and Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Commerce.
-breadcrumb-title: Adobe Commerce Tutorials
+user-guide-title: Commerce Videos and Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source.
+breadcrumb-title: Commerce Tutorials
 ---
   
 # Adobe Commerce Videos and Tutorials {#commerce-tutorials}

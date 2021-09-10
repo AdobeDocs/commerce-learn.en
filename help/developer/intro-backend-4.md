@@ -5,6 +5,7 @@ kt: 5694
 doc-type: video
 topic: Development
 audience: developer
+thumbnail: 36196.jpeg
 activity: use
 ---
 

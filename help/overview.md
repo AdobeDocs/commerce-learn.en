@@ -1,13 +1,13 @@
 ---
-title: Adobe Commerce Videos and Tutorials
+title: Commerce Videos and Tutorials
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
 ---
 
-# Adobe Commerce Videos and Tutorials {#overview}
+# Commerce Videos and Tutorials {#overview}
 
 ![](./assets/banner.png)
 
-Welcome to the Adobe Commerce videos and tutorials collection. Using these resources along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html) gives you a better understanding how to use Commerce to support your ecommerce business. 
+Welcome to the Commerce videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a better understanding how to use Commerce to support your ecommerce business. 
 
 - Explore the content by topic and subtopic in the left navigation
 - Use the search field at the top of the page if you know what you are looking for

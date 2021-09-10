@@ -4,6 +4,7 @@ description: Basics of the platform from the perspective of several audiences me
 doc-type: video
 topic: Development
 audience: developer
+thumbnail: 36191.jpeg
 activity: use
 ---
 
