@@ -13,4 +13,4 @@ thumbnail: <MPC Video ID>.jpeg
 
 Add short description
 
->[!VIDEO](https://video.tv.adobe.com/v/<MPC Video ID>/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/MPC-Video-ID/?quality=12&learn=on&hidetitle=true)
