@@ -9,8 +9,8 @@ kt: <JIRA KT Story No.>
 thumbnail: <MPC Video ID>.jpeg
 ---
 
-# <Title of page>
+# Title of page
 
-<Short description of the video>
+Add short description
 
 >[!VIDEO](https://video.tv.adobe.com/v/<MPC Video ID>/?quality=12&learn=on&hidetitle=true)
