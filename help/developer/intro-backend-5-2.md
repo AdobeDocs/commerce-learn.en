@@ -9,7 +9,7 @@ thumbnail: 36198.jpeg
 activity: use
 ---
 
-# Unit 5.2 - Introduction to Commerce for developers {#main}
+# Unit 5.2: Introduction to Commerce for developers {#main}
 
 In this unit:
 
