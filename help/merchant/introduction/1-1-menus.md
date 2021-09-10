@@ -4,7 +4,7 @@ description: Overview of functional menus in the Commerce v2.3 Admin
 topic: Commerce
 kt: 5758
 doc-type: video
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 
