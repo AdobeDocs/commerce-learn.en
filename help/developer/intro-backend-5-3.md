@@ -8,7 +8,6 @@ audience: developer
 thumbnail: 36199.jpeg
 activity: use
 ---
-
 # Unit 5.3: Introduction to Commerce for developers {#main}
 
 In this unit:

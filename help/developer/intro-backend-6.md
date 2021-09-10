@@ -8,7 +8,6 @@ audience: developer
 thumbnail: 36201.jpeg
 activity: use
 ---
-
 # Unit 6: Introduction to Commerce for developers {#main}
 
 In this unit, there are five exercises to practice Commerce development tasks:

@@ -7,7 +7,6 @@ audience: developer
 thumbnail: 36191.jpeg
 activity: use
 ---
-
 # Unit 1.1: Introduction to Commerce for developers {#main}
 
 Commerce is a highly customizable e-commerce platform and content management system that is primarily used to build online storefronts or websites for selling merchandise.
