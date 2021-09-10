@@ -4,7 +4,7 @@ description: Customer experience on the storefront, including account creation, 
 topic: Commerce
 kt: 5778
 doc-type: video
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 

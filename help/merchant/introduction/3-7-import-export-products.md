@@ -4,7 +4,7 @@ description: Importing and exporting products
 topic: Commerce
 kt: 5773
 doc-type: video
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 

@@ -4,7 +4,7 @@ description: Product types and the options for each product type
 topic: Commerce
 kt: 5767
 doc-type: video
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 

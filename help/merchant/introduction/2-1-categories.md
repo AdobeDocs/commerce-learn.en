@@ -4,7 +4,7 @@ description: Demonstration for creating categories
 topic: Commerce
 kt: 5765
 doc-type: videos
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 

@@ -4,7 +4,7 @@ description: Create products, configure settings, and use attributes
 topic: Commerce
 kt: 5768
 doc-type: video
-role: Administrator, Leader, User
+role: Admin, Leader, User
 activity: use
 ---
 
