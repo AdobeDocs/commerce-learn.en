@@ -4,6 +4,7 @@ description: Creating a simple product using product attribute sets
 topic: Commerce
 kt: 5771
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

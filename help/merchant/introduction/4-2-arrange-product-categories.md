@@ -4,6 +4,7 @@ description: Positioning products within categories so that customers see the pr
 topic: Commerce
 kt: 5776
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

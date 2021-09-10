@@ -4,6 +4,7 @@ description: Category landing page appearance
 topic: Commerce
 kt: 5766
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

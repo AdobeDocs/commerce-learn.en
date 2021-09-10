@@ -4,6 +4,7 @@ description: The basics of the Commerce architecture, including the differences 
 topic: Commerce
 kt: 5760
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

@@ -4,6 +4,7 @@ description: Creating store views and clearing the cache
 topic: Commerce
 kt: 5761
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

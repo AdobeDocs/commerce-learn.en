@@ -4,6 +4,7 @@ description: Recommended permissions for customer service, creating a customer i
 topic: Commerce
 kt: 5779
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

@@ -4,6 +4,7 @@ description: Basics about Admin user accounts, and user roles and permissions
 topic: Commerce
 kt: 5762
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

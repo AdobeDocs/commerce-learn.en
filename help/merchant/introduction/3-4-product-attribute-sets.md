@@ -4,6 +4,7 @@ description: Product attribute sets
 topic: Commerce
 kt: 5770
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

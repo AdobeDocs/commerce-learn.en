@@ -4,6 +4,7 @@ description: Role scopes (exclusive to Adobe Commerce).
 topic: Commerce
 kt: 5763
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

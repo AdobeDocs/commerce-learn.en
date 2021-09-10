@@ -4,6 +4,7 @@ description: Working with data grids in the Commerce Admin
 topic: Commerce
 kt: 5759
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

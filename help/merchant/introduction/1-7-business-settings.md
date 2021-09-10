@@ -4,6 +4,7 @@ description: Locale settings, store information, secure and unsecure URLs, websi
 topic: Commerce
 kt: 5764
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

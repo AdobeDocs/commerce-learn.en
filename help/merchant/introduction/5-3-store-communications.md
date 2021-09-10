@@ -4,6 +4,7 @@ description: Communicate with your customers via transactional emails triggered 
 topic: Commerce
 kt: 5780
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

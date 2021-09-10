@@ -4,6 +4,7 @@ description: Gift Cards in your Commerce store
 topic: Commerce
 kt: 5774
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

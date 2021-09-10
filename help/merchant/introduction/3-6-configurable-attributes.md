@@ -4,6 +4,7 @@ description: Configurable product attributes
 topic: Commerce
 kt: 5772
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

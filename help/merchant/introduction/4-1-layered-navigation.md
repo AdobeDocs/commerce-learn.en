@@ -4,6 +4,7 @@ description: Enabling layered navigation in your Commerce store so that customer
 topic: Commerce
 kt: 5775
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

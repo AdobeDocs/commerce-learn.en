@@ -4,6 +4,7 @@ description: Custom and system attributes for products
 topic: Commerce
 kt: 5769
 doc-type: video
+role: Administrator, Leader, User
 activity: use
 ---
 

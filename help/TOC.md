@@ -4,7 +4,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
 breadcrumb-title: Commerce Tutorials
 ---
   
-# Adobe Commerce Videos and Tutorials {#commerce-tutorials}
+# Adobe Commerce Videos and Tutorials {#tutorials}
 
 + [Commerce Videos and Tutorials](overview.md) {#overview}
 
