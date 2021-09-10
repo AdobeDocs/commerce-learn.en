@@ -3,7 +3,9 @@ title: Adobe Commerce Videos and Tutorials
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
 ---
 
-# Overview {#overview}
+# Adobe Commerce Videos and Tutorials {#overview}
+
+![](./assets/banner.png)
 
 Welcome to the Adobe Commerce videos and tutorials collection. Using these resources along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html) gives you a better understanding how to use Commerce to support your ecommerce business. 
 
@@ -20,13 +22,9 @@ Basic entry-level series for some of the most thorough Commerce courses include:
 
 ## Additional developer series
 
-- [Progressive Web Apps (PWA) for developers (video series)](./pwa/introduction/1-overview.md)
-    <br>
-    *What is PWA, and why PWA Studio is the future​. Ease of use for PWA Studio tools. How to work with PWA Studio*
+- [Progressive Web Apps (PWA) for developers (video series)](./pwa/introduction/1-overview.md) What is PWA, and why PWA Studio is the future​. Ease of use for PWA Studio tools. How to work with PWA Studio
 
-- [Page Builder overview for developers (video series)](./developer/page-builder/1-intro-case-studies.md)
-    <br>
-    *How Page Builder works, and ways to customize Page Builder*
+- [Page Builder overview for developers (video series)](./developer/page-builder/1-intro-case-studies.md) How Page Builder works, and ways to customize Page Builder
 
 <!---
 - **[Security planning for Commerce (video series)](./security/summit-security/1-summit-security.md)**
