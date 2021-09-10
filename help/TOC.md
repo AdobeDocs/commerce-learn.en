@@ -6,17 +6,17 @@ breadcrumb-title: Commerce Tutorials
   
 # Adobe Commerce Videos and Tutorials {#commerce-tutorials}
 
-+ [Overview](overview.md) {#overview}
++ [Commerce Videos and Tutorials](overview.md) {#overview}
 
 + Getting started {#getting-started}
-  + Adobe Commerce on cloud infrastructure {#commerce-on-cloud}
+  + Commerce on cloud infrastructure {#commerce-on-cloud}
     + [1 - Overview](./cloud/intro-1.md)
     + [2 - Hosted accounts](./cloud/intro-2.md)
     + [3 - Cloud projects](./cloud/intro-3.md)
     + [4 - Deployment](./cloud/intro-4.md)
     + [5 - Development](./cloud/intro-5.md)
     + [6 - Services and DNS](./cloud/intro-6.md)
-  + Adobe Commerce for developers {#commerce-development}
+  + Commerce for developers {#commerce-development}
     + [1.1 - Overview](./developer/intro-backend-1-1.md)
     + [1.2 - Development workflow](./developer/intro-backend-1-2.md)
     + [2 - Installation](./developer/intro-backend-2.md)
@@ -27,7 +27,7 @@ breadcrumb-title: Commerce Tutorials
     + [5.3 - Routing](./developer/intro-backend-5-3.md)
     + [5.4 - Create an Admin page](./developer/intro-backend-5-4.md)
     + [6 - Exercises](./developer/intro-backend-6.md)
-  + Adobe Commerce for business users {#commerce-merchants}
+  + Commerce for business users {#commerce-merchants}
     + [1.1 - Admin menus](./merchant/introduction/1-1-menus.md)
     + [1.2 - Data grids](./merchant/introduction/1-2-data-grids.md)
     + [1.3 - Scopes, sites, and stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
