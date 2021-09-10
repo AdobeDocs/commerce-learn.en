@@ -1,10 +1,9 @@
 ---
 title: Unit 4.2 - Introduction to Commerce for business users
 description: Positioning products within categories so that customers see the products at the top that you want them to see.
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5776
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

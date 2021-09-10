@@ -1,10 +1,9 @@
 ---
 title: Unit 1.4 - Introduction to Commerce for business users
 description: Creating store views and clearing the cache
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5761
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

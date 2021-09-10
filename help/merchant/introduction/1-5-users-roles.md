@@ -1,10 +1,9 @@
 ---
 title: Unit 1.5 - Introduction to Commerce for business users
 description: Basics about Admin user accounts, and user roles and permissions
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5762
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

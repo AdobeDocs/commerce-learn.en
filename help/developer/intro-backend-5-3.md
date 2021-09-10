@@ -2,9 +2,8 @@
 title: Unit 5.3 - Introduction to Commerce for developers
 description: Routing, creating a simple frontend controller, result objects, action class.
 kt: 5697
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

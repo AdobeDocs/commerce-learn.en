@@ -1,16 +1,18 @@
 ---
 title: Unit 1 - PWA Studio for developers
 description: What is PWA, and why PWA Studio is the future​.
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5644
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 
 # Unit 1 - PWA Studio for developers
 
 In this unit:
+
+- What is PWA?
+- Why is PWA the future for ecommerce?
 
 ## Who is this video for?
 

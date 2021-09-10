@@ -1,21 +1,23 @@
 ---
 title: Unit 2 - PWA Studio for developers
 description: Introduction to PWA Studio, ease of use for PWA Studio tools
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5645
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 
 # Unit 2 - PWA Studio for developers
 
+In this unit:
 
+- Introduction to PWA Studio
+- PWA tools
 
 ## Who is this video for?
 
-* Frontend developers
-* Project managers
+- Frontend developers
+- Project managers
 
 ## Video content
 

@@ -1,10 +1,9 @@
 ---
 title: Unit 1.7 - Introduction to Commerce for business users
 description: Locale settings, store information, secure and unsecure URLs, website title, logo, copyright information, communication email logos, store email addresses, currency options, and currency rates
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5764
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

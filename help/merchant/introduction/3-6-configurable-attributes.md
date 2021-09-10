@@ -1,10 +1,9 @@
 ---
 title: Unit 3.6 - Introduction to Commerce for business users
 description: Configurable product attributes
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5772
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

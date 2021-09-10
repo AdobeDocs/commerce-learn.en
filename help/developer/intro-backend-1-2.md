@@ -2,9 +2,8 @@
 title: Unit 1.2 - Introduction to Commerce for developers
 description: Learn about the typical development workflow.
 kt: 5691
-doc-type: technical video
-topic: backend, development
-feature: development-workflow
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

@@ -1,10 +1,9 @@
 ---
 title: Add a JavaScript module
 description: This video provides a walk-through for developing a simple JS module that provides the greeting "Hello World".
-feature: Video Pages
-topics: development
+topic: Development
 kt: 5612
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

@@ -2,9 +2,8 @@
 title: Unit 5.2 - Introduction to Commerce for developers
 description: Declarative schema overview
 kt: 5669
-doc-type: technical video
-topic: backend, development
-feature: declarative-schema
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

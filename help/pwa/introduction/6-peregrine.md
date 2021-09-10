@@ -1,10 +1,9 @@
 ---
 title: Unit 6 - PWA Studio for developers
-description: Introduction to Peregrine. Describe the Peregrine library​. Understand the motivation behind Peregrine​. Distinguish between Peregrine hooks and talons. 
-feature: Video Pages
-topics: documents
+description: Introduction to Peregrine. Describe the Peregrine library​. Understand the motivation behind Peregrine​. Distinguish between Peregrine hooks and talons.
+topic: Development
 kt: 5649
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Session 4 - Page Builder for developers
 description: Admin and Stage theming tasks. Create admin templates​. Apply styles to Content Types on the Stage (Live Preview)   
-feature: Video Pages
-topics: documents
+topic: Commerce, Development
 kt: 5653
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

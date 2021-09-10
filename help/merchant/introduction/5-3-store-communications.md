@@ -1,10 +1,9 @@
 ---
 title: Unit 5.3 - Introduction to Commerce for business users
 description: Communicate with your customers via transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5780
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

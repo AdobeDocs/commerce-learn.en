@@ -1,10 +1,9 @@
 ---
 title: Unit 2.1 - Creating categories
 description: Demonstration for creating categories
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5765
-doc-type: feature-video
+doc-type: videos
 activity: use
 ---
 

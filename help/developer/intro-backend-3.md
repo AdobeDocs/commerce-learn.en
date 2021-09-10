@@ -2,9 +2,8 @@
 title: Unit 3 - Introduction to Commerce for developers 
 description: Verify and configure your instance, set u-mask, install sample data, set proper running mode
 kt: 5693
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

@@ -1,10 +1,9 @@
 ---
 title: Unit 1.1 - Introduction to Commerce for business users
 description: Overview of functional menus in the Commerce v2.3 Admin
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5758
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

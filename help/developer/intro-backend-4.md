@@ -2,9 +2,8 @@
 title: Unit 4 - Introduction to Commerce for developers
 description: Code base components, modularity, configuring flexibility, and Composer's role
 kt: 5694
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

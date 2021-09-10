@@ -1,10 +1,9 @@
 ---
 title: PWA Docker Development
 description: PWA Docker Development
-feature: Video Pages
-topics: Development
+topic: Development
 kt: 5564
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

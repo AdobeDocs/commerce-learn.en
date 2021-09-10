@@ -2,9 +2,8 @@
 title: Unit 2 - Introduction to Commerce for developers 
 description: Learn about Composer installation and sample data.
 kt: 5692
-doc-type: technical video
-topic: backend, development
-feature: composer
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

@@ -1,10 +1,9 @@
 ---
 title: Unit 3.8 - Introduction to Commerce for business users
 description: Gift Cards in your Commerce store
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5774
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

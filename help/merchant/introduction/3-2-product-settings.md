@@ -1,10 +1,9 @@
 ---
 title: Unit 3.2 - Introduction to Commerce for business users
 description: Create products, configure settings, and use attributes
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5768
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

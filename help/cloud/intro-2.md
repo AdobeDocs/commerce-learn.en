@@ -2,7 +2,7 @@
 title: Unit 2 - Getting started with Adobe Commerce on cloud infrastructure
 description: Learn about existing hosting solutions for Adobe Commerce​. Understand differences between Starter and Pro accounts​.
 kt: 5657
-doc-type: feature video
+doc-type: video
 audience: all
 activity: use
 ---

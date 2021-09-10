@@ -1,10 +1,9 @@
 ---
 title:  Unit 3.4 - Introduction to Commerce for business users
 description: Product attribute sets
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5770
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

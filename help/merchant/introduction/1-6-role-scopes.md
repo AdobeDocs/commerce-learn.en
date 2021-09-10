@@ -1,10 +1,9 @@
 ---
 title: Unit 1.6 - Introduction to Commerce for business users
 description: Role scopes (exclusive to Adobe Commerce).
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5763
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

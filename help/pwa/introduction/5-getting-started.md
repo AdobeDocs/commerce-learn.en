@@ -1,10 +1,9 @@
 ---
 title: Unit 5 - PWA Studio for developers
 description: Getting started with PWA Studio. Initial project setup​. Generate local SSL certificate​. Build pack CLI commands.
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5648
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

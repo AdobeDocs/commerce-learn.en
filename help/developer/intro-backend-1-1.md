@@ -1,7 +1,8 @@
 ---
 title: Unit 1.1 - Introduction to Commerce for developers
 description: Basics of the platform from the perspective of several audiences merchants, web store developers, integrators. 
-doc-type: feature video
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

@@ -1,10 +1,9 @@
 ---
 title: Add a table to a database
 description: Commerce has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them.
-feature: Video Pages
-topics: development, authoring
+topic: Development
 kt: 5613
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

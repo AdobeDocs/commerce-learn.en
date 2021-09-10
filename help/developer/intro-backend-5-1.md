@@ -2,9 +2,8 @@
 title: Unit 5.1 - Introduction to Commerce for developers
 description: Development basics, including creating a module, configuring your store, DI operations, and a front controller example
 kt: 5695
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

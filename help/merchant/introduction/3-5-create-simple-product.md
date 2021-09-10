@@ -1,10 +1,9 @@
 ---
 title: Unit 3.5 - Introduction to Commerce for business users
 description: Creating a simple product using product attribute sets
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5771
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

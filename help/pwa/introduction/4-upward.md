@@ -1,10 +1,9 @@
 ---
 title: Unit 4 - PWA Studio for developers
 description: UPWARD overview
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5647
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Unit 5.1 - Introduction to Commerce for business users
 description: Customer experience on the storefront, including account creation, wish lists, and adding wish list items to the cart
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5778
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

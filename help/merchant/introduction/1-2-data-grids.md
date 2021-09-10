@@ -1,10 +1,9 @@
 ---
 title: Unit 1.2 - Introduction to Commerce for business users
 description: Working with data grids in the Commerce Admin
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5759
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

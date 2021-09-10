@@ -2,9 +2,8 @@
 title: Unit 6 - Introduction to Commerce for developers
 description: Five exercises to practice Commerce development tasks
 kt: 5699
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

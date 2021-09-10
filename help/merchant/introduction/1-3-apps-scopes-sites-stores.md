@@ -1,10 +1,9 @@
 ---
 title: Unit 1.3 - Introduction to Commerce for business users
 description: The basics of the Commerce architecture, including the differences between websites, stores, store views, application scopes, and overview indexing and caching.
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5760
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

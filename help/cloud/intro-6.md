@@ -2,7 +2,7 @@
 title: Unit 6 - Getting started with Adobe Commerce on cloud infrastructure
 description: Go live, DNS, TLS, Fastly. Learn how to configure DNS to point to the production domain for the Adobe Commerce instance.
 kt: 5661
-doc-type: feature video
+doc-type: video
 audience: all
 activity: use
 ---

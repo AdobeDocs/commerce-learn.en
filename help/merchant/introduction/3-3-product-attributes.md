@@ -1,10 +1,9 @@
 ---
 title: Unit 3.3 - Introduction to Commerce for business users
 description: Custom and system attributes for products
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5769
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

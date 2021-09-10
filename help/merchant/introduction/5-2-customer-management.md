@@ -1,10 +1,9 @@
 ---
 title: Unit 5.2 - Introduction to Commerce for business users
 description: Recommended permissions for customer service, creating a customer in the Admin, managing customer information, and creating customer groups
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5779
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

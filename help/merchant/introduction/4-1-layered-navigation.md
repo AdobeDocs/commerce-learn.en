@@ -1,10 +1,9 @@
 ---
 title: Unit 4.1 - Introduction to Commerce for business users
 description: Enabling layered navigation in your Commerce store so that customers can find products easily and quickly.
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5775
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

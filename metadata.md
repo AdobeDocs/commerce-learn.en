@@ -7,7 +7,6 @@ product: Adobe Commerce
 index: y
 type: Tutorial
 solution: Adobe Commerce
-feature-set: Commerce
 ---
 
 # Metadata for internal use

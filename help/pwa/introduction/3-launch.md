@@ -1,10 +1,9 @@
 ---
 title: Unit 3 - PWA Studio for developers
 description: Required steps before the launch of your PWA​. Baseline for load time​. How performance improves conversions.
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5646
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Set up Venia for development
 description: Setting up Venia for development
-feature: Video Pages
-topics: documents
+topic: Development
 kt: 5564
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

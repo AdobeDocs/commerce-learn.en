@@ -1,10 +1,9 @@
 ---
 title: Session 5 - Page Builder for developers
 description: Customize the Page Builder theme
-feature: Video Pages
-topics: documents
+topic: Commerce, Development
 kt: 5654
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

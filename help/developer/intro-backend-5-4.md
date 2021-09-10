@@ -2,9 +2,8 @@
 title: Unit 5.4 - Introduction to Commerce for developers 
 description: Create Admin pages, Admin page controller ACL (access control list), and unit testing
 kt: 5698
-doc-type: technical video
-topic: backend, development
-feature: magento
+doc-type: video
+topic: Development
 audience: developer
 activity: use
 ---

@@ -1,10 +1,9 @@
 ---
 title: Unit 3.7 - Introduction to Commerce for business users
 description: Importing and exporting products
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5773
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

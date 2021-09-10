@@ -2,7 +2,7 @@
 title: Unit 1 - Getting started with Adobe Commerce on cloud infrastructure
 description: Identify the key technologies within the cloud stack​. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only core file system.
 kt: 5656
-doc-type: feature video
+doc-type: video
 audience: all
 activity: use
 ---

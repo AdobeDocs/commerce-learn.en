@@ -1,10 +1,9 @@
 ---
 title: Session 1 - Page Builder for developers
 description: Page Builder introduction, understand Page Builder capabilities
-feature: Video Pages
-topics: documents
+topic: Commerce, Development
 kt: 5650
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

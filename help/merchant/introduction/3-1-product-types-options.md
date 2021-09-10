@@ -1,10 +1,9 @@
 ---
 title: Unit 3.1 - Introduction to Commerce for business users
 description: Product types and the options for each product type
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5767
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

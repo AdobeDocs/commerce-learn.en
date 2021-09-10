@@ -1,10 +1,9 @@
 ---
 title: Unit 2.2 - Category landing pages
 description: Category landing page appearance
-feature: Video Pages
-topics: documents
+topic: Commerce
 kt: 5766
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 

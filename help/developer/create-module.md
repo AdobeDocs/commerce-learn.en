@@ -1,10 +1,9 @@
 ---
 title: Create a module
 description: Create a page that returns json with one parameter.
-feature: Video Pages
-topics: development
+topic: Development
 kt: 5602
-doc-type: feature-video
+doc-type: video
 activity: use
 ---
 
