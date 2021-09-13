@@ -68,7 +68,7 @@ breadcrumb-title: Commerce Tutorials
   + [Create a page](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-  + Introduction to PWA Studio {#introduction}
+  + Introduction to PWA Studio {#introduction}s
     + [1 - Overview](./pwa/introduction/1-overview.md)
     + [2 - PWA Studio tools](./pwa/introduction/2-pwa-studio-tools.md)
     + [3 - Launch](pwa/introduction/3-launch.md)
