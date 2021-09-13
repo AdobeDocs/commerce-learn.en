@@ -7,7 +7,7 @@ doc-type: video
 activity: use
 ---
 
-# Unit 2 - PWA Studio for developers
+# Unit 2: PWA Studio for developers
 
 In this unit:
 

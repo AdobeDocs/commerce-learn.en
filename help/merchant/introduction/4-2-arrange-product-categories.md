@@ -8,7 +8,7 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 4.2 - Introduction to Commerce for business users
+# Unit 4.2: Introduction to Commerce for business users
 
 In this unit:
 

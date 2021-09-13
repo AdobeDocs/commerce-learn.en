@@ -7,7 +7,7 @@ audience: all
 activity: use
 ---
 
-# Unit 1 - Getting started with Adobe Commerce on cloud infrastructure
+# Unit 1: Getting started with Adobe Commerce on cloud infrastructure
 
 In this unit:
 
