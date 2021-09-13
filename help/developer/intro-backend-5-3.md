@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36199.jpeg
 activity: use
 ---
-# Unit 5.3: Introduction to Commerce for developers {#main}
+# Unit 5.3: Introduction to Commerce for developers
 
 In this unit:
 

@@ -7,7 +7,7 @@ doc-type: video
 activity: use
 ---
 
-# Session 6 - Page Builder for developers {#main}
+# Session 6 - Page Builder for developers
 
 In this session:
 

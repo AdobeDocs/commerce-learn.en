@@ -7,7 +7,7 @@ doc-type: video
 activity: use
 ---
 
-# Add a table to a database {#main}
+# Add a table to a database
 
 Commerce has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.
 

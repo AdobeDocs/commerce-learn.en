@@ -8,7 +8,7 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.1 - Introduction to Commerce for business users {#main}
+# Unit 1.1 - Introduction to Commerce for business users
 
 The Commerce Admin is the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your Commerce store to suit your business needs.
 
