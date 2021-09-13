@@ -3,7 +3,6 @@ cloud: Experience Cloud
 solution-title: Commerce
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/commerce-learn.en
-product: Adobe Commerce
 index: y
 type: Tutorial
 solution: Adobe Commerce
