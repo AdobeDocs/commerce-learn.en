@@ -54,6 +54,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Add a new table to a database](./developer/add-new-db-table.md)
   + [Create a module](developer/create-module.md)
   + [Add a new product attribute](./developer/add-product-attribute.md)
+  + [Dependency injection example](./developer/dependency-injection.md)
 
 + Frontend development {#frontend-development}
   + Page Builder {#page-builder}
@@ -76,5 +77,3 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [6 - Peregrine](./pwa/introduction/6-peregrine.md)
   + [PWA Docker Development](./pwa/pwa-docker-development.md)
   + [Set up Venia for development](pwa/set-up-venia-for-dev.md)
-
-
