@@ -1,5 +1,5 @@
 ---
-title: Unit 3 - Getting started with Adobe Commerce on cloud infrastructure
+title: Unit 5 - Getting started with Adobe Commerce on cloud infrastructure
 description: Learn about development configurations. 
 kt: 5660
 doc-type: video
@@ -7,7 +7,7 @@ audience: all
 activity: use
 ---
 
-# Unit 3: Getting started with Adobe Commerce on cloud infrastructure
+# Unit 5: Getting started with Adobe Commerce on cloud infrastructure
 
 In this unit:
 

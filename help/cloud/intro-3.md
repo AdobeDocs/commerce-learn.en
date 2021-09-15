@@ -11,8 +11,8 @@ activity: use
 
 In this unit:
 
-- Learn about project structure and yaml files. 
-- Understand the file structure of the cloud project and all required repositories necessary.
+- Understand the file structure of the cloud project and the related code repositories
+- Learn about the four main configuration files
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
