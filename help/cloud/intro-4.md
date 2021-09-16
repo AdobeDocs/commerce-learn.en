@@ -18,4 +18,4 @@ In this unit:
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Cloud deployment process](https://devdocs.magento.com/cloud/deploy/cloud-deployment-process.html)

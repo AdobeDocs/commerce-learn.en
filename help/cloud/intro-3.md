@@ -18,4 +18,5 @@ In this unit:
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+- [Project structure](https://devdocs.magento.com/cloud/project/project-start.html)
+- [Configure environments](https://devdocs.magento.com/cloud/env/environments.html)
