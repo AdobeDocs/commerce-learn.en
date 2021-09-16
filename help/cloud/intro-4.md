@@ -11,11 +11,11 @@ activity: use
 
 In this unit:
 
-- Learn about deployment phases and scripts. 
+- Learn about deployment phases and scripts
 - Understand how the deployment process works from the infrastructure side​
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Cloud deployment process](https://devdocs.magento.com/cloud/deploy/cloud-deployment-process.html)

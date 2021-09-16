@@ -18,4 +18,4 @@ In this unit:
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Cloud architecture for Commerce](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)
