@@ -1,5 +1,5 @@
 ---
-title: Unit 4 - Introduction to Commerce for developers
+title: [!DNL Commerce] for developers - Code base
 description: Code base components, modularity, configuring flexibility, and Composer's role
 kt: 5694
 doc-type: video
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36196.jpeg
 activity: use
 ---
-# Unit 4: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Code base
+
+In this video:
 
 - Code base components
 - Modularity
@@ -31,4 +32,4 @@ In this unit:
 - [About component file structure](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
 - [Component development](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
 - [Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [Commerce module reference guide](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [[!DNL Commerce] module reference guide](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)

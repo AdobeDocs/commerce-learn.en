@@ -1,15 +1,15 @@
 ---
-title: Session 2 - Page Builder for developers
-description: Configure and setup Page Builder​. Understand the Page Builder workspace​. Understand and use content types - Layout, Elements, Media, and other content​. Add Catalog content with Page Builder
+title: Page Builder for developers - Configuration and content customization
+description: Configure and setup Page Builder​. Understand the Page Builder workspace​. Understand and use content types - Layout, Elements, Media, and other content​. Add Catalog content with Page Builder.
 topic: Commerce, Development
 kt: 5651
 doc-type: video
 activity: use
 ---
 
-# Session 2 - Page Builder for developers
+# Page Builder for developers - Configuration and content customization
 
-In this session:
+In this video:
 
 - Configure and setup Page Builder​
 - Understand the Page Builder workspace​

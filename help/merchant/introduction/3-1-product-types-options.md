@@ -1,6 +1,6 @@
 ---
-title: Unit 3.1 - Introduction to Commerce for business users
-description: Product types and the options for each product type
+title: [!DNL Commerce] for business users - Product types
+description: Learn about the [!DNL Commerce] product types and the options for each.
 topic: Commerce
 kt: 5767
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.1: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Product types
 
-In this unit:
+In this video:
 
 - Product types
 - Options for each product type
@@ -29,4 +29,4 @@ In this unit:
 
 ## Additional resources
 
-[Product types - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-types.html)
+[Product types - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-types.html)

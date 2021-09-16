@@ -1,6 +1,6 @@
 ---
-title: Unit 5.4 - Introduction to Commerce for developers 
-description: Create Admin pages, Admin page controller ACL (access control list), and unit testing
+title: [!DNL Commerce] for developers - Create an [!DNL Admin] page
+description: Learn how to create [!DNL Admin] pages, [!DNL Admin] page controller ACL (access control list), and do unit testing.
 kt: 5698
 doc-type: video
 topic: Development
@@ -9,13 +9,13 @@ level: Beginner
 thumbnail: 36200.jpeg
 activity: use
 ---
-# Unit 5.4: Introduction to Commerce for developers
+# [!DNL Commerce] for developers - Create an [!DNL Admin] page
 
-In this unit:
+In this video:
 
-- Create Admin pages
-- Admin page controller ACL (access control list)
-- Admin menu items
+- Create [!DNL Admin] pages
+- [!DNL Admin] page controller ACL (access control list)
+- [!DNL Admin] menu items
 - PHP unit test
 
 ## Video content
@@ -28,6 +28,6 @@ In this unit:
 
 ## Additional resources
 
-- [Creating an admin page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
+- [Creating an [!DNL Admin] page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
 - [Creating an Access Control List (ACL) rule](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html)
 - [Running Unit Tests](https://devdocs.magento.com/guides/v2.4/test/unit/unit_test_execution.html)

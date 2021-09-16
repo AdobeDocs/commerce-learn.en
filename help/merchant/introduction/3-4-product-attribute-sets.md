@@ -1,5 +1,5 @@
 ---
-title:  Unit 3.4 - Introduction to Commerce for business users
+title: [!DNL Commerce] for business users - Attribute sets
 description: Product attribute sets
 topic: Commerce
 kt: 5770
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.4: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Attribute sets
 
-In this unit:
+In this video:
 
 - Attribute sets
 
@@ -28,4 +28,4 @@ In this unit:
 
 ## Additional resources
 
-[Attribute sets - Commerce user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Attribute sets - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)

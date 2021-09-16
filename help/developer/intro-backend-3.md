@@ -1,5 +1,5 @@
 ---
-title: Unit 3 - Introduction to Commerce for developers 
+title: [!DNL Commerce] for developers - Post install
 description: Verify and configure your instance, set u-mask, install sample data, set proper running mode
 kt: 5693
 doc-type: video
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 ---
-# Unit 3: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Post install
+
+In this video:
 
 - Verify and configure your instance
 - Set u-mask

@@ -1,6 +1,6 @@
 ---
-title: Unit 1.7 - Introduction to Commerce for business users
-description: Locale settings, store information, secure and unsecure URLs, website title, logo, copyright information, communication email logos, store email addresses, currency options, and currency rates
+title: [!DNL Commerce] for business users - Store settings
+description: Learn about locale settings, store information, secure and unsecure URLs, website title, logo, copyright information, communication email logos, store email addresses, currency options, and currency rates.
 topic: Commerce
 kt: 5764
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.7: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Store settings
 
-In this unit:
+In this video:
 
 - Locale settings
 - Store information
@@ -36,4 +36,4 @@ In this unit:
 
 ## Additional resources
 
-[Store details - Commerce user guide](https://docs.magento.com/user-guide/stores/store-details.html)
+[Store details - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/store-details.html)

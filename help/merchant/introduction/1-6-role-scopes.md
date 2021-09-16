@@ -1,6 +1,6 @@
 ---
-title: Unit 1.6 - Introduction to Commerce for business users
-description: Role scopes (exclusive to Adobe Commerce).
+title: [!DNL Commerce] for business users - Role scopes and permissions
+description: Learn how to define role scopes (exclusive to Adobe Commerce) and the associated permissions by site or store.
 topic: Commerce
 kt: 5763
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.6: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Role scopes and permissions
 
-In this unit:
+In this video:
 
 - Role scopes (Adobe Commerce only)
 
@@ -28,5 +28,5 @@ In this unit:
 
 ## Additional resources
 
-[Adding users - Commerce user guide](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-[User roles - Commerce user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Adding users - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+[User roles - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)

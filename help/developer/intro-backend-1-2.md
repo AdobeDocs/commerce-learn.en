@@ -1,6 +1,6 @@
 ---
-title: Unit 1.2 - Introduction to Commerce for developers
-description: Learn about the typical development workflow.
+title: [!DNL Commerce] for developers - Development workflow
+description: Learn about the typical development workflow for Commerce.
 kt: 5691
 doc-type: video
 topic: Development
@@ -9,11 +9,12 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 ---
-# Unit 1.2: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Development workflow
 
-- Learn about the typical development workflow.
+In this video:
+
+- Typical development workflow
 
 ## Video content
 
@@ -21,4 +22,4 @@ In this unit:
 
 ## Additional resources
 
-[Commerce PHP developer guide](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP developer guide](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)

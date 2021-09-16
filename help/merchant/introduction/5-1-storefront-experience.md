@@ -1,6 +1,6 @@
 ---
-title: Unit 5.1 - Introduction to Commerce for business users
-description: Customer experience on the storefront, including account creation, wish lists, and adding wish list items to the cart
+title: [!DNL Commerce] for business users - Storefront
+description: Learn about the customer experience on the storefront, including account creation, wish lists, and adding wish list items to the cart
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 5.1: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Storefront
 
-In this unit:
+In this video:
 
 - Customer experience on the storefront
 - Account creation
@@ -31,5 +31,5 @@ In this unit:
 
 ## Additional resources
 
-[Customer accounts - Commerce user guide](https://docs.magento.com/user-guide/customers/customer-account.html)
-[My Wish List - Commerce user guide](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
+[Customer accounts - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/customer-account.html)
+[My Wish List - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)

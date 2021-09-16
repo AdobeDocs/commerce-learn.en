@@ -1,6 +1,6 @@
 ---
-title: Unit 1.1 - Introduction to Commerce for business users
-description: Overview of functional menus in the Commerce v2.3 Admin
+title: [!DNL Commerce] for business users - [!DNL Admin] menus
+description: Overview of functional menus in the [!DNL Commerce] v2.3 [!DNL Admin].
 topic: Commerce
 kt: 5758
 doc-type: video
@@ -8,11 +8,11 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.1: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - [!DNL Admin] menus
 
-The Commerce Admin is the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your Commerce store to suit your business needs.
+The [!DNL Commerce Admin] is the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your [!DNL Commerce] store to suit your business needs.
 
-In this unit:
+In this video:
 
 - Review of the Admin menus
 
@@ -30,4 +30,4 @@ In this unit:
 
 ## Additional resources
 
-[Commerce user guide](https://docs.magento.com/)
+[[!DNL Commerce] user guide](https://docs.magento.com/)

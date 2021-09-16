@@ -5,17 +5,17 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
-+ [Commerce Videos and Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] Videos and Tutorials](overview.md) {#overview}
 
 + Getting started {#getting-started}
-  + Commerce on cloud infrastructure {#cloud}
+  + [!DNL Commerce] on cloud infrastructure {#cloud}
     + [1 - Overview](./cloud/intro-1.md)
     + [2 - Hosted accounts](./cloud/intro-2.md)
     + [3 - Cloud projects](./cloud/intro-3.md)
     + [4 - Deployment](./cloud/intro-4.md)
     + [5 - Development](./cloud/intro-5.md)
     + [6 - Services and DNS](./cloud/intro-6.md)
-  + Commerce for developers {#development}
+  + [!DNL Commerce] for developers {#development}
     + [1.1 - Overview](./developer/intro-backend-1-1.md)
     + [1.2 - Development workflow](./developer/intro-backend-1-2.md)
     + [2 - Installation](./developer/intro-backend-2.md)
@@ -24,10 +24,10 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [5.1 - Development basics](./developer/intro-backend-5-1.md)
     + [5.2 - Declarative schema](./developer/intro-backend-5-2.md)
     + [5.3 - Routing](./developer/intro-backend-5-3.md)
-    + [5.4 - Create an Admin page](./developer/intro-backend-5-4.md)
+    + [5.4 - Create an [!DNL Admin] page](./developer/intro-backend-5-4.md)
     + [6 - Exercises](./developer/intro-backend-6.md)
-  + Commerce for business users {#merchants}
-    + [1.1 - Admin menus](./merchant/introduction/1-1-menus.md)
+  + [!DNL Commerce] for business users {#merchants}
+    + [1.1 - [!DNL Admin] menus](./merchant/introduction/1-1-menus.md)
     + [1.2 - Data grids](./merchant/introduction/1-2-data-grids.md)
     + [1.3 - Scopes, sites, and stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
     + [1.4 - Store views and caches](./merchant/introduction/1-4-store-views-cache.md)

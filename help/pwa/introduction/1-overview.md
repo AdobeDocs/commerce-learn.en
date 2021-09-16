@@ -1,5 +1,5 @@
 ---
-title: Unit 1 - PWA Studio for developers
+title: PWA Studio for developers - Introduction
 description: What is a Progressive Web Application (PWA), and why PWA Studio is the future​.
 topic: Development
 kt: 5644
@@ -7,9 +7,9 @@ doc-type: video
 activity: use
 ---
 
-# Unit 1: PWA Studio for developers
+# PWA Studio - Introduction
 
-In this unit:
+In this video:
 
 - What is PWA (Progressive Web Application)?
 - Why is PWA the future for ecommerce?

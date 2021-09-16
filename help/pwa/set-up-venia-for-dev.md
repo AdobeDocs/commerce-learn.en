@@ -1,13 +1,13 @@
 ---
-title: Set up Venia for development
-description: Setting up Venia for development
+title: Set up Venia for PWA development
+description: Learn how to set up the Venia storefront for your PWA development project.
 topic: Development
 kt: 5564
 doc-type: video
 activity: use
 ---
 
-# Set up Venia for development
+# Set up Venia for PWA development
 
 ## Who is this video for?
 

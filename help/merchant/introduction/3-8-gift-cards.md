@@ -1,6 +1,6 @@
 ---
-title: Unit 3.8 - Introduction to Commerce for business users
-description: Gift Cards in your Commerce store
+title: [!DNL Commerce] for business users - Gift cards
+description: Learn how to include gift cards in your [!DNL Commerce] store.
 topic: Commerce
 kt: 5774
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.8: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Gift cards
 
-In this unit:
+In this video:
 
 - Gift cards
 
@@ -28,4 +28,4 @@ In this unit:
 
 ## Additional resources
 
-[Gift cards - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-gift-card.html)
+[Gift cards - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-gift-card.html)

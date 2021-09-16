@@ -1,6 +1,6 @@
 ---
-title: Unit 3.3 - Introduction to Commerce for business users
-description: Custom and system attributes for products
+title: [!DNL Commerce] for business users - Attributes
+description: Learn about custom and system attributes for products.
 topic: Commerce
 kt: 5769
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.3: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Attributes
 
-In this unit:
+In this video:
 
 - System attributes
 - Custom attributes
@@ -29,4 +29,4 @@ In this unit:
 
 ## Additional resources
 
-[Product attributes - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[Product attributes - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)

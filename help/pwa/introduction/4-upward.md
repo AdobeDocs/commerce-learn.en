@@ -1,15 +1,15 @@
 ---
-title: Unit 4 - PWA Studio for developers
-description: UPWARD overview
+title: PWA Studio for developers - UPWARD
+description: Learn about UPWARD (Unified Progressive Web App Response Definition).
 topic: Development
 kt: 5647
 doc-type: video
 activity: use
 ---
 
-# Unit 4: PWA Studio for developers
+# PWA Studio for developers - UPWARD
 
-In this unit:
+In this video:
 
 - UPWARD (Unified Progressive Web App Response Definition) overview
 

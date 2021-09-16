@@ -1,6 +1,6 @@
 ---
-title: Unit 5.3 - Introduction to Commerce for business users
-description: Communicate with your customers via transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
+title: [!DNL Commerce] for business users - Email communications
+description: Learn how to set up communications with your customers via transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
 topic: Commerce
 kt: 5780
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 5.3: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Email communications
 
-In this unit:
+In this video:
 
 - Triggered transactional emails
 - Transactional email templates
@@ -29,5 +29,5 @@ In this unit:
 
 ## Additional resources
 
-[Email - Commerce user guide](https://docs.magento.com/user-guide/marketing/email-templates.html)
-[Using variables - Commerce user guide](https://docs.magento.com/user-guide/marketing/variables.html)
+[Email - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/email-templates.html)
+[Using variables - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/variables.html)

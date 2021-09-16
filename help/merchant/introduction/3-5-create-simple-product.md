@@ -1,6 +1,6 @@
 ---
-title: Unit 3.5 - Introduction to Commerce for business users
-description: Creating a simple product using product attribute sets
+title: [!DNL Commerce] for business users - Simple products
+description: Learn how to create a simple product using product attribute sets.
 topic: Commerce
 kt: 5771
 doc-type: video
@@ -8,12 +8,11 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.5: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Simple products
 
-In this unit:
+In this video:
 
 - Creating a simple product using product attribute sets
-
 
 ## Who is this video for?
 
@@ -29,5 +28,5 @@ In this unit:
 
 ## Additional resources
 
-[Simple product - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-create-simple.html)
-[Attribute sets - Commerce user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Simple product - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create-simple.html)
+[Attribute sets - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)

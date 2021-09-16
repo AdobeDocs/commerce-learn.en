@@ -1,6 +1,6 @@
 ---
 title: PWA Docker Development
-description: PWA Docker Development
+description: Learn about PWA development on Docker.
 topic: Development
 kt: 5564
 doc-type: video

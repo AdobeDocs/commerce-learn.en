@@ -1,6 +1,6 @@
 ---
-title: Unit 1.3 - Introduction to Commerce for business users
-description: The basics of the Commerce architecture, including the differences between websites, stores, store views, application scopes, and overview indexing and caching.
+title: [!DNL Commerce] for business users - Sites, stores, and views
+description: Learn the basics of the [!DNL Commerce] architecture, including the differences between websites, stores, store views, and application scopes. Understand indexing and caching.
 topic: Commerce
 kt: 5760
 doc-type: video
@@ -8,13 +8,13 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.3: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Sites, stores, and views
 
-In this unit:
+In this video:
 
-- Basics of the Commerce architecture, including the differences between websites, stores, and store views
+- Basics of the [!DNL Commerce] architecture, including the differences between websites, stores, and store views
 - Concept of application scopes
-- Overview of what indexing and caching, and how Commerce handles them
+- Overview of what indexing and caching, and how [!DNL Commerce] handles them
 
 ## Who is this video for?
 
@@ -30,5 +30,5 @@ In this unit:
 
 ## Additional resources
 
-[Websites, stores, and views - Commerce user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-[Scope - Commerce user guide](https://docs.magento.com/user-guide/configuration/scope.html)
+[Websites, stores, and views - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+[Scope - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/configuration/scope.html)

@@ -1,6 +1,6 @@
 ---
-title: Unit 5.2 - Introduction to Commerce for developers
-description: Declarative schema overview
+title: [!DNL Commerce] for developers - Declarative schema
+description: Learn about the Declarative schema.
 kt: 5669
 doc-type: video
 topic: Development
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36198.jpeg
 activity: use
 ---
-# Unit 5.2: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Declarative schema
+
+In this video:
 
 - Declarative schema overview
 

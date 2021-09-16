@@ -1,15 +1,15 @@
 ---
-title: Session 5 - Page Builder for developers
-description: Customize the Page Builder theme
+title: Page Builder for developers - Theme customization
+description: Learn how to customize the Page Builder theme.
 topic: Commerce, Development
 kt: 5654
 doc-type: video
 activity: use
 ---
 
-# Session 5 - Page Builder for developers
+# Page Builder for developers - Theme customization
 
-In this session:
+In this video:
 
 - Customize the Page Builder theme
 
