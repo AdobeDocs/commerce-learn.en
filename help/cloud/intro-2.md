@@ -1,5 +1,5 @@
 ---
-title: Unit 2 - Getting started with Adobe Commerce on cloud infrastructure
+title: Adobe Commerce on cloud infrastructure - Hosting and accounts
 description: Learn about existing hosting solutions for Adobe Commerce​. Understand differences between Starter and Pro accounts​.
 kt: 5657
 doc-type: video
@@ -7,9 +7,9 @@ audience: all
 activity: use
 ---
 
-# Unit 2: Getting started with Adobe Commerce on cloud infrastructure
+# Adobe Commerce on cloud infrastructure - Hosting and accounts
 
-In this unit:
+In this video:
 
 - Learn about existing cloud hosting solutions​ for Adobe Commerce
 - Understand differences between Starter and Pro accounts​
@@ -18,4 +18,4 @@ In this unit:
 
 ## Additional resources
 
-[Cloud architecture for Commerce](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)
+[Cloud architecture for [!DNL Commerce]](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)

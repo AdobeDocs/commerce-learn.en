@@ -1,15 +1,15 @@
 ---
-title: Unit 5 - Getting started with Adobe Commerce on cloud infrastructure
-description: Learn about development configurations. 
+title: Adobe Commerce on cloud infrastructure - Development configurations
+description: Learn about development configurations for cloud projects. 
 kt: 5660
 doc-type: video
 audience: all
 activity: use
 ---
 
-# Unit 5: Getting started with Adobe Commerce on cloud infrastructure
+# Adobe Commerce on cloud infrastructure - Development configurations
 
-In this unit:
+In this video:
 
 - Learn about development configurations
 
@@ -17,4 +17,4 @@ In this unit:
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Cloud guide for [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
