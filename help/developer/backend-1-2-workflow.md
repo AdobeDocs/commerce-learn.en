@@ -18,6 +18,10 @@ In this video:
 
 ## Video content
 
+>[!IMPORTANT]
+>
+>The Commerce Marketplace no longer includes the **Download** button. You must use the command line to install or upgrade extensions. Refer to the [General CLI installation](https://devdocs.magento.com/extensions/install/) topic in the developer documentation for more information.
+
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
 ## Additional resources
