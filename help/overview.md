@@ -16,8 +16,8 @@ These basic resources include video series that provide a high-level view of top
 
 Basic entry-level video series for [!DNL Commerce] include:
 
-- [Adobe Commerce on cloud infrastructure](./cloud/intro-1.md) is a comprehensive overview of key technologies, project structure, deployment phases, and configurations for Adobe Commerce on cloud infrastructure.
-- [[!DNL Commerce] for developers](./developer/intro-backend-1-1.md) is an overview of the platform for backend developers.
+- [Adobe Commerce on cloud infrastructure](./cloud/1-overview.md) is a comprehensive overview of key technologies, project structure, deployment phases, and configurations for Adobe Commerce on cloud infrastructure.
+- [[!DNL Commerce] for developers](./developer/backend-1-1-overview.md) is an overview of the platform for backend developers.
 - [[!DNL Commerce] for business users](./merchant/introduction/1-1-menus.md) helps anyone get to know the [!DNL Admin] side of [!DNL Commerce].
 
 ## Additional developer series
