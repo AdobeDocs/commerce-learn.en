@@ -1,6 +1,6 @@
 ---
 title: [!DNL Commerce] for business users - Layered navigation
-description: Enabling layered navigation in your [!DNL Commerce] store so that customers can find products easily and quickly.
+description: Enable layered navigation in your [!DNL Commerce] store so that customers can find products easily and quickly.
 topic: Commerce
 kt: 5775
 doc-type: video

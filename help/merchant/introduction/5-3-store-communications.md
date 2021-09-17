@@ -1,6 +1,6 @@
 ---
 title: [!DNL Commerce] for business users - Email communications
-description: Learn how to set up communications with your customers via transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
+description: Communicate with your customers using transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
 topic: Commerce
 kt: 5780
 doc-type: video

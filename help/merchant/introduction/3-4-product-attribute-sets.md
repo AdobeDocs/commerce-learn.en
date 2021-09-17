@@ -1,6 +1,6 @@
 ---
 title: [!DNL Commerce] for business users - Attribute sets
-description: Product attribute sets
+description: Learn about product attribute sets and how to use them in your catalog.
 topic: Commerce
 kt: 5770
 doc-type: video
