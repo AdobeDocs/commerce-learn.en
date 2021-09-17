@@ -19,6 +19,15 @@ In this video:
 
 ## Video content
 
+>[!NOTE]
+>
+>This content reflects the Adobe Commerce and Magento Open Source 2.3.1 release.
+>
+>- PWA and [PWA Studio](http://pwastudio.io/) is now available as a _headless_ implementation of the frontend.
+>- The technology stack has changed in later versions of the 2.3.x release line and the 2.4.x release line. Check the [system requirements](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) to ensure you have the correct system components.
+>- Due to the impending shutdown of Temando, Magento Shipping is no longer available. For detailed status information and recommendations for new shipping implementations in Commerce, refer to the [product information page](https://magento.com/shipping).
+
+
 >[!VIDEO](https://video.tv.adobe.com/v/36191?quality=12&learn=on)
 
 ## Additional resources
