@@ -8,7 +8,7 @@ role: Admin, Leader, User
 activity: use
 ---
 
-[!DNL Commerce] for business users - Product categories
+# [!DNL Commerce] for business users - Product categories
 
 In this video:
 
@@ -24,4 +24,4 @@ In this video:
 
 ## Additional resources
 
-[Categories- [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories.html)
+[Categories - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories.html)
