@@ -24,6 +24,8 @@ In this video:
 >[!NOTE]
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>
+>The split database feature was deprecated in the 2.4.2 release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36195?quality=12&learn=on)
 
