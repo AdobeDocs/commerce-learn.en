@@ -18,6 +18,10 @@ In this video:
 
 ## Video content
 
+>[!IMPORTANT]
+>
+>The web setup wizard was deprecated in Adobe Commerce and Magento Open Source 2.3.6 and removed in 2.3.7 and 2.4.0. You must use the command line to install or upgrade your instance, as well as modules and extensions.
+
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 
 ## Additional resources
