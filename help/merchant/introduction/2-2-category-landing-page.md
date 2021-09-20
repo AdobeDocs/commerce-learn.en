@@ -1,6 +1,6 @@
 ---
-title: Unit 2.2 - Category landing pages
-description: Category landing page appearance
+title: [!DNL [!DNL Commerce]] for business users - Landing pages
+description: Learn how to set up category landing page and control the appearance.
 topic: Commerce
 kt: 5766
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 2.2: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Landing pages
 
-In this unit:
+In this video:
 
 - Landing pages for product categories
 - Page view options
@@ -18,7 +18,7 @@ In this unit:
 
 ## Who is this video for?
 
-- Business Users
+- Business users
 
 ## Video content
 
@@ -30,6 +30,6 @@ In this unit:
 
 ## Additional resources
 
-[Category content - Commerce user guide](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
-[Display settings - Commerce user guide](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
-[Design settings - Commerce user guide](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
+[Category content - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+[Display settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+[Design settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)

@@ -1,6 +1,6 @@
 ---
-title: Unit 3.7 - Introduction to Commerce for business users
-description: Importing and exporting products
+title: [!DNL Commerce] for business users - Import and export products
+description: Learn how to import and export your catalog products.
 topic: Commerce
 kt: 5773
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.7: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Import and export products
 
-In this unit:
+In this video:
 
 - Importing products
 - Exporting products
@@ -29,5 +29,5 @@ In this unit:
 
 ## Additional resources
 
-[Import - Commerce user guide](https://docs.magento.com/user-guide/system/data-import.html)
-[Export - Commerce user guide](https://docs.magento.com/user-guide/system/data-export.html)
+[Import - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/data-import.html)
+[Export - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/data-export.html)

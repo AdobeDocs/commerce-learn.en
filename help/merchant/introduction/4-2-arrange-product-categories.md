@@ -1,6 +1,6 @@
 ---
-title: Unit 4.2 - Introduction to Commerce for business users
-description: Positioning products within categories so that customers see the products at the top that you want them to see.
+title: [!DNL Commerce] for business users - Category positioning
+description: Position products within categories so that customers see the products at the top that you want them to see.
 topic: Commerce
 kt: 5776
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 4.2: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Category positioning
 
-In this unit:
+In this video:
 
 - Category product positioning
 
@@ -28,4 +28,4 @@ In this unit:
 
 ## Additional resources
 
-[Products in category - Commerce user guide](https://docs.magento.com/user-guide/catalog/categories-category-products.html)
+[Products in category - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-category-products.html)

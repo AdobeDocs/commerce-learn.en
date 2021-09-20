@@ -1,6 +1,6 @@
 ---
-title: Unit 1.5 - Introduction to Commerce for business users
-description: Basics about Admin user accounts, and user roles and permissions
+title: [!DNL Commerce] for business users - Users and roles
+description: Learn the basics about [!DNL Admin] user accounts and user roles that determine permissions.
 topic: Commerce
 kt: 5762
 doc-type: video
@@ -8,11 +8,11 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.5: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Users and roles
 
-In this unit:
+In this video:
 
-- Admin user accounts
+- [!DNL Admin] user accounts
 - User roles and permissions
 
 ## Who is this video for?
@@ -29,5 +29,5 @@ In this unit:
 
 ## Additional resources
 
-[Adding users - Commerce user guide](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-[User roles - Commerce user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Adding users - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+[User roles - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)

@@ -1,6 +1,6 @@
 ---
 title: Add a table to a database
-description: Commerce has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them.
+description: [!DNL Commerce] has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them.
 topic: Development
 kt: 5613
 doc-type: video
@@ -9,7 +9,7 @@ activity: use
 
 # Add a table to a database
 
-Commerce has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.
+[!DNL Commerce] has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.
 
 Rather than doing manual SQL operations repeatedly when reinstalling the system, developers create an install (or upgrade) script that contains the data. The script runs every time a module is installed.
 

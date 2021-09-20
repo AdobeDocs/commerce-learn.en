@@ -1,6 +1,6 @@
 ---
-title: Unit 3.2 - Introduction to Commerce for business users
-description: Create products, configure settings, and use attributes
+title: [!DNL Commerce] for business users - Product settings
+description: Learn how to create products, configure settings, and use attributes.
 topic: Commerce
 kt: 5768
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.2: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Product settings
 
-In this unit:
+In this video:
 
 - Create products
 - Complete product settings
@@ -30,6 +30,6 @@ In this unit:
 
 ## Additional resources
 
-[Creating products - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-create.html)
-[Product settings - Commerce user guide](https://docs.magento.com/user-guide/catalog/settings.html)
-[Product attributes - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[Creating products - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create.html)
+[Product settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/settings.html)
+[Product attributes - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)

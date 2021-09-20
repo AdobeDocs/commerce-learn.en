@@ -1,6 +1,6 @@
 ---
-title: Unit 3.6 - Introduction to Commerce for business users
-description: Configurable product attributes
+title: [!DNL Commerce] for business users - Configurable attributes
+description: Learn how to set up configurable product attributes.
 topic: Commerce
 kt: 5772
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 3.6: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Configurable attributes
 
-In this unit:
+In this video:
 
 - Configurable product attributes
 
@@ -28,5 +28,5 @@ In this unit:
 
 ## Additional resources
 
-[Configurable product - Commerce user guide](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
-[Attribute sets - Commerce user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Configurable product - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+[Attribute sets - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)

@@ -1,6 +1,6 @@
 ---
-title: Unit 5.2 - Introduction to Commerce for business users
-description: Recommended permissions for customer service, creating a customer in the Admin, managing customer information, and creating customer groups
+title: [!DNL Commerce] for business users - Customer management
+description: Learn about the recommended permissions for customer service, creating a customer in the [!DNL Admin], managing customer information, and creating customer groups.
 topic: Commerce
 kt: 5779
 doc-type: video
@@ -8,12 +8,12 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 5.2: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Customer management
 
-In this unit:
+In this video:
 
 - Recommended permissions for a CSR (Customer Service Representative)
-- Creating a customer in the Admin
+- Creating a customer in the [!DNL Admin]
 - Managing customer information
 - Creating customer groups
 
@@ -27,6 +27,6 @@ In this unit:
 
 ## Additional resources
 
-[User roles - Commerce user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
-[Creating an individual customer account - Commerce user guide](https://docs.magento.com/user-guide/customers/account-create.html)
-[Customer groups - Commerce user guide](https://docs.magento.com/user-guide/customers/customer-groups.html)
+[User roles - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Creating an individual customer account - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/account-create.html)
+[Customer groups - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/customer-groups.html)

@@ -9,7 +9,7 @@ activity: use
 
 # Create a module
 
-Module is a structural element of Commerce – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.
+Module is a structural element of [!DNL Commerce] – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.
 
 ## Who is this video for?
 

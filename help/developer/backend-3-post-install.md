@@ -1,5 +1,5 @@
 ---
-title: Unit 3 - Introduction to Commerce for developers 
+title: [!DNL Commerce] for developers - Post install
 description: Verify and configure your instance, set u-mask, install sample data, set proper running mode
 kt: 5693
 doc-type: video
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 ---
-# Unit 3: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Post install
+
+In this video:
 
 - Verify and configure your instance
 - Set u-mask
@@ -23,6 +24,8 @@ In this unit:
 >[!NOTE]
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>
+>The split database feature was deprecated in the 2.4.2 release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36195?quality=12&learn=on)
 

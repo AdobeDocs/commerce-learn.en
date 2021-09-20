@@ -1,5 +1,5 @@
 ---
-title: Unit 1 - Getting started with Adobe Commerce on cloud infrastructure
+title: Adobe Commerce on cloud infrastructure - Overview
 description: Identify the key technologies within the cloud stack​. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only file system.
 kt: 5656
 doc-type: video
@@ -7,9 +7,9 @@ audience: all
 activity: use
 ---
 
-# Unit 1: Getting started with Adobe Commerce on cloud infrastructure
+# Adobe Commerce on cloud infrastructure - Overview
 
-In this unit:
+In this video:
 
 - Identify the key technologies within the cloud stack​
 - Describe the content delivery strategy for Adobe Commerce on cloud infrastructure
@@ -19,4 +19,4 @@ In this unit:
 
 ## Additional resources
 
-[Cloud guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Cloud guide for [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)

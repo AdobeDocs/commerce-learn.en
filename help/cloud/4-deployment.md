@@ -1,5 +1,5 @@
 ---
-title: Unit 4 - Getting started with Adobe Commerce on cloud infrastructure
+title: Adobe Commerce on cloud infrastructure - Deployment
 description: Learn about deployment phases and scripts. Understand how the deployment process works from the infrastructure side​.
 kt: 5659
 doc-type: video
@@ -7,9 +7,9 @@ audience: all
 activity: use
 ---
 
-# Unit 4: Getting started with Adobe Commerce on cloud infrastructure
+# Adobe Commerce on cloud infrastructure - Deployment
 
-In this unit:
+In this video:
 
 - Learn about deployment phases and scripts
 - Understand how the deployment process works from the infrastructure side​

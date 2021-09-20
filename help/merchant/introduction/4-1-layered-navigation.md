@@ -1,6 +1,6 @@
 ---
-title: Unit 4.1 - Introduction to Commerce for business users
-description: Enabling layered navigation in your Commerce store so that customers can find products easily and quickly.
+title: [!DNL Commerce] for business users - Layered navigation
+description: Enable layered navigation in your [!DNL Commerce] store so that customers can find products easily and quickly.
 topic: Commerce
 kt: 5775
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 4.1: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Layered navigation
 
-In this unit:
+In this video:
 
 - Enable layered navigation
 
@@ -28,4 +28,4 @@ In this unit:
 
 ## Additional resources
 
-[Layered navigation - Commerce user guide](https://docs.magento.com/user-guide/catalog/navigation-layered.html)
+[Layered navigation - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/navigation-layered.html)

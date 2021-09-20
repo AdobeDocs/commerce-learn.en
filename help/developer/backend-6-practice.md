@@ -1,6 +1,6 @@
 ---
-title: Unit 6 - Introduction to Commerce for developers
-description: Five exercises to practice Commerce development tasks
+title: [!DNL Commerce] for developers - Exercises
+description: Practice [!DNL Commerce] development tasks with five useful exercises.
 kt: 5699
 doc-type: video
 topic: Development
@@ -9,16 +9,17 @@ level: Beginner
 thumbnail: 36201.jpeg
 activity: use
 ---
-# Unit 6: Introduction to Commerce for developers
 
-In this unit, there are five exercises to practice Commerce development tasks:
+# [!DNL Commerce] for developers - Exercises
 
-- Commerce CLI
+In this video, there are five exercises to practice [!DNL Commerce] development tasks:
+
+- [!DNL Commerce] CLI
 - PHP Composer
 - Updating your instance
 - Fixing a broken module
 - Writing and run PHPUnit tests
-- Creating an Admin page
+- Creating an [!DNL Admin] page
 
 [Exercise file download](./assets/FreeIntro2.3.1.zip)
 

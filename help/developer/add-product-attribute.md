@@ -9,7 +9,7 @@ activity: use
 
 # Create a product attribute
 
-Adding a product attribute is one of the most popular operations in Commerce. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
+Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
 
 In this video:
 

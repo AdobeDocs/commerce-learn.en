@@ -1,6 +1,6 @@
 ---
-title: Unit 1.2 - Introduction to Commerce for business users
-description: Working with data grids in the Commerce Admin
+title: [!DNL Commerce] for business users - Data grids
+description: Learn how to work with data grids in the [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
@@ -8,11 +8,11 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.2: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Data grids
 
-In this unit:
+In this video:
 
-- Working with data grids in the Commerce Admin
+- Working with data grids in the [!DNL Commerce Admin]
 
 ## Who is this video for?
 
@@ -28,4 +28,4 @@ In this unit:
 
 ## Additional resources
 
-[Grid Controls - Commerce user guide](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)
+[Grid Controls - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)

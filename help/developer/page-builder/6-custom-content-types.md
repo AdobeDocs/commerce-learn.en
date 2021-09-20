@@ -1,15 +1,15 @@
 ---
-title: Session 6 - Page Builder for developers
-description: Customizing and creating content types. Understand the steps involved in creating a content type​. Understand the steps involved in extending an existing content type
+title: Page Builder for developers - Custom content types
+description: Learn how to customize and create content types. Understand the steps involved in creating a content type​. Understand the steps involved in extending an existing content type.
 topic: Commerce, Development
 kt: 5655
 doc-type: video
 activity: use
 ---
 
-# Session 6 - Page Builder for developers
+# Page Builder for developers - Custom content types
 
-In this session:
+In this video:
 
 - Customize and create additional content types
 - Understand the steps involved in creating a content type​

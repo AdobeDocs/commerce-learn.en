@@ -1,5 +1,5 @@
 ---
-title: Unit 3 - Getting started with Adobe Commerce on cloud infrastructure
+title: Adobe Commerce on cloud infrastructure - Projects and files
 description: Learn about project structure and yaml files. Understand the file structure of the Cloud project and all necessary repositories.
 kt: 5658
 doc-type: video
@@ -7,9 +7,9 @@ audience: all
 activity: use
 ---
 
-# Unit 3: Getting started with Adobe Commerce on cloud infrastructure
+# Adobe Commerce on cloud infrastructure - Projects and files
 
-In this unit:
+In this video:
 
 - Understand the file structure of the cloud project and the related code repositories
 - Learn about the four main configuration files

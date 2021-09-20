@@ -1,6 +1,6 @@
 ---
-title: Unit 1.4 - Introduction to Commerce for business users
-description: Creating store views and clearing the cache
+title: [!DNL Commerce] for business users - Store views and cache clearing
+description: Learn how to create store views and clear the cache.
 topic: Commerce
 kt: 5761
 doc-type: video
@@ -8,9 +8,9 @@ role: Admin, Leader, User
 activity: use
 ---
 
-# Unit 1.4: Introduction to Commerce for business users
+# [!DNL Commerce] for business users - Store views and cache clearing
 
-In this unit:
+In this video:
 
 - Creating store views
 - Clearing the cache
@@ -25,5 +25,5 @@ In this unit:
 
 ## Additional resources
 
-[Websites, stores, and views - Commerce user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-[Cache management - Commerce user guide](https://docs.magento.com/user-guide/system/cache-management.html)
+[Websites, stores, and views - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+[Cache management - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/cache-management.html)

@@ -1,6 +1,6 @@
 ---
-title: Unit 5.3 - Introduction to Commerce for developers
-description: Routing, creating a simple frontend controller, result objects, action class.
+title: [!DNL Commerce] for developers - Routing
+description: Learn about routing, creating a simple frontend controller, result objects, action class.
 kt: 5697
 doc-type: video
 topic: Development
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36199.jpeg
 activity: use
 ---
-# Unit 5.3: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Routing
+
+In this video:
 
 - Routing
 - Creating a simple frontend controller

@@ -1,5 +1,5 @@
 ---
-title: Session 1 - Page Builder for developers
+title: Page Builder for developers - Introduction
 description: Page Builder introduction, understand Page Builder capabilities
 topic: Commerce, Development
 kt: 5650
@@ -7,9 +7,9 @@ doc-type: video
 activity: use
 ---
 
-# Session 1 - Page Builder for developers
+# Page Builder for developers - Introduction
 
-In this session:
+In this video:
 
 - Page Builder introduction
 - Understand Page Builder capabilities

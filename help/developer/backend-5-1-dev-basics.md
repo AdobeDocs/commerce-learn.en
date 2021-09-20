@@ -1,6 +1,6 @@
 ---
-title: Unit 5.1 - Introduction to Commerce for developers
-description: Development basics, including creating a module, configuring your store, DI operations, and a front controller example
+title: [!DNL Commerce] for developers - Development basics
+description: Learn about development basics, including creating a module, configuring your store, DI operations, and a front controller example.
 kt: 5695
 doc-type: video
 topic: Development
@@ -9,9 +9,10 @@ level: Beginner
 thumbnail: 36197.jpeg
 activity: use
 ---
-# Unit 5.1: Introduction to Commerce for developers
 
-In this unit:
+# [!DNL Commerce] for developers - Development basics
+
+In this video:
 
 - Creating a module
 - Configuring your store

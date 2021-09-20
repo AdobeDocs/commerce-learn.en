@@ -1,18 +1,18 @@
 ---
-title: Session 4 - Page Builder for developers
-description: Admin and Stage theming tasks. Create admin templates​. Apply styles to Content Types on the Stage (Live Preview)   
+title: Page Builder for developers - Templates and styles
+description: [!DNL Admin] and stage theming tasks. Create [!DNL Admin] templates​. Apply styles to content types on the stage (live preview). 
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
 ---
 
-# Session 4 - Page Builder for developers
+# Page Builder for developers - Templates and styles
 
-In this session:
+In this video:
 
-- Admin and stage theming tasks
-- Create Admin templates​
+- [!DNL Admin] and stage theming tasks
+- Create [!DNL Admin] templates​
 - Apply styles to content types on the stage (live preview) 
 
 ## Who is this video for?

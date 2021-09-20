@@ -1,15 +1,14 @@
 ---
-title: Session 3 - Page Builder for developers
-description: Overview of theming practices. Describe the theming conventions​. Explain where each part of the Page Builder theme is located ​
-topic: Commerce, Development
+title: Page Builder for developers - Themes
+description: Learn about theming practices and conventions​, including the location for each part of the Page Builder theme.
 kt: 5652
 doc-type: video
 activity: use
 ---
 
-# Session 3 - Page Builder for developers
+# Page Builder for developers - Themes
 
-In this session:
+In this video:
 
 - Overview of theming practices
 - Description of the theming conventions​
