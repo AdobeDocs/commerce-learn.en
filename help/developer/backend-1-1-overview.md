@@ -1,7 +1,7 @@
 ---
 title: [!DNL Commerce] for developers - Overview
 description: Learn the basics of the platform from the perspective of several audiences-- merchants, web store developers, and integrators.
-breadcrumb-description: Watch this video series to get started on the backend development for Adobe Commerce.
+breadcrumb-description: Watch this video series to get started on your backend development project for Commerce.
 doc-type: video
 topic: Development
 audience: developer
