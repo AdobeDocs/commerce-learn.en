@@ -1,6 +1,7 @@
 ---
 title: [!DNL Commerce] for business users - [!DNL Admin] menus
 description: Overview of functional menus in the [!DNL Commerce] v2.3 [!DNL Admin].
+landing-page-description: Watch this video series to get started with the basics of Adobe Commerce and working in the Admin.
 topic: Commerce
 kt: 5758
 doc-type: video
