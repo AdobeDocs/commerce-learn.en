@@ -26,11 +26,11 @@ Basic entry-level video series for [!DNL Commerce] include:
 
 - [Page Builder overview for developers (video series)](./developer/page-builder/1-intro-case-studies.md) Learn about how Page Builder works, and ways to customize Page Builder for advanced content design and management.
 
-<!---
+<!--
 - **[Security planning for [!DNL Commerce] (video series)](./security/summit-security/1-summit-security.md)**
     <br>
     *How the e-commerce threat landscape is changing. The importance of security for the customer running an e-commerce application and specific processes and practices for securing Magento*
---->
+-->
 
 ## Additional resources
 
