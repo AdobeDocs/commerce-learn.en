@@ -5,8 +5,8 @@ topic: Development
 kt: 5564
 doc-type: video
 activity: use
+exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
 ---
-
 # Set up Venia for PWA development
 
 ## Who is this video for?

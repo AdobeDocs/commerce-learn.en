@@ -6,8 +6,8 @@ kt: 5759
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
 ---
-
 # [!DNL Commerce] for business users - Data grids
 
 In this video:

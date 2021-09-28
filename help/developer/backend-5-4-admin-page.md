@@ -8,6 +8,7 @@ audience: developer
 level: Beginner
 thumbnail: 36200.jpeg
 activity: use
+exl-id: e0b8061f-3896-4996-9b2e-f4171b6b1aab
 ---
 # [!DNL Commerce] for developers - Create an [!DNL Admin] page
 

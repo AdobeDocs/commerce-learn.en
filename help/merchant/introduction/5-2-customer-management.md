@@ -6,8 +6,8 @@ kt: 5779
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 ---
-
 # [!DNL Commerce] for business users - Customer management
 
 In this video:

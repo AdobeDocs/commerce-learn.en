@@ -6,8 +6,8 @@ kt: 5766
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 ---
-
 # [!DNL Commerce] for business users - Landing pages
 
 In this video:

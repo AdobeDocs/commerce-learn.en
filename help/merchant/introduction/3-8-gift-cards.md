@@ -6,8 +6,8 @@ kt: 5774
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 ---
-
 # [!DNL Commerce] for business users - Gift cards
 
 In this video:

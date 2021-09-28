@@ -5,8 +5,8 @@ topic: Development
 kt: 5602
 doc-type: video
 activity: use
+exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 ---
-
 # Create a module
 
 Module is a structural element of [!DNL Commerce] – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.

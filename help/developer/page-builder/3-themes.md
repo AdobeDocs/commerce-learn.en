@@ -4,8 +4,8 @@ description: Learn about theming practices and conventions​, including the loc
 kt: 5652
 doc-type: video
 activity: use
+exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
 ---
-
 # Page Builder for developers - Themes
 
 In this video:

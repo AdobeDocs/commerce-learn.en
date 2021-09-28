@@ -5,8 +5,8 @@ topic: Development
 kt: 5647
 doc-type: video
 activity: use
+exl-id: 5c2c332a-62b0-4292-9a2d-760db0be882f
 ---
-
 # PWA Studio for developers - UPWARD
 
 In this video:

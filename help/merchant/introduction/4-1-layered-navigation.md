@@ -6,8 +6,8 @@ kt: 5775
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 ---
-
 # [!DNL Commerce] for business users - Layered navigation
 
 In this video:

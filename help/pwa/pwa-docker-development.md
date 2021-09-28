@@ -5,8 +5,8 @@ topic: Development
 kt: 5564
 doc-type: video
 activity: use
+exl-id: df79e9d8-5047-4063-b37d-184fcf0c0ac4
 ---
-
 # PWA Docker development
 
 ## Who is this video for?

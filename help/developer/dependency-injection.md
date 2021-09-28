@@ -5,8 +5,8 @@ kt: 5621
 doc-type: video
 topic: Development
 activity: use
+exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 ---
-
 # Dependency injection example
 
 Dependency injection is a design pattern that allows an object A to declare its dependencies to an external object B that supplies those dependencies. The dependencies declared by A are usually class interfaces and the dependencies B provides are concrete implementations for those interfaces.

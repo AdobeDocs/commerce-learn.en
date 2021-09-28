@@ -5,8 +5,8 @@ topic: Development
 kt: 5648
 doc-type: video
 activity: use
+exl-id: 92d3dae7-1b3d-4c07-985f-f0c5cafda1a5
 ---
-
 # PWA Studio for developers - Project setup
 
 In this video:

@@ -5,8 +5,8 @@ topic: Commerce, Development
 kt: 5651
 doc-type: video
 activity: use
+exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
 ---
-
 # Page Builder for developers - Configuration and content customization
 
 In this video:

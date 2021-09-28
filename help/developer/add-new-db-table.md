@@ -5,8 +5,8 @@ topic: Development
 kt: 5613
 doc-type: video
 activity: use
+exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
 ---
-
 # Add a table to a database
 
 [!DNL Commerce] has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.

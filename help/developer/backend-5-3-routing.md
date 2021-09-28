@@ -8,8 +8,8 @@ audience: developer
 level: Beginner
 thumbnail: 36199.jpeg
 activity: use
+exl-id: b94f5c1e-deec-4419-975b-518796cdf371
 ---
-
 # [!DNL Commerce] for developers - Routing
 
 In this video:

@@ -6,8 +6,8 @@ kt: 5776
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
 ---
-
 # [!DNL Commerce] for business users - Category positioning
 
 In this video:

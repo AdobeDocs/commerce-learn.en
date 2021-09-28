@@ -5,8 +5,8 @@ topic: Development
 kt: 5602
 doc-type: video
 activity: use
+exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 ---
-
 # Create a New Page
 
 Create a page that returns json with one parameter. 

@@ -5,8 +5,8 @@ kt: 5659
 doc-type: video
 audience: all
 activity: use
+exl-id: 548b87ff-1fd8-4486-b28a-40f28f3ababd
 ---
-
 # Adobe Commerce on cloud infrastructure - Deployment
 
 In this video:

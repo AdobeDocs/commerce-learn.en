@@ -1,12 +1,12 @@
 ---
 title: Page Builder for developers - Templates and styles
-description: [!DNL Admin] and stage theming tasks. Create [!DNL Admin] templates​. Apply styles to content types on the stage (live preview). 
+description: [!DNL Admin] and stage theming tasks. Create [!DNL Admin] templates​. Apply styles to content types on the stage (live preview).
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
+exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
 ---
-
 # Page Builder for developers - Templates and styles
 
 In this video:

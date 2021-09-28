@@ -6,8 +6,8 @@ kt: 5770
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
 ---
-
 # [!DNL Commerce] for business users - Attribute sets
 
 In this video:

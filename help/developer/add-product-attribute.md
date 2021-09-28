@@ -5,8 +5,8 @@ topic: Development
 kt: 5602
 doc-type: video
 activity: use
+exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 ---
-
 # Create a product attribute
 
 Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.

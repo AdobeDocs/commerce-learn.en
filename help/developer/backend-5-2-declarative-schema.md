@@ -8,8 +8,8 @@ audience: developer
 level: Beginner
 thumbnail: 36198.jpeg
 activity: use
+exl-id: 18e9269d-41df-4471-a3f5-9a2296d25362
 ---
-
 # [!DNL Commerce] for developers - Declarative schema
 
 In this video:

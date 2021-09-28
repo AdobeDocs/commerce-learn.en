@@ -8,8 +8,8 @@ audience: developer
 level: Beginner
 thumbnail: 36191.jpeg
 activity: use
+exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
 ---
-
 # [!DNL Commerce] for developers - Overview
 
 [!DNL Commerce] is a highly customizable e-commerce platform and content management system that is primarily used to build online storefronts or websites for selling merchandise.

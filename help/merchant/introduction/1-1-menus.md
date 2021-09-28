@@ -7,8 +7,8 @@ kt: 5758
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 ---
-
 # [!DNL Commerce] for business users - [!DNL Admin] menus
 
 The [!DNL Commerce Admin] is the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your [!DNL Commerce] store to suit your business needs.

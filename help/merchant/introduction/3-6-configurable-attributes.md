@@ -6,8 +6,8 @@ kt: 5772
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
 ---
-
 # [!DNL Commerce] for business users - Configurable attributes
 
 In this video:

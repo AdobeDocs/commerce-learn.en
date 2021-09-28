@@ -5,8 +5,8 @@ topic: Development
 kt: 5646
 doc-type: video
 activity: use
+exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
 ---
-
 # PWA Studio for developers - Launch and load
 
 In this video:

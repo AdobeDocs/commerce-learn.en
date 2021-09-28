@@ -6,8 +6,8 @@ kt: 5773
 doc-type: video
 role: Admin, Leader, User
 activity: use
+exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 ---
-
 # [!DNL Commerce] for business users - Import and export products
 
 In this video:

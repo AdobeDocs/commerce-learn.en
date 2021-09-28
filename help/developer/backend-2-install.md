@@ -8,8 +8,8 @@ audience: developer
 level: Beginner
 thumbnail: 36194.jpeg
 activity: use
+exl-id: 070fe7d2-77f9-40d9-86e8-f2c8dccb2548
 ---
-
 # [!DNL Commerce] for developers - Installation
 
 In this video:

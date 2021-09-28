@@ -5,8 +5,8 @@ topic: Development
 kt: 5645
 doc-type: video
 activity: use
+exl-id: 23851297-c638-412c-b070-ae616ad73883
 ---
-
 # PWA Studio for developers - PWA tools
 
 In this video:

@@ -8,8 +8,8 @@ audience: developer
 level: Beginner
 thumbnail: 36201.jpeg
 activity: use
+exl-id: 1fcf8b82-11a0-4567-a616-8a3728a88cb9
 ---
-
 # [!DNL Commerce] for developers - Exercises
 
 In this video, there are five exercises to practice [!DNL Commerce] development tasks:
