@@ -2,10 +2,10 @@
 user-guide-title: Videos and Tutorials
 user-guide-description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source.
 ---
-  
+
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Videos and Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] Videos and Tutorials](overview.md)
 
 + Getting started {#getting-started}
   + [!DNL Commerce] on cloud infrastructure {#cloud}
@@ -68,7 +68,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Create a page](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-  + Introduction to PWA Studio {#introduction}s
+  + Introduction to PWA Studio {#introduction}
     + [1 - Overview](./pwa/introduction/1-overview.md)
     + [2 - PWA Studio tools](./pwa/introduction/2-pwa-studio-tools.md)
     + [3 - Launch](pwa/introduction/3-launch.md)
