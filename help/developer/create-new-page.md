@@ -26,7 +26,7 @@ Create a page that returns json with one parameter.
 - Create the module folder
 - Create the `etc/module.xml` file
 - Create the `registration.php` file
-- Run the `bin/magento setup:upgrade`script to install the new module
+- Run the `bin/magento setup:upgrade` script to install the new module
 - Check that the module is working
 
 ## Video content
