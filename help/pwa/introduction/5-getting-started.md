@@ -1,6 +1,6 @@
 ---
 title: PWA Studio for developers - Project setup
-description: Get started with a new PWA Studio project, including generating a local SSL certificate​, and the build pack CLI commands.
+description: Get started with a new PWA Studio project, including generating a local SSL certificate, and the build pack CLI commands.
 topic: Development
 kt: 5648
 doc-type: video
@@ -12,8 +12,8 @@ exl-id: 92d3dae7-1b3d-4c07-985f-f0c5cafda1a5
 In this video:
 
 - Getting started with PWA Studio
-- Initial project setup​
-- Generate local SSL certificate​
+- Initial project setup
+- Generate local SSL certificate
 - Build pack CLI commands
 
 ## Who is this video for?
