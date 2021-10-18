@@ -29,4 +29,5 @@ In this video:
 ## Additional resources
 
 [Configurable product - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+
 [Attribute sets - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)
