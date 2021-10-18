@@ -29,4 +29,5 @@ In this video:
 ## Additional resources
 
 [Adding users - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+
 [User roles - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
