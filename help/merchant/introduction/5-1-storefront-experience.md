@@ -32,4 +32,5 @@ In this video:
 ## Additional resources
 
 [Customer accounts - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/customer-account.html)
+
 [My Wish List - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
