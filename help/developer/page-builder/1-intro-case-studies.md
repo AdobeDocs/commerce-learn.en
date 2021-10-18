@@ -30,4 +30,5 @@ In this video:
 ## Useful resources
 
 [Page Builder developer documentation](https://devdocs.magento.com/page-builder/docs/index.html)
+
 [Page Builder user documentation](https://docs.magento.com/user-guide/cms/page-builder.html)
