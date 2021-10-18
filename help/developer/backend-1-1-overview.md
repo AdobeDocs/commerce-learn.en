@@ -34,4 +34,5 @@ In this video:
 ## Additional resources
 
 [[!DNL Commerce] architecture guide](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+
 [[!DNL Commerce] PHP developer guide](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
