@@ -28,5 +28,7 @@ In this video:
 ## Additional resources
 
 [User roles - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+
 [Creating an individual customer account - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/account-create.html)
+
 [Customer groups - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/customer-groups.html)
