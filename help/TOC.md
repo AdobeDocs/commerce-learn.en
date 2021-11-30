@@ -49,6 +49,19 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [5.1 - Storefront experience](./merchant/introduction/5-1-storefront-experience.md)
     + [5.2 - Customer management](./merchant/introduction/5-2-customer-management.md)
     + [5.3 - Email communications](./merchant/introduction/5-3-store-communications.md)
+  + [!DNL Business Intelligence] for commerce {#bi}
+    + [1 - Overview](./merchant/business-intelligence/1-overview.md)
+    + [2 - Metrics](./merchant/business-intelligence/2-metrics.md)
+    + [3 - Build reports](./merchant/business-intelligence/3-build-reports.md)
+    + [4 - Share results and export data](./merchant/business-intelligence/4-share-results-export-data.md)
+    + [5 - Data warehousing](./merchant/business-intelligence/5-data-warehousing.md)
+    + [6 - Executive overview](./merchant/business-intelligence/6-executive-overview-dashboard.md)
+    + [7 - Standard reports](./merchant/business-intelligence/7-standard-reports.md)
+    + [8 - Category analysis](./merchant/business-intelligence/8-category-analysis.md)
+    + [9 - Orders dashboard](./merchant/business-intelligence/9-orders-dashboard.md)
+    + [10 - Customer-focused dashboards](./merchant/business-intelligence/10-customer-focused-dashboards.md)
+    + [11 - Return on investment tracking](./merchant/business-intelligence/11-roi-tracking.md)
+    + [12 - Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
 + Backend development {#backend-development}
   + [Add a new table to a database](./developer/add-new-db-table.md)
