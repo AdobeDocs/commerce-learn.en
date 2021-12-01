@@ -3,8 +3,7 @@ title: Business Intelligence - Overview
 description: Learn about the three core components within the Business Intelligence product that provide a complete business intelligence solution.
 kt: 5724
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -38,4 +37,5 @@ With these three core pieces of technology built into one solution, merchants ar
 
 ## Additional resources
 
---> add doc links
+- [Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
+- [MBI Pro demo](https://support.magento.com/hc/en-us/articles/360016729571)

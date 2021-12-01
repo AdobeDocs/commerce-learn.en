@@ -3,8 +3,7 @@ title: Business Intelligence - Share results and export data
 description: Learn about sharing your Business Intelligence results and exporting data for integration with other business tools.
 kt: 5728
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -28,4 +27,5 @@ Business Intelligence users can be granted read-only, standard, or admin permiss
 
 ## Additional resources
 
---> add doc links
+- [Exporting Chart Data](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
+- [Creating automated email summaries](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)

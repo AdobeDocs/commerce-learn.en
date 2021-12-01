@@ -3,8 +3,7 @@ title: Business Intelligence - Orders dashboard
 description: Learn about the Orders dashboard and reports that make it easy to manage orders and product sales.
 kt: 5735
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -31,4 +30,5 @@ summary to be sent automatically to your warehouse manager for followup.
 
 ## Additional resources
 
---> add doc links
+- [Orders dashboard](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#orders)
+- [Creating automated email summaries](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)

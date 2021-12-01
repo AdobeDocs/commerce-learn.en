@@ -3,8 +3,7 @@ title: Business Intelligence - Build reports
 description: Learn about the report building options available in Business Intelligence.
 kt: 5726
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -28,4 +27,5 @@ There are two options for building reports and analysis in Business Intelligence
 
 ## Additional resources
 
---> add doc links
+- [Which Report Builder should I use?](https://docs.magento.com/mbi/data-user/reports/report-builder-options.html)
+- [Visual Report Builder](https://docs.magento.com/mbi/data-user/reports/ess-rpt-build-visual.html)

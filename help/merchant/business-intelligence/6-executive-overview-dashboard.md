@@ -3,17 +3,14 @@ title: Business Intelligence - Executive overview dashboard
 description: See a demonstration of the Executive Overview dashboard provided by Business Intelligence.
 kt: 5731
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
 
 # Business Intelligence - Executive overview dashboard
 
-The Executive Overview dashboard provides high-level insights into revenue, orders, and average order values. The reports are
-broken out as static values, and over time. You can share this dashboard with other members of your team, giving them edit access
-to collaborate with you, or view-only access.
+The Executive Overview dashboard provides high-level insights into revenue, orders, and average order values. The reports are broken out as static values, and over time. You can share this dashboard with other members of your team, giving them edit access to collaborate with you, or view-only access.
 
 ## Who is this video for?
 
@@ -30,4 +27,5 @@ to collaborate with you, or view-only access.
 
 ## Additional resources
 
---> add doc links
+- [Executive Summary](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
+- [Sharing dashboards with other users](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)

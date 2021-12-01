@@ -3,8 +3,7 @@ title: Business Intelligence - Standard reports
 description: Learn about the standard Business Intelligence reports, available out-of-the-box.
 kt: 5733
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -28,4 +27,5 @@ The default, out-of-the-box Business Intelligence reports cover ecommerce KPI re
 
 ## Additional resources
 
---> add doc links
+- [Out-of-the-Box Dashboards](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html)
+- [Using Dashboard Groups](https://docs.magento.com/mbi/data-user/dashboards/using-dashboard-groups.html)

@@ -3,8 +3,7 @@ title: Business Intelligence - Data warehousing
 description: Learn about the Data Warehouse Manager, which is available to admin users in Business Intelligence.
 kt: 5729
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -30,4 +29,5 @@ Using the Data Warehouse Manager, users with admin-level access can manage table
 
 ## Additional resources
 
---> add doc links
+- [A tour of the Data Warehouse Manager](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/tour-dwm.html)
+- [Connect Your Data](https://docs.magento.com/mbi/data-analyst/importing-data/connecting-data/connecting-data.html)

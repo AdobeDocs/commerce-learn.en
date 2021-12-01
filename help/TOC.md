@@ -49,7 +49,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [5.1 - Storefront experience](./merchant/introduction/5-1-storefront-experience.md)
     + [5.2 - Customer management](./merchant/introduction/5-2-customer-management.md)
     + [5.3 - Email communications](./merchant/introduction/5-3-store-communications.md)
-  + [!DNL Business Intelligence] for commerce {#bi}
+  + [!DNL Business Intelligence] {#business-intelligence}
     + [1 - Overview](./merchant/business-intelligence/1-overview.md)
     + [2 - Metrics](./merchant/business-intelligence/2-metrics.md)
     + [3 - Build reports](./merchant/business-intelligence/3-build-reports.md)

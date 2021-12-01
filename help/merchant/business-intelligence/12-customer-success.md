@@ -3,15 +3,14 @@ title: Business Intelligence - Customer success stories
 description: Learn about customer success stories using Business Intelligence.
 kt: 5738
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
 
 # Business Intelligence - Customer success stories
 
-When you are familiar with some of the most useful types of analysis merchants do in Business Intelligence, review some customers success stories and how they put their analysis to use to get real results.
+When you are familiar with some of the most useful types of analysis merchants do in Business Intelligence, review some customers success stories and how they used their analysis to get real results.
 
 ## Who is this video for?
 
@@ -24,4 +23,5 @@ When you are familiar with some of the most useful types of analysis merchants d
 
 ## Additional resources
 
---> add doc links
+- [Business Performance Analysis](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
+- [UTM Tagging in Google Analytics](https://docs.magento.com/mbi/best-practices/utm-tagging-google.html)

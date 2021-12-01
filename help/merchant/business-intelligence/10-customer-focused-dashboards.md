@@ -3,8 +3,7 @@ title: Business Intelligence - Customer-focused dashboards
 description: See a demonstration and detailed explanation of the customer-focused dashboards.
 kt: 5736
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -28,4 +27,5 @@ To enable informed business decisions, customer-focused dashboards provide many 
 
 ## Additional resources
 
---> add doc links
+- [Customers (guest checkout allowed)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-guest-checkout-allowed)
+- [Customers (no guest checkout allowed)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-no-guest-checkout-allowed)

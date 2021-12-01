@@ -3,8 +3,7 @@ title: Business Intelligence - Metrics
 description: Learn about Business Intelligence metrics and how they are used to construct reports.
 kt: 5725
 doc-type: feature video
-solution: Adobe Commerce
-product: business intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 ---
@@ -28,4 +27,5 @@ A metric is a measurement. In SQL and database structures, a metric is like a st
 
 ## Additional resources
 
---> add doc links
+- [Creating metrics](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-metrics.html)
+- [Creating filter sets for metrics](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
