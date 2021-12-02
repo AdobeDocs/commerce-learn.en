@@ -20,4 +20,4 @@ exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
 
 ## Useful resources
 
-[PWA Studio Guide - Venia setup](https://magento.github.io/pwa-studio/venia-pwa-concept/setup/)
+[PWA Studio Guide - Venia setup](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
