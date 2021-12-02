@@ -10,7 +10,7 @@ activity: use
 
 # Business Intelligence - Standard reports
 
-The default, out-of-the-box Business Intelligence reports cover ecommerce KPI reporting that most merchants need. Merchants can automate these reports to more efficiently run their businesses, and eliminate the manual analysis they may be doing by hand with SQL queries or in Excel.
+The default, out-of-the-box Business Intelligence dashboards contain pre-defined reports that cover ecommerce KPI reporting that most merchants need. Merchants can automate these reports to more efficiently run their businesses, and eliminate the manual analysis they may be doing by hand with SQL queries or in Excel.
 
 ## Who is this video for?
 
