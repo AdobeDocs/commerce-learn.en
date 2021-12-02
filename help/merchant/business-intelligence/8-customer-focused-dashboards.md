@@ -10,7 +10,7 @@ activity: use
 
 # Business Intelligence - Customer-focused dashboards
 
-To enable informed business decisions, customer-focused dashboards provide many insights to your customers, such as new versus registered customers, customer lifetime value, revenue broken out by your customer groups, and coupon usage by your customers.
+To enable informed business decisions, customer-focused dashboards provide many insights to your customers. Examples are new versus registered customers, customer lifetime value, revenue broken out by your customer groups, and coupon usage by your customers.
 
 ## Who is this video for?
 
