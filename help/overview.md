@@ -19,6 +19,7 @@ Basic entry-level video series for [!DNL Commerce] include:
 - [Adobe Commerce on cloud infrastructure](./cloud/1-overview.md) is a comprehensive overview of key technologies, project structure, deployment phases, and configurations for Adobe Commerce on cloud infrastructure.
 - [[!DNL Commerce] for developers](./developer/backend-1-1-overview.md) is an overview of the platform for backend developers.
 - [[!DNL Commerce] for business users](./merchant/introduction/1-1-menus.md) helps anyone get to know the [!DNL Admin] side of [!DNL Commerce].
+- [[!DNL Business Intelligence]](./merchant/business-intelligence/1-overview.md) is a high-level introduction of how you can drive better business insights and results through data aggregation, analysis, and visualization.
 
 ## Additional developer series
 
@@ -36,5 +37,5 @@ Basic entry-level video series for [!DNL Commerce] include:
 
 - [User documentation](https://docs.magento.com/)
 - [Developer documentation](https://devdocs.magento.com/)
-- [PWA Studio documentation](https://magento.github.io/pwa-studio/)
+- [PWA Studio documentation](https://developer.adobe.com/commerce/pwa-studio/)
 - [Adobe Digital Learning Services - Adobe Commerce course catalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

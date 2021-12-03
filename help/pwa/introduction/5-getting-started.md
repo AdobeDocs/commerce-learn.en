@@ -14,7 +14,7 @@ In this video:
 - Getting started with PWA Studio
 - Initial project setup
 - Generate local SSL certificate
-- Build pack CLI commands
+- [!DNL Buildpack] CLI commands
 
 ## Who is this video for?
 

@@ -19,4 +19,4 @@ exl-id: df79e9d8-5047-4063-b37d-184fcf0c0ac4
 
 ## Useful resources
 
-[PWA Studio Guide](https://magento.github.io/pwa-studio/)
+[PWA Studio Guide](https://developer.adobe.com/commerce/pwa-studio/)
