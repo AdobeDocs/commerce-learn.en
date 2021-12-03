@@ -31,5 +31,7 @@ In this video:
 ## Additional resources
 
 [Creating products - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create.html)
+
 [Product settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/settings.html)
+
 [Product attributes - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)

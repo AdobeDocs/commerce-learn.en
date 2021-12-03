@@ -29,4 +29,5 @@ In this video:
 ## Useful resources
 
 [Add a New Product Attribute](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
 [Custom attributes](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)

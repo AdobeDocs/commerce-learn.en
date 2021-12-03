@@ -31,5 +31,7 @@ In this video:
 ## Additional resources
 
 [Category content - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+
 [Display settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+
 [Design settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)

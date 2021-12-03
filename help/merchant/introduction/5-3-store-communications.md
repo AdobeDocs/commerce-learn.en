@@ -30,4 +30,5 @@ In this video:
 ## Additional resources
 
 [Email - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/email-templates.html)
+
 [Using variables - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/variables.html)

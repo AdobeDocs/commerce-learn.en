@@ -26,4 +26,5 @@ In this video:
 ## Additional resources
 
 [Websites, stores, and views - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+
 [Cache management - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/cache-management.html)

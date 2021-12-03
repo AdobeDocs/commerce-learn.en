@@ -30,4 +30,5 @@ In this video:
 ## Additional resources
 
 [Import - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/data-import.html)
+
 [Export - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/data-export.html)

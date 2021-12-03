@@ -31,4 +31,5 @@ In this video:
 ## Additional resources
 
 [Websites, stores, and views - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+
 [Scope - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/configuration/scope.html)

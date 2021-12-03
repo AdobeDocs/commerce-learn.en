@@ -29,4 +29,5 @@ In this video:
 ## Additional resources
 
 [Simple product - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-create-simple.html)
+
 [Attribute sets - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/stores/attribute-sets.html)
