@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
 ---
-
 # Business Intelligence - Category analysis
 
 Category analysis is designed to deliver a high-level overview of select product categories. It highlights the combination of categories that are bought by the same customers over their lifetime.

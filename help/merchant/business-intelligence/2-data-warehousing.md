@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
 ---
-
 # Business Intelligence - Data warehousing
 
 A data warehouse is a relational database configured to consolidate and store data for running business analysis. Data warehouses allow access to data in order to de-normalize production databases and organize them for running analysis more efficiently. 

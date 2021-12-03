@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
 ---
-
 # Business Intelligence - Executive overview dashboard
 
 The Executive Overview dashboard provides high-level insights into revenue, orders, and average order values. The reports are broken out as static values, and over time. You can share this dashboard with other members of your team, giving them edit access to collaborate with you, or view-only access.

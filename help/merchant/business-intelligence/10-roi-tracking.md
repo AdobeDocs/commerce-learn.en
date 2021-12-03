@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
 ---
-
 # Business Intelligence - Return on investment tracking
 
 Business Intelligence provides insights that help you monitor and manage your return on investment. For example, if you're investing in online advertising, you want to track your return on the spend to make data-driven decisions on further investments.

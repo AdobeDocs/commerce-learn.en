@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
 ---
-
 # Business Intelligence - Metrics
 
 A metric is a measurement. In SQL and database structures, a metric is like a stored query over a variable time period. Your team creates the relevant metrics used to construct the reports needed for your business.

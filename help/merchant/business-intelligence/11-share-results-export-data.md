@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
 ---
-
 # Business Intelligence - Share results and export data
 
 Business Intelligence users can be granted read-only, standard, or admin permission levels to control who sees specific parts of the business data. And the benefits are not limited to Business Intelligence users---schedule and send email summaries to as many email addresses as needed. Data from the data warehouse can be exported using the Export API.

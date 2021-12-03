@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
 ---
-
 # Business Intelligence - Standard reports
 
 The default, out-of-the-box Business Intelligence dashboards contain pre-defined reports that cover ecommerce KPI reporting that most merchants need. Merchants can automate these reports to more efficiently run their businesses, and eliminate the manual analysis they may be doing by hand with SQL queries or in Excel.

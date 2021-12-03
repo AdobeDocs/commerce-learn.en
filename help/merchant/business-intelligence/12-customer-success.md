@@ -6,8 +6,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
 ---
-
 # Business Intelligence - Customer success stories
 
 When you are familiar with some of the most useful types of analysis merchants do in Business Intelligence, review some customers success stories and how they used their analysis to get real results.

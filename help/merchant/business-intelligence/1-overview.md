@@ -7,8 +7,8 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
 ---
-
 # Business Intelligence - Overview
 
 Business Intelligence is a complete solution that has been optimized for all Adobe Commerce and Magento Open Source merchants. There are three core components that make it a complete business intelligence solution: 
