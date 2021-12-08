@@ -10,7 +10,7 @@ activity: use
 
 # Add websites, stores, and store views
 
-Every Adobe Commerce and Magento Open Source installation has a hierarchy of websites, stores, and store views. Build and expand this hierarchy according to the needs of your business. 
+Every Adobe Commerce and Magento Open Source installation supports a hierarchy of websites, stores, and store views. Build and expand this hierarchy according to the needs of your business. 
 
 ## Who is this video for?
 

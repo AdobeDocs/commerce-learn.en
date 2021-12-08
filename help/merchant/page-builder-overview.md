@@ -10,9 +10,7 @@ activity: use
 
 # Page Builder overview
 
-Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty.
-
-In this video:
+Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty. In this video, learn how to:
 
 - Edit an existing page
 - Edit a new page

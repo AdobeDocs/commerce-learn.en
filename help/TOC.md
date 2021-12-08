@@ -64,7 +64,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [12 - Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
 + Working in the Admin {#admin}
-  + [Users, user roles, and permissions](./merchant/users-roles-permissions.md)
+  + [Users, roles, and permissions](./merchant/users-roles-permissions.md)
   + [Two-factor authentication](./merchant/two-factor-authentication.md)
   + [Add websites, stores, and store views](./merchant/add-websites-stores-views.md)
   + [Change a store URL](./merchant/change-store-url.md)
