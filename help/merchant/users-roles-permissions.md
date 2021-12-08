@@ -1,6 +1,6 @@
 ---
 title: Users, user roles, and permissions
-Description: Learn about user accounts and permissions used to control access to Commerce website and store data in the Admin.
+description: Learn about user accounts and permissions used to control access to Commerce website and store data in the Admin.
 kt: 5610
 doc-type: feature video
 audience: all
