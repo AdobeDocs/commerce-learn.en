@@ -18,10 +18,10 @@ In this video, learn how to:
 
 - Edit an existing page
 - Edit a new page
-- Adding products to an existing page
-- Adding and formatting rows and columns
-- Adding media and elements to your columns and rows
-- Adding and formatting a slider
+- Add products to an existing page
+- Add and format rows and columns
+- Add media and elements to your columns and rows
+- Add and format a slider
   
 ## Who is this video for?
 
