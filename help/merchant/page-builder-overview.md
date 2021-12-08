@@ -10,7 +10,11 @@ activity: use
 
 # Page Builder overview
 
-Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty. In this video, learn how to:
+Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty. 
+
+Starting with the 2.4.3 release, Page Builder is available by default in both Adobe Commerce and Magento Open Source. With Page Builder in Adobe Commerce, you can incorporate staging and preview, personalized content, and product recommendations, with additional capabilities to come.
+
+In this video, learn how to:
 
 - Edit an existing page
 - Edit a new page
@@ -29,8 +33,6 @@ Page Builder makes it easy to create content-rich pages with custom layouts that
 >[!NOTE]
 >
 >The content in the video reflects the Adobe Commerce 2.3.1 release. For information about updates in later releases, see the [Release notes for Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
->
->Starting with the 2.4.3 release, Page Builder is available by default in both Adobe Commerce and Magento Open Source.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
 
