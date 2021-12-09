@@ -6,8 +6,8 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 ---
-
 # Add websites, stores, and store views
 
 Every Adobe Commerce and Magento Open Source installation supports a hierarchy of websites, stores, and store views. Build and expand this hierarchy according to the needs of your business. 

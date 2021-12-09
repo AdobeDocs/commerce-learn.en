@@ -6,8 +6,8 @@ doc-type: feature video
 role: Admin, Leader
 audience: all
 activity: use
+exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
 ---
-
 # Change a store URL
 
 Each website in an Adobe Commerce or Magento Open Source installation has a base URL that is assigned to the storefront, and another URL that is assigned to the Admin. You can follow a few simple steps to change the base URL for your store.
