@@ -1,6 +1,6 @@
 ---
 title: Promotional price rules
-description: Learn how to set up price rules for Commerce storefront promotions for three common scenarios.
+description: Learn how to set up price rules for [!DNL Commerce] storefront promotions for three common scenarios.
 kt: 5607
 doc-type: feature video
 audience: all

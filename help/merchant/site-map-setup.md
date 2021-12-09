@@ -1,6 +1,6 @@
 ---
 title: Site map setup
-description: Learn how to set up a site map for your Commerce store in the Admin.
+description: A site map improves the way your store is indexed by search engines. Learn how to set up a site map for your [!DNL Commerce] store in the Admin.
 kt: 5592
 doc-type: feature video
 audience: all

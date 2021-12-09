@@ -1,6 +1,6 @@
 ---
 title: Change a store URL
-description: Learn how to change your Commerce store base URL in the Admin.
+description: Learn how to change your [!DNL Commerce] store base URL in the Admin.
 kt: 5605
 doc-type: feature video
 role: Admin, Leader

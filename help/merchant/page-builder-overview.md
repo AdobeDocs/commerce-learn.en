@@ -1,6 +1,6 @@
 ---
-title: Page Builder overview
-description: Learn how to build pages Commerce store pages in the Admin using Page Builder.
+title: [!DNL Page Builder] overview
+description: Learn how to build pages [!DNL Commerce] store pages in the Admin using [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
@@ -8,11 +8,11 @@ audience: all
 activity: use
 ---
 
-# Page Builder overview
+# [!DNL Page Builder] overview
 
-Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty. 
+[!DNL Page Builder] makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty. 
 
-Starting with the 2.4.3 release, Page Builder is available by default in both Adobe Commerce and Magento Open Source. With Page Builder in Adobe Commerce, you can incorporate staging and preview, personalized content, and product recommendations, with additional capabilities to come.
+Starting with the 2.4.3 release, [!DNL Page Builder] is available by default in both Adobe Commerce and Magento Open Source. With [!DNL Page Builder] in Adobe Commerce, you can incorporate staging and preview, personalized content, and product recommendations, with additional capabilities to come.
 
 In this video, learn how to:
 
