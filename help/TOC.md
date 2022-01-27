@@ -63,8 +63,6 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [11 - Share results and export data](./merchant/business-intelligence/11-share-results-export-data.md)
     + [12 - Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
-+ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)
-
 + Working in the Admin {#admin}
   + [Users, roles, and permissions](./merchant/users-roles-permissions.md)
   + [Two-factor authentication](./merchant/two-factor-authentication.md)
@@ -101,3 +99,5 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [6 - Peregrine](./pwa/introduction/6-peregrine.md)
   + [PWA Docker Development](./pwa/pwa-docker-development.md)
   + [Set up Venia for development](pwa/set-up-venia-for-dev.md)
+
++ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)

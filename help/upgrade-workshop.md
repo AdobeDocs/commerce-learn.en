@@ -20,7 +20,7 @@ In this workshop, Adobe Commerce partnered with Merkle to share:
 
 ## Who is this video for?
 
-- Store administrators
+- Site managers
 - Developers
 
 ## Video content
