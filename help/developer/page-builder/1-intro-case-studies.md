@@ -1,6 +1,7 @@
 ---
 title: Page Builder for developers - Introduction
 description: Page Builder introduction, understand Page Builder capabilities
+landing-page-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -29,6 +30,5 @@ In this video:
 
 ## Useful resources
 
-[Page Builder developer documentation](https://devdocs.magento.com/page-builder/docs/index.html)
-
-[Page Builder user documentation](https://docs.magento.com/user-guide/cms/page-builder.html)
+- [Page Builder developer documentation](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Page Builder user documentation](https://docs.magento.com/user-guide/cms/page-builder.html)
