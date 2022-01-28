@@ -33,3 +33,4 @@ In the Admin, set up product relationships and use price rules to trigger discou
 - [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html)
 - [Catalog Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html)
 - [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html)
+
