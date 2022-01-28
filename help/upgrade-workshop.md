@@ -7,6 +7,7 @@ doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
 ---
 # Adobe Commerce 2.4 Upgrade Workshop
 
