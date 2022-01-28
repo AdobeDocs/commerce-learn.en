@@ -1,6 +1,7 @@
 ---
 title: Adobe Commerce 2.4 Upgrade Workshop
-description: Watch this recorded webinar to learn !DNL Commerce] upgrade steps and best practices for 2.4.4 or higher.
+description: Watch this recorded webinar to learn Adobe Commerce upgrade steps and best practices for 2.4.4 or higher.
+landing-page-description: Watch this recorded webinar to learn about Adobe Commerce 2.4 upgrade steps and best practices.
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
