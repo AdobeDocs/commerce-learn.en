@@ -29,3 +29,4 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 
 - [Two-factor Authentication - User Guide](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
 - [Two-factor Authentication - Developer Guide](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+

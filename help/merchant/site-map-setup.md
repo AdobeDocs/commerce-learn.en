@@ -27,3 +27,4 @@ A site map improves the way your store is indexed by search engines, and is desi
 
 - [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
 - [XML Sitemap](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+
