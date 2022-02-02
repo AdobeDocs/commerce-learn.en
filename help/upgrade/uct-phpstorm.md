@@ -10,7 +10,7 @@ activity: use
 ---
 # Using the Upgrade Compatibility Tool on PhpStorm
 
-The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the version you’re upgrading to in just minutes, making the upgrade process faster and easier to execute.
+The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. The PhpStorm plugin makes this tool even easier to use.
  
 In this video:
 
