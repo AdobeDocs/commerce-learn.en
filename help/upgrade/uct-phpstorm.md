@@ -7,6 +7,7 @@ doc-type: technical video
 role: Developer
 audience: all
 activity: use
+exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 ---
 # Using the Upgrade Compatibility Tool on PhpStorm
 
