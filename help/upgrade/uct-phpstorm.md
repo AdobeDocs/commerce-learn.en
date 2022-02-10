@@ -1,7 +1,7 @@
 ---
-title: Using the Upgrade Compatibility Tool on PhpStorm
-description: Watch this technical video to learn how to use Upgrade Compatibility Tool with the PhpStorm plugin.
-landing-page-description: Learn about using the Upgrade Compatibility Tool with the PhpStorm plugin that makes it easy to identify and address incompatibilities.
+title: Using the Upgrade Compatibility Tool on PHP Storm
+description: Watch this technical video to learn how to use Upgrade Compatibility Tool with the PHP Storm plugin.
+landing-page-description: Learn about using the Upgrade Compatibility Tool with the PHP Storm plugin that makes it easy to identify and address incompatibilities.
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -9,14 +9,14 @@ audience: all
 activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 ---
-# Using the Upgrade Compatibility Tool on PhpStorm
+# Using the Upgrade Compatibility Tool on PHP Storm
 
-The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. The PhpStorm plugin makes this tool even easier to use.
+The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. The PHP Storm plugin makes this tool even easier to use.
  
 In this video:
 
 - What is the Upgrade Compatibility Tool?
-- How to use it with the Magento PhpStorm plugin
+- How to use it with the Magento PHP Storm plugin
 - How to access the HTML results to help visualize modules by severity and number of incompatibilities
 
 ## Who is this video for?
@@ -30,5 +30,5 @@ In this video:
 ## Additional resources
 
 - [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PhpStorm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Magento PHP Storm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Released versions](https://devdocs.magento.com/release/released-versions.html)

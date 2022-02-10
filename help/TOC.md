@@ -101,4 +101,4 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Set up Venia for development](pwa/set-up-venia-for-dev.md)
 
 + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)
-+ [Using the Upgrade Compatibility Tool in PhpStorm](./upgrade/uct-phpstorm.md)
++ [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
