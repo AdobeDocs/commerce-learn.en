@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Sites, stores, and views
+title: "[!DNL Commerce] for business users - Sites, stores, and views"
 description: Learn the basics of the [!DNL Commerce] architecture, including the differences between websites, stores, store views, and application scopes. Understand indexing and caching.
 topic: Commerce
 kt: 5760

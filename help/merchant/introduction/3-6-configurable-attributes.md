@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Configurable attributes
+title: "[!DNL Commerce] for business users - Configurable attributes"
 description: Learn how to set up configurable product attributes.
 topic: Commerce
 kt: 5772

@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Email communications
+title: "[!DNL Commerce] for business users - Email communications"
 description: Communicate with your customers using transactional emails triggered by their actions on the storefront. Customize and configure the email templates for your store.
 topic: Commerce
 kt: 5780

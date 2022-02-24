@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Store settings
+title: "[!DNL Commerce] for business users - Store settings"
 description: Learn about locale settings, store information, secure and unsecure URLs, website title, logo, copyright information, communication email logos, store email addresses, currency options, and currency rates.
 topic: Commerce
 kt: 5764

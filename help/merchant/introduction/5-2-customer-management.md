@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Customer management
+title: "[!DNL Commerce] for business users - Customer management"
 description: Learn about the recommended permissions for customer service, creating a customer in the [!DNL Admin], managing customer information, and creating customer groups.
 topic: Commerce
 kt: 5779

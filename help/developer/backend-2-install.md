@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Installation
+title: "[!DNL Commerce] for developers - Installation"
 description: Learn about Composer installation and sample data.
 kt: 5692
 doc-type: video

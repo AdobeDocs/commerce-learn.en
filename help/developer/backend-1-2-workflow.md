@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Development workflow
+title: "[!DNL Commerce] for developers - Development workflow"
 description: Learn about the typical development workflow for Commerce.
 kt: 5691
 doc-type: video

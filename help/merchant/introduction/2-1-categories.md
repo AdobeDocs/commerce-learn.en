@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Product categories
+title: "[!DNL Commerce] for business users - Product categories"
 description: Learn how to manage your product catalog by setting up categories.
 topic: Commerce
 kt: 5765

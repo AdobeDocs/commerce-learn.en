@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Post install
+title: "[!DNL Commerce] for developers - Post install"
 description: Verify and configure your instance, set u-mask, install sample data, set proper running mode
 kt: 5693
 doc-type: video
