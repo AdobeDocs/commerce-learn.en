@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Declarative schema
+title: "[!DNL Commerce] for developers - Declarative schema"
 description: Learn about the Declarative schema.
 kt: 5669
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Data grids
+title: "[!DNL Commerce] for business users - Data grids"
 description: Learn how to work with data grids in the [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759

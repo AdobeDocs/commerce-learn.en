@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Development basics
+title: "[!DNL Commerce] for developers - Development basics"
 description: Learn about development basics, including creating a module, configuring your store, DI operations, and a front controller example.
 kt: 5695
 doc-type: video

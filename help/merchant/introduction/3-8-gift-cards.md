@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Gift cards
+title: "[!DNL Commerce] for business users - Gift cards"
 description: Learn how to include gift cards in your [!DNL Commerce] store.
 topic: Commerce
 kt: 5774

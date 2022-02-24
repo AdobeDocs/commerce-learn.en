@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Exercises
+title: "[!DNL Commerce] for developers - Exercises"
 description: Practice [!DNL Commerce] development tasks with five useful exercises.
 kt: 5699
 doc-type: video

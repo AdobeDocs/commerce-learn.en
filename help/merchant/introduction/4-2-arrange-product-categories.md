@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Category positioning
+title: "[!DNL Commerce] for business users - Category positioning"
 description: Position products within categories so that customers see the products at the top that you want them to see.
 topic: Commerce
 kt: 5776

@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Attributes
+"title: [!DNL Commerce] for business users - Attributes"
 description: Learn about custom and system attributes for products.
 topic: Commerce
 kt: 5769

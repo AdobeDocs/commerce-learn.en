@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Overview
+title: "[!DNL Commerce] for developers - Overview"
 description: Learn the basics of the platform from the perspective of several audiences-- merchants, web store developers, and integrators.
 landing-page-description: Watch this video series to get started on your backend development project for Commerce.
 doc-type: video

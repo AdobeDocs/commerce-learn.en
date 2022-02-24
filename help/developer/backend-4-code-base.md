@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for developers - Code base
+title: "[!DNL Commerce] for developers - Code base"
 description: Code base components, modularity, configuring flexibility, and Composer's role
 kt: 5694
 doc-type: video

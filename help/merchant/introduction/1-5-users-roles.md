@@ -1,5 +1,5 @@
 ---
-title: [!DNL Commerce] for business users - Users and roles
+title: "[!DNL Commerce] for business users - Users and roles"
 description: Learn the basics about [!DNL Admin] user accounts and user roles that determine permissions.
 topic: Commerce
 kt: 5762
