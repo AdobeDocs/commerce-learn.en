@@ -1,5 +1,5 @@
 ---
-"title: [!DNL Commerce] for business users - Product settings"
+title: "[!DNL Commerce] for business users - Product settings"
 description: Learn how to create products, configure settings, and use attributes.
 topic: Commerce
 kt: 5768
