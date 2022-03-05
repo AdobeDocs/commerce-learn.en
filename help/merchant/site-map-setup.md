@@ -5,8 +5,8 @@ kt: 5592
 doc-type: feature video
 audience: all
 activity: use
+exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
 ---
-
 # Site map setup
 
 A site map improves the way your store is indexed by search engines, and is designed to find pages that might be overlooked by web crawlers. Learn how to easily add a site map to your Commerce store.
@@ -27,4 +27,3 @@ A site map improves the way your store is indexed by search engines, and is desi
 
 - [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
 - [XML Sitemap](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
-

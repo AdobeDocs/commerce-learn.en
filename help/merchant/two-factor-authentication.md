@@ -6,8 +6,8 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 ---
-
 # Two-factor authentication
 
 To prevent unauthorized access to your data, all users who attempt to sign in to the Admin must complete an authentication process to verify their identity. Adobe Commerce and Magento Open Source support two-factor authentication (2FA) methods from multiple providers. 
@@ -29,4 +29,3 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 
 - [Two-factor Authentication - User Guide](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
 - [Two-factor Authentication - Developer Guide](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
-

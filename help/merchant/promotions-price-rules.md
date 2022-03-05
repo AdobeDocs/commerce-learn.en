@@ -5,8 +5,8 @@ kt: 5607
 doc-type: feature video
 audience: all
 activity: use
+exl-id: 8d9ba8dd-32db-41e5-a8c8-28a52166f6e0
 ---
-
 # Promotional price rules
 
 In the Admin, set up product relationships and use price rules to trigger discounts based on various conditions. This video demonstrates how you can set up promotion price rules for the following scenarios:
@@ -33,4 +33,3 @@ In the Admin, set up product relationships and use price rules to trigger discou
 - [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html)
 - [Catalog Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html)
 - [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html)
-
