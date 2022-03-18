@@ -3,7 +3,7 @@ title: Business Intelligence - Customer success stories
 description: Learn about customer success stories using Business Intelligence.
 kt: 5738
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383

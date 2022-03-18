@@ -3,7 +3,7 @@ title: Business Intelligence - Orders dashboard
 description: Learn about the Orders dashboard and reports that make it easy to manage orders and product sales.
 kt: 5735
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9

@@ -3,7 +3,7 @@ title: Business Intelligence - Customer-focused dashboards
 description: See a demonstration and detailed explanation of the customer-focused dashboards.
 kt: 5736
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589

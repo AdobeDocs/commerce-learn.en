@@ -5,7 +5,7 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/commerce-learn.en
 index: y
 type: Tutorial
-solution: Adobe Commerce
+solution: Commerce,Adobe Commerce
 ---
 
 # Metadata for internal use

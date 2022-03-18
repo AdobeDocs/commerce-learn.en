@@ -3,7 +3,7 @@ title: Business Intelligence - Data warehousing
 description: Learn about the Data Warehouse Manager, which is available to admin users in Business Intelligence.
 kt: 5729
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
