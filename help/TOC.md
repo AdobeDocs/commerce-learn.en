@@ -73,9 +73,9 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Page Builder overview](./merchant/page-builder-overview.md)
 
 + Upgrades {#upgrade}
-+ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
-+ [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
-+ [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
+  + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
+  + [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
+  + [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Backend development {#backend-development}
   + [Add a new table to a database](./developer/add-new-db-table.md)
