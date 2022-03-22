@@ -72,6 +72,11 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Promotional price rules](./merchant/promotions-price-rules.md)
   + [Page Builder overview](./merchant/page-builder-overview.md)
 
++ Upgrades {#upgrade}
++ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
++ [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
++ [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
+
 + Backend development {#backend-development}
   + [Add a new table to a database](./developer/add-new-db-table.md)
   + [Create a module](developer/create-module.md)
@@ -99,6 +104,3 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [6 - Peregrine](./pwa/introduction/6-peregrine.md)
   + [PWA Docker Development](./pwa/pwa-docker-development.md)
   + [Set up Venia for development](pwa/set-up-venia-for-dev.md)
-
-+ [Adobe Commerce 2.4 Upgrade Workshop](./upgrade-workshop.md)
-+ [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
