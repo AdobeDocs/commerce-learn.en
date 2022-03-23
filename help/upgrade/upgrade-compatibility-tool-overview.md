@@ -7,6 +7,7 @@ doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
+exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 ---
 # Upgrade Compatibility Tool Overview
 
