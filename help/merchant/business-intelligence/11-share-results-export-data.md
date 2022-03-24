@@ -3,7 +3,7 @@ title: Business Intelligence - Share results and export data
 description: Learn about sharing your Business Intelligence results and exporting data for integration with other business tools.
 kt: 5728
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa

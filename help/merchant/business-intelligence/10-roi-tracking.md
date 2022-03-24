@@ -3,7 +3,7 @@ title: Business Intelligence - Return on investment tracking
 description: Learn about the Business Intelligence insights that help track your return on investment.
 kt: 5737
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920

@@ -3,7 +3,7 @@ title: Business Intelligence - Category analysis
 description: Learn about basic category analysis and customer lifetime value.
 kt: 5734
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c

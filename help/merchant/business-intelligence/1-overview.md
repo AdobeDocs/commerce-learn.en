@@ -4,7 +4,7 @@ description: Learn about the three core components within the Business Intellige
 landing-page-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
 kt: 5724
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030

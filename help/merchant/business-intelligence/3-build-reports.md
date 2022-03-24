@@ -3,7 +3,7 @@ title: Business Intelligence - Build reports
 description: Learn about the report building options available in Business Intelligence.
 kt: 5726
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
