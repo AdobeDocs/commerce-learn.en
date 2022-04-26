@@ -7,6 +7,7 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 ---
 # Business Intelligence - SQL Report Builder
 

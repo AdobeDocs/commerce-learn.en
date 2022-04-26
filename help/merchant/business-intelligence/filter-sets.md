@@ -7,6 +7,7 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 ---
 # Business Intelligence - Filter Sets
 
