@@ -72,6 +72,11 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Promotional price rules](./merchant/promotions-price-rules.md)
   + [Page Builder overview](./merchant/page-builder-overview.md)
 
++ Business Intelligence {#business-intelligence}
+  + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
+  + [Cohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
+  + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+
 + Upgrades {#upgrade}
   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
   + [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
