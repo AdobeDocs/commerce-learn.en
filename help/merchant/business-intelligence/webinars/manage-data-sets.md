@@ -16,7 +16,7 @@ Over this recorded webinar, you learn how to calculate the return on investment 
 
 >[!TIP]
 >
->If you are new to Business Intelligence, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to Business Intelligence, the [Getting Started video series](./../1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
