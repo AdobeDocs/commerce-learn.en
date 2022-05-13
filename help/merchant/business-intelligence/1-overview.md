@@ -36,7 +36,7 @@ With these three core pieces of technology built into one solution, merchants ar
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
-## Additional resources
+## Useful resources
 
 - [Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [MBI Pro demo](https://support.magento.com/hc/en-us/articles/360016729571)
+- [Business Intelligence Support](https://support.magento.com/hc/en-us/articles/360016730811)
