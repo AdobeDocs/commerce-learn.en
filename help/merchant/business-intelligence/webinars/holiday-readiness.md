@@ -27,9 +27,9 @@ Leverage your eCommerce data for success during the holiday season. This webinar
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/342496?quality=12&learn=on)s
+>[!VIDEO](https://video.tv.adobe.com/v/342496?quality=12&learn=on)
 
 ## Useful resources
 
 [Business Intelligence User Guide](https://docs.magento.com/mbi/)
-[Business Intelligence Support](https://support.magento.com/hc/en-us/articles/360016730811)
+[Business Intelligence Support](https://support.magento.com/hc/en-us/articles/360016730811)s
