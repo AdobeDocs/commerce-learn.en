@@ -1,6 +1,6 @@
 ---
 title: Business Intelligence - Optimize Your Data Warehouse
-description: Watch this webinar to learn
+description: Watch this webinar to learn more about Data Warehouse Manager.
 landing-page-description: Watch this recorded webinar to 
 kt: 10403
 doc-type: feature video
@@ -10,7 +10,7 @@ activity: use
 ---
 # Business Intelligence - Optimize Your Data Warehouse
 
-Using the Data Warehouse Manager, you can manage table and column sync settings, drill-down into a table’s schema, and create calculated columns to use in reports.
+Using the Data Warehouse Manager, you can manage table and column sync settings, drill down into a table’s schema, and create calculated columns to use in reports.
 
 >[!NOTE]
 >

@@ -12,7 +12,7 @@ activity: use
 
 Learn about some of the powerful features of the Business Intelligence Data Warehouse Manager, directly from the Adobe Commerce Product team. Move beyond basic report building and learn how to do more with your data.
 
-Over this recorded webinar, you learn how to calculate the return on investment of your ad campaigns, by joining data from Adobe  Commerce, Google Ecommerce, and Google AdWords.
+During this recorded webinar, you learn how to calculate the return on investment of your ad campaigns, by joining data from Adobe Commerce, Google Ecommerce, and Google AdWords.
 
 >[!TIP]
 >
