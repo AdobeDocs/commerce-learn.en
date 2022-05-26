@@ -76,6 +76,14 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
   + [Cohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
   + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+  + [Prepping for the Future](./merchant/business-intelligence/prepare-for-future.md)
+  + Webinars {#webinars}
+    + [Getting Started with Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
+    + [Managing Data Sets](merchant/business-intelligence/webinars/manage-data-sets.md)
+    + [Optimize Your Data Warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+    + [Holiday Readiness](merchant/business-intelligence/webinars/holiday-readiness.md)
+    + [Ask an Expert, session 1](merchant/business-intelligence/webinars/ask-expert-1.md)
+    + [Ask an Expert, session 2](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + Upgrades {#upgrade}
   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
