@@ -7,6 +7,7 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: b4fe528b-f32f-47f8-848b-5ede197fcb34
 ---
 # Business Intelligence - Ask an Expert, Part 2
 

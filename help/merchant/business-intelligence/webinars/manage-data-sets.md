@@ -7,6 +7,7 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
 ---
 # Business Intelligence - Manage Data Sets
 

@@ -1,12 +1,13 @@
 ---
 title: Business Intelligence - Optimize Your Data Warehouse
 description: Watch this webinar to learn more about Data Warehouse Manager.
-landing-page-description: Watch this recorded webinar to 
+landing-page-description: Watch this recorded webinar to
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
 ---
 # Business Intelligence - Optimize Your Data Warehouse
 

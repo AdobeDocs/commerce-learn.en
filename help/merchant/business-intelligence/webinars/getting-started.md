@@ -7,6 +7,7 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+exl-id: 4f029625-8c53-4066-ac33-b95883177df5
 ---
 # Getting Started with Business Intelligence
 
