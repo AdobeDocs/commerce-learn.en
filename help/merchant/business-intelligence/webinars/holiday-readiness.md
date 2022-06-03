@@ -1,5 +1,5 @@
 ---
-title: MBI - Holiday Readiness
+title: Holiday Readiness with MBI
 description: Watch this webinar to learn how to leverage your eCommerce data for success during the holiday season.
 landing-page-description: Watch this recorded webinar to learn how to leverage your eCommerce data for success during the holiday season.
 kt: 10409
@@ -9,7 +9,7 @@ audience: all
 activity: use
 exl-id: 7390d8ca-494e-4fe0-a4da-a03afd2ef8e2
 ---
-# MBI - Holiday Readiness
+# Holiday Readiness with MBI
 
 Leverage your eCommerce data for success during the holiday season. This webinar highlights some common seasonal analysis use cases and methods to address them using key MBI features, including:
 

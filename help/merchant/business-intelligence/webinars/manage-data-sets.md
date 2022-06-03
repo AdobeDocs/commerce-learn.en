@@ -1,5 +1,5 @@
 ---
-title: MBI - Manage Data Sets
+title: Manage Data Sets in MBI
 description: Watch this webinar to learn about some of the powerful features of the MBI Data Warehouse Manager.
 landing-page-description: Watch this webinar to learn about some of the powerful features of the MBI Data Warehouse Manager.
 kt: 10410
@@ -9,7 +9,7 @@ audience: all
 activity: use
 exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
 ---
-# MBI - Manage Data Sets
+# Manage Data Sets in MBI
 
 Learn about some of the powerful features of the MBI Data Warehouse Manager, directly from the Adobe Commerce Product team. Move beyond basic report building and learn how to do more with your data.
 
