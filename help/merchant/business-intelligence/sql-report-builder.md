@@ -1,7 +1,7 @@
 ---
-title: Business Intelligence - SQL Report Builder
-description: Learn how to use the Business Intelligence SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
-landing-page-description: Watch this video to learn how use the Business Intelligence SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+title: MBI - SQL Report Builder
+description: Learn how to use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+landing-page-description: Watch this video to learn how use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -9,7 +9,7 @@ audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 ---
-# Business Intelligence - SQL Report Builder
+# MBI - SQL Report Builder
 
 The SQL Report Builder allows you to directly query your data warehouse, view the results, and quickly transform them into a chart. The best part about using SQL to build reports is that you don't have to wait on update cycles to iterate on columns you create. If the results don't look right, you can quickly edit and rerun the query until things match your expectations.
 
@@ -25,7 +25,7 @@ In this video:
 
 >[!TIP]
 >
->If you are new to Business Intelligence, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
