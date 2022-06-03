@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Optimize Your Data Warehouse
+title: MBI - Optimize Your Data Warehouse
 description: Watch this webinar to learn more about Data Warehouse Manager.
 landing-page-description: Watch this recorded webinar to
 kt: 10403
@@ -9,7 +9,7 @@ audience: all
 activity: use
 exl-id: 022df5f9-0333-464d-a985-177071a8aa04
 ---
-# Business Intelligence - Optimize Your Data Warehouse
+# MBI - Optimize Your Data Warehouse
 
 Using the Data Warehouse Manager, you can manage table and column sync settings, drill down into a table’s schema, and create calculated columns to use in reports.
 
@@ -27,7 +27,7 @@ In this webinar:
 
 >[!TIP]
 >
->If you are new to Business Intelligence, the [Getting Started video series](./../1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](./../1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 

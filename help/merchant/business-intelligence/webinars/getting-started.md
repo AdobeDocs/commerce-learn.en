@@ -1,7 +1,7 @@
 ---
-title: Getting Started with Business Intelligence
-description: Watch this webinar to learn about the core functionality of Business Intelligence for your Adobe Commerce or Magento Open Source store.
-landing-page-description: Watch this recorded webinar to learn about the core functionality of Business Intelligence for your Adobe Commerce or Magento Open Source store.
+title: Getting Started with MBI
+description: Watch this webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
+landing-page-description: Watch this recorded webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
 kt: 10408
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -9,15 +9,15 @@ audience: all
 activity: use
 exl-id: 4f029625-8c53-4066-ac33-b95883177df5
 ---
-# Getting Started with Business Intelligence
+# Getting Started with MBI
 
-Learn about the core functionality of Business Intelligence (BI) directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.
+Learn about the core functionality of MBI directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.
 
 Use cases are shared throughout, which provide illustrative examples of how merchants are gaining more insights and driving more growth in their stores with BI, starting day one.
 
 >[!TIP]
 >
->If you are new to Business Intelligence, the [Getting Started video series](./../1-overview.md) also provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](./../1-overview.md) also provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
@@ -30,5 +30,5 @@ Use cases are shared throughout, which provide illustrative examples of how merc
 
 ## Useful resources
 
-[Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
-[Business Intelligence Support](https://support.magento.com/hc/en-us/articles/360016730811)
+[MBI Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
+[MBI Support](https://support.magento.com/hc/en-us/articles/360016730811)

@@ -1,7 +1,7 @@
 ---
-title: Business Intelligence - Filter Sets
-description: Learn how to use the Business Intelligence filter sets feature to simplify business data reporting for Adobe Commerce and Magento Open Source.
-landing-page-description: Watch this video to learn how use the Business Intelligence filter sets feature to simplify business data reporting.
+title: MBI - Filter Sets
+description: Learn how to use the MBI filter sets feature to simplify business data reporting for Adobe Commerce and Magento Open Source.
+landing-page-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -9,9 +9,9 @@ audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 ---
-# Business Intelligence - Filter Sets
+# MBI - Filter Sets
 
-Do you want to analyze only certain pieces of your business data? Tired of doing a manual cleanup? In Business Intelligence, you can use the filter sets feature to simplify this process.
+Do you want to analyze only certain pieces of your business data? Tired of doing a manual cleanup? In MBI, you can use the filter sets feature to simplify this process.
 
 In this video:
 
@@ -22,7 +22,7 @@ In this video:
 
 >[!TIP]
 >
->If you are new to Business Intelligence, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
