@@ -1,5 +1,5 @@
 ---
-title: Users, roles, and permissions
+title: Manage User Roles and Permissions
 description: Learn about user accounts and permissions used to control access to [!DNL Commerce] website and store data in the Admin.
 kt: 5610
 doc-type: feature video
@@ -17,11 +17,7 @@ If there are others on your team or service providers who need access, you can c
 
 ## Video content
 
->[!NOTE]
->
->The content in the video reflects the 2.0 release. For information about updates in later releases, see the [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## Additional resources
 
