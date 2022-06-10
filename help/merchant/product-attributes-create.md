@@ -9,7 +9,7 @@ activity: use
 ---
 # Create Product Attributes
 
-Adobe Commerce use attributes to manage the information associated with products, customers, and product ratings. Attributes are pieces of information that might appear as fields in forms, reports, product reviews, layered navigation, and email messages. They are the building blocks of your product catalog, and describe specific characteristics of a product. 
+Adobe Commerce uses attributes to manage the information associated with products, customers, and product ratings. Attributes are pieces of information that might appear as fields in forms, reports, product reviews, layered navigation, and email messages. They are the building blocks of your product catalog, and describe specific characteristics of a product. 
 
 Who is this video for?
 
