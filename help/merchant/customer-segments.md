@@ -9,7 +9,7 @@ activity: use
 ---
 # Create Customer Segments
 
-Customer segments allow you to dynamically display content and promotions to specific customers, based on properties such as customer address, order history, shopping cart contents, and so on. You can optimize marketing initiatives based on targeted segments with shopping cart price rules. You can also generate reports and export the list of targeted customers.
+Customer segments allow you to dynamically display content and promotions to specific customers, based on properties such as customer address, order history, shopping cart contents. You can optimize marketing initiatives based on targeted segments with shopping cart price rules. You can also generate reports and export the list of targeted customers.
 
 Who is this video for?
 
@@ -22,5 +22,5 @@ Who is this video for?
 
 ## Additional resources
 
-[Customer Segments](https://docs.magento.com/user-guide/marketing/customer-segments.html)
-[Customer Segments in Price Rules](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)
+- [Customer Segments](https://docs.magento.com/user-guide/marketing/customer-segments.html)
+- [Customer Segments in Price Rules](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)

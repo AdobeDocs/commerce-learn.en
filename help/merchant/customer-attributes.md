@@ -9,7 +9,7 @@ activity: use
 ---
 # Create Customer Attributes
 
-Customer attributes provide the information that is required to support the order, fulfillment, and customer management processes. Because your business is unique, you might need fields in addition to those provided by the system. You can add custom attributes to the Account Information, Address Book, and Billing Information sections of the customer’s account. 
+Customer attributes provide the information that is required to support the order, fulfillment, and customer management processes. Because your business is unique, you might need fields in addition to the default fields provided by the system. You can add custom attributes to the Account Information, Address Book, and Billing Information sections of the customer’s account. 
 
 Who is this video for?
 
@@ -22,5 +22,5 @@ Who is this video for?
 
 ## Additional resources
 
-[Customer Attributes](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-[Creating an Individual Customer Account](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Customer Attributes](https://docs.magento.com/user-guide/stores/attributes-customer.html)
+- [Creating an Individual Customer Account](https://docs.magento.com/user-guide/customers/account-create.html)

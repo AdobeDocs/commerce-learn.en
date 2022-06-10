@@ -9,7 +9,7 @@ activity: use
 ---
 # Manage Currency and Tax Rules
 
-Tax rules incorporate a combination of product class, customer class and tax rate. Each customer is assigned to a customer class, and each product is assigned a product class. [!DNL Commerce] analyzes the shopping cart of each customer and calculates the appropriate tax according to the customer and product classes, and the region (based on the customer’s shipping address, billing address or shipping origin).
+Tax rules incorporate a combination of product class, customer class, and tax rate. Each customer is assigned to a customer class, and each product is assigned a product class. [!DNL Commerce] analyzes the shopping cart of each customer and calculates the appropriate tax according to the customer and product classes, and the region (based on shipping address, billing address, or shipping origin).
 
 Who is this video for?
 
@@ -22,5 +22,5 @@ Who is this video for?
 
 ## Additional resources
 
-[Tax Rules](https://docs.magento.com/user-guide/tax/tax-rules.html)
-[Currency](https://docs.magento.com/user-guide/stores/currency.html)
+- [Tax Rules](https://docs.magento.com/user-guide/tax/tax-rules.html)
+- [Currency](https://docs.magento.com/user-guide/stores/currency.html)

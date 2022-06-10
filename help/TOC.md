@@ -115,7 +115,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Dependency injection example](./developer/dependency-injection.md)
 
 + Frontend Development {#frontend-development}
-  + Page Builder {#page-builder}
+  + Page Builder for Developers {#page-builder}
     + [1 - Introduction](./developer/page-builder/1-intro-case-studies.md)
     + [2 - Configuration and content](./developer/page-builder/2-config-create-content.md)
     + [3 - Themes](./developer/page-builder/3-themes.md)

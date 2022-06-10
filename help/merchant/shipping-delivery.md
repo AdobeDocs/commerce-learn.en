@@ -9,7 +9,7 @@ activity: use
 ---
 # Manage Shipping and Delivery Methods
 
-Managing your shipping and delivery methods is critical to making sure you're able to get your product into the hands of your customers. In this video, you'll learn how to manage your shipping origin, multishipping, delivery fee, and carrier settings.
+Managing your shipping and delivery methods is critical to making sure you're able to get your product into the hands of your customers. In this video, you learn how to manage your shipping origin, multishipping, delivery fee, and carrier settings.
 
 Who is this video for?
 
@@ -22,6 +22,6 @@ Who is this video for?
 
 ## Additional resources
 
-[Shipping Settings](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
-[Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/methods-basic.html)
-[Shipping Carriers](https://docs.magento.com/user-guide/shipping/carriers.html)
+- [Shipping Settings](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
+- [Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/methods-basic.html)
+- [Shipping Carriers](https://docs.magento.com/user-guide/shipping/carriers.html)

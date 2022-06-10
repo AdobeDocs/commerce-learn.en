@@ -9,7 +9,7 @@ activity: use
 ---
 # Seller-Assisted Shopping
 
-Customers sometimes need assistance to complete a purchase. Some customers like to shop online, but would rather the order by phone. You can offer immediate assistance to both guests and customers who have registered for an account with your store.
+Customers sometimes need assistance to complete a purchase. Some customers like to shop online, but might prefer to order by phone. You can offer immediate assistance to both guests and customers who have registered for an account with your store.
 
 Who is this video for?
 
@@ -22,5 +22,5 @@ Who is this video for?
 
 ## Additional resources
 
-[Providing Shopper Assistance](https://docs.magento.com/user-guide/customers/login-as-customer.html)
-[Shopping Assistance](https://docs.magento.com/user-guide/sales/shopping-assistance.html)
+- [Providing Shopper Assistance](https://docs.magento.com/user-guide/customers/login-as-customer.html)
+- [Shopping Assistance](https://docs.magento.com/user-guide/sales/shopping-assistance.html)
