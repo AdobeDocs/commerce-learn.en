@@ -50,10 +50,14 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [5.2 - Customer Management](./merchant/introduction/5-2-customer-management.md)
     + [5.3 - Email Communications](./merchant/introduction/5-3-store-communications.md)
 
-+ Store Administration {#store-admin}
++ Store Administration {#admin}
   + [Manage User Roles and Permissions](./merchant/users-roles-permissions.md)
+  + [Two-Factor Authentication](./merchant/two-factor-authentication.md)
   + [Manage Currency and Tax Rules](./merchant/currency-tax-rules.md)
   + [Shipping and Delivery Methods](./merchant/shipping-delivery.md)
+  + [Add Websites, Stores, and Store Views](./merchant/add-websites-stores-views.md)
+  + [Change a Store URL](./merchant/change-store-url.md)
+  + [Store Site Map Setup](./merchant/site-map-setup.md) 
 
 + Customer Management {#customers}
   + [Create Customer Segments](./merchant/customer-segments.md)
@@ -69,13 +73,11 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Manage SEO Metadata](./merchant/seo-metadata.md)
   + [Manage URL Rewrites for SEO](./merchant/seo-url-rewrites.md)
 
-+ Working in the Admin {#admin}
-  + [Two-Factor Authentication](./merchant/two-factor-authentication.md)
-  + [Add Websites, Stores, and Store Views](./merchant/add-websites-stores-views.md)
-  + [Change a Store URL](./merchant/change-store-url.md)
-  + [Store Site Map Setup](./merchant/site-map-setup.md)
-  + [Promotional Price Rules](./merchant/promotions-price-rules.md)
++ Content Management {#content}
   + [Page Builder Overview](./merchant/page-builder-overview.md)
+
++ Marketing Tools {#marketing}
+  + [Promotional Price Rules](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
   + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
