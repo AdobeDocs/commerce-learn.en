@@ -7,57 +7,77 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
 
 + [[!DNL Commerce] Videos and Tutorials](overview.md)
 
-+ Getting started {#getting-started}
-  + [!DNL Commerce] on cloud infrastructure {#cloud}
++ Getting Started {#getting-started}
+  + [!DNL Commerce] on Cloud Infrastructure {#cloud}
     + [1 - Overview](./cloud/1-overview.md)
-    + [2 - Hosted accounts](./cloud/2-accounts.md)
-    + [3 - Cloud projects](./cloud/3-projects.md)
+    + [2 - Hosted Accounts](./cloud/2-accounts.md)
+    + [3 - Cloud Projects](./cloud/3-projects.md)
     + [4 - Deployment](./cloud/4-deployment.md)
     + [5 - Development](./cloud/5-dev-config.md)
     + [6 - Services and DNS](./cloud/6-launch.md)
-  + [!DNL Commerce] for developers {#development}
+  + [!DNL Commerce] for Developers {#development}
     + [1.1 - Overview](./developer/backend-1-1-overview.md)
-    + [1.2 - Development workflow](./developer/backend-1-2-workflow.md)
+    + [1.2 - Development Workflow](./developer/backend-1-2-workflow.md)
     + [2 - Installation](./developer/backend-2-install.md)
-    + [3 - Post install](./developer/backend-3-post-install.md)
+    + [3 - Post Install](./developer/backend-3-post-install.md)
     + [4 - Code base](./developer/backend-4-code-base.md)
-    + [5.1 - Development basics](./developer/backend-5-1-dev-basics.md)
-    + [5.2 - Declarative schema](./developer/backend-5-2-declarative-schema.md)
+    + [5.1 - Development Basics](./developer/backend-5-1-dev-basics.md)
+    + [5.2 - Declarative Schema](./developer/backend-5-2-declarative-schema.md)
     + [5.3 - Routing](./developer/backend-5-3-routing.md)
-    + [5.4 - Create an [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
+    + [5.4 - Create an [!DNL Admin] Page](./developer/backend-5-4-admin-page.md)
     + [6 - Exercises](./developer/backend-6-practice.md)
-  + [!DNL Commerce] for business users {#merchants}
-    + [1.1 - [!DNL Admin] menus](./merchant/introduction/1-1-menus.md)
-    + [1.2 - Data grids](./merchant/introduction/1-2-data-grids.md)
-    + [1.3 - Scopes, sites, and stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
-    + [1.4 - Store views and caches](./merchant/introduction/1-4-store-views-cache.md)
-    + [1.5 - Admin user accounts and roles](./merchant/introduction/1-5-users-roles.md)
-    + [1.6 - Role scopes](./merchant/introduction/1-6-role-scopes.md)
-    + [1.7 - Business settings](./merchant/introduction/1-7-business-settings.md)
+  + [!DNL Commerce] for Business Users {#merchants}
+    + [1.1 - [!DNL Admin] Menus](./merchant/introduction/1-1-menus.md)
+    + [1.2 - Data Grids](./merchant/introduction/1-2-data-grids.md)
+    + [1.3 - Scopes, Sites, and Stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
+    + [1.4 - Store Views and Caches](./merchant/introduction/1-4-store-views-cache.md)
+    + [1.5 - Admin User Accounts and Roles](./merchant/introduction/1-5-users-roles.md)
+    + [1.6 - Role Scopes](./merchant/introduction/1-6-role-scopes.md)
+    + [1.7 - Business Settings](./merchant/introduction/1-7-business-settings.md)
     + [2.1 - Categories](./merchant/introduction/2-1-categories.md)
-    + [2.2 - Category landing pages](./merchant/introduction/2-2-category-landing-page.md)
-    + [3.1 - Product types and options](./merchant/introduction/3-1-product-types-options.md)
-    + [3.2 - Product settings](./merchant/introduction/3-2-product-settings.md)
-    + [3.3 - Product attributes](./merchant/introduction/3-3-product-attributes.md)
-    + [3.4 - Product attribute sets](./merchant/introduction/3-4-product-attribute-sets.md)
-    + [3.5 - Create a simple product](./merchant/introduction/3-5-create-simple-product.md)
-    + [3.6 - Configurable attributes](./merchant/introduction/3-6-configurable-attributes.md)
-    + [3.7 - Import/export products](./merchant/introduction/3-7-import-export-products.md)
-    + [3.8 - Gift cards](./merchant/introduction/3-8-gift-cards.md)
-    + [4.1 - Layered navigation](./merchant/introduction/4-1-layered-navigation.md)
-    + [4.2 - Arrange product categories](./merchant/introduction/4-2-arrange-product-categories.md)
-    + [5.1 - Storefront experience](./merchant/introduction/5-1-storefront-experience.md)
-    + [5.2 - Customer management](./merchant/introduction/5-2-customer-management.md)
-    + [5.3 - Email communications](./merchant/introduction/5-3-store-communications.md)
+    + [2.2 - Category Landing Pages](./merchant/introduction/2-2-category-landing-page.md)
+    + [3.1 - Product Types and Options](./merchant/introduction/3-1-product-types-options.md)
+    + [3.2 - Product Settings](./merchant/introduction/3-2-product-settings.md)
+    + [3.3 - Product Attributes](./merchant/introduction/3-3-product-attributes.md)
+    + [3.4 - Product Attribute Sets](./merchant/introduction/3-4-product-attribute-sets.md)
+    + [3.5 - Create a Simple Product](./merchant/introduction/3-5-create-simple-product.md)
+    + [3.6 - Configurable Attributes](./merchant/introduction/3-6-configurable-attributes.md)
+    + [3.7 - Import/Export Products](./merchant/introduction/3-7-import-export-products.md)
+    + [3.8 - Gift Cards](./merchant/introduction/3-8-gift-cards.md)
+    + [4.1 - Layered Navigation](./merchant/introduction/4-1-layered-navigation.md)
+    + [4.2 - Arrange Product Categories](./merchant/introduction/4-2-arrange-product-categories.md)
+    + [5.1 - Storefront Experience](./merchant/introduction/5-1-storefront-experience.md)
+    + [5.2 - Customer Management](./merchant/introduction/5-2-customer-management.md)
+    + [5.3 - Email Communications](./merchant/introduction/5-3-store-communications.md)
 
-+ Working in the Admin {#admin}
-  + [Users, roles, and permissions](./merchant/users-roles-permissions.md)
-  + [Two-factor authentication](./merchant/two-factor-authentication.md)
-  + [Add websites, stores, and store views](./merchant/add-websites-stores-views.md)
-  + [Change a store URL](./merchant/change-store-url.md)
-  + [Store site map setup](./merchant/site-map-setup.md)
-  + [Promotional price rules](./merchant/promotions-price-rules.md)
-  + [Page Builder overview](./merchant/page-builder-overview.md)
++ Store Administration {#admin}
+  + [Manage User Roles and Permissions](./merchant/users-roles-permissions.md)
+  + [Two-Factor Authentication](./merchant/two-factor-authentication.md)
+  + [Manage Currency and Tax Rules](./merchant/currency-tax-rules.md)
+  + [Shipping and Delivery Methods](./merchant/shipping-delivery.md)
+  + [Add Websites, Stores, and Store Views](./merchant/add-websites-stores-views.md)
+  + [Change a Store URL](./merchant/change-store-url.md)
+  + [Store Site Map Setup](./merchant/site-map-setup.md) 
+
++ Customer Management {#customers}
+  + [Create Customer Segments](./merchant/customer-segments.md)
+  + [Create Customer Groups](./merchant/customer-groups.md)
+  + [Create Customer Attributes](./merchant/customer-attributes.md)
+  + [Seller-Assisted Shopping](./merchant/seller-assisted-shopping.md)
+
++ Catalog Management {#catalog}
+  + [Create a Category](./merchant/category-create.md)
+  + [Manage Products in a Category](./merchant/category-products.md)
+  + [Inventory Management](./merchant/inventory-management.md)
+  + [Create Product Attributes](./merchant/product-attributes-create.md)
+  + [Manage SEO Metadata](./merchant/seo-metadata.md)
+  + [Manage URL Rewrites for SEO](./merchant/seo-url-rewrites.md)
+
++ Content Management {#content}
+  + [Page Builder Overview](./merchant/page-builder-overview.md)
+
++ Marketing Tools {#marketing}
+  + [Promotional Price Rules](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
   + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
@@ -85,19 +105,19 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [Share results and export data](./merchant/business-intelligence/11-share-results-export-data.md)
     + [Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
-+ Upgrades {#upgrade}
++ Commerce Upgrades {#upgrade}
   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
   + [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
   + [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
 
-+ Backend development {#backend-development}
++ Backend Development {#backend-development}
   + [Add a new table to a database](./developer/add-new-db-table.md)
   + [Create a module](developer/create-module.md)
   + [Add a new product attribute](./developer/add-product-attribute.md)
   + [Dependency injection example](./developer/dependency-injection.md)
 
-+ Frontend development {#frontend-development}
-  + Page Builder {#page-builder}
++ Frontend Development {#frontend-development}
+  + Page Builder for Developers {#page-builder}
     + [1 - Introduction](./developer/page-builder/1-intro-case-studies.md)
     + [2 - Configuration and content](./developer/page-builder/2-config-create-content.md)
     + [3 - Themes](./developer/page-builder/3-themes.md)
