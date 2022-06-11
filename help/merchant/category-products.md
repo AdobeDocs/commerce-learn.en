@@ -6,6 +6,7 @@ doc-type: feature videos
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 ---
 # Manage Products in a Category
 

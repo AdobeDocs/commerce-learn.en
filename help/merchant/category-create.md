@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 ---
 # Create a Category
 

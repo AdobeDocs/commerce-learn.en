@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
 ---
 # Manage SEO Metadata
 

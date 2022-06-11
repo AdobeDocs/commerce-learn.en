@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
 ---
 # Create Product Attributes
 

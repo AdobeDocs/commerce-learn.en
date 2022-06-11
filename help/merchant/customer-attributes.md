@@ -1,11 +1,12 @@
 ---
 title: Create Customer Attributes
-description: Learn how to add custom attributes to the Account Information, Address Book, and Billing Information sections of a customer’s account. 
+description: Learn how to add custom attributes to the Account Information, Address Book, and Billing Information sections of a customer’s account.
 kt: 10547
 doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 ---
 # Create Customer Attributes
 

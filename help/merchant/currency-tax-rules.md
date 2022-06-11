@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 ---
 # Manage Currency and Tax Rules
 

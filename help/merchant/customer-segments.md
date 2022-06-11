@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 ---
 # Create Customer Segments
 

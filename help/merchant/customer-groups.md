@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
 ---
 # Create Customer Groups
 

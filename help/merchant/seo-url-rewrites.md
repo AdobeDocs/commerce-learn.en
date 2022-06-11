@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 ---
 # Manage URL Rewrites for SEO
 

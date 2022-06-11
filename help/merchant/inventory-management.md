@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
 ---
 # Inventory Management
 

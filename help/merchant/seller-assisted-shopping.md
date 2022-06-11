@@ -1,11 +1,12 @@
 ---
 title: Seller-Assisted Shopping
-description: Learn how to add you can offer immediate assistance to both guests and customers who have registered for an account with your store. 
+description: Learn how to add you can offer immediate assistance to both guests and customers who have registered for an account with your store.
 kt: 10548
 doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
 ---
 # Seller-Assisted Shopping
 

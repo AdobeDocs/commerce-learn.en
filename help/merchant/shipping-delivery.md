@@ -6,6 +6,7 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
+exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
 ---
 # Manage Shipping and Delivery Methods
 
