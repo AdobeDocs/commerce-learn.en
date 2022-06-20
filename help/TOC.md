@@ -93,7 +93,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
 
 + Orders and Fulfillment {#orders}
   + [Store Fulfillment Overview](./merchant/store-fulfillment.md)
-  + [Process an Order and Check Status](./merchant/order-status.md)
+  + [Manage Order Status](./merchant/order-status.md)
 
 + System Tools {#tools}
   + [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md)
