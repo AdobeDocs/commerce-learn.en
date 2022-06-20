@@ -92,6 +92,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Use Live Search](./merchant/live-search.md)
 
 + Orders and Fulfillment {#orders}
+  + [Store Fulfillment Overview](./merchant/store-fulfillment.md)
   + [Process an Order and Check Status](./merchant/order-status.md)
 
 + System Tools {#tools}
@@ -130,9 +131,9 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Use the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Backend Development {#backend-development}
-  + [Add a new table to a database](./developer/add-new-db-table.md)
+  + [Add a table to a database](./developer/add-new-db-table.md)
   + [Create a module](developer/create-module.md)
-  + [Add a new product attribute](./developer/add-product-attribute.md)
+  + [Add a product attribute](./developer/add-product-attribute.md)
   + [Dependency injection example](./developer/dependency-injection.md)
 
 + Frontend Development {#frontend-development}
