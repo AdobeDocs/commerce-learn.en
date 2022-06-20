@@ -3,7 +3,7 @@ title: Store Fulfillment Overview
 description: Learn about Store Fulfillment for Adobe Commerce by Walmart Commerce Technologies, an advanced omnichannel fulfillment solution that delivers an end to end Buy Online, Pick up In-Store (BOPIS) experience.
 landing-page-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
 doc-type: feature video
-solution: Adobe Commerce, Store Fulfillment
+solution: Adobe Commerce
 audience: all
 activity: use
 ---

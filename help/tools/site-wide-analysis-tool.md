@@ -2,7 +2,7 @@
 title: The Site-Wide Analysis Tool Dashboard
 description: Watch this technical video and learn how to use the Site-Wide Analysis Tool dashboard to access detailed system insights and recommendations to ensure the security and operability of your Adobe Commerce installation.
 doc-type: technical video
-role: developer, admin
+role: Developer, Admin
 audience: all
 activity: use
 ---
