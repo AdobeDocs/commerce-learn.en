@@ -30,11 +30,7 @@ In this video, learn how to:
 
 ## Video content
 
->[!NOTE]
->
->The content in the video reflects the Adobe Commerce 2.3.1 release. For information about updates in later releases, see the [Release notes for Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
-
->[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## Additional resources
 

@@ -54,10 +54,11 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Manage User Roles and Permissions](./merchant/users-roles-permissions.md)
   + [Two-Factor Authentication](./merchant/two-factor-authentication.md)
   + [Manage Currency and Tax Rules](./merchant/currency-tax-rules.md)
-  + [Shipping and Delivery Methods](./merchant/shipping-delivery.md)
   + [Add Websites, Stores, and Store Views](./merchant/add-websites-stores-views.md)
   + [Change a Store URL](./merchant/change-store-url.md)
-  + [Store Site Map Setup](./merchant/site-map-setup.md) 
+  + [Store Site Map Setup](./merchant/site-map-setup.md)
+  + [Shipping and Delivery Methods](./merchant/shipping-delivery.md)
+  + [Use Payment Services](./merchant/payment-services.md)
 
 + Customer Management {#customers}
   + [Create Customer Segments](./merchant/customer-segments.md)
@@ -70,14 +71,33 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Manage Products in a Category](./merchant/category-products.md)
   + [Inventory Management](./merchant/inventory-management.md)
   + [Create Product Attributes](./merchant/product-attributes-create.md)
+  + [Use Product Attributes with PWA Studio](./merchant/product-attributes-pwa.md)
   + [Manage SEO Metadata](./merchant/seo-metadata.md)
   + [Manage URL Rewrites for SEO](./merchant/seo-url-rewrites.md)
 
 + Content Management {#content}
   + [Page Builder Overview](./merchant/page-builder-overview.md)
+  + [Create Static and Dynamic Blocks](./merchant/static-dynamic-blocks.md)
+  + [Create Widgets](./merchant/widgets.md)
+  + [Use Content Templates](./merchant/content-templates.md)
+  + [Content Staging](./merchant/content-staging.md)
+  + [Manage the Media Gallery](./merchant/media-gallery.md)
 
 + Marketing Tools {#marketing}
   + [Promotional Price Rules](./merchant/promotions-price-rules.md)
+  + [Create Catalog Price Rules](./merchant/catalog-price-rules.md)
+  + [Create Cart Price Rules](./merchant/cart-price-rules.md)
+  + [Manage Related Product Rules](./merchant/related-product-rules.md)
+  + [Set Up Product Recommendations](./merchant/product-recommendations.md)
+  + [Use Live Search](./merchant/live-search.md)
+
++ Orders and Fulfillment {#orders}
+  + [Store Fulfillment Overview](./merchant/store-fulfillment.md)
+  + [Manage Order Status](./merchant/order-status.md)
+
++ System Tools {#tools}
+  + [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md)
+  + [Use the Quality Patch Tool](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
   + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
@@ -105,15 +125,15 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [Share results and export data](./merchant/business-intelligence/11-share-results-export-data.md)
     + [Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
-+ Commerce Upgrades {#upgrade}
++ Commerce Upgrades and System Tools {#upgrade}
   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
   + [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
-  + [Using the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
+  + [Use the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Backend Development {#backend-development}
-  + [Add a new table to a database](./developer/add-new-db-table.md)
+  + [Add a table to a database](./developer/add-new-db-table.md)
   + [Create a module](developer/create-module.md)
-  + [Add a new product attribute](./developer/add-product-attribute.md)
+  + [Add a product attribute](./developer/add-product-attribute.md)
   + [Dependency injection example](./developer/dependency-injection.md)
 
 + Frontend Development {#frontend-development}
