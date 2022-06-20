@@ -9,7 +9,7 @@ activity: use
 ---
 # Create Widgets
 
-Widgets are reusable components and you can easily create widgets, and modify existing ones, to automatically update content across your store. In this video, learn how to manage widgets.
+Widgets are reusable components that you can create and modify easily to automatically update content across your store. In this video, learn how to create and manage widgets.
 
 Who is this video for?
 
