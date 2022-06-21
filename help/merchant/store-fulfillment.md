@@ -6,6 +6,7 @@ doc-type: feature video
 solution: Adobe Commerce
 audience: all
 activity: use
+exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 ---
 # Store Fulfillment Overview
 

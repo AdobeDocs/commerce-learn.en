@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
 ---
 # Manage Order Status
 

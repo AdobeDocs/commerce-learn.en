@@ -5,6 +5,7 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 ---
 # Manage the Media Gallery
 

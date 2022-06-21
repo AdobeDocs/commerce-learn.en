@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
 ---
 # Set Up Product Recommendations
 

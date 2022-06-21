@@ -5,6 +5,7 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 ---
 # Use Product Attributes with PWA Studio
 

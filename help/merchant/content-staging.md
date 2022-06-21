@@ -5,6 +5,7 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 ---
 # Content Staging
 

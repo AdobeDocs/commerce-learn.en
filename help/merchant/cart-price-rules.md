@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 ---
 # Create a Cart Price Rule
 

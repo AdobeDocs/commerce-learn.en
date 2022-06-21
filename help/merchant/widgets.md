@@ -1,11 +1,12 @@
 ---
 title: Create Widgets
 description: Learn how to create widgets, and modify existing ones, to automatically update content across your store.
-kt: 
+kt: null
 doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
 ---
 # Create Widgets
 

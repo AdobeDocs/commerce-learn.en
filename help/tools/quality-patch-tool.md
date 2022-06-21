@@ -5,6 +5,7 @@ doc-type: technical video
 role: Developer
 audience: all
 activity: use
+exl-id: d3d42654-8574-48d1-814c-ec46107f1371
 ---
 # Use the Quality Patch Tool
 

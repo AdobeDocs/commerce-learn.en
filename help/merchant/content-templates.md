@@ -5,6 +5,7 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 ---
 # Create Content Templates
 

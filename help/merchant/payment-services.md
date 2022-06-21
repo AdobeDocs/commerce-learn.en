@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
 ---
 # Use Payment Services
 

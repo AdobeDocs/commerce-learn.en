@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
 ---
 # Manage Related Product Rules
 
