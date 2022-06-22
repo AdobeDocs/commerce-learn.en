@@ -36,7 +36,7 @@ In this webinar:
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## Useful resources
 
