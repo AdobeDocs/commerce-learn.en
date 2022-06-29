@@ -9,7 +9,7 @@ Welcome to the [!DNL Commerce] videos and tutorials collection. Using these reso
 
 ## What's new
 
-Explore the latest additions and updated videos:
+Explore the latest additions and updates:
 
 | Subject area | New or updated videos |
 | ------------ | ---------- |
