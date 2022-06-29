@@ -84,7 +84,6 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Manage the Media Gallery](./merchant/media-gallery.md)
 
 + Marketing Tools {#marketing}
-  + [Promotional Price Rules](./merchant/promotions-price-rules.md)
   + [Create Catalog Price Rules](./merchant/catalog-price-rules.md)
   + [Create Cart Price Rules](./merchant/cart-price-rules.md)
   + [Manage Related Product Rules](./merchant/related-product-rules.md)
@@ -95,9 +94,16 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Store Fulfillment Overview](./merchant/store-fulfillment.md)
   + [Manage Order Status](./merchant/order-status.md)
 
++ B2B for Adobe Commerce {#b2b}
+  + [Manage Company Accounts](./merchant/b2b/company-accounts.md)
+  + [Manage Shared Catalogs](./merchant/b2b/shared-catalogs.md)
+  + [Manage Company Credit](./merchant/b2b/company-credit.md)
+  + [Manage Purchase Orders](./merchant/b2b/purchase-orders.md)
+
 + System Tools {#tools}
   + [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md)
-  + [Use the Quality Patch Tool](./tools/quality-patch-tool.md)
+  + [Observation for Adobe Commerce](./tools/observation-tool.md)
+  + [Quality Patch Tool](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
   + [Filter Sets](./merchant/business-intelligence/filter-sets.md)
@@ -125,7 +131,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [Share results and export data](./merchant/business-intelligence/11-share-results-export-data.md)
     + [Customer success stories](./merchant/business-intelligence/12-customer-success.md)
 
-+ Commerce Upgrades and System Tools {#upgrade}
++ Commerce Upgrades {#upgrade}
   + [Adobe Commerce 2.4 Upgrade Workshop](./upgrade/2.4-upgrade-workshop.md)
   + [Upgrade Compatibility Tool Overview](./upgrade/upgrade-compatibility-tool-overview.md)
   + [Use the Upgrade Compatibility Tool in PHP Storm](./upgrade/uct-phpstorm.md)

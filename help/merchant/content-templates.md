@@ -11,7 +11,7 @@ exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 
 Using templates saves you time and effort when creating content (or replacing older content). For example, you can save your existing Page Builder content as a template, and then apply that template (with all of its content and layouts) to another area to quickly create Page Builder content.
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - Content designers

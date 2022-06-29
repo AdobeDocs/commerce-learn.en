@@ -12,7 +12,7 @@ exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
 
 Adobe Commerce uses attributes to manage the information associated with products, customers, and product ratings. Attributes are pieces of information that might appear as fields in forms, reports, product reviews, layered navigation, and email messages. They are the building blocks of your product catalog, and describe specific characteristics of a product. 
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers

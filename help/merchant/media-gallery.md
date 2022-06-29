@@ -11,7 +11,7 @@ exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 
 With Adobe Commerce or Magento Open Source 2.4, merchants can use the new enhanced Media Gallery to organize and manage their media files on the server.
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers

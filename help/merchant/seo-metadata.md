@@ -12,7 +12,7 @@ exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
 
 Your store is loaded with places where you can enter keyword-rich metadata to improve the way search engines index your site. Over time, you can fine-tune the meta data to target the buying patterns and preferences of your customers.
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers

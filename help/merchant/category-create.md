@@ -12,7 +12,7 @@ exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 
 Before you add products to your catalog, you must establish the basic category structure of your catalog. Products may be assigned to zero or more categories. Categories are typically created in advance, before products are added to the catalog. However, you can also add categories “on the fly” while creating a product. 
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers

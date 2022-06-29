@@ -9,9 +9,11 @@ exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
 ---
 # Manage Related Product Rules
 
+{#ee-feature}
+
 Related product rules give you the ability to target the selection of products that are presented to customers as related products, up-sells, and cross-sells. Each product rule can be associated with a customer segment to produce a dynamic display of targeted merchandising.
 
-Who is this video for?
+## Who is this video for?
 
 - eCommerce marketers
 - Website managers

@@ -12,7 +12,7 @@ exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
 
 Customer groups determine which discounts are available and the tax class that is associated with the group. The default customer groups are _General_, _Not Logged In_, and _Wholesale_. In this video, you learn how to create a customer group and how to assign customers to specific groups.
 
-Who is this video for?
+## Who is this video for?
 
 - Store administrators
 - eCommerce marketers

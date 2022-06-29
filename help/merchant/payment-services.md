@@ -17,7 +17,7 @@ For small business, mid-market contender, or large enterprise, Payment Services 
 - Designed to meet all your payments needs
 - Self-contained within the Admin
 
-Who is this video for?
+## Who is this video for?
 
 - Operational engineers
 - Website managers

@@ -12,7 +12,7 @@ exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
 
 Customers sometimes need assistance to complete a purchase. Some customers like to shop online, but might prefer to order by phone. You can offer immediate assistance to both guests and customers who have registered for an account with your store.
 
-Who is this video for?
+## Who is this video for?
 
 - Sales managers
 - Customer Service Representatives 

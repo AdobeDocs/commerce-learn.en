@@ -12,7 +12,7 @@ exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 
 Customer attributes provide the information that is required to support the order, fulfillment, and customer management processes. Because your business is unique, you might need fields in addition to the default fields provided by the system. You can add custom attributes to the Account Information, Address Book, and Billing Information sections of the customer’s account. 
 
-Who is this video for?
+## Who is this video for?
 
 - Store administrators
 - eCommerce marketers

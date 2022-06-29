@@ -9,11 +9,13 @@ exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
 ---
 # Set Up Product Recommendations
 
+{#ee-feature}
+
 Product recommendations are a powerful marketing tool that you can use to increase conversions, boost revenue, and stimulate shopper engagement. Adobe Commerce product recommendations are powered by Adobe Sensei, which uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data. This data, when combined with your Adobe Commerce catalog, results in a highly engaging, relevant, and personalized experience. 
 
 In this video, learn how to set up product recommendations.
 
-Who is this video for?
+## Who is this video for?
 
 - eCommerce marketers
 - Website managers

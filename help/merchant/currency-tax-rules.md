@@ -12,7 +12,7 @@ exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 
 Tax rules incorporate a combination of product class, customer class, and tax rate. Each customer is assigned to a customer class, and each product is assigned a product class. [!DNL Commerce] analyzes the shopping cart of each customer and calculates the appropriate tax according to the customer and product classes, and the region (based on shipping address, billing address, or shipping origin).
 
-Who is this video for?
+## Who is this video for?
 
 - Store administrators
 - eCommerce managers

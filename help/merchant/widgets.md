@@ -12,7 +12,7 @@ exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
 
 Widgets are reusable components that you can create and modify easily to automatically update content across your store. In this video, learn how to create and manage widgets.
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - Content designers

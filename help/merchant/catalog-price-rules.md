@@ -11,7 +11,7 @@ exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
 
 Catalog price rules can be used to offer products to buyers at a discounted price, based on a set of defined conditions. Catalog price rules do not use coupon codes because they are triggered before a product is placed into the shopping cart. For example, you can define and set the conditions for a price rule that when met, automatically display products with a special or promotional price. 
 
-Who is this video for?
+## Who is this video for?
 
 - eCommerce marketers
 - Website managers

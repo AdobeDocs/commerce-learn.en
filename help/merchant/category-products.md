@@ -12,7 +12,7 @@ exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 
 Organizing your products into categories is key to managing your catalogs. In this video, you learn about creating a product in a category, visual merchandizing, and using the automated category sort functionality.
 
-Who is this video for?
+## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers

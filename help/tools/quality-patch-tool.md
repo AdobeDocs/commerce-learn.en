@@ -17,7 +17,7 @@ The Quality Patch Tool is a command-line tool that delivers quality patches for 
 
 The Adobe Commerce support team and the Magento Open Source community develop the quality patches.
 
-Who is this video for?
+## Who is this video for?
 
 - Backend developers
 - Site managers

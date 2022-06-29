@@ -11,7 +11,7 @@ exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 
 In this video, learn how to manage product attributes when you have a storefront built with PWA Studio.
 
-Who is this video for?
+## Who is this video for?
 
 - Frontend developers
 - Project managers

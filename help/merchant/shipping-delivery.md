@@ -12,7 +12,7 @@ exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
 
 Managing your shipping and delivery methods is critical to making sure you're able to get your product into the hands of your customers. In this video, you learn how to manage your shipping origin, multishipping, delivery fee, and carrier settings.
 
-Who is this video for?
+## Who is this video for?
 
 - Store administrators
 - eCommerce managers

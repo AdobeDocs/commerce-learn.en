@@ -12,7 +12,7 @@ exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 
 The URL Rewrite tool lets you change any URL that is associated with a product, category, or CMS page. When the rewrite goes into effect, any links that point to the previous URL are redirected to the new address.
 
-Who is this video for?
+## Who is this video for?
 
 - Website manager
 - eCommerce merchandisers
