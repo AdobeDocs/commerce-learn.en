@@ -98,7 +98,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Manage Company Accounts](./merchant/b2b/company-accounts.md)
   + [Manage Shared Catalogs](./merchant/b2b/shared-catalogs.md)
   + [Manage Company Credit](./merchant/b2b/company-credit.md)
-  + [Manage Purchase Orders](./merchant/b2b/purchase-orders.md)
+  + [Purchase Orders and Approvals](./merchant/b2b/purchase-orders.md)
 
 + System Tools {#tools}
   + [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md)
