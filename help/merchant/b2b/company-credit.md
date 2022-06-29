@@ -8,7 +8,7 @@ activity: use
 ---
 # Manage Company Credit
 
-{#b2b-feature}
+{{b2b-feature}}
 
 For companies that have _[!UICONTROL Payment on Account]_ enabled and have company credit available, they can make purchases on their account up to the credit limit that is granted. When enabled, customers can check the status of their company credit from their account dashboard.
 

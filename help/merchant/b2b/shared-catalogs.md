@@ -8,7 +8,7 @@ activity: use
 ---
 # Manage Shared Catalogs
 
-{#b2b-feature}
+{{b2b-feature}}
 
 B2B for Adobe Commerce gives you the ability to maintain gated shared catalogs with custom pricing for different companies. In addition to the standard primary product catalog, it provides customer access to two types of shared catalogs with different pricing structures.
 

@@ -10,7 +10,7 @@ exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 ---
 # Create Customer Segments
 
-{#ee-feature}
+{{ee-feature}}
 
 Customer segments allow you to dynamically display content and promotions to specific customers, based on properties such as customer address, order history, shopping cart contents. You can optimize marketing initiatives based on targeted segments with shopping cart price rules. You can also generate reports and export the list of targeted customers.
 

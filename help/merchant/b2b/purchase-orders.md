@@ -8,7 +8,7 @@ activity: use
 ---
 # Purchase Orders and Approvals
 
-{#b2b-feature}
+{{b2b-feature}}
 
 Most B2B companies have order approval rules for purchase orders. Companies can control who can create purchase orders and how much they can spend. For example:
 

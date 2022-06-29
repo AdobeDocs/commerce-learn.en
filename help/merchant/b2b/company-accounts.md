@@ -8,7 +8,7 @@ activity: use
 ---
 # Manage Company Accounts
 
-{#b2b-feature}
+{{b2b-feature}}
 
 For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company accounts and their status. You can manage your company accounts here and any pending requests for approval appear at the top of the list. The standard workplace controls can be used to filter the list, change the column layout, save views, and export data.
 
