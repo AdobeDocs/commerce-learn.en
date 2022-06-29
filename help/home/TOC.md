@@ -156,7 +156,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
 + PWA Studio {#pwa-studio}
   + Introduction to PWA Studio {#introduction}
     + [1 - Overview](../pwa/introduction/1-overview.md)
-    + [2 - PWA Studio tools](./pwa/introduction/2-pwa-studio-tools.md)
+    + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
     + [3 - Launch](../pwa/introduction/3-launch.md)
     + [4 - UPWARD](../pwa/introduction/4-upward.md)
     + [5 - Getting started](../pwa/introduction/5-getting-started.md)
