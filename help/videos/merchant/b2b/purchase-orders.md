@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 ---
 # Purchase Orders and Approvals
 

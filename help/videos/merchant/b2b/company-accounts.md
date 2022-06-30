@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 ---
 # Manage Company Accounts
 

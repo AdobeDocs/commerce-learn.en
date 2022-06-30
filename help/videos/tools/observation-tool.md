@@ -5,6 +5,7 @@ doc-type: technical video
 role: Developer, Admin
 audience: all
 activity: use
+exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 ---
 # Use Observation for Adobe Commerce
 

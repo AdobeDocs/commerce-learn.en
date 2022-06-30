@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: 74fb5548-a077-4c09-a351-0be830060841
 ---
 # Manage Shared Catalogs
 
