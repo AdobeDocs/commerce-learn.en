@@ -11,7 +11,7 @@ exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 
 {{b2b-feature}}
 
-For companies that have _[!UICONTROL Payment on Account]_ enabled and have company credit available, they can make purchases on their account up to the credit limit that is granted. When enabled, customers can check the status of their company credit from their account dashboard.
+For companies that have _[!UICONTROL Payment on Account]_ enabled and have company credit available, they can make purchases on their account up to the credit limit that is granted. With this feature, customers can check the status of their company credit from their account dashboard.
 
 You can set the following credit-related parameters for each company profile:
 
