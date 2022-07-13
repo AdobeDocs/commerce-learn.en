@@ -26,7 +26,7 @@ During this recorded webinar, you learn how to calculate the return on investmen
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/342497?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344680?quality=12&learn=on)
 
 ## Useful resources
 
