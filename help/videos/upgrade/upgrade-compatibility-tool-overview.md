@@ -18,8 +18,8 @@ In this video:
 - What the Upgrade Compatibility Tool is
 - How it can help you quickly identify the errors and fixes required to upgrade to a newer Adobe Commerce version
 - How to access the HTML results to help visualize modules by severity and number of incompatibilities 
- 
-To learn more about performing and simplifying your upgrades, see the [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+
+To learn more about the tool see the [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). If you want to know more about performing and simplifying your upgrades, see the [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Who is this video for?
 
@@ -32,6 +32,7 @@ To learn more about performing and simplifying your upgrades, see the [Upgrade G
 
 ## Additional resources
 
+- [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Released versions](https://devdocs.magento.com/release/released-versions.html)
 - [Upcoming releases](https://devdocs.magento.com/release/)
