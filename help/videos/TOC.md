@@ -67,6 +67,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
   + [Seller-Assisted Shopping](./merchant/seller-assisted-shopping.md)
 
 + Catalog Management {#catalog}
+  + [Catalog Service for Adobe Commerce](./merchant/catalog-service.md)
   + [Create a Category](./merchant/category-create.md)
   + [Manage Products in a Category](./merchant/category-products.md)
   + [Inventory Management](./merchant/inventory-management.md)
