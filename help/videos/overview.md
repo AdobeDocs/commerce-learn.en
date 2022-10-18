@@ -21,7 +21,10 @@ Explore the latest additions and updates:
 | Orders and fulfillment | [Store Fulfillment Overview](./merchant/store-fulfillment.md) <br>[Manage Order Status](./merchant/order-status.md)|
 | B2B for Adobe Commerce |  [Manage Company Accounts](./merchant/b2b/company-accounts.md)  <br>[Manage Shared Catalogs](./merchant/b2b/shared-catalogs.md) <br>[Manage Company Credit](./merchant/b2b/company-credit.md) <br>[Purchase Orders and Approvals](./merchant/b2b/purchase-orders.md)|
 | System tools | [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md) <br>[Observation for Adobe Commerce](./tools/observation-tool.md) <br>[Use the Quality Patch Tool](./tools/quality-patch-tool.md)|
-| MBI |[Getting Started with MBI](./merchant/business-intelligence/webinars/getting-started.md) <br>[Managing Data Sets in MBI](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Optimize Your MBI Data Warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[MBI Dashboards Deep Dive](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Holiday Readiness with MBI](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Prepping for the Future](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - Ask an Expert](./merchant/business-intelligence/webinars/ask-expert.md)|
+
+>[!TIP]
+>
+>The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) space provides access to recorded event content that you can watch on demand.
 
 ## Additional resources
 
