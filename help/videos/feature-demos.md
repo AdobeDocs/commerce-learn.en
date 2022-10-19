@@ -1,6 +1,6 @@
 ---
 title: Short demos of Commerce features
-description: The Tutorials and Videos space includes a library of of demo videos that help you learn how to use Commerce features, capabilities, and tooling.
+description: The Tutorials and Videos space includes a library of demo videos that help you learn how to use Commerce features, capabilities, and tooling.
 landing-page-description: Explore our library of demo videos that help you learn how to use Adobe Commerce features, capabilities, and tooling.
 topic: Commerce
 doc-type: video
