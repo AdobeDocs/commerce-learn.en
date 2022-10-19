@@ -21,3 +21,5 @@ Explore our library of demo videos that help you learn how to use Adobe Commerce
 | Orders and fulfillment | [Store Fulfillment Overview](./merchant/store-fulfillment.md) <br>[Manage Order Status](./merchant/order-status.md)|
 | B2B for Adobe Commerce |  [Manage Company Accounts](./merchant/b2b/company-accounts.md)  <br>[Manage Shared Catalogs](./merchant/b2b/shared-catalogs.md) <br>[Manage Company Credit](./merchant/b2b/company-credit.md) <br>[Purchase Orders and Approvals](./merchant/b2b/purchase-orders.md)|
 | System tools | [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md) <br>[Observation for Adobe Commerce](./tools/observation-tool.md) <br>[Use the Quality Patch Tool](./tools/quality-patch-tool.md)|
+
+{style="table-layout:auto"}

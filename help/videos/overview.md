@@ -16,6 +16,8 @@ Explore the latest additions and updates:
 | **[Feature demos list](feature-demos.md)** - Summary page for short feature demos to help you quickly come up to speed on Adobe Commerce features, capabilities, and tooling. | New | 10/19/2022 |
 | **[Catalog Service](./merchant/catalog-service.md)** - New feature demo for the Catalog Service for Adobe Commerce. | New | 9/19/2022 |
 
+{style="table-layout:auto"}
+
 >[!TIP]
 >
 >The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) space provides access to recorded event content that you can watch on demand.
