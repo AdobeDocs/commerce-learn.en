@@ -3,10 +3,12 @@ title: "[!DNL Commerce] Videos and Tutorials"
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 ---
-# <!-- use banner as heading -->![Commerce Videos and Tutorials](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![Commerce videos and tutorials](../assets/banner-videos-home.png) {#videos}
 
 Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a better understanding how to use Adobe Commerce and Magento Open Source to support your ecommerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
+<div id="whats-new-section">
+  
 ## What's new
 
 Explore the latest additions and updates:
@@ -22,6 +24,15 @@ Explore the latest additions and updates:
 | B2B for Adobe Commerce |  [Manage Company Accounts](./merchant/b2b/company-accounts.md)  <br>[Manage Shared Catalogs](./merchant/b2b/shared-catalogs.md) <br>[Manage Company Credit](./merchant/b2b/company-credit.md) <br>[Purchase Orders and Approvals](./merchant/b2b/purchase-orders.md)|
 | System tools | [Site-Wide Analysis Tool Dashboard](./tools/site-wide-analysis-tool.md) <br>[Observation for Adobe Commerce](./tools/observation-tool.md) <br>[Use the Quality Patch Tool](./tools/quality-patch-tool.md)|
 
+ </div>
+ 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+  
 >[!TIP]
 >
 >The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) space provides access to recorded event content that you can watch on demand.
