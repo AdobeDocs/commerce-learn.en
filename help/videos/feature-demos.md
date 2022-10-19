@@ -4,6 +4,7 @@ description: The Tutorials and Videos space includes a library of of demo videos
 landing-page-description: Explore our library of demo videos that help you learn how to use Adobe Commerce features, capabilities, and tooling.
 topic: Commerce
 doc-type: video
+hidefromtoc: yes
 role: Admin, Leader, User
 ---
 # Short demos of Commerce features
