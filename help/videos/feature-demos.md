@@ -6,6 +6,7 @@ topic: Commerce
 doc-type: video
 hidefromtoc: yes
 role: Admin, Leader, User
+last-substantial-update: 2022-09-19
 ---
 # Short demos of Commerce features
 
