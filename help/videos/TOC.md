@@ -50,6 +50,8 @@ user-guide-description: A collection of videos and tutorials for Adobe Commerce 
     + [5.2 - Customer Management](./merchant/introduction/5-2-customer-management.md)
     + [5.3 - Email Communications](./merchant/introduction/5-3-store-communications.md)
 
++ [Feature demos](feature-demos.md)
+
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](./merchant/users-roles-permissions.md)
   + [Two-Factor Authentication](./merchant/two-factor-authentication.md)
