@@ -4,6 +4,7 @@ description: Learn how to install and test the catalog service.
 doc-type: feature video
 audience: all
 role: Developer, Admin
+last-substantial-update: 2022-09-19
 ---
 # Catalog Service for Adobe Commerce
 
