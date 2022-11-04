@@ -27,4 +27,4 @@ In this video, learn how to set up product recommendations.
 ## Additional resources
 
 - [Product Recommendations  Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
