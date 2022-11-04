@@ -29,4 +29,4 @@ For small business, mid-market contender, or large enterprise, Payment Services 
 ## Additional resources
 
 - [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

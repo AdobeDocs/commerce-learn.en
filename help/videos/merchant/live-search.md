@@ -25,4 +25,4 @@ Live Search from Adobe Commerce delivers a fast, super-relevant, and intuitive s
 ## Additional resources
 
 - [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
