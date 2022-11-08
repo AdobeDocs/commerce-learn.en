@@ -7,6 +7,7 @@ doc-type: video
 hidefromtoc: yes
 role: Admin, Leader, User
 last-substantial-update: 2022-09-19
+exl-id: 1823f417-3e49-420d-bd43-ee21faebc5a1
 ---
 # Short demos of Commerce features
 

@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Developer, Admin
 last-substantial-update: 2022-09-19
+exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 ---
 # Catalog Service for Adobe Commerce
 
