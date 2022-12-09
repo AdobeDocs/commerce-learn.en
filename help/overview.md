@@ -3,9 +3,9 @@ title: "[!DNL Commerce] Videos and Tutorials"
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 ---
-# <!-- use banner as heading -->![Commerce videos and tutorials](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![Commerce videos and tutorials](./assets/banner-videos-home.png) {#videos}
 
-Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a better understanding how to use Adobe Commerce and Magento Open Source to support your ecommerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
+Welcome to the [!DNL Commerce] videos, courses, and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
 <div id="whats-new-section">
   
@@ -36,5 +36,5 @@ Explore the latest additions and updates:
 ## Additional resources
 
 - [Merchant documentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
-- [Developer documentation](https://devdocs.magento.com/)
+- [Developer documentation](https://developer.adobe.com/commerce)
 - [Adobe Digital Learning Services - Adobe Commerce course catalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
