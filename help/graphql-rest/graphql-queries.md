@@ -146,7 +146,7 @@ type (i.e., one with its own fields, rather than a scalar type), we continue to 
 This concept of nested fields is also why we can pass arguments for `products` (`pageSize` and `currentPage`) in the same
 way we did for the top level `categories` field.
 
-![GraphQL Field Tree](images/graphql-field-tree.png)
+![GraphQL Field Tree](../assets/graphql-field-tree.png)
 
 ## Variables
 
