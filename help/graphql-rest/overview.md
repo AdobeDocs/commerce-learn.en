@@ -32,4 +32,4 @@ Please use these links after you watch the video or if you just want the tutoria
 - [GraphQL Overview](./intro-graphql.md)
 - [Queries](./graphql-queries.md)
 - [Mutations](./graphql-mutations.md)
-- [Schema](./schema.md)
+- [Schema](./graphql-schema.md)
