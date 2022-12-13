@@ -54,10 +54,8 @@ breadcrumb-title: Videos Courses and Tutorials
   + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html) 
 
 + GraphQL and REST {#graphql-rest}
-  + [Introduction to GraphQL](../graphql-rest/intro-graphql.md)
-  + [GraphQL queries](../graphql-rest/graphql-queries.md)
-  + [GraphQL mutations](../graphql-rest/graphql-mutations.md)
-  + [GraphQL schema](../graphql-rest/graphql-schema.md)
+  + [Introduction to GraphQL](../graphql-rest/overview.md)
+
 
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
