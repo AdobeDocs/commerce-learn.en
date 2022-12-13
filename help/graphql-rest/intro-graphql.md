@@ -5,7 +5,7 @@ landing-page-description: This is an introduction to GraphQL.  Some basics are c
 kt: 11524
 doc-type: tutorial
 audience: all
-last-substantial-update: 2022-12-12
+last-substantial-update: 2022-12-13
 ---
 # GraphQL Introduction
 

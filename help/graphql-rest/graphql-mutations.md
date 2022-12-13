@@ -1,11 +1,11 @@
 ---
-title: Learn how to use perform a mutation usingGraphQL on Adobe Commerce and Magento Open Source
+title: Learn how to use perform a mutation using GraphQL on Adobe Commerce and Magento Open Source
 description: This is an introduction to GraphQL.  We will be doing a mutation using POST calls for Adobe Commerce and Magento Open source
-landing-page-description: This is an introduction to GraphQL.  This section we show you how to perform your first mytation to an Adobe Commerce and Magento Open Source project.
+landing-page-description: This is an introduction to GraphQL.  This section we show you how to perform your first mutation to an Adobe Commerce and Magento Open Source project.
 kt: 11524
 doc-type: tutorial
 audience: all
-last-substantial-update: 2022-12-12
+last-substantial-update: 2022-12-13
 ---
 # Mutations
 

@@ -1,11 +1,11 @@
 ---
-title: Learn how to use perform a query usingGraphQL on Adobe Commerce and Magento Open Source
+title: Learn how to use perform a query using GraphQL on Adobe Commerce and Magento Open Source
 description: This is an introduction to GraphQL using GET and POST calls for Adobe Commerce and Magento Open source
 landing-page-description: This is an introduction to GraphQL.  This section we show you how to perform your first queries to an Adobe Commerce and Magento Open Source project.
 kt: 11524
 doc-type: tutorial
 audience: all
-last-substantial-update: 2022-12-12
+last-substantial-update: 2022-12-13
 ---
 # GraphQL Queries
 

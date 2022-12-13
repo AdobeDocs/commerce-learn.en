@@ -116,7 +116,7 @@ breadcrumb-title: Videos Courses and Tutorials
   + [Observation for Adobe Commerce](../tools/observation-tool.md)
   + [Quality Patch Tool](../tools/quality-patch-tool.md)
   + New Relic {#new-relic}
-    + [New Relic](../new-relic/malicious-ip.md)
+    + [Locating a malicious IP](../new-relic/malicious-ip.md)
 
 + MBI {#mbi}
   + [Filter Sets](../business-intelligence/filter-sets.md)
