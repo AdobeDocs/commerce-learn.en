@@ -4,11 +4,11 @@ user-guide-description: Learn about GraphQL to use with Adobe Commerce and Magen
 breadcrumb-title: GraphQL Introduction
 ---
 
-# GraphQL Introduction {#graphql-rest}
+# Introduction to GraphQL {#graphql-rest}
 
 + [Getting started with GraphQL](./getting-started-graphql.md)
-+ [Basic introduction to GraphQL](./intro-graphql.md)
-+ [Intro into GraphQL queries](./graphql-queries.md)
-+ [Intro into GraphQL mutations](./graphql-mutations.md)
-+ [Intro into GraphQL schema](./graphql-schema.md)
-+ [Back to videos, courses and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
++ [GraphQL basics](./intro-graphql.md)
++ [Queries](./graphql-queries.md)
++ [Mutations](./graphql-mutations.md)
++ [Schema](./graphql-schema.md)
++ [Return to videos, courses and tutorials](https://experienceleague-review.corp.adobe.com/docs/commerce-learn/content/overview.html)
