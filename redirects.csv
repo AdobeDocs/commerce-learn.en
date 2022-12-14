@@ -1,10 +1,4 @@
 source,dest
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/uct-phpstorm.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/uct-phpstorm.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade-workshop.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/2.4-upgrade-workshop.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/filter-sets.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/cohort-report-builder.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/cohort-report-builder.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/sql-report-builder.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/sql-report-builder.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/1-overview.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/2-data-warehousing.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/2-data-warehousing.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/3-build-reports.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/3-build-reports.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/4-metrics.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/4-metrics.html
@@ -16,8 +10,6 @@ https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/10-roi-tracking.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/10-roi-tracking.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/11-share-results-export-data.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/11-share-results-export-data.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/12-customer-success.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/12-customer-success.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/page-builder-overview.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/promotions-price-rules.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/prepare-for-future.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/prepare-for-future.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/dashboards-deep-dive.html,https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/getting-started.html,https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html
@@ -28,7 +20,7 @@ https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/as
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/webinars/ask-expert-2.html,https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html,https://experienceleague.adobe.com/docs/commerce-learn/content/overview.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/sql-report-builder.html,https://experienceleague.adobe.com/docs/commerce-learn/content/mbi/sql-report-builder.html
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/cohort-report-builder.html,https://experienceleague.adobe.com/docs/commerce-learn/content/mbi/sql-report-builder.html
+https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/cohort-report-builder.html,https://experienceleague.adobe.com/docs/commerce-learn/content/mbi/cohort-report-builder.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/business-intelligence/filter-sets.html,https://experienceleague.adobe.com/docs/commerce-learn/content/mbi/filter-sets.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/store-fulfillment.html,https://experienceleague.adobe.com/docs/commerce-learn/content//orders/store-fulfillment.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html,https://experienceleague.adobe.com/docs/commerce-learn/content/marketing/cart-price-rules.html
