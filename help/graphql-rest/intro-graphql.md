@@ -54,3 +54,7 @@ You'll need a GUI GraphQL client to test out code samples and tutorials. There a
 In your GraphQL client, you should submit your requests to the URL path `/graphql` on your Magento instance. If you'd prefer
 to use an existing instance for your tests, you can use the demo of the Venia theme (the example implementation of PWA
 Studio): `https://venia.magento.com/graphql`
+
+>[!NOTE]
+>
+>[Return to GraphQL Overview page](./overview.md)
