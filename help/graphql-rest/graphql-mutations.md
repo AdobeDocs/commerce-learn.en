@@ -92,3 +92,7 @@ A few other notes about the above example:
 * The `!` character suffixing `String` and `CartItemInput` indicates the variable is required.
 * The square brackets (`[]`) around the `CartItemInput` type specified for `$cartItems` indicate a list
   of that type rather than a single value.
+
+>[!NOTE]
+>
+>[Return to Getting Started GraphQL](./getting-started-graphql.md)

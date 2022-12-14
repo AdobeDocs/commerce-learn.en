@@ -209,4 +209,4 @@ The new query also uses a _fragment_ (`productDetails`) to reuse the same field 
 
 >[!NOTE]
 >
->[Return to GraphQL Overview page](./overview.md)
+>[Return to Getting Started GraphQL](./getting-started-graphql.md)

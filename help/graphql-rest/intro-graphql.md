@@ -57,4 +57,4 @@ Studio): `https://venia.magento.com/graphql`
 
 >[!NOTE]
 >
->[Return to GraphQL Overview page](./overview.md)
+>[Return to Getting Started GraphQL](./getting-started-graphql.md)

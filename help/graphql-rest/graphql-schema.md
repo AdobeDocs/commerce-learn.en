@@ -107,4 +107,4 @@ value in the array must be non-null, while the one _outside_ declares that the a
 
 >[!NOTE]
 >
->[Return to GraphQL Overview page](./overview.md)
+>[Return to Getting Started GraphQL](./getting-started-graphql.md)
