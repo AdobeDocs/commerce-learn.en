@@ -7,7 +7,8 @@ breadcrumb-title: GraphQL Introduction
 # GraphQL Introduction {#graphql-rest}
 
 + [Getting started with GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/content/graphql-rest/getting-started-graphql.html)
-+ [GraphQL queries](./graphql-queries.md)
-+ [GraphQL mutations](./graphql-mutations.md)
-+ [GraphQL schema](./graphql-schema.md)
++ [Basic introduction to GraphQL](./intro-graphql.md)
++ [Intro into GraphQL queries](./graphql-queries.md)
++ [Intro into GraphQL mutations](./graphql-mutations.md)
++ [Intro into GraphQL schema](./graphql-schema.md)
 + [Back to videos, courses and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
