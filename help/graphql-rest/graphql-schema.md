@@ -105,6 +105,3 @@ value in the array must be non-null, while the one _outside_ declares that the a
 > is performed, which examines each field specified in the request. For each field that resolves to a complex type, a similar
 > "resolve" is done for that type, and so on until everything has resolved into scalar values.
 
->[!NOTE]
->
->[Return to Getting Started GraphQL](./getting-started-graphql.md)

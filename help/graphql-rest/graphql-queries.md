@@ -207,6 +207,3 @@ variables JSON separately from the query.
 The new query also uses a _fragment_ (`productDetails`) to reuse the same field selection in multiple places.
 [Read more about fragments](https://graphql.org/learn/queries/#fragments) in the GraphQL documentation.
 
->[!NOTE]
->
->[Return to Getting Started GraphQL](./getting-started-graphql.md)

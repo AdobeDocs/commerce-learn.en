@@ -55,6 +55,3 @@ In your GraphQL client, you should submit your requests to the URL path `/graphq
 to use an existing instance for your tests, you can use the demo of the Venia theme (the example implementation of PWA
 Studio): `https://venia.magento.com/graphql`
 
->[!NOTE]
->
->[Return to Getting Started GraphQL](./getting-started-graphql.md)
