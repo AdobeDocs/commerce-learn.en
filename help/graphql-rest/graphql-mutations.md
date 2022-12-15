@@ -1,7 +1,7 @@
 ---
-title: Learn how to use perform a mutation using GraphQL on Adobe Commerce and Magento Open Source
-description: This is an introduction to GraphQL.  We will be doing a mutation using POST calls for Adobe Commerce and Magento Open source
-landing-page-description: This is an introduction to GraphQL.  This section we show you how to perform your first mutation to an Adobe Commerce and Magento Open Source project.
+title: Learn how to perform a mutation using GraphQL on Adobe Commerce and Magento Open Source
+description: This is an introduction to GraphQL. We are doing a mutation using POST calls for Adobe Commerce and Magento Open source
+landing-page-description: This is an introduction to GraphQL. This section we show you how to perform your first mutation to an Adobe Commerce and Magento Open Source project.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -12,10 +12,10 @@ last-substantial-update: 2022-12-13
 Any complete API specification needs to offer the ability not only to query data, but also to create and update it. 
 
 REST distinguishes between requests that change data and those that do not with the request type or "verb" (GET vs. POST or PUT).
-In the case of GraphQL, data-modifying queries are distinguished by the `mutation` keyword that corresponds with a different 
+When using GraphQL, data-modifying queries are distinguished by the `mutation` keyword that corresponds with a different 
 root type in the schema defined at the server.
 
-Take a look at this example mutation for adding a product to a user's cart. (This requires a cart ID that was generated
+Look at this example mutation for adding a product to a user's cart. (This requires a cart ID that was generated
 for the logged-in customer's session or using the `createEmptyCart` mutation.)
 
 ```graphql
@@ -72,7 +72,7 @@ And finally, we might receive a response like this:
 }
 ```
 
-The chief thing to note about the above example is that, apart from the use of the `mutation` keyword instead of `query`,
+The chief thing to note that about the above example is that, apart from the use of the `mutation` keyword instead of `query`,
 the syntax is identical to a query! Just like queries, the mutation includes:
 
 * An arbitrary operation name (`doAddToCart`)
@@ -83,12 +83,12 @@ the syntax is identical to a query! Just like queries, the mutation includes:
 The fields sub-selection allows you to flexibly define the fields you would like returned (from the type assigned as the
 return value of `addProductsToCart` - `AddProductsToCartOutput`) after the mutation is completed. 
 
-We've noted how fields defined in a GraphQL schema start on a root type for queries (usually called `Query`). Similarly,
-another root type exists for mutations (usually called, unsurprisingly, `Mutation`). `addProductsToCart` is a field
+We've noted how fields defined in a GraphQL schema start on a root type for queries (typically referred to as a `Query`). Similarly,
+another root type exists for mutations (typically referred to, unsurprisingly, `Mutation`). `addProductsToCart` is a field
 on that root type.
 
 A few other notes about the above example:
 
-* The `!` character suffixing `String` and `CartItemInput` indicates the variable is required.
+* The `!` character suffixing `String` and `CartItemInput` indicates that the variable is required.
 * The square brackets (`[]`) around the `CartItemInput` type specified for `$cartItems` indicate a list
   of that type rather than a single value.

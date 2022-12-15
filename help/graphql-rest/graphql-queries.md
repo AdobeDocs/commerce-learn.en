@@ -1,7 +1,7 @@
 ---
-title: Learn how to use perform a query using GraphQL on Adobe Commerce and Magento Open Source
+title: Learn how to perform a query using GraphQL on Adobe Commerce and Magento Open Source
 description: This is an introduction to GraphQL using GET and POST calls for Adobe Commerce and Magento Open source
-landing-page-description: This is an introduction to GraphQL.  This section we show you how to perform your first queries to an Adobe Commerce and Magento Open Source project.
+landing-page-description: This is an introduction to GraphQL. This section we show you how to perform your first queries to an Adobe Commerce and Magento Open Source project.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -9,11 +9,11 @@ last-substantial-update: 2022-12-13
 ---
 # GraphQL Queries
 
-Let's dive right into GraphQL query syntax with a pretty full-fledged example. 
+Let's dive right into GraphQL query syntax with a full-fledged example. 
 
 > Remember, you can try this yourself against https://venia.magento.com/graphql.
 
-Observe the following GraphQL query, which we'll break down piece by piece:
+Observe the following GraphQL query, which we break down piece by piece:
 
 ```graphql
 {
@@ -102,12 +102,12 @@ A plausible response from a GraphQL server for the above query could be:
 
 The above example relies on the out-of-the-box GraphQL schema for Magento, defined at the server. In this request, we're
 querying multiple types of data at once, the query expresses exactly the fields we want, and the returned data is formatted
-very similarly to the query itself.
+similarly to the query itself.
 
 > GraphQL clients obfuscate the form of the actual HTTP request being sent, but this is easy to discover. If you're using
-> a browser-based client, observe the Network tab when a query is sent, and you'll see that the request contains a raw
+> a browser-based client, observe the Network tab when a query is sent. You see that the request contains a raw
 > body consisting of "query: `{string}`", where `{string}` is simply the raw string of your entire query. If
-> the request is being sent as a GET, the query might be encoded in the querystring parameter "query" instead. Unlike
+> the request is being sent as a GET, the query might be encoded in the query string parameter "query" instead. Unlike
 > with REST, the HTTP request type doesn't matter, only the contents of the query.
 
 ## Querying for What We Want
@@ -118,7 +118,7 @@ GraphQL gives us the flexibility to query a single endpoint with an expression t
 
 Likewise, the query specifies exactly the fields that are desired for both `country` (`id` and `full_name_english`) 
 and `categories` (`items`, which itself has a sub-selection of fields), and the data we receive back mirrors that field specification. 
-There are presumably many more fields available for these data types, but we will get back only what we asked for.
+There are presumably many more fields available for these data types, but we get back only what we asked for.
 
 > You may notice that the return value for `items` is actually an _array_ of values, but we are nevertheless directly selecting
 > sub-fields for it. When a field's type is a list, GraphQL implicitly understands sub-selections to apply to each item 
@@ -129,7 +129,7 @@ There are presumably many more fields available for these data types, but we wil
 While the fields we want returned are specified within the braces of each type, named arguments and values for them are
 specified within parentheses after the type name. Arguments are often optional and often affect the way query results are
 filtered, formatted, or otherwise transformed. We are passing an `id` argument to `country`, specifying the particular country
-we want to query, as well as a `filters` argument for `categories`.
+we want to query, and a `filters` argument for `categories`.
 
 ## Fields all the Way Down
 
@@ -137,7 +137,7 @@ While we might tend to think of `country` and `categories` as two separate "quer
 in our query actually consists of nothing but fields. The expression of `products` is syntactically no different from
 that of `categories`. Both are fields, and there is no difference between their construction under the hood.
 
-Any GraphQL data graph has a single "root" type (usually called `Query`) to start the tree, and
+Any GraphQL data graph has a single "root" type (typically referred to `Query`) to start the tree, and
 the types we tend to think of as "entities" are simply assigned to fields on this root. Our example query is actually
 making one "generic" query for the root type and selecting the fields `country` and `categories`. It is then selecting 
 sub-fields of those fields, and so on, potentially several levels deep. Wherever the return type of a field is a complex
@@ -197,7 +197,7 @@ query body:
 > If you're trying out these queries against the Venia example site rather than your own Magento instance, you likely will
 > not get back any results for `related_products`.
 
-In any GraphQL-aware client you are using for testing (such as Altair and GraphiQL), the UI will support entering the
+In any GraphQL-aware client, you are using for testing (such as Altair and GraphiQL), the UI supports entering the
 variables JSON separately from the query.
 
 > Just as we saw that the actual HTTP request for a GraphQL query contains "query: `{string}`" in its body, any request
