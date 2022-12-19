@@ -1,7 +1,7 @@
 ---
-title: Learn how to perform a mutation using GraphQL on Adobe Commerce and Magento Open Source
-description: This is an introduction to GraphQL. We are doing a mutation using POST calls for Adobe Commerce and Magento Open source
-landing-page-description: This is an introduction to GraphQL. This section we show you how to perform your first mutation to an Adobe Commerce and Magento Open Source project.
+title: Perform a mutation using GraphQL
+description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
+landing-page-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -39,7 +39,7 @@ mutation doAddToCart(
 }
 ```
 
-We could imagine the above mutation being sent in a request along with the following variables dictionary:
+You can imagine the above mutation being sent in a request along with the following variables dictionary:
 
 ```json
 {
@@ -53,7 +53,7 @@ We could imagine the above mutation being sent in a request along with the follo
 }
 ```
 
-And finally, we might receive a response like this:
+And finally, you might receive a response like this:
 
 ```json
 {
@@ -73,18 +73,18 @@ And finally, we might receive a response like this:
 ```
 
 The chief thing to note that about the above example is that, apart from the use of the `mutation` keyword instead of `query`,
-the syntax is identical to a query! Just like queries, the mutation includes:
+the syntax is identical to a query. Like queries, the mutation includes:
 
 * An arbitrary operation name (`doAddToCart`)
-* A list of variables (e.g., `$cartId`)
-* An initial field (`addProductsToCart`) with arguments (e.g., `cartId`, set to the value of `$cartId`) in parentheses
+* A list of variables (for example, `$cartId`)
+* An initial field (`addProductsToCart`) with arguments (for example, `cartId`, set to the value of `$cartId`) in parentheses
 * A sub-selection of fields in braces
 
 The fields sub-selection allows you to flexibly define the fields you would like returned (from the type assigned as the
 return value of `addProductsToCart` - `AddProductsToCartOutput`) after the mutation is completed. 
 
-We've noted how fields defined in a GraphQL schema start on a root type for queries (typically referred to as a `Query`). Similarly,
-another root type exists for mutations (typically referred to, unsurprisingly, `Mutation`). `addProductsToCart` is a field
+As explained previously, fields defined in a GraphQL schema start on a root type for queries (typically referred to as a `Query`). Similarly,
+another root type exists for mutations (typically referred to as `Mutation`). `addProductsToCart` is a field
 on that root type.
 
 A few other notes about the above example:
