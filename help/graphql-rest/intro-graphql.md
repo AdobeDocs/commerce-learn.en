@@ -32,8 +32,7 @@ You need a GUI GraphQL client to test out code samples and tutorials. There are 
 
 * [Altair](https://altairgraphql.dev/) is an excellent and fully featured client built specifically for GraphQL. Adobe uses Altair in walk-through videos.
 * If you don't want to install the desktop application, there are also Altair extensions that run right in your
-  [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja),
-  [Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa) browser.
+  [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja), Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa) browser.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql) is an implementation of the GraphQL IDE from the GraphQL Foundation. This is not an installable tool, but rather a package you can use to build the interface yourself.
 * If you're already familiar with [Postman](https://www.postman.com/), it has decent support for GraphQL queries, though it's not as fully featured as a dedicated GraphQL client.
 

@@ -104,8 +104,7 @@ similarly to the query itself.
 
 >[!NOTE]
 >
->GraphQL clients obfuscate the form of the actual HTTP request being sent, but this is easy to discover. If you're using a browser-based client, observe the [!UICONTROL Network] tab when a query is sent. You see that the request contains a raw body consisting of "query: `{string}`", where `{string}` is simply the raw string of your entire query. If
-the request is being sent as a GET, the query might be encoded in the query string parameter "query" instead. Unlike with REST, the HTTP request type doesn't matter, only the contents of the query.
+>GraphQL clients obfuscate the form of the actual HTTP request being sent, but this is easy to discover. If you're using a browser-based client, observe the [!UICONTROL Network] tab when a query is sent. You see that the request contains a raw body consisting of "query: `{string}`", where `{string}` is simply the raw string of your entire query. If the request is being sent as a GET, the query might be encoded in the query string parameter "query" instead. Unlike with REST, the HTTP request type doesn't matter, only the contents of the query.
 
 
 ## Querying for what you want
