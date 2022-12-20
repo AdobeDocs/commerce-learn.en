@@ -9,6 +9,11 @@ exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
 ---
 # Add a table to a database
 
+>[!IMPORTANT]
+>
+>This is no longer recommended, please refer to https://developer.adobe.com/commerce/php/development/components/declarative-schema/ 
+
+
 [!DNL Commerce] has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.
 
 Rather than doing manual SQL operations repeatedly when reinstalling the system, developers create an install (or upgrade) script that contains the data. The script runs every time a module is installed.
