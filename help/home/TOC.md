@@ -1,10 +1,10 @@
 ---
-user-guide-title: Videos, Courses, and Tutorials
-user-guide-description: Learn about Adobe Commerce and Magento Open Source through videos, courses, and tutorials. 
-breadcrumb-title: Videos Courses and Tutorials
+user-guide-title: Videos and Tutorials
+user-guide-description: Learn about Adobe Commerce and Magento Open Source through videos and tutorials. 
+breadcrumb-title: Videos and Tutorials
 ---
 
-# Adobe Commerce Videos, Courses, and Tutorials {#content}
+# Adobe Commerce Videos and Tutorials {#tutorials}
 
 + [[!DNL Commerce] Videos, Courses and Tutorials](overview.md)
 + Getting Started {#getting-started}
