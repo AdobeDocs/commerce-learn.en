@@ -6,6 +6,7 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13
+exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 ---
 # Get started with GraphQL for Adobe Commerce
 
