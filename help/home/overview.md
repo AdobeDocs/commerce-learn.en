@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Commerce] Videos and Tutorials"
+title: '[!DNL Commerce] Videos and Tutorials'
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 ---
 # <!-- use banner as heading -->![Commerce videos and tutorials](../assets/banner-videos-home.png) {#videos}
 

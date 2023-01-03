@@ -6,6 +6,7 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13
+exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 ---
 # GraphQL introduction
 
@@ -37,4 +38,3 @@ You need a GUI GraphQL client to test out code samples and tutorials. There are 
 * If you're already familiar with [Postman](https://www.postman.com/), it has decent support for GraphQL queries, though it's not as fully featured as a dedicated GraphQL client.
 
 In your GraphQL client, you should submit your requests to the URL path `/graphql` on your Adobe Commerce or [!DNL Magento Open Source] instance. If you'd prefer to use an existing instance for your tests, you can use the demo of the Venia theme (the example implementation of PWA Studio): `https://venia.magento.com/graphql`
-

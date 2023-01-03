@@ -11,4 +11,4 @@ breadcrumb-title: GraphQL Introduction
 + [Queries](./graphql-queries.md)
 + [Mutations](./graphql-mutations.md)
 + [Schema](./graphql-schema.md)
-+ [Return to videos, courses and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/content/overview.html)
++ [Return to videos and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
