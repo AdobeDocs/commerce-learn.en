@@ -1,5 +1,5 @@
 ---
-title: Intro to Live Search
+title: Introduction to Live Search
 description: Learn how to add Live Search to your store and produce highly engaging, relevant, and personalized shopping experiences.
 doc-type: feature video
 audience: all
@@ -7,11 +7,11 @@ role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 ---
-# Use Live Search
+# Introduction to Live Search
 
 {{ee-feature}}
 
-Live Search from Adobe Commerce delivers a fast, super-relevant, and intuitive search experience for Adobe Commerce at no additional charge. Live Search powered by Adobe Sensei uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data. This data, when combined with your Adobe Commerce catalog, results in highly engaging, relevant, and personalized shopping experiences.  This is a great introduction into what the feature provides but for a deeper conversation make sure you watch
+This is an introduction to Live Search from Adobe Commerce. Live Search powered by Adobe Sensei uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data.
 
 ## Who is this video for?
 
