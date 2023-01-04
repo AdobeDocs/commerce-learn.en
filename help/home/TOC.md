@@ -96,7 +96,8 @@ breadcrumb-title: Videos and Tutorials
   + [Create Cart Price Rules](../site-management/cart-price-rules.md)
   + [Manage Related Product Rules](../site-management/related-product-rules.md)
   + [Set Up Product Recommendations](../site-management/product-recommendations.md)
-  + [Use Live Search](../site-management/live-search.md)
+  + [Introduction to Live Search](../site-management/live-search.md)
+  + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
 
 + Orders and Fulfillment {#orders}
   + [Store Fulfillment Overview](../site-management/store-fulfillment.md)
