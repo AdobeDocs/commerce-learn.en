@@ -24,7 +24,7 @@ activity: use
 
 ## Additional resources
 
-- [Introduction to Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [Live Search overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [Introduction to [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+- [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
 - [Introduction to Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

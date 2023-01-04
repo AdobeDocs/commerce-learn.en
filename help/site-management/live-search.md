@@ -25,6 +25,6 @@ This is an introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Live Se
 
 ## Additional resources
 
-- [Live Search for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)
-- [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [[!DNL Live Search] for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)
+- [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
