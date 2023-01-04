@@ -1,5 +1,5 @@
 ---
-title: "Use [!DNL Live Search]"
+title: "[!DNL Live Search] for recommendations"
 description: "Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences."
 doc-type: feature video
 audience: all
