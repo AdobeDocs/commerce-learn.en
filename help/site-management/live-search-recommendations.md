@@ -19,7 +19,7 @@ Live Search from Adobe Commerce delivers a fast, super-relevant, and intuitive s
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/337365?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
 
 
 ## Additional resources
