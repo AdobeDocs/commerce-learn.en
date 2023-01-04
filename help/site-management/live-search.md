@@ -1,17 +1,17 @@
 ---
-title: Introduction to Live Search
-description: Learn how to add Live Search to your store and produce highly engaging, relevant, and personalized shopping experiences.
+title: "Introduction to [!DNL Live Search]"
+description: "Learn how to add [!DNL Live Search] to your store and produce highly engaging, relevant, and personalized shopping experiences."
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 ---
-# Introduction to Live Search
+# Introduction to [!DNL Live Search]
 
 {{ee-feature}}
 
-This is an introduction to Live Search from Adobe Commerce. Live Search powered by Adobe Sensei uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data.
+This is an introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Live Search] powered by Adobe Sensei uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data.
 
 ## Who is this video for?
 
