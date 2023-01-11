@@ -74,6 +74,7 @@ breadcrumb-title: Videos and Tutorials
   + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
 
 + Catalog Management {#catalog}
+  + [Catalog Service](../site-management/catalog-service.md)
   + [Create a Category](../site-management/category-create.md)
   + [Manage Products in a Category](../site-management/category-products.md)
   + [Inventory Management](../site-management/inventory-management.md)
