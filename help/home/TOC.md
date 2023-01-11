@@ -56,6 +56,9 @@ breadcrumb-title: Videos and Tutorials
 + GraphQL and REST {#graphql-rest}
   + [Introduction to GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
 
++ Adobe Developer App Builder {#adobe-developer-app-builder}
+  + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
+
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
