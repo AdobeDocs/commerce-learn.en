@@ -35,7 +35,7 @@ There are numerous benefits to using an out-of-process option such as App Builde
 
 ## Architecture {#architecture}
 
-Instead of an out-of-the-box solution, Adobe Developer App Builder provides a common, consistent, standardized development platform for extending Adobe Cloud solutions such as Adobe Commerce including:
+Instead of an out-of-the-box solution, Adobe Developer App Builder provides a common, consistent, and standardized development platform for extending Adobe Cloud solutions such as Adobe Commerce including:
 
 * Adobe Developer Console — For custom microservice and extension development, letting developers build and manage projects while accessing all the tools and APIs they need to create plugins and integrations. 
 * Developer Tools — Open-source tools, SDKs, and libraries to allow developers to easily build custom extensions and integrations. Use  React Spectrum (Adobe's UI toolkit) to have one common UI for all Adobe apps. 
