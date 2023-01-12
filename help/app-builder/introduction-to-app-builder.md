@@ -69,11 +69,5 @@ Ready to start developing? There are lots of sample applications to help you get
 
 ## Support {#support}
 
-For developer support type of requests, it is encouraged that developers to use [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly).
-
-
-
-
-
-
+For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) for assistance.
 
