@@ -17,11 +17,11 @@ Adobe Developer App Builder provides an extensibility framework for developers t
 
 App Builder provides a unified third-party extensibility framework for integrating and creating custom applications that extend [!DNL Adobe Commerce]. Since this extensibility framework is built on Adobe's infrastructure, developers can build custom microservices, as well as extend and integrate [!DNL Adobe Commerce] across Adobe solutions and other third-party integrations.
 
-App Builder provides a way for customers to easily extend [!DNL Adobe Commerce] in various use cases:
+App Builder provides a way for customers to extend [!DNL Adobe Commerce] in various use cases:
 
-* Middleware Extensibility - Connect external systems with Adobe applications building custom connectors or take advantage of a suite of pre-built integrations.
-* Core Services Extensibility - Extend core application capabilities by extending the default behavior with custom features & business logic.
-* User Experience Extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts & back-office apps.
+* Middleware Extensibility - Connect external systems with Adobe applications by building custom connectors or take advantage of a suite of pre-built integrations.
+* Core Services Extensibility - Extend core application capabilities by extending the default behavior with custom features and business logic.
+* User Experience Extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts, and back-office applications.
 
 App Builder (previously known as Project Firefly) is a cloud-based solution, which means that it automatically scales. This service is also globally distributed to allow the best performance regardless of your geographic location.
 
