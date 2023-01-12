@@ -56,7 +56,7 @@ To help you get started with App Builder, Adobe has created the following docume
 
 ## Continue learning with Documentation {#appbuilder-documentation}
 
-App Builder provides videos and documentation for developers including guides, and reference documentation to help you begin developing your own custom applications:
+App Builder provides videos and documentation for developers, including guides and reference documentation to help develop your own custom applications:
 
 * [App Builder documentation](https://developer.adobe.com/app-builder/docs/overview/)
 * [App Builder videos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
