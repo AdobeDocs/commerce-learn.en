@@ -46,7 +46,7 @@ The following diagram illustrates how a standard application built on App Builde
 
 ![Architecture](/help/assets/app-builder/firefly-architecture.jpeg)
 
-For more details about the App Builder architecture, have a look at [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/).
+For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## Get Started with App Builder {#additional-resources}
 
