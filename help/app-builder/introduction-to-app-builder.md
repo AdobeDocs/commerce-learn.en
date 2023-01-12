@@ -29,9 +29,9 @@ App Builder (previously known as Project Firefly) is a cloud-based solution, whi
 
 There are numerous benefits to using an out-of-process option such as App Builder. Because Adobe Commerce is not a fully offered SAAS offering, the code you develop or install instantly adds complexity and potential upgrade issues. By using out-of-process extensibility such as App builder, you can still provide custom, unique functionality to your Adobe Commerce store without being required to in-process methods. Other benefits include:
 
-* De-coupled features allow for faster time to launch
-* Upgrades are now easier because of the de-coupled approach. The custom features live outside the commerce codebase and there are no compatibility issues to be deal with.
-* Moving features and logic outside of commerce frees up resources and complicated logic that would normally occur using in-process development methods.
+* Decoupled features allow for faster time to launch.
+* Upgrades are now easier. The custom features are outside the commerce codebase, which prevents  compatibility issues when upgrading.
+* Moving features and logic outside of commerce frees up resources that are normally used by in-process development methods.
 
 ## Architecture {#architecture}
 
