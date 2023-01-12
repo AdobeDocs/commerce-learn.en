@@ -1,6 +1,6 @@
 ---
 title: Out-of-process extensibility for Adobe Commerce
-description: Learn about Adobe App Builder and why it is an important aspect of out of process extensibility
+description: Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility
 landing-page-description: Learn what is app builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
@@ -13,7 +13,7 @@ last-substantial-update: 2023-01-11
 
 ## What is App Builder for Adobe Commerce {#project-firefly}
 
-Adobe Developer App Builder provides an extensibility framework for a developer to easily extend [!DNL Adobe Commerce] to provide out of process extensibility. 
+Adobe Developer App Builder provides an extensibility framework for a developer to easily extend [!DNL Adobe Commerce] to provide out-of-process extensibility. 
 
 App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences that extend [!DNL Adobe Commerce]. With this complete extensibility framework, built on Adobe's infrastructure, developers can build custom microservices, extend, and integrate [!DNL Adobe Commerce] across Adobe solutions and any other third-party integration.
 
@@ -27,11 +27,11 @@ App Builder (previously known as Project Firefly) is a cloud-based solution, whi
 
 ## Why should you learn more about App Builder
 
-There are numerous benefits to using an out of process option such as App Builder. Because Adobe Commerce is not a fully offered SAAS offering, the code you develop or install instantly adds complexity and potential upgrade issues. By using out of process extensibility such as App builder, you can still provide custom, unique functionality to your Adobe Commerce store without being required to in process methods. Other benefits include:
+There are numerous benefits to using an out-of-process option such as App Builder. Because Adobe Commerce is not a fully offered SAAS offering, the code you develop or install instantly adds complexity and potential upgrade issues. By using out-of-process extensibility such as App builder, you can still provide custom, unique functionality to your Adobe Commerce store without being required to in-process methods. Other benefits include:
 
 * De-coupled features allow for faster time to launch
 * Upgrades are now easier because of the de-coupled approach. The custom features live outside the commerce codebase and there are no compatibility issues to be deal with.
-* Moving features and logic outside of commerce frees up resources and complicated logic that would normally occur using in process development methods.
+* Moving features and logic outside of commerce frees up resources and complicated logic that would normally occur using in-process development methods.
 
 ## Architecture {#architecture}
 
