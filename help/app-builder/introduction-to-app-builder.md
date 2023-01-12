@@ -13,9 +13,9 @@ last-substantial-update: 2023-01-11
 
 ## What is App Builder for Adobe Commerce {#project-firefly}
 
-Adobe Developer App Builder provides an extensibility framework for a developer to easily extend [!DNL Adobe Commerce] to provide out-of-process extensibility. 
+Adobe Developer App Builder provides an extensibility framework for developers to extend [!DNL Adobe Commerce] to provide out-of-process extensibility. 
 
-App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences that extend [!DNL Adobe Commerce]. With this complete extensibility framework, built on Adobe's infrastructure, developers can build custom microservices, extend, and integrate [!DNL Adobe Commerce] across Adobe solutions and any other third-party integration.
+App Builder provides a unified third-party extensibility framework for integrating and creating custom applications that extend [!DNL Adobe Commerce]. Since this extensibility framework is built on Adobe's infrastructure, developers can build custom microservices, as well as extend and integrate [!DNL Adobe Commerce] across Adobe solutions and other third-party integrations.
 
 App Builder provides a way for customers to easily extend [!DNL Adobe Commerce] in various use cases:
 
