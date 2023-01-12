@@ -63,7 +63,7 @@ App Builder provides videos and documentation for developers, including guides a
 
 ## Try Out One of the Sample Applications {#appbuilder-codesamples}
 
-Ready to start developing? There are lots of sample applications to help you get going quickly:
+Ready to start developing? The following link contains sample applications to help get you started:
 
 * [App Builder Code Labs on Adobe Developer Website](https://developer.adobe.com/app-builder/docs/resources/)
 
