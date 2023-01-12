@@ -50,7 +50,7 @@ For more details about the App Builder architecture, have a look at [Architectur
 
 ## Get Started with App Builder {#additional-resources}
 
-To help you get started with App Builder, Adobe has created a series of documentation to help you start:
+To help you get started with App Builder, Adobe has created the following documentation:
 
 * [App Builder Getting Started](https://developer.adobe.com/app-builder/docs/getting_started/)
 
