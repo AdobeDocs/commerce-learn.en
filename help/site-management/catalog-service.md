@@ -7,6 +7,7 @@ role: Developer, Admin
 last-substantial-update: 2022-09-19
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: yes
+hide: yes
 ---
 # Catalog Service for Adobe Commerce
 
