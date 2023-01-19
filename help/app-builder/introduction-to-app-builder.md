@@ -1,6 +1,6 @@
 ---
 title: Out-of-process extensibility for Adobe Commerce
-description: Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility
+description: Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility.
 landing-page-description: Learn what is app builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
@@ -10,8 +10,9 @@ last-substantial-update: 2023-01-11
 ---
 
 # Out-of-process extensibility
+Adobe Commerce development has historically been done using the same repository as the main application.  This is called in-process.  This technique is very good and offers the developer an expected mechanism for extending the application.  However, this comes at a price.  Every time you add new code to the codebase it has to be compatible with any upgrades.  You also have to be compatile with the servers PHP version as well as many other server applications and services that commerce will utilize.  Adobe Developer App Builder takes the same requirement of extending the functionality but moves it off site.  The code and logic are completely external and this method is refered to as out-of-process.
 
-## What is App Builder for Adobe Commerce {#project-firefly}
+## App Builder for Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -21,9 +22,9 @@ App Builder provides a unified third-party extensibility framework for integrati
 
 App Builder provides a way for customers to extend [!DNL Adobe Commerce] in various use cases:
 
-* Middleware Extensibility - Connect external systems with Adobe applications by building custom connectors or take advantage of a suite of pre-built integrations.
-* Core Services Extensibility - Extend core application capabilities by extending the default behavior with custom features and business logic.
-* User Experience Extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts, and back-office applications.
+* middleware extensibility - Connect external systems with Adobe applications by building custom connectors or take advantage of a suite of pre-built integrations.
+* core services extensibility - Extend core application capabilities by extending the default behavior with custom features and business logic.
+* user experience extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts, and back-office applications.
 
 App Builder (previously known as Project Firefly) is a cloud-based solution, which means that it automatically scales. This service is also globally distributed to allow the best performance regardless of your geographic location.
 
@@ -41,10 +42,10 @@ Other benefits include:
 
 Instead of an out-of-the-box solution, Adobe Developer App Builder provides a common, consistent, and standardized development platform for extending Adobe Cloud solutions such as Adobe Commerce including:
 
-* Adobe Developer Console — For custom microservice and extension development. Build and manage projects while accessing all the tools and APIs needed to create plugins and integrations. 
-* Developer Tools — Open-source tools, SDKs, and libraries to build custom extensions and integrations. Use  React Spectrum (Adobe's UI toolkit) to have one common UI for all Adobe apps. 
-* Services — I/O Runtime for hosting infrastructure on Adobe's serverless platform and I/O Events for event-based integrations. Adobe also provides out-of-the-box support for storing data and files. 
-* Adobe Experience Cloud — Submit extensions and integrations to publish in your Experience Cloud Org. System admins can review, manage, and approve these extensions. Once published, your custom App Builder extensions and tools are available alongside other Adobe Experience Cloud apps.
+* Adobe Developer Console used for custom microservice and extension development. Build and manage projects while accessing all the tools and APIs needed to create plugins and integrations. 
+* Open-source tools, SDKs, and libraries to build custom extensions and integrations. Use  React Spectrum (Adobe's UI toolkit) to have one common UI for all Adobe apps. 
+* services such as I/O Runtime for hosting infrastructure on Adobe's serverless platform and I/O Events for event-based integrations. Adobe also provides out-of-the-box support for storing data and files. 
+* Adobe Experience Cloud where you submit extensions and integrations to publish in your Experience Cloud Org. System admins can review, manage, and approve these extensions. Once published, your custom App Builder extensions and tools are available alongside other Adobe Experience Cloud apps.
 
 The following diagram illustrates how a standard application built on App Builder uses these functionalities:
 
