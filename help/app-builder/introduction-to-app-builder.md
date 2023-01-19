@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-11
 ---
 
 # Out-of-process extensibility
+
 Adobe Commerce development has historically been done using the same repository as the main application.  This is called in-process.  This technique is very good and offers the developer an expected mechanism for extending the application.  However, this comes at a price.  Every time you add new code to the codebase it has to be compatible with any upgrades.  You also have to be compatile with the servers PHP version as well as many other server applications and services that commerce will utilize.  Adobe Developer App Builder takes the same requirement of extending the functionality but moves it off site.  The code and logic are completely external and this method is refered to as out-of-process.
 
 ## App Builder for Adobe Commerce {#project-firefly}
