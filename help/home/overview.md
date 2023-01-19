@@ -1,24 +1,21 @@
 ---
 title: '[!DNL Commerce] Videos and Tutorials'
-description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
+description: A collection of videos and tutorials for Adobe Commerce and [!DNL Magento Open Source]
+last-substantial-update: 2023-01-19
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 ---
-# <!-- use banner as heading -->![Commerce videos and tutorials](../assets/banner-videos-home.png) {#videos}
+# [Commerce tutorials] {#videos}
 
-Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
+Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), give you a learn how to use Adobe Commerce and [!DNL Magento Open Source] to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
 <div id="whats-new-section">
 
 ## What's new
 
- </div>
+- [Introduction to GraphQL](../graphql-rest/intro-graphql.md)
+- [Locating a malicious IP](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+ </div>
 
 >[!TIP]
 >
