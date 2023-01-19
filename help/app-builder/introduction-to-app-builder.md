@@ -41,10 +41,10 @@ Other benefits include:
 
 Instead of an out-of-the-box solution, Adobe Developer App Builder provides a common, consistent, and standardized development platform for extending Adobe Cloud solutions such as Adobe Commerce including:
 
-* Adobe Developer Console — For custom microservice and extension development, letting developers build and manage projects while accessing all the tools and APIs they need to create plugins and integrations. 
-* Developer Tools — Open-source tools, SDKs, and libraries to allow developers to easily build custom extensions and integrations. Use  React Spectrum (Adobe's UI toolkit) to have one common UI for all Adobe apps. 
-* Services — I/O Runtime for hosting infrastructure on Adobes' serverless platform, and I/O Events for event-based integrations. Adobe also provides out-of-the-box support for storing data and files. 
-* Adobe Experience Cloud — Developers can submit extensions and integrations to be published within their Experience Cloud Org. System admins can then review, manage, and approve these extensions. Once published, your custom App Builder extensions and tools can be found alongside other Adobe Experience Cloud apps.
+* Adobe Developer Console — For custom microservice and extension development. Build and manage projects while accessing all the tools and APIs needed to create plugins and integrations. 
+* Developer Tools — Open-source tools, SDKs, and libraries to build custom extensions and integrations. Use  React Spectrum (Adobe's UI toolkit) to have one common UI for all Adobe apps. 
+* Services — I/O Runtime for hosting infrastructure on Adobe's serverless platform and I/O Events for event-based integrations. Adobe also provides out-of-the-box support for storing data and files. 
+* Adobe Experience Cloud — Submit extensions and integrations to publish in your Experience Cloud Org. System admins can review, manage, and approve these extensions. Once published, your custom App Builder extensions and tools are available alongside other Adobe Experience Cloud apps.
 
 The following diagram illustrates how a standard application built on App Builder uses these functionalities:
 
