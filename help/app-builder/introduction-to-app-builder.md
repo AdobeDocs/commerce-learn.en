@@ -5,7 +5,7 @@ landing-page-description: Learn what is App Builder and how it can help with Ado
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11
+last-substantial-update: 2023-01-24
 
 ---
 
@@ -54,6 +54,14 @@ The following diagram illustrates how a standard application built on App Builde
 
 For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/).
 
+## Amazon Sales Channel extension {#amazon-sales-channel-extension}
+
+Adobe created an App builder extension using Adobe App Builder to connect Adobe Commerce to Amazon Sales Channel. These tutorials each contain a video to help you understand how it was accomplished. 
+
+* [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
+* [extensibility framework](../app-builder/extensibility-framework-commerce-eventing.md)
+* [functional demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
+
 ## Get Started with App Builder {#additional-resources}
 
 To help you get started with App Builder, Adobe has created the following documentation:
@@ -76,4 +84,3 @@ Ready to start developing? The following link contains sample applications to he
 ## Support {#support}
 
 For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) for assistance.
-
