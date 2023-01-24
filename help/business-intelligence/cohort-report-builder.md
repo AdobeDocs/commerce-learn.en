@@ -34,6 +34,6 @@ In this video:
 
 ## Useful resources
 
-[Using the Cohort Report Builder](https://docs.magento.com/mbi/data-analyst/dev-reports/cohort-rpt-bldr.html)
+[Using the Cohort Report Builder - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[Creating a qualitative cohort analysis](https://docs.magento.com/mbi/data-analyst/dev-reports/create-qual-cohort-analysis.html)
+[Create a qualitative cohort analysis - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

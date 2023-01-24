@@ -22,5 +22,5 @@ Catalog price rules can be used to offer products to buyers at a discounted pric
 
 ## Additional resources
 
-- [Create a Catalog Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html)
-- [Price Rule with Multiple SKUs](https://docs.magento.com/user-guide/marketing/price-rule-multiple-sku.html)
+- [Create a Catalog Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [Catalog price rule with multiple SKUs - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

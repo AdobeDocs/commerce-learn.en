@@ -23,5 +23,5 @@ Customer groups determine which discounts are available and the tax class that i
 
 ## Additional resources
 
-- [Customer Groups](https://docs.magento.com/user-guide/customers/customer-groups.html)
-- [Customer group limitations by websites](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

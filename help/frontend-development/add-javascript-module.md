@@ -29,5 +29,5 @@ This video provides a walk-through for developing a simple JS module that provid
 
 ## Useful resources
 
-- [JavaScript developer guide](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html)
-- [Calling and initializing JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_init.html)
+- [JavaScript developer guide](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

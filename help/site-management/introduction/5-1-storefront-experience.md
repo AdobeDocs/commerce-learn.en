@@ -25,12 +25,12 @@ In this video:
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Additional resources
 
-[Customer accounts - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/customer-account.html)
+[Customer account scope - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[My Wish List - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
+[Wish list storefront experience - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

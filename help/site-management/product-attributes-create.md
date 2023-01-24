@@ -23,5 +23,6 @@ Adobe Commerce uses attributes to manage the information associated with product
 
 ## Additional resources
 
-- [Product Attributes](https://docs.magento.com/user-guide/catalog/product-attributes.html)
-- [Attribute Sets](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Product attributes overview - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+
+[Attribute sets - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

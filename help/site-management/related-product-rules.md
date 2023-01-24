@@ -24,5 +24,4 @@ Related product rules give you the ability to target the selection of products t
 
 ## Additional resources
 
-- [Related  Product Rules](https://docs.magento.com/user-guide/marketing/product-related-rules.html)
-- [Rule-Based Product Relations configuration reference](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#rule-based-product-relations)
+[Related  Product Rules  - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

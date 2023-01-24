@@ -24,4 +24,4 @@ Your store is loaded with places where you can enter keyword-rich metadata to im
 
 ## Additional resources
 
-[Metadata](https://docs.magento.com/user-guide/marketing/meta-data.html)
+[Meta data - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

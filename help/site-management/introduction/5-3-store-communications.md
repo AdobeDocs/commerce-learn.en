@@ -23,12 +23,12 @@ In this video:
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Additional resources
 
-[Email - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/email-templates.html)
+[Email templates - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Using variables - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/variables.html)
+[Variables and customer communications - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

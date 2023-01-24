@@ -24,14 +24,14 @@ In this video:
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388/?quality=12&learn=on)
 
 ## Additional resources
 
-[Category content - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+[Category content - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Display settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+[Display settings - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Design settings - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
+[Design settings - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

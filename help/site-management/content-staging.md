@@ -24,5 +24,5 @@ Content Staging gives your business team the ability to easily create, preview, 
 
 ## Additional resources
 
-- [Content Staging](https://docs.magento.com/user-guide/cms/content-staging.html)
-- [Previewing a Campaign](https://docs.magento.com/user-guide/cms/content-staging-preview.html)
+- [Content Staging - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
+- [Preview a Campaign - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)

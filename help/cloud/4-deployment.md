@@ -18,4 +18,4 @@ In this video:
 
 ## Additional resources
 
-[Cloud deployment process](https://devdocs.magento.com/cloud/deploy/cloud-deployment-process.html)
+[Cloud deployment process - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

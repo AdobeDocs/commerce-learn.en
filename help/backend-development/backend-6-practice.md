@@ -27,10 +27,10 @@ In this video, there are five exercises to practice [!DNL Commerce] development 
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 
 ## Additional resources
 
-[Best Practices for extension developers](https://devdocs.magento.com/guides/v2.4/ext-best-practices/bk-ext-best-practices.html)
+[Best Practices for extension developers](https://developer.adobe.com/commerce/php/best-practices/)

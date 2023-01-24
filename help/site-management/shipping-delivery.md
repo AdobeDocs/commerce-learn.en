@@ -23,6 +23,6 @@ Managing your shipping and delivery methods is critical to making sure you're ab
 
 ## Additional resources
 
-- [Shipping Settings](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
-- [Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/methods-basic.html)
-- [Shipping Carriers](https://docs.magento.com/user-guide/shipping/carriers.html)
+- [Shipping settings - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Basic delivery methods - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Shipping carrier setup - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

@@ -17,4 +17,4 @@ In this video:
 
 ## Additional resources
 
-[Cloud guide for [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
+[[!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

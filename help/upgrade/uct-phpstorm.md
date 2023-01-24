@@ -31,4 +31,4 @@ In this video:
 
 - [Upgrade Compatibility Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
 - [Magento PHP Storm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Released versions](https://devdocs.magento.com/release/released-versions.html)
+- [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

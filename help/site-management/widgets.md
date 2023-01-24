@@ -23,5 +23,5 @@ Widgets are reusable components that you can create and modify easily to automat
 
 ## Additional resources
 
-- [Widgets](https://docs.magento.com/user-guide/cms/widgets.html)
-- [Creating and Managing Widgets](https://docs.magento.com/user-guide/cms/widget-create.html)
+- [Widgets - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Create and Manage Widgets - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
