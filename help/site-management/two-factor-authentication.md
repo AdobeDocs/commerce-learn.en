@@ -21,11 +21,11 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 
 >[!NOTE]
 >
->The content in the video reflects the 2.4.0 release. For information about updates in later releases, see the [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.4.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Additional resources
 
-- [Two-factor Authentication - User Guide](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
-- [Two-factor Authentication - Developer Guide](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+- [Two-factor authentication (2FA) - Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

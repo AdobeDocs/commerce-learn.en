@@ -22,5 +22,5 @@ In this video, learn how to manage product attributes when you have a storefront
 
 ## Additional resources
 
-- [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html)
-- [PWA Studio Guide](https://developer.adobe.com/commerce/pwa-studio/)
+- [Product attributes - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [PWA Studio - Developer documentation](https://developer.adobe.com/commerce/pwa-studio/)

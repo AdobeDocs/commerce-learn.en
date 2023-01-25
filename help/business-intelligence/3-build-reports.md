@@ -21,11 +21,11 @@ There are two options for building reports and analysis in MBI: the visual repor
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## Additional resources
 
-- [Which Report Builder should I use?](https://docs.magento.com/mbi/data-user/reports/report-builder-options.html)
-- [Visual Report Builder](https://docs.magento.com/mbi/data-user/reports/ess-rpt-build-visual.html)
+- [Which Report Builder should I use? - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [Visual Report Builder - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

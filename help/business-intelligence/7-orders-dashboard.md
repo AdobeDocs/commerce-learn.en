@@ -24,11 +24,11 @@ summary to be sent automatically to your warehouse manager for followup.
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 
 ## Additional resources
 
-- [Orders dashboard](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#orders)
-- [Creating automated email summaries](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Orders dashboard - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#orders)
+- [Create automated email summaries - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

@@ -21,11 +21,11 @@ To enable informed business decisions, customer-focused dashboards provide many 
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
 ## Additional resources
 
-- [Customers (guest checkout allowed)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-guest-checkout-allowed)
-- [Customers (no guest checkout allowed)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-no-guest-checkout-allowed)
+- [Customers (guest checkout allowed) - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [Customers (no guest checkout allowed) - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

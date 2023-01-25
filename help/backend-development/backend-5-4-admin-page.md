@@ -23,12 +23,11 @@ In this video:
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 
 ## Additional resources
 
-- [Creating an [!DNL Admin] page](https://devdocs.magento.com/guides/v2.4/ext-best-practices/extension-coding/example-module-adminpage.html)
-- [Creating an Access Control List (ACL) rule](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html)
-- [Running Unit Tests](https://devdocs.magento.com/guides/v2.4/test/unit/unit_test_execution.html)
+- [Create an Access Control List (ACL) rule](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule/)
+- [PHP Unit Tests](https://developer.adobe.com/commerce/testing/guide/unit/)

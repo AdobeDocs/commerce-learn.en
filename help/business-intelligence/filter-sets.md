@@ -35,6 +35,6 @@ In this video:
 
 ## Useful resources
 
-[Creating filter sets for metrics](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
+[Create filter sets - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Recommended Data Dimensions for Segmentation and Filtering](https://docs.magento.com/mbi/best-practices/segment-filter.html)
+[Recommended Data Dimensions for Segmentation and Filtering - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

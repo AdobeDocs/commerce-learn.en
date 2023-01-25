@@ -21,11 +21,11 @@ MBI users can be granted read-only, standard, or admin permission levels to cont
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## Additional resources
 
-- [Exporting Chart Data](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
-- [Creating automated email summaries](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Export Chart Data - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Create automated email summaries - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

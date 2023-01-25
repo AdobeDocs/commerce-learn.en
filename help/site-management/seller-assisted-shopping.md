@@ -23,5 +23,5 @@ Customers sometimes need assistance to complete a purchase. Some customers like 
 
 ## Additional resources
 
-- [Providing Shopper Assistance](https://docs.magento.com/user-guide/customers/login-as-customer.html)
-- [Shopping Assistance](https://docs.magento.com/user-guide/sales/shopping-assistance.html)
+- [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
