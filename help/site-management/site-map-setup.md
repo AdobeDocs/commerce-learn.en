@@ -19,11 +19,11 @@ A site map improves the way your store is indexed by search engines, and is desi
 
 >[!NOTE]
 >
->The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## Additional resources
 
-- [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [XML Sitemap](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [Site Maps - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [Catalog > XML Sitemap - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

@@ -24,5 +24,5 @@ The URL Rewrite tool lets you change any URL that is associated with a product, 
 
 ## Additional resources
 
-- [URL Rewrites](https://docs.magento.com/user-guide/marketing/url-rewrite.html)
-- [Web Configuration Reference](https://docs.magento.com/user-guide/configuration/general/web.html)
+- [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

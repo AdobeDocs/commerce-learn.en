@@ -21,11 +21,11 @@ The Executive Overview dashboard provides high-level insights into revenue, orde
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## Additional resources
 
-- [Executive Summary](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
-- [Sharing dashboards with other users](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)
+- [Executive Summary - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [Share dashboards with other users - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)

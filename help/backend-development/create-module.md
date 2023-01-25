@@ -28,5 +28,4 @@ Module is a structural element of [!DNL Commerce] – the whole system is built 
 
 ## Useful resources
 
-- [Module reference guide](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
-- [Create a module](https://devdocs.magento.com/videos/fundamentals/create-a-new-module/)
+- [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/)

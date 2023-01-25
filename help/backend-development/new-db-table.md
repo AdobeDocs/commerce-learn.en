@@ -36,4 +36,4 @@ Rather than doing manual SQL operations repeatedly when reinstalling the system,
 
 ## Useful resources
 
-- [Migration commands](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/migration-commands.html)
+- [Migrate install/upgrade scripts to declarative schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

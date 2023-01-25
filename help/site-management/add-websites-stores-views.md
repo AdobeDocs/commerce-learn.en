@@ -21,11 +21,11 @@ Every Adobe Commerce and Magento Open Source installation supports a hierarchy o
 
 >[!NOTE]
 >
->The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Additional resources
 
-- [Websites, Stores, and Views](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-- [Root Categories](https://docs.magento.com/user-guide/catalog/category-root.html)
+- [Websites, Stores, and Views - [!DNL Commerce] Getting Started Guide](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Root category and hierarchy - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

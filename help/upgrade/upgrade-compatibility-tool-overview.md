@@ -34,5 +34,5 @@ To learn more about the tool see the [Upgrade Compatibility Tool documentation](
 
 - [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [Released versions](https://devdocs.magento.com/release/released-versions.html)
-- [Upcoming releases](https://devdocs.magento.com/release/)
+- [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Release schedule](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

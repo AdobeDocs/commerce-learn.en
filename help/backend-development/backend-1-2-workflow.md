@@ -20,10 +20,10 @@ In this video:
 
 >[!IMPORTANT]
 >
->The Commerce Marketplace no longer includes the **Download** button. You must use the command line to install or upgrade extensions. Refer to the [General CLI installation](https://devdocs.magento.com/extensions/install/) topic in the developer documentation for more information.
+>The Commerce Marketplace no longer includes the **Download** button. You must use the command line to install or upgrade extensions. Refer to the [Install an extension](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) page in the _Installation Guide_ for more information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
 ## Additional resources
 
-[[!DNL Commerce] PHP developer guide](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP developer guide](https://developer.adobe.com/commerce/php/development/)

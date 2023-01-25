@@ -12,7 +12,7 @@ exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
 
 A data warehouse is a relational database configured to consolidate and store data for running business analysis. Data warehouses allow access to data in order to de-normalize production databases and organize them for running analysis more efficiently. 
 
-Using the Data Warehouse Manager, users with admin-level access can manage table and column sync settings, drill-down into a table’s schema, and create calculated columns to use in reports.
+Using the Data Warehouse Manager, users with admin-level access can manage table and column sync settings, drill-down into a table's schema, and create calculated columns to use in reports.
 
 ## Who is this video for?
 
@@ -23,11 +23,11 @@ Using the Data Warehouse Manager, users with admin-level access can manage table
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 
 ## Additional resources
 
-- [A tour of the Data Warehouse Manager](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/tour-dwm.html)
-- [Connect Your Data](https://docs.magento.com/mbi/data-analyst/importing-data/connecting-data/connecting-data.html)
+- [A tour of the Data Warehouse Manager - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [Connect Your Data - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

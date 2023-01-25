@@ -21,5 +21,5 @@ Dependency injection is a design pattern that allows an object A to declare its 
 
 ## Useful resources
 
-- [Dependency injection](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/depend-inj.html)
-- [PHP developer guide](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+- [Dependency injection](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [PHP developer guide](https://developer.adobe.com/commerce/php/development/)

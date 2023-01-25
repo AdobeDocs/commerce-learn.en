@@ -34,5 +34,5 @@ In this video, learn how to:
 
 ## Additional resources
 
-- [Page Builder User Guide](https://docs.magento.com/user-guide/cms/page-builder.html)
-- [Page Builder Developer Guide](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Page Builder User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [Page Builder Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/)

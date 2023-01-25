@@ -23,5 +23,5 @@ Merchants with a single store to multiple warehouses, stores, pickup locations, 
 
 ## Additional resources
 
-- [Managing Inventory](https://docs.magento.com/user-guide/catalog/inventory-management.html)
-- [Inventory Management Developer Documentation](https://devdocs.magento.com/guides/v2.4/inventory/index.html)
+- [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory Management - Developer REST documentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)

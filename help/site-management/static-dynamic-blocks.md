@@ -23,5 +23,5 @@ A block is a modular unit of content that can be positioned most anywhere on the
 
 ## Additional resources
 
-- [Blocks](https://docs.magento.com/user-guide/cms/blocks.html)
-- [Dynamic Blocks](https://docs.magento.com/user-guide/cms/dynamic-blocks.html)
+- [Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Dynamic Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

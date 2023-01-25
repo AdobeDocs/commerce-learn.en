@@ -20,10 +20,10 @@ In this video:
 
 >[!NOTE]
 >
->The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36198?quality=12&learn=on)
 
 ## Additional resources
 
-[Declarative Schema](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/)
+[Declarative Schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/)
