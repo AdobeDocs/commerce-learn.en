@@ -21,11 +21,11 @@ A metric is a measurement. In SQL and database structures, a metric is like a st
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 
 ## Additional resources
 
-- [Creating metrics](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-metrics.html)
-- [Creating filter sets for metrics](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
+- [Create metrics - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
+- [Create filter sets - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)

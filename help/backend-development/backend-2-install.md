@@ -26,5 +26,5 @@ In this video:
 
 ## Additional resources
 
-- [Introduction to Composer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
-- [[!DNL Commerce] installation guide](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html)
+- [Introduction to Composer](https://developer.adobe.com/commerce/php/development/composer/)
+- [[!DNL Commerce] installation guide](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)

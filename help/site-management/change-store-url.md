@@ -21,11 +21,11 @@ Each website in an Adobe Commerce or Magento Open Source installation has a base
 
 >[!NOTE]
 >
->The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
+>The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Additional resources
 
-- [Store URLs](https://docs.magento.com/user-guide/stores/store-urls.html)
-- [Using a Custom Admin URL](https://docs.magento.com/user-guide/stores/store-urls-custom-admin.html)
+- [Store URLs - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Use a custom Admin URL - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

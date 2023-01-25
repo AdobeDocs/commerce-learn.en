@@ -21,5 +21,6 @@ If there are others on your team or service providers who need access, you can c
 
 ## Additional resources
 
-- [Adding Users](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-- [User Roles](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Manage Admin user accounts - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+
+[User roles - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

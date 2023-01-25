@@ -21,11 +21,11 @@ Category analysis is designed to deliver a high-level overview of select product
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 
 ## Additional resources
 
-- [Product segments](https://docs.magento.com/mbi/best-practices/segment-filter.html#product-segments)
-- [Business Performance Analysis](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
+- [Product segments - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [Business Performance Analysis - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

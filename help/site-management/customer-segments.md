@@ -25,5 +25,5 @@ Customer segments allow you to dynamically display content and promotions to spe
 
 ## Additional resources
 
-- [Customer Segments](https://docs.magento.com/user-guide/marketing/customer-segments.html)
-- [Customer Segments in Price Rules](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)
+- [Customer Segments - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Customer Segments in Price Rules - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

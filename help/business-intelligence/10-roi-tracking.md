@@ -21,11 +21,11 @@ MBI provides insights that help you monitor and manage your return on investment
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 
 ## Additional resources
 
-- [Campaign Analysis](https://docs.magento.com/mbi/data-analyst/analysis/camp-analysis.html)
-- [Marketing ROI](https://docs.magento.com/mbi/data-analyst/analysis/marketing-roi.html)
+- [Campaign Analysis - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
+- [Marketing ROI - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

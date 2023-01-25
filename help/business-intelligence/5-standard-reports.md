@@ -21,11 +21,11 @@ The default, out-of-the-box MBI dashboards contain pre-defined reports that cove
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 
 ## Additional resources
 
-- [Out-of-the-Box Dashboards](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html)
-- [Using Dashboard Groups](https://docs.magento.com/mbi/data-user/dashboards/using-dashboard-groups.html)
+- [Out-of-the-Box Dashboards - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [Use Dashboard Groups - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

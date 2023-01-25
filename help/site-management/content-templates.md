@@ -22,5 +22,5 @@ Using templates saves you time and effort when creating content (or replacing ol
 
 ## Additional resources
 
-- [Page Builder Templates](https://docs.magento.com/user-guide/cms/page-builder-templates.html)
-- [Add templates - developer](https://devdocs.magento.com/page-builder/docs/content-types/create/add-templates.html)
+- [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

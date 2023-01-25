@@ -32,11 +32,11 @@ With these three core pieces of technology built into one solution, merchants ar
 
 >[!NOTE]
 >
->The content in the video reflects the 2.2 release. See the [MBI User Guide](https://docs.magento.com/mbi/) for the most up-to-date information.
+>The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## Useful resources
 
-- [MBI Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [MBI Support](https://support.magento.com/hc/en-us/articles/360016730811)
+- [MBI Introduction - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
