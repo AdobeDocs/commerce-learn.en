@@ -11,7 +11,7 @@ last-substantial-update: 2023-01-24
 
 # Extensibility Framework and commerce eventing
 
-
+To learn more about how to use Adobe Commerce with App Builder, view the video below that shows how App Builder can be used with Adobe Commerce events. This functional demonstration describes how this integration works and explores the potential of Adobe App Builder. In this demonstration you'll have an introduction to the extensibility framework and Commerce Eventing and how we used this when developing the Amazon Sales Channel extension. 
 
 ## App Builder for Adobe Commerce {#app-builder-extensibility}
 
