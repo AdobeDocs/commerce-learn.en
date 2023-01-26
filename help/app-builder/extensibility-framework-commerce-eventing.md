@@ -6,7 +6,6 @@ kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24
-
 ---
 
 # Extensibility Framework and commerce eventing
