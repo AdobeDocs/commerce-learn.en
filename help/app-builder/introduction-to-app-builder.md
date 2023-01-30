@@ -1,25 +1,25 @@
 ---
 title: Out-of-process extensibility for Adobe Commerce
 description: Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility.
-landing-page-description: Learn what is app builder and how it can help with Adobe Commerce development strategies.
+landing-page-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11
+last-substantial-update: 2023-01-24
 
 ---
 
 # Out-of-process extensibility
 
-Adobe Commerce development has historically been done using the same repository as the main application.  This is called in-process.  This technique is very good and offers the developer an expected mechanism for extending the application.  However, this comes at a price.  Every time you add new code to the codebase it has to be compatible with any upgrades.  You also have to be compatile with the servers PHP version as well as many other server applications and services that commerce will utilize.  Adobe Developer App Builder takes the same requirement of extending the functionality but moves it off site.  The code and logic are completely external and this method is refered to as out-of-process.
+Historically, Adobe Commerce development has used in-process extensibility, a powerful feature, but the in-process model requires any new code to be compatible with upgrades, the server's PHP version, and many other essential server applications and services that Commerce uses. Adobe Developer App Builder uses out-of-process extensibility to avoid these compatibility issues.
 
 ## App Builder for Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder provides an extensibility framework for developers to extend [!DNL Adobe Commerce] to provide out-of-process extensibility. 
+Adobe Developer App Builder is a serverless extensibility platform for integrating and creating custom experiences to extend Adobe solutions, and it's now available for Adobe Commerce. With App Builder, you can build secure and scalable apps that extend Commerce-native functionality and integrate with third-party solutions. As a developer, you can now utilize out-of-process extensibility with Adobe Commerce and that in turn provides immediate and long-term benefits.
 
-App Builder provides a unified third-party extensibility framework for integrating and creating custom applications that extend [!DNL Adobe Commerce]. Since this extensibility framework is built on Adobe's infrastructure, developers can build custom microservices, as well as extend and integrate [!DNL Adobe Commerce] across Adobe solutions and other third-party integrations.
+App Builder provides a unified third-party extensibility framework for integrating and creating custom applications that extend [!DNL Adobe Commerce]. Since this extensibility framework is built on Adobe's infrastructure, developers can build custom microservices, and extend and integrate [!DNL Adobe Commerce] across other Adobe solutions and third-party integrations.
 
 App Builder provides a way for customers to extend [!DNL Adobe Commerce] in various use cases:
 
@@ -31,13 +31,13 @@ App Builder (previously known as Project Firefly) is a cloud-based solution, whi
 
 ## Why should you learn more about App Builder
 
-Since Adobe Commerce is not a fully SAAS, the code you develop or install can add complexity and upgrade issues. By using out-of-process extensibility, such as App builder, you can provide custom, unique functionality to your Adobe Commerce store without requiring in-process methods.
+Since Adobe Commerce is not a fully SAAS product, the code you develop can add complexity and upgrade issues. By using out-of-process extensibility, such as App Builder, you can provide custom, unique functionality to your Adobe Commerce store without requiring in-process methods.
 
 Other benefits include:
 
 * Decoupled features allow for faster time to launch.
-* Upgrades are now easier. The custom features are outside the commerce codebase, which prevents  compatibility issues when upgrading.
-* Moving features and logic outside of commerce frees up resources that are normally used by in-process development methods.
+* Upgrades are now easier. The custom features are outside the Commerce codebase, which prevents  compatibility issues when upgrading.
+* Moving features and logic outside of Commerce frees up resources that are normally used by in-process development methods.
 
 ## Architecture {#architecture}
 
@@ -53,6 +53,14 @@ The following diagram illustrates how a standard application built on App Builde
 ![Architecture](/help/assets/app-builder/firefly-architecture.jpeg)
 
 For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/).
+
+## Amazon Sales Channel extension {#amazon-sales-channel-extension}
+
+The following tutorials demonstrate how to connect Adobe Commerce to Amazon Sales Channel using an App Builder extension. 
+
+* [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
+* [extensibility framework](../app-builder/extensibility-framework-commerce-eventing.md)
+* [functional demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Get Started with App Builder {#additional-resources}
 
@@ -76,4 +84,3 @@ Ready to start developing? The following link contains sample applications to he
 ## Support {#support}
 
 For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) for assistance.
-
