@@ -60,7 +60,8 @@ breadcrumb-title: Videos and Tutorials
   + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
   + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
   + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
-  + [Technical overview for App builder](../app-builder/app-builder-technical-overview.md)
+  + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
+  + [API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
