@@ -15,7 +15,7 @@ Some basic information to help with the concept of creating a project and worksp
 
 ## Learn about projects in Adobe Developer Console
 
-Descrive what and why we use projects in Adobe Developer console.
+Describe what and why we use projects in Adobe Developer console.
 
 ## Lean about workspaces in Adobe Developer Console
 
@@ -23,7 +23,7 @@ Describe what and why we use workspaces.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce or [!DNL Magento Open Source] with limited experience with Adobe Developer console
+* Developers new to Adobe Commerce or [!DNL Magento Open Source] with limited experience with Adobe Developer console and understand projects and workspaces.
 
 ## Video content
 

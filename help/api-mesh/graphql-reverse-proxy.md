@@ -8,11 +8,11 @@ audience: all
 last-substantial-update: 2023-1-31
 
 ---
-# Lean about projects and workspaces
+# Create a GraphQL reverse proxy
 
-Some basic information to help with the concept of creating a project and workspace. 
+This will help a developer understand how to create a GraphQL reverse proxy. 
 
-## Learn about projects in Adobe Developer Console
+## Why we need a reverse proxy
 
 Describe what and why we use graphql reverse proxy
 
@@ -25,13 +25,9 @@ For more information around the basic functionality of a reverse proxy here are 
 [What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
 [What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy)
 
-## Lean about workspaces in Adobe Developer Console
-
-Describe what and why we use workspaces.
-
 ## Who is this video for?
 
-* Developers new to Adobe Commerce or [!DNL Magento Open Source] with limited experience with Adobe Developer console
+* Define how to setup and verify that the reverse proxy is working in the Api Mesh
 
 ## Video content
 
