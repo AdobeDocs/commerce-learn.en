@@ -9,9 +9,9 @@ last-substantial-update: 2023-1-31
 
 ---
 
-# Get started with API Mesh
+# Install Adobe IO and API Mesh plugin
 
-Before we start, there are a few things we need to setup. 
+Before we start, there are a few things we need to setup. First we need to ensure we have the Adobe IO command line interface setup. Next we need to ensure that the API Mesh plugin is configured in each environment.
 
 ## Install AIO and Mesh plugin
 
