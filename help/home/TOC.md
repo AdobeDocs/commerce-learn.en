@@ -6,7 +6,7 @@ breadcrumb-title: Videos and Tutorials
 
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Videos, Courses and Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + Getting Started {#getting-started}
   + [!DNL Commerce] Cloud{#cloud}
     + [1 - Overview](../cloud/1-overview.md)

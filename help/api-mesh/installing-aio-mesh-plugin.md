@@ -30,6 +30,10 @@ Installing the Adobe IO command line interface is rather simple.
 PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/123456789)
 
+## Sample code provided in the video
+
+Here are some of the code samples used in the video
+
 ## Useful API Mesh resources
 
 * [Getting started with API Mesh](./getting-started-api-mesh.md)

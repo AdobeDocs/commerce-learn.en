@@ -14,7 +14,16 @@ Some basic information to help with the concept of creating a project and worksp
 
 ## Learn about projects in Adobe Developer Console
 
-Descrive what and why we use projects in Adobe Developer console.
+Describe what and why we use graphql reverse proxy
+
+## what is a reverse proxy
+
+A reverse proxy when it comes to graphql is ...
+TODO more details needed
+
+For more information around the basic functionality of a reverse proxy here are a few external resources
+[What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
+[What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy)
 
 ## Lean about workspaces in Adobe Developer Console
 
