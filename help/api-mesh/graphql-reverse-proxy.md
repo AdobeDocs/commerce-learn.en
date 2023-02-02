@@ -5,35 +5,80 @@ landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!D
 kt: 11804
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-1-31
+last-substantial-update: 2023-2-2
 
 ---
 # Create a GraphQL reverse proxy
 
-This will help a developer understand how to create a GraphQL reverse proxy. 
+The video helps a developer understand how to create a GraphQL reverse proxy. Remember, for GraphQL Mesh to work as expected, a publicly accessible URL with valid GraphQL schema is required. The video also explains how to set up your initial json for use with your commerce website. For basic code samples that was used in the video, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
-## Why we need a reverse proxy
+## Create the json configuration file
 
-Describe what and why we use graphql reverse proxy
+For Adobe App Builder to know about all your sources, you define them in a JSON configuration. Each source is an element in an array and you can have one or more. Here is an example of a single source
 
-## what is a reverse proxy
+```json
+{
+"meshConfig": {
+    "sources": [
+      {
+        "name": "Commerce",
+        "handler": {
+          "graphql": {
+            "endpoint": "https://venia.magento.com/graphql/"
+          }
+        }
+      }
+    ]
+  }
+}
+```
 
-A reverse proxy when it comes to graphql is ...
-TODO more details needed
+Here is an example of several sources
 
-For more information around the basic functionality of a reverse proxy here are a few external resources
-[What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
-[What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy)
+```json
+{
+"meshConfig": {
+    "sources": [
+      {
+        "name": "Commerce",
+        "handler": {
+          "graphql": {
+            "endpoint": "https://venia.magento.com/graphql/"
+          }
+        }
+      },
+      {
+        "name": "ERP",
+        "handler": {
+          "graphql": {
+            "endpoint": "https://www.example.com/graphql/"
+          }
+        }
+      }
+    ]
+  }
+}
+```
+
+## What is a reverse proxy
+
+As a developer using Adobe App Builder and GraphQL Mesh, it is not necessary to understand what a reverse proxy is. However you may be interested in the overall functionality as it pertains to Adobe App Builder. There are many good resources to be found on the internet.
+For more information around the basic functionality of a reverse proxy here are a few external resources:
+
+* [What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
+* [What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy)
 
 ## Who is this video for?
 
-* Define how to setup and verify that the reverse proxy is working in the Api Mesh
+* Anyone who is new to API mesh
+* Developers interested using multiple graphql sources
+* Anyone who needs to know how to filter the network tab and filter by graphql
 
 ## Video content
 
-* Introduction to API Mesh
-* Installing Adobe IO
-* Enable API Mesh in developer console
+* Using API as a reverse proxy
+* JSON configuration with the Adobe Developer command-line interface
+* Accessing the newly created GraphQL endpoint
 
 PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/123456789)
@@ -41,7 +86,7 @@ PLACEHOLDER VIDEO URL needs to be updated
 ## Useful API Mesh resources
 
 * [Getting started with API Mesh](./getting-started-api-mesh.md)
-* [Installing Adobe IO and mesh plugin](./installing-aio-mesh-plugin.md)
+* [Installing Adobe Developer and mesh plugin](./installing-aio-mesh-plugin.md)
 * [Working with projects and workspaces](./aio-projects-workspaces.md)
 * [Create graphql reverse proxy](./graphql-reverse-proxy.md)
 * [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)

@@ -11,25 +11,30 @@ last-substantial-update: 2023-1-31
 
 # Lean about projects and workspaces
 
-Some basic information to help with the concept of creating a project and workspace. 
+Some basic information to help with the concept of creating a project and workspace. Most your UI work happens in [Adobe Developer console](https://developer.adobe.com/console).
 
-## Learn about projects in Adobe Developer Console
 
-Describe what and why we use projects in Adobe Developer console.
+## Learn about Adobe Developer Console
 
-## Lean about workspaces in Adobe Developer Console
+There are several aspects to the Adobe Developer Console that you should be aware of such as Projects, Workspaces, and organizations. To get some deeper information around Adobe App Builder, how to log in to the console and some basic troubleshooting, please visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
-Describe what and why we use workspaces.
+## Introduction to Projects in Adobe Developer Console
+
+All development work in Adobe Developer Console is done as part of a project. A project may include one or multiple products, and a combination of APIs, events, runtime, and plugins. For more details on projects in Adobe Developer console, please visit [Projects Overview](https://developer.adobe.com/developer-console/docs/guides/projects/).
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce or [!DNL Magento Open Source] with limited experience with Adobe Developer console and understand projects and workspaces.
+* Adobe App Builder projects that need multiple sources of graphql endpoints
 
 ## Video content
 
-* Introduction to API Mesh
-* Installing Adobe IO
-* Enable API Mesh in developer console
+* Working with projects and workspaces inside Adobe Developer Console
+* Adding the API Mesh to the Workspace inside Adobe Developer Console
+* Log in with the Adobe Developer console
+* Display project and workspace from the Adobe Developer command line
+* Changing Organization if you are logged into the wrong one
+* Select and connect to an Adobe Developer Project and Workspace from the Adobe Developer command line
+* Testing basic API mesh commands
 
 PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/123456789)
@@ -37,7 +42,7 @@ PLACEHOLDER VIDEO URL needs to be updated
 ## Useful API Mesh resources
 
 * [Getting started with API Mesh](./getting-started-api-mesh.md)
-* [Installing Adobe IO and mesh plugin](./installing-aio-mesh-plugin.md)
+* [Installing Adobe Developer and mesh plugin](./installing-aio-mesh-plugin.md)
 * [Working with projects and workspaces](./aio-projects-workspaces.md)
 * [Create graphql reverse proxy](./graphql-reverse-proxy.md)
 * [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)

@@ -1,6 +1,6 @@
 ---
 title: Get started with API Mesh
-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe Developer, working with projects, creating a graphql reverse proxy and much more.
 landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
 kt: 11802
 doc-type: tutorial
@@ -20,11 +20,7 @@ API Mesh allows for multiple sources of data to be used to provide a single resp
 
 ## Example use cases
 
-The backend system for your Commerce application has a REST API you can use to get special pricing. Another backend system that has a GraphQL endpoint handles inventory status. Using API Mesh, you can define both endpoints, retrieve the information and return it to the requesting application as one response.
-
-## Learn about projects in Adobe Developer Console
-
-Describe what and why we use projects in Adobe Developer console.
+The backend system for your Commerce application has a REST API you can use to get special pricing. Another backend system that has a GraphQL endpoint handles inventory status. Using API Mesh, you can define both endpoints, retrieve the information, and return it to the requesting application as one response.
 
 ## Who is this video for?
 
@@ -33,7 +29,7 @@ Describe what and why we use projects in Adobe Developer console.
 ## Video content
 
 * Introduction to API Mesh
-* Installing Adobe IO
+* Installing Adobe Developer
 * Enable API Mesh in developer console
 
 PLACEHOLDER VIDEO URL needs to be updated
@@ -41,7 +37,7 @@ PLACEHOLDER VIDEO URL needs to be updated
 
 ## Useful API Mesh resources
 
-* [Installing Adobe IO and mesh plugin](./installing-aio-mesh-plugin.md)
+* [Installing Adobe Developer and mesh plugin](./installing-aio-mesh-plugin.md)
 * [Working with projects and workspaces](./aio-projects-workspaces.md)
 * [Create graphql reverse proxy](./graphql-reverse-proxy.md)
 * [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
