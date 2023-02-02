@@ -38,10 +38,4 @@ PLACEHOLDER VIDEO URL needs to be updated
 
 Here are some of the code samples used in the video
 
-## Useful API Mesh resources
-
-* [Getting started with API Mesh](./getting-started-api-mesh.md)
-* [Installing Adobe Developer and mesh plugin](./installing-aio-mesh-plugin.md)
-* [Working with projects and workspaces](./aio-projects-workspaces.md)
-* [Create graphql reverse proxy](./graphql-reverse-proxy.md)
-* [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
+{{$include /help/_includes/api-mesh-related-links.md}}

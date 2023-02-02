@@ -39,10 +39,4 @@ All development work in Adobe Developer Console is done as part of a project. A 
 PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/123456789)
 
-## Useful API Mesh resources
-
-* [Getting started with API Mesh](./getting-started-api-mesh.md)
-* [Installing Adobe Developer and mesh plugin](./installing-aio-mesh-plugin.md)
-* [Working with projects and workspaces](./aio-projects-workspaces.md)
-* [Create graphql reverse proxy](./graphql-reverse-proxy.md)
-* [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
+{{$include /help/_includes/api-mesh-related-links.md}}
