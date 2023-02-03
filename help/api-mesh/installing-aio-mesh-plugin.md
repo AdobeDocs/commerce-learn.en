@@ -31,11 +31,6 @@ Once the Adobe Developer cli is installed, it is possible to install the mesh pl
 * Installing Adobe Developer
 * Enable API Mesh in Adobe Developer Console
 
-PLACEHOLDER VIDEO URL needs to be updated
->[!VIDEO](https://video.tv.adobe.com/v/123456789)
-
-## Sample code provided in the video
-
-Here are some of the code samples used in the video
+>[!VIDEO](https://video.tv.adobe.com/v/3414028)
 
 {{$include /help/_includes/api-mesh-related-links.md}}
