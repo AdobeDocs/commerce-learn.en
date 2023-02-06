@@ -22,17 +22,4 @@ API Mesh allows for multiple sources of data to be used to provide a single resp
 
 The backend system for your Commerce application has a REST API you can use to get special pricing. Another backend system that has a GraphQL endpoint handles inventory status. Using API Mesh, you can define both endpoints, retrieve the information, and return it to the requesting application as one response.
 
-## Who is this video for?
-
-* Developers new to Adobe Commerce or [!DNL Magento Open Source] with limited experience with Adobe Developer console
-
-## Video content
-
-* Introduction to API Mesh
-* Installing Adobe Developer
-* Enable API Mesh in developer console
-
-PLACEHOLDER VIDEO URL needs to be updated
->[!VIDEO](https://video.tv.adobe.com/v/123456789)
-
 {{$include /help/_includes/api-mesh-related-links.md}}

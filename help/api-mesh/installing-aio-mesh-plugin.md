@@ -28,8 +28,8 @@ Once the Adobe Developer cli is installed, it is possible to install the mesh pl
 ## Video content
 
 * Introduction to API Mesh
-* Installing Adobe Developer IO command line (Cli)
-* Adding the API Mesh plugin to the AIO Cli
+* Installing Adobe Developer IO command-line interface
+* Adding the API Mesh plugin to the AIO command line
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 

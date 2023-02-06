@@ -24,7 +24,7 @@ All development work in Adobe Developer Console is done as part of a project. A 
 
 ## Who is this video for?
 
-* Adobe App Builder projects that need multiple sources of graphql endpoints
+* Developers who are building a single API endpoint with Adobe App Builder by using a workspace that composes multiple sources or simply proxies into a source
 
 ## Video content
 
@@ -36,7 +36,6 @@ All development work in Adobe Developer Console is done as part of a project. A 
 * Select and connect to an Adobe Developer Project and Workspace from the Adobe Developer command line
 * Testing basic API mesh commands
 
-PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
 {{$include /help/_includes/api-mesh-related-links.md}}

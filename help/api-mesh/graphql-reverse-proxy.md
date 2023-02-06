@@ -80,7 +80,6 @@ For more information around the basic functionality of a reverse proxy here are 
 * JSON configuration with the Adobe Developer command-line interface
 * Accessing the newly created GraphQL endpoint
 
-PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/3414124)
 
 {{$include /help/_includes/api-mesh-related-links.md}}

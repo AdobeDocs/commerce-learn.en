@@ -35,7 +35,6 @@ aio api-mesh update some-config-name.json
 * Rebuild the API Mesh after fixing the schema
 * Meshed schema results of two sources
 
-PLACEHOLDER VIDEO URL needs to be updated
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)
 
 ## Sample code provided in the video
