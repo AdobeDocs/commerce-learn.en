@@ -9,7 +9,7 @@ last-substantial-update: 2023-01-24
 
 ---
 
-# App Builder for Adobe Commerce functional demonstration 
+# Functional demonstration for App Builder
 
 To learn more about how to use Adobe Commerce with App Builder, view the video below that shows how to connect Adobe Commerce to Amazon Sales Channel. This demonstration uses an Adobe Commerce event and Adobe App Builder's event observer. This functional demonstration describes how this integration works and explores the potential of Adobe App Builder.
 
