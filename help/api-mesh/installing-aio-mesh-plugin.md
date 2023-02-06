@@ -5,7 +5,7 @@ landing-page-description: Discover how to use Adobe App Builder and install the 
 kt: 11801
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-3
+last-substantial-update: 2023-2-6
 
 ---
 
@@ -31,6 +31,6 @@ Once the Adobe Developer cli is installed, it is possible to install the mesh pl
 * Installing Adobe Developer IO
 * Enable API Mesh in Adobe Developer Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3414028)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
 {{$include /help/_includes/api-mesh-related-links.md}}

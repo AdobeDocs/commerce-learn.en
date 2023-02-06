@@ -37,6 +37,6 @@ All development work in Adobe Developer Console is done as part of a project. A 
 * Testing basic API mesh commands
 
 PLACEHOLDER VIDEO URL needs to be updated
->[!VIDEO](https://video.tv.adobe.com/v/123456789)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
 {{$include /help/_includes/api-mesh-related-links.md}}

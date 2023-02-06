@@ -81,6 +81,6 @@ For more information around the basic functionality of a reverse proxy here are 
 * Accessing the newly created GraphQL endpoint
 
 PLACEHOLDER VIDEO URL needs to be updated
->[!VIDEO](https://video.tv.adobe.com/v/123456789)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124)
 
 {{$include /help/_includes/api-mesh-related-links.md}}
