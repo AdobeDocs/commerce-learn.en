@@ -29,7 +29,7 @@ Once the Adobe Developer cli is installed, it is possible to install the mesh pl
 
 * Introduction to API Mesh
 * Installing Adobe Developer IO
-* Enable API Mesh in Adobe Developer Console
+* Adding the API Mesh plugin to the AIO Cli
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
