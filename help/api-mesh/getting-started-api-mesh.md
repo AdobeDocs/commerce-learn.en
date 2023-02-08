@@ -5,7 +5,7 @@ landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!D
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-1-31
+last-substantial-update: 2023-2-8
 
 ---
 # Get started with API Mesh

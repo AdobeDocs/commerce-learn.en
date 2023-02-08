@@ -5,10 +5,10 @@ landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!D
 kt: 11804
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-7
+last-substantial-update: 2023-2-8
 
 ---
-# Create single source GraphQL request
+# Create single source GraphQL API mesh
 
 The video helps a developer understand how to create a GraphQL reverse proxy and has a single source. Remember, for GraphQL Mesh to work as expected, a publicly accessible URL with valid GraphQL schema is required. The video also explains how to set up your initial json for use with your commerce website. For basic code samples that was used in the video, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 

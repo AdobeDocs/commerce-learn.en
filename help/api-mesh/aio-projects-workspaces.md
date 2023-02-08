@@ -5,22 +5,13 @@ landing-page-description: Discover how to use Adobe Developer console. Learn abo
 kt: 11803
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-1-31
+last-substantial-update: 2023-2-8
 
 ---
 
-# Lean about projects and workspaces
+# Working with projects and workspaces
 
 Some basic information to help with the concept of creating a project and workspace. Most your UI work happens in [Adobe Developer console](https://developer.adobe.com/console).
-
-
-## Learn about Adobe Developer Console
-
-There are several aspects to the Adobe Developer Console that you should be aware of such as Projects, Workspaces, and organizations. To get some deeper information around Adobe App Builder, how to log in to the console and some basic troubleshooting, please visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
-
-## Introduction to Projects in Adobe Developer Console
-
-All development work in Adobe Developer Console is done as part of a project. A project may include one or multiple products, and a combination of APIs, events, runtime, and plugins. For more details on projects in Adobe Developer console, please visit [Projects Overview](https://developer.adobe.com/developer-console/docs/guides/projects/).
 
 ## Who is this video for?
 
@@ -37,5 +28,13 @@ All development work in Adobe Developer Console is done as part of a project. A 
 * Testing basic API mesh commands
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
+
+## Learn about Adobe Developer Console
+
+There are several aspects to the Adobe Developer Console that you should be aware of such as Projects, Workspaces, and organizations. To get some deeper information around Adobe App Builder, how to log in to the console and some basic troubleshooting, please visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+
+## Introduction to Projects in Adobe Developer Console
+
+All development work in Adobe Developer Console is done as part of a project. A project may include one or multiple products, and a combination of APIs, events, runtime, and plugins. For more details on projects in Adobe Developer console, please visit [Projects Overview](https://developer.adobe.com/developer-console/docs/guides/projects/).
 
 {{$include /help/_includes/api-mesh-related-links.md}}
