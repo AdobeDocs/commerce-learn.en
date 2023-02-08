@@ -20,12 +20,12 @@ The video helps a developer understand how to create a GraphQL reverse proxy wit
 
 ## Video content
 
-* How complex product attributes can be stitched together from several sources
-* Modifying the api mesh configuration
-* How to identify errors such as spaces in the name
+* How Complex Custom Attributes API schema from a second source can override the default source schema
+* Modifying the api mesh configuration to account for the second overriding schema
+* How to troubleshoots errors that might occur in the process like naming conflict, schema availability and other SDL syntax
 * Example of common errors after attempts to stitch schemas
 * Rebuilding the api mesh after edits
-* Saving changes to git
+* Saving changes to git after modifying API Mesh config
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)
 

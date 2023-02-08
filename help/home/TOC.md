@@ -62,7 +62,6 @@ breadcrumb-title: Videos and Tutorials
   + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
   + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
 
-
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
