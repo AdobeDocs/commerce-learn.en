@@ -6,7 +6,7 @@ breadcrumb-title: Videos and Tutorials
 
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Videos, Courses and Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + Getting Started {#getting-started}
   + [!DNL Commerce] Cloud{#cloud}
     + [1 - Overview](../cloud/1-overview.md)
@@ -60,7 +60,7 @@ breadcrumb-title: Videos and Tutorials
   + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
   + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
   + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
-  + [Technical overview for App builder](../app-builder/app-builder-technical-overview.md)
+  + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
 
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
