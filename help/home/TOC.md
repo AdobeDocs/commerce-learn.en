@@ -61,7 +61,6 @@ breadcrumb-title: Videos and Tutorials
   + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
   + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
   + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
-  + [API Mesh tutorials](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
 
 + API Mesh {#api-mesh}
   + [API Mesh tutorials](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
