@@ -7,7 +7,7 @@ breadcrumb-title: API Mesh Introduction
 # Introduction to API Mesh {#api-mesh}
 
 + [Get started with API Mesh](./getting-started-api-mesh.md)
-+ [Install Adobe IO and the mesh plugin](./installing-aio-mesh-plugin.md)
++ [Install Adobe I/O Runtime CLI and the mesh plugin](./installing-aio-mesh-plugin.md)
 + [Work with projects and workspaces](./aio-projects-workspaces.md)
 + [Create a mesh with one source](./graphql-single-source.md)
 + [Create a mesh with multiple sources](./graphql-multiple-source.md)

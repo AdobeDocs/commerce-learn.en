@@ -11,11 +11,11 @@ last-substantial-update: 2023-2-8
 
 # Working with projects and workspaces
 
-In this tutorial, we discuss creating a project and workspace to contain your mesh. This work happens predominately in the [Adobe Developer console](https://developer.adobe.com/console) UI.
+This tutorial discusses creating a project and workspace to contain your mesh. This work happens predominately in the [Adobe Developer console](https://developer.adobe.com/console) UI.
 
 ## Who is this video for?
 
-* Developers who have access to an Adobe IO account and want to create a project and workspace.
+* Developers who have access to an Adobe Developer Console account and want to create a project and workspace.
 
 ## Video content
 
