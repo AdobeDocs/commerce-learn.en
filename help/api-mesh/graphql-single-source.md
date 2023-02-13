@@ -1,34 +1,34 @@
 ---
-title: Create a GraphQL single source request to be used in API Mesh
-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a request that has one source.
-landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a request that has one source.
+title: Create a GraphQL single source mesh in API Mesh
+description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
+landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
 
 ---
-# Create single source GraphQL API mesh
+# Create a mesh with a single source
 
-The video helps a developer understand how to create a GraphQL reverse proxy and has a single source. Remember, for GraphQL Mesh to work as expected, a publicly accessible URL with valid GraphQL schema is required. The video also explains how to set up your initial json for use with your commerce website. For basic code samples that was used in the video, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+This video helps developers understand how to create a mesh with a single source in API Mesh for Adobe Developer App Builder. For this basic example to work as expected, you'll need a publicly accessible API or GraphQL endpoint. The video also explains how to create a simple `mesh.json` file to use with your Commerce instance. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
 ## Who is this video for?
 
-* Anyone who is new to API mesh
-* Developers interested using multiple graphql sources
-* Anyone who needs to know how to filter the network tab and filter by graphql
+* Anyone new to API mesh
+* Developers interested in combining multiple GraphQL and API sources
+* Anyone who needs to know how to filter the network tab and filter by GraphQL
 
 ## Video content
 
-* Using API as a reverse proxy
-* JSON configuration with the Adobe Developer command-line interface
+* Using API Mesh as a reverse proxy
+* Creating a mesh from a JSON configuration file
 * Accessing the newly created GraphQL endpoint
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124)
 
 ## Create the json configuration file
 
-For Adobe App Builder to know about all your sources, you define them in a JSON configuration. Each source is an element in an array and you can have one or more. Here is an example of a single source
+API Mesh uses a JSON configuration file to define your source handlers. The JSON file contains a `sources` array that contains the sources for your mesh. Here is an example of a mesh with a single source.
 
 ```json
 {

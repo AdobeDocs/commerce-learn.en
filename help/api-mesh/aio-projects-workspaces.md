@@ -11,30 +11,31 @@ last-substantial-update: 2023-2-8
 
 # Working with projects and workspaces
 
-Some basic information to help with the concept of creating a project and workspace. Most your UI work happens in [Adobe Developer console](https://developer.adobe.com/console).
+In this tutorial, we discuss creating a project and workspace to contain your mesh. This work happens predominately in the [Adobe Developer console](https://developer.adobe.com/console) UI.
 
 ## Who is this video for?
 
-* Developers who are building a single API endpoint with Adobe App Builder by using a workspace that composes multiple sources or simply proxies into a source
+* Developers who have access to an Adobe IO account and want to create a project and workspace.
 
 ## Video content
 
-* Working with projects and workspaces inside Adobe Developer Console
-* Adding the API Mesh to the Workspace inside Adobe Developer Console
-* Log in with the Adobe Developer console
-* Display project and workspace from the Adobe Developer command line
-* Changing Organization if you are logged into the wrong one
-* Select and connect to an Adobe Developer Project and Workspace from the Adobe Developer command line
-* Testing basic API mesh commands
+* Working with projects and workspaces in the Adobe Developer Console
+* Adding API Mesh to the workspace in the Adobe Developer Console
+* Logging into the Adobe Developer console in the CLI
+* View the selected project and workspace in the CLI
+* Changing the selected Organization, project, or workspace in the CLI
+* Testing simple API Mesh commands
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
-## Learn about Adobe Developer Console
+## Learn about the Adobe Developer Console
 
-There are several aspects to the Adobe Developer Console that you should be aware of such as Projects, Workspaces, and organizations. To get some deeper information around Adobe App Builder, how to log in to the console and some basic troubleshooting, please visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+In the Adobe Developer Console, the following hierarchy represents how your APIs fit into your Organization: `Organization > Project > Workspace > [API]`. To learn more about Adobe App Builder, logging in to the console, and basic troubleshooting, visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
-## Introduction to Projects in Adobe Developer Console
+## Introduction to Projects in the Adobe Developer Console
 
-All development work in Adobe Developer Console is done as part of a project. A project may include one or multiple products, and a combination of APIs, events, runtime, and plugins. For more details on projects in Adobe Developer console, please visit [Projects Overview](https://developer.adobe.com/developer-console/docs/guides/projects/).
+All development work in Adobe Developer Console is done as part of a project. A project can include one or multiple products, and a combination of APIs, events, runtimes, and plugins. For more details on projects in Adobe Developer console, visit [Projects](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+For more information on using projects and workspaces in the context of API Mesh, see [Modify projects and workspaces](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}

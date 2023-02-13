@@ -11,24 +11,33 @@ last-substantial-update: 2023-2-8
 
 # Installing Adobe Developer IO and Mesh plugin
 
-Before starting, there are a few things that need to set up. First, the Adobe Developer IO command-line interface setup. Next, ensure that the API Mesh plugin is configured in each environment.
-For instructions on setting up your local environment to run Node, nvm and installing the Adobe Developer IO be sure to visit [GraphQL Mesh Getting started](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/).
+Before you begin using API Mesh for Adobe Developer App Builder, you'll need to install the `aio` CLI and the API Mesh plugin.
+For installation instructions and prerequisites, visit the API Mesh [Getting started](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) page.
 
 ## Who is this video for?
 
-* Developers new to Adobe App Builder or [!DNL Magento Open Source] with limited experience with Adobe Developer IO and API Mesh.
+* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe IO](https://developer.adobe.com/runtime/docs/guides/overview/) and API Mesh.
 
 ## Video content
 
 * Introduction to API Mesh
-* Installing Adobe Developer IO command-line interface
-* Adding the API Mesh plugin to the AIO command line
+* Installing the Adobe IO CLI (command-line interface)
+* Installing the API Mesh plugin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
-## Example commands using NPM and AIO
+## Installing the `aio` CLI and API Mesh plugin
 
-Installing the Adobe Developer command-line interface is rather simple. After you have Node installed run this command `npm install -g @adobe/aio-cli`
-Once the Adobe Developer cli is installed, it is possible to install the mesh plugin. You do this by running this command `aio plugins:install @adobe/aio-cli-plugin-api-mesh`
+After installing `node` and `npm`, run the following command to install the `aio` CLI:
+
+```bash
+npm install -g @adobe/aio-cli
+```
+
+Once the Adobe IO CLI is installed, use the following command to install the API Mesh plugin:
+
+```bash
+aio plugins:install @adobe/aio-cli-plugin-api-mesh
+```
 
 {{$include /help/_includes/api-mesh-related-links.md}}
