@@ -16,7 +16,7 @@ For installation instructions and prerequisites, visit the API Mesh [Getting sta
 
 ## Who is this video for?
 
-* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe IO](https://developer.adobe.com/runtime/docs/guides/overview/) and API Mesh.
+* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) and API Mesh.
 
 ## Video content
 
