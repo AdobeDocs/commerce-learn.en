@@ -5,7 +5,7 @@ landing-page-description: Learn about Unified Extensibility Framework and commer
 kt: 11740
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24
+last-substantial-update: 2023-02-16
 ---
 
 # Extensibility Framework for App Builder
@@ -16,8 +16,4 @@ To learn how to use Adobe Commerce with Adobe Developer App Builder, view the fo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328)
 
-## Additional related tutorials
-
-- [introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-- [functional demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
-- [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
+{{$include /help/_includes/app-builder-related-links.md}}
