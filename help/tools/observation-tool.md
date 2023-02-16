@@ -22,5 +22,4 @@ In this video, learn about the Observation Tool for Adobe Commerce, which is a N
 
 ## Additional resources
 
-- [Observation for Adobe Commerce overview](https://support.magento.com/hc/en-us/articles/4406549696781)
-- [Use Observation for Adobe Commerce](https://support.magento.com/hc/en-us/articles/4402379845901-Use-Observation-for-Adobe-Commerce)
+- [Observation for Adobe Commerce overview](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html)
