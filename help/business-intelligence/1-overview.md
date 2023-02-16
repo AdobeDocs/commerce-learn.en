@@ -39,5 +39,4 @@ With these three core pieces of technology built into one solution, merchants ar
 ## Useful resources
 
 - [MBI Introduction - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-
 - [MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
