@@ -38,6 +38,6 @@ In this video:
 
 ## Useful resources
 
-[Using the SQL Report Builder](https://docs.magento.com/mbi/data-analyst/dev-reports/sql-rpt-bldr.html)
+[Using the SQL Report Builder - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Creating Visualizations from SQL Queries](https://docs.magento.com/mbi/tutorials/create-visuals-from-sql.html)
+[Creating Visualizations from SQL Queries - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

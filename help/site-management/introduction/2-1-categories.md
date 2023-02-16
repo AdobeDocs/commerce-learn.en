@@ -24,4 +24,4 @@ In this video:
 
 ## Additional resources
 
-[Categories - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/categories.html)
+[Categories - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

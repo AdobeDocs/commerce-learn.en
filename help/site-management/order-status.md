@@ -22,5 +22,5 @@ When a customer places an order, a sales order is created as a temporary record 
 
 ## Additional resources
 
-- [Processing an Order](https://docs.magento.com/user-guide/sales/order-processing.html)
-- [Order Status](https://docs.magento.com/user-guide/sales/order-status.html)
+- [Process an order - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Order Status - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

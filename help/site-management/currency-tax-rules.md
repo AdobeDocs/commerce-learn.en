@@ -23,5 +23,5 @@ Tax rules incorporate a combination of product class, customer class, and tax ra
 
 ## Additional resources
 
-- [Tax Rules](https://docs.magento.com/user-guide/tax/tax-rules.html)
-- [Currency](https://docs.magento.com/user-guide/stores/currency.html)
+- [Tax rules - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Currency - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

@@ -18,4 +18,4 @@ In this video:
 
 ## Additional resources
 
-[Cloud architecture for [!DNL Commerce]](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)
+[Cloud architecture - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

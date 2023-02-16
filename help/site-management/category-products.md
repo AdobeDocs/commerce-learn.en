@@ -23,5 +23,5 @@ Organizing your products into categories is key to managing your catalogs. In th
 
 ## Additional resources
 
-- [Products in Category](https://docs.magento.com/user-guide/catalog/categories-category-products.html)
-- [Creating Category Rules](https://docs.magento.com/user-guide/catalog/category-product-rules.html)
+- [Category product assignments - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Category rules for merchandising - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

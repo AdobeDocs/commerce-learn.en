@@ -18,4 +18,4 @@ In this video:
 
 ## Additional resources
 
-[Site launch](https://devdocs.magento.com/cloud/live/live.html)
+[Site launch - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

@@ -22,4 +22,5 @@ In this video, learn about the Observation Tool for Adobe Commerce, which is a N
 
 ## Additional resources
 
-- [Observation for Adobe Commerce overview](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html)
+- [Observation for Adobe Commerce - Support article](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [Use Observation for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

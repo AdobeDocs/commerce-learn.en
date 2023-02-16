@@ -22,5 +22,5 @@ With Adobe Commerce or Magento Open Source 2.4, merchants can use the new enhanc
 
 ## Additional resources
 
-- [Media Gallery](https://docs.magento.com/user-guide/cms/media-gallery.html)
-- [Alternate Media Storage](https://docs.magento.com/user-guide/system/media-storage.html)
+- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Alternate Media Storage - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

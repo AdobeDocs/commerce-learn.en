@@ -28,6 +28,6 @@ In this video:
 
 ## Useful resources
 
-[Add a New Product Attribute](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+[Create a product attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Custom attributes](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

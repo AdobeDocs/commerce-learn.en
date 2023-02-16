@@ -18,5 +18,5 @@ In this video:
 
 ## Additional resources
 
-- [Project structure](https://devdocs.magento.com/cloud/project/project-start.html)
-- [Configure environments](https://devdocs.magento.com/cloud/env/environments.html)
+- [Project structure - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [Configure environments - [!DNL Commerce] on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

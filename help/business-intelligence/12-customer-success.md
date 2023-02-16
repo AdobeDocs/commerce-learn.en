@@ -23,5 +23,5 @@ When you are familiar with some of the most useful types of analysis merchants d
 
 ## Additional resources
 
-- [Business Performance Analysis](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
-- [UTM Tagging in Google Analytics](https://docs.magento.com/mbi/best-practices/utm-tagging-google.html)
+- [Business Performance Analysis - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [UTM Tagging in Google Analytics - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)

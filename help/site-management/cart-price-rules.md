@@ -22,5 +22,5 @@ Cart price rules apply discounts to items in the shopping cart, based on a set o
 
 ## Additional resources
 
-- [Create a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-cart-create.html)
-- [Coupon Codes](https://docs.magento.com/user-guide/marketing/price-rules-cart-coupon.html)
+- [Create a Cart Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Coupon Codes - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

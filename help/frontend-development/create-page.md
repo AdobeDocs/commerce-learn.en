@@ -35,5 +35,4 @@ Create a page that returns json with one parameter.
 
 ## Useful resources
 
-- [Frontend developer guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html)
-- [Create a New Page](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/)
+[Frontend developer guide](https://developer.adobe.com/commerce/frontend-core/guide/)
