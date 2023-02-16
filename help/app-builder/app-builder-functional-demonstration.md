@@ -5,7 +5,7 @@ landing-page-description: Learn about Adobe Developer App Builder used in Adobe 
 kt: 11762
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24
+last-substantial-update: 2023-02-16
 
 ---
 
@@ -17,9 +17,4 @@ To learn more about how to use Adobe Commerce with App Builder, view the video b
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502)
 
-
-## Additional related tutorials
-
-- [introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-- [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
-- [extensibility framework](../app-builder/extensibility-framework-commerce-eventing.md)
+{{$include /help/_includes/app-builder-related-links.md}}
