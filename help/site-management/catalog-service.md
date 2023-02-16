@@ -25,7 +25,13 @@ In this video:
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3409390?quality=12&learn=on)
+Part 1:
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415599)
+
+Part 2:
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415600)
 
 ## Additional resources
 
