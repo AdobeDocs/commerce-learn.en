@@ -61,10 +61,13 @@ breadcrumb-title: Videos and Tutorials
   + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
   + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
   + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
-  + [API Mesh tutorials](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API Mesh {#api-mesh}
-  + [API Mesh tutorials](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+  + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
+  + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
+  + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
+  + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
+  + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
 + Store Administration {#admin}
   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
