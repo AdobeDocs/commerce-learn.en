@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-21
 
 ---
 
-# Adobe Commerce module development]
+# Adobe Commerce module development
 
 Learn how to create an Adobe Developer App Builder project. This allows the use of the Commerce events.
 
