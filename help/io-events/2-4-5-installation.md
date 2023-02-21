@@ -6,7 +6,7 @@ kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21
-badge: "2.4.5"
+badge: "Adobe Commerce 2.4.5"
 
 ---
 
