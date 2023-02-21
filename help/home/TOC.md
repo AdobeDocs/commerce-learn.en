@@ -15,7 +15,6 @@ breadcrumb-title: Videos and Tutorials
         + [4 - Deployment](../cloud/4-deployment.md)
         + [5 - Development](../cloud/5-dev-config.md)
         + [6 - Services and DNS](../cloud/6-launch.md)
-
     +   [!DNL Commerce] for Developers {#development}
         + [1.1 - Overview](../backend-development/backend-1-1-overview.md)
         + [1.2 - Development Workflow](../backend-development/backend-1-2-workflow.md)
@@ -27,7 +26,6 @@ breadcrumb-title: Videos and Tutorials
         + [5.3 - Routing](../backend-development/backend-5-3-routing.md)
         + [5.4 - Create an [!DNL Admin] Page](../backend-development/backend-5-4-admin-page.md)
     +   [6 - Exercises](../backend-development/backend-6-practice.md)
-
     +   [!DNL Commerce] for Business Users {#merchants}
         + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
         + [1.2 - Data Grids](../site-management/introduction/1-2-data-grids.md)
@@ -51,11 +49,9 @@ breadcrumb-title: Videos and Tutorials
         + [5.1 - Storefront Experience](../site-management/introduction/5-1-storefront-experience.md)
         + [5.2 - Customer Management](../site-management/introduction/5-2-customer-management.md)
         + [5.3 - Email Communications](../site-management/introduction/5-3-store-communications.md)
-        + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html) 
-
+        + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 +   GraphQL and REST {#graphql-rest}
     + [Introduction to GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
 +   Adobe Developer App Builder {#adobe-developer-app-builder}
     +   [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     +   [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
@@ -67,15 +63,13 @@ breadcrumb-title: Videos and Tutorials
         + [Create an App Builder project](../io-events/create-app-builder-project.md)       
         + [Adobe Commerce configuration](../io-events/configure-commerce.md)
         + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
-        + [Adobe Commerce conditional events](../io-events/conditional-events.md)  
-
+        + [Adobe Commerce conditional events](../io-events/conditional-events.md)
 +   API Mesh {#api-mesh}
     + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
     + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
     + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
     + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
     + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
-
 +   Store Administration {#admin}
     + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
     + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
@@ -85,14 +79,11 @@ breadcrumb-title: Videos and Tutorials
     + [Store Site Map Setup](../site-management/site-map-setup.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
     + [Use Payment Services](../site-management/payment-services.md)
-
-
 +   Customer Management {#customers}
     + [Create Customer Segments](../site-management/customer-segments.md)
     + [Create Customer Groups](../site-management/customer-groups.md)
     + [Create Customer Attributes](../site-management/customer-attributes.md)
     + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
-
 +   Catalog Management {#catalog}
     + [Catalog Service for Adobe Commerce](../site-management/catalog-service.md)
     + [Create a Category](../site-management/category-create.md)
@@ -102,7 +93,6 @@ breadcrumb-title: Videos and Tutorials
     + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
     + [Manage SEO Metadata](../site-management/seo-metadata.md)
     + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
-
 +   Content Management {#content}
     + [Page Builder Overview](../site-management/page-builder-overview.md)
     + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
@@ -110,7 +100,6 @@ breadcrumb-title: Videos and Tutorials
     + [Use Content Templates](../site-management/content-templates.md)
     + [Content Staging](../site-management/content-staging.md)
     + [Manage the Media Gallery](../site-management/media-gallery.md)
-
 +   Marketing Tools {#marketing}
     + [Create Catalog Price Rules](../site-management/catalog-price-rules.md)
     + [Create Cart Price Rules](../site-management/cart-price-rules.md)
@@ -118,24 +107,20 @@ breadcrumb-title: Videos and Tutorials
     + [Set Up Product Recommendations](../site-management/product-recommendations.md)
     + [Introduction to Live Search](../site-management/live-search.md)
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
-
 +   Orders and Fulfillment {#orders}
     + [Store Fulfillment Overview](../site-management/store-fulfillment.md)
     + [Manage Order Status](../site-management/order-status.md)
-
 +   B2B for Adobe Commerce {#b2b}
     + [Manage Company Accounts](../b2b/company-accounts.md)
     + [Manage Shared Catalogs](../b2b/shared-catalogs.md)
     + [Manage Company Credit](../b2b/company-credit.md)
     + [Purchase Orders and Approvals](../b2b/purchase-orders.md)
-
 +   Tools and External services {#tools}
     +   [Site-Wide Analysis Tool Dashboard](../tools/site-wide-analysis-tool.md)
     +   [Observation for Adobe Commerce](../tools/observation-tool.md)
     +   [Quality Patch Tool](../tools/quality-patch-tool.md)
     +   New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
-
 +   MBI {#mbi}
     +   [Filter Sets](../business-intelligence/filter-sets.md)
     +   [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
@@ -161,19 +146,16 @@ breadcrumb-title: Videos and Tutorials
         + [Return on investment tracking](../business-intelligence/10-roi-tracking.md)
         + [Share results and export data](../business-intelligence/11-share-results-export-data.md)
         + [Customer success stories](../business-intelligence/12-customer-success.md)
-
 +   Commerce Upgrades {#upgrade}
     + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
     + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
     + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
-
 +   Backend Development {#backend-development}
     + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Add a table to a database](../backend-development/new-db-table.md)
     + [Create a module](../backend-development/create-module.md)
     + [Add a product attribute](../backend-development/add-product-attribute.md)
     + [Dependency injection example](../backend-development/dependency-injection.md)
-
 +   Frontend Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -184,14 +166,13 @@ breadcrumb-title: Videos and Tutorials
         + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
-
 +   PWA Studio {#pwa-studio}
     +   Introduction to PWA Studio {#introduction}
-            + [1 - Overview](../pwa/introduction/1-overview.md)
-            + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Launch](../pwa/introduction/3-launch.md)
-            + [4 - UPWARD](../pwa/introduction/4-upward.md)
-            + [5 - Getting started](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
-  +[PWA Docker Development](../pwa/pwa-docker-development.md)
-  +[Set up Venia for development](../pwa/set-up-venia-for-dev.md)
+        + [1 - Overview](../pwa/introduction/1-overview.md)
+        + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
+        + [3 - Launch](../pwa/introduction/3-launch.md)
+        + [4 - UPWARD](../pwa/introduction/4-upward.md)
+        + [5 - Getting started](../pwa/introduction/5-getting-started.md)
+        + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+    +   [PWA Docker Development](../pwa/pwa-docker-development.md)
+    +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
