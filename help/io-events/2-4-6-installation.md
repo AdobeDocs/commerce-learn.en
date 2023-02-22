@@ -12,7 +12,7 @@ badge: "Adobe Commerce 2.4.6"
 
 # Adobe Commerce 2.4.6 Installation
 
-Learn how to install several new modules in Adobe Commerce using composer for version 2.4.6. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/)
+Learn how to install several new modules in Adobe Commerce using composer for version 2.4.6. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
 
 ## Who is this video for?
 

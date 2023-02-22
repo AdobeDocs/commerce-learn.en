@@ -15,4 +15,4 @@ description: Links to related pages in IO Events
 
 ## Adobe Developer Documentation
 
-* [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/)
+* [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
