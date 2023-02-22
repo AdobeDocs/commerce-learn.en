@@ -11,7 +11,7 @@ last-substantial-update: 2023-02-21
 
 # Adobe Commerce module development
 
-Learn how to create an Adobe Developer App Builder project. This allows the use of the Commerce events.
+Learn how to create an Adobe Developer App Builder project. This allows the use of the Commerce events. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/)
 
 ## Who is this video for?
 

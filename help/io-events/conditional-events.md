@@ -11,7 +11,7 @@ last-substantial-update: 2023-02-21
 
 # Adobe Commerce conditional events
 
-Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder.
+Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/)
 
 ## Who is this video for?
 
@@ -21,7 +21,7 @@ Learn about conditional events in Adobe Commerce that can be used in Adobe Devel
 
 * Learn about conditional events
 * Learn proper usage for new XML file io_events.xml
-* Learn how to setup conditional events
+* Learn how to configure conditional events
 * Defining rules for use in conditional events
 * Learn how to register events in the Commerce instances PHP file
 

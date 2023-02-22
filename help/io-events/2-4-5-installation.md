@@ -12,8 +12,7 @@ badge: "Adobe Commerce 2.4.5"
 
 # Adobe Commerce 2.4.5 Installation
 
-Learn how to install several new modules in Adobe Commerce using composer for version 2.4.5. This sets up the required modules to be used in the Adobe Commerce application.
-
+Learn how to install several new modules in Adobe Commerce using composer for version 2.4.5. This sets up the required modules to be used in the Adobe Commerce application. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/)
 
 ## Who is this video for?
 
