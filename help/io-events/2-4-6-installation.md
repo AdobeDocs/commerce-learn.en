@@ -20,7 +20,6 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 ## Video content {#video-content}
 
-* Enabling the 3 required modules using composer
 * Commands to run for on premise hosting
 * Commands to run for Adobe Commerce Cloud
 * Adobe Commerce Cloud yaml required edit
