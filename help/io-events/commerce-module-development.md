@@ -11,13 +11,13 @@ last-substantial-update: 2023-02-21
 
 # Adobe Commerce module development
 
-Learn how to create an Adobe Developer App Builder project. This allows the use of the Commerce events. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+Learn how to create an Adobe Developer App Builder project. This allows the use of the Commerce events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
 
 ## Who is this video for?
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
 
-## Video content {#video-content}
+## Video content (#video-content)
 
 * Registering events in Commerce for use in Adobe Developer App Builder
 * Identify events that can be registered
@@ -27,7 +27,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802)
 
-## Useful commands {#useful-commands}
+## Useful commands (#useful-commands)
 
 ```bash
 bin/magento events:list:all Magento_Catalog

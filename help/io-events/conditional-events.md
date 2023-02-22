@@ -11,13 +11,13 @@ last-substantial-update: 2023-02-21
 
 # Adobe Commerce conditional events
 
-Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
 
 ## Who is this video for?
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
 
-## Video content {#video-content}
+## Video content (#video-content)
 
 * Learn about conditional events
 * Learn proper usage for new XML file io_events.xml
@@ -27,7 +27,7 @@ Learn about conditional events in Adobe Commerce that can be used in Adobe Devel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806)
 
-## Useful commands {#useful-commands}
+## Useful commands (#useful-commands)
 
 ```bash
 bin/magento events:subscribe plugin.magento.catalog.model.resource.model.product.save --fields=sku --fields=qty --fields=category_id

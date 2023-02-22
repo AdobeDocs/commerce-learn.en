@@ -11,13 +11,13 @@ last-substantial-update: 2023-02-21
 
 # Configure Adobe Commerce
 
-Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
 
 ## Who is this video for?
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
 
-## Video content {#video-content}
+## Video content (#video-content)
 
 * Configuration of the Adobe I/O events in the Commerce admin
 * Saving private key in Commerce admin
@@ -26,7 +26,7 @@ Learn how to configure Adobe Commerce to expose the events. Additional documenta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799)
 
-## Useful commands {#useful-commands}
+## Useful commands (#useful-commands)
 
 ```bash
 bin/magento events:create-event-provider --label "my_provider" --description "Provides out-of-process extensibility for Adobe Commerce"

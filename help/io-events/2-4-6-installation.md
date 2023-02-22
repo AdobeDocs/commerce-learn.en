@@ -12,13 +12,13 @@ badge: "Adobe Commerce 2.4.6"
 
 # Adobe Commerce 2.4.6 Installation
 
-Learn how to install several new modules in Adobe Commerce using composer for version 2.4.6. Additional documentation found at [Adobe I/O Events for Adobe Commerce Overview](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+Learn how to install several new modules in Adobe Commerce using composer for version 2.4.6. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Who is this video for?
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O Events. 
 
-## Video content {#video-content}
+## Video content (#video-content)
 
 * Enabling the 3 required modules using composer
 * Commands to run for on premise hosting
@@ -27,7 +27,7 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795)
 
-## Useful commands {#useful-commands}
+## Useful commands (#useful-commands)
 
 There are various commands that slightly differ depending if you are on a self-hosted environment or using Adobe Commerce Cloud.
 The following commands are defined for you depending on the type of hosting. 
