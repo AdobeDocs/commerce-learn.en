@@ -16,11 +16,11 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events. 
+* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O Events. 
 
 ## Video content {#video-content}
 
-* Installation of required modules using composer
+* Enabling the 3 required modules using composer
 * Commands to run for on premise hosting
 * Commands to run for Adobe Commerce Cloud
 * Adobe Commerce Cloud yaml required edit
@@ -46,10 +46,6 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 
 ```bash
 composer info magento/ece-tools
-
-bin/magento events:generate:module
-
-bin/magento module:enable --all
 ```
 
 Commerce Cloud .magento.env.yaml

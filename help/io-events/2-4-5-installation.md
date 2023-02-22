@@ -16,7 +16,7 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events
+* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O Events
 
 ## Video content {#video-content}
 
