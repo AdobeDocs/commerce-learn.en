@@ -22,7 +22,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 * Registering events in Commerce for use in Adobe Developer App Builder
 * Identify events that can be registered
 * Learn how to register events in io_events.xml
-* Learn how to register events in the Commerce instances PHP file
+* Learn how to register events in the Commerce instances `app/etc/config.php`
 * Learn how to unsubscribe to an event
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802)

@@ -23,7 +23,7 @@ Learn about conditional events in Adobe Commerce that can be used in Adobe Devel
 * Learn proper usage for new XML file io_events.xml
 * Learn how to configure conditional events
 * Defining rules for use in conditional events
-* Learn how to register events in the Commerce instances PHP file
+* Learn how to register events in the Commerce instances `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806)
 
