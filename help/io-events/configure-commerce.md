@@ -11,7 +11,7 @@ last-substantial-update: 2023-02-21
 
 # Configure Adobe Commerce
 
-Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
+Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Who is this video for?
 

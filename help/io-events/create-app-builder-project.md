@@ -11,7 +11,7 @@ last-substantial-update: 2023-02-22
 
 # Create an App Builder project
 
-Learn how to create an Adobe Developer App Builder project to consume events from Adobe Commerce. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
+Learn how to create an Adobe Developer App Builder project to consume events from Adobe Commerce. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Who is this video for?
 

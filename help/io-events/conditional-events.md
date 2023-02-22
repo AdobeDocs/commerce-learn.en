@@ -11,7 +11,7 @@ last-substantial-update: 2023-02-21
 
 # Adobe Commerce conditional events
 
-Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}
+Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Who is this video for?
 
