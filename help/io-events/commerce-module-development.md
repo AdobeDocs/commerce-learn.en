@@ -15,7 +15,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
+* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events.
 
 ## Video content (#video-content)
 
