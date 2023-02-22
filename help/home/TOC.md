@@ -64,12 +64,12 @@ breadcrumb-title: Videos and Tutorials
         + [Adobe Commerce configuration](../io-events/configure-commerce.md)
         + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
         + [Adobe Commerce conditional events](../io-events/conditional-events.md)
-+   API Mesh {#api-mesh}
-    + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
-    + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
-    + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
-    + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
-    + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
+    +   API Mesh {#api-mesh}
+        + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
+        + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
+        + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
+        + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
+        + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 +   Store Administration {#admin}
     + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
     + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
