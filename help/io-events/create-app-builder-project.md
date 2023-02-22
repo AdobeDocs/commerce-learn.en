@@ -27,7 +27,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 
 ## Useful commands {#useful-commands}
 
-### Using the Adobe IO CLI
+### Using the Adobe I/O CLI
 
 ```bash
 mkdir myproject && cd myproject
