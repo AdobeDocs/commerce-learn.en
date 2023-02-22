@@ -17,7 +17,7 @@ Learn how to create an Adobe Developer App Builder project to consume events fro
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
 
-## Video content (#video-content)
+## Video content {#video-content}
 
 * Creating an App Builder project
 * Using Adobe Developer Console
@@ -25,7 +25,7 @@ Learn how to create an Adobe Developer App Builder project to consume events fro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415797)
 
-## Useful commands (#useful-commands)
+## Useful commands {#useful-commands}
 
 ### Using the Adobe I/O CLI
 

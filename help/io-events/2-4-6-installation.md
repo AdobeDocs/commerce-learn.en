@@ -18,7 +18,7 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O Events. 
 
-## Video content (#video-content)
+## Video content {#video-content}
 
 * Enabling the 3 required modules using composer
 * Commands to run for on premise hosting
@@ -27,12 +27,12 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795)
 
-## Useful commands (#useful-commands)
+## Useful commands {#useful-commands}
 
 There are various commands that slightly differ depending if you are on a self-hosted environment or using Adobe Commerce Cloud.
 The following commands are defined for you depending on the type of hosting. 
 
-### On Premise hosting  (#on-premise)
+### On Premise hosting {#on-premise}
 
 ```bash
 bin/magento events:generate:module
@@ -42,7 +42,7 @@ bin/magento module:enable --all
 bin/magento setup:upgrade && bin/magento setup:di:compile
 ```
 
-### Adobe Commerce on Cloud (#adobe-commerce-cloud)
+### Adobe Commerce on Cloud {#adobe-commerce-cloud}
 
 ```bash
 composer info magento/ece-tools

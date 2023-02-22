@@ -17,7 +17,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 
 * Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events.
 
-## Video content (#video-content)
+## Video content {#video-content}
 
 * Registering events in Commerce for use in Adobe Developer App Builder
 * Identify events that can be registered
@@ -27,7 +27,7 @@ Learn how to create an Adobe Developer App Builder project. This allows the use 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802)
 
-## Useful commands (#useful-commands)
+## Useful commands {#useful-commands}
 
 ```bash
 bin/magento events:list:all Magento_Catalog
