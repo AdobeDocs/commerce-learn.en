@@ -30,9 +30,9 @@ Learn about conditional events in Adobe Commerce that can be used in Adobe Devel
 ## Useful commands (#useful-commands)
 
 ```bash
-bin/magento events:subscribe plugin.magento.catalog.model.resource.model.product.save --fields=sku --fields=qty --fields=category_id
+bin/magento events:subscribe plugin.magento.catalog.model.resource_model.product.save --fields=sku --fields=qty --fields=category_id
 
-bin/magento events:subscribe plugin.magento.catalog.model.resource.model.product.save.save_low_stock --parent=plugin.magento.catalog.model.resource.model.product.save -- fields=sku --fields=qty --fields=category_id --rules="qty|lessThan|20" --rules="category_id|in|3,4,5"
+bin/magento events:subscribe plugin.magento.catalog.model.resource_model.product.save_low_stock --parent=plugin.magento.catalog.model.resource_model.product.save --fields=sku --fields=qty --fields=category_id --rules="qty|lessThan|20" --rules="category_id|in|3,4,5"
 
 cat app/etc/config.php
 
