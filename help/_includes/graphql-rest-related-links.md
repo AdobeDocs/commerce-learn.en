@@ -6,7 +6,7 @@ description: Links to related pages in GraphQL REST section
 
 ## Useful resources
 
-Please view these related tutorials after you watch the video to view pages that are represented in the video.
+Please review these related tutorials after you watch the accompanying video. They related to several topics covered with code samples and further explanations.
 
 * [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
 * [GraphQL basics](../graphql-rest/intro-graphql.md)
