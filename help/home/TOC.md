@@ -51,7 +51,11 @@ breadcrumb-title: Videos and Tutorials
         + [5.3 - Email Communications](../site-management/introduction/5-3-store-communications.md)
         + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 +   GraphQL and REST {#graphql-rest}
-    + [Introduction to GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+    + [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
+    + [GraphQL basics](../graphql-rest/intro-graphql.md)
+    + [Queries](../graphql-rest/graphql-queries.md)
+    + [Mutations](../graphql-rest/graphql-mutations.md)
+    + [Schema](../graphql-rest/graphql-schema.md)
 +   Adobe Developer App Builder {#adobe-developer-app-builder}
     +   [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     +   [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)

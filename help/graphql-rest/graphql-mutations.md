@@ -93,3 +93,5 @@ A few other notes about the above example:
 * The `!` character suffixing `String` and `CartItemInput` indicates that the variable is required.
 * The square brackets (`[]`) around the `CartItemInput` type specified for `$cartItems` indicate a list
   of that type rather than a single value.
+
+{{$include /help/_includes/graphql-rest-related-links.md}}

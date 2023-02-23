@@ -31,10 +31,12 @@ The runtime that implements the GraphQL specification can be built in any langua
 
 You need a GUI GraphQL client to test out code samples and tutorials. There are several options:
 
-* [Altair](https://altairgraphql.dev/) is an excellent and fully featured client built specifically for GraphQL. Adobe uses Altair in walk-through videos.
-* If you don't want to install the desktop application, there are also Altair extensions that run right in your
+*   [Altair](https://altairgraphql.dev/) is an excellent and fully featured client built specifically for GraphQL. Adobe uses Altair in walk-through videos.
+*   If you don't want to install the desktop application, there are also Altair extensions that run right in your
   [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja), Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa) browser.
-* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql) is an implementation of the GraphQL IDE from the GraphQL Foundation. This is not an installable tool, but rather a package you can use to build the interface yourself.
-* If you're already familiar with [Postman](https://www.postman.com/), it has decent support for GraphQL queries, though it's not as fully featured as a dedicated GraphQL client.
+*   [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql) is an implementation of the GraphQL IDE from the GraphQL Foundation. This is not an installable tool, but rather a package you can use to build the interface yourself.
+*   If you're already familiar with [Postman](https://www.postman.com/), it has decent support for GraphQL queries, though it's not as fully featured as a dedicated GraphQL client.
 
 In your GraphQL client, you should submit your requests to the URL path `/graphql` on your Adobe Commerce or [!DNL Magento Open Source] instance. If you'd prefer to use an existing instance for your tests, you can use the demo of the Venia theme (the example implementation of PWA Studio): `https://venia.magento.com/graphql`
+
+{{$include /help/_includes/graphql-rest-related-links.md}}
