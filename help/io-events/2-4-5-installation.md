@@ -30,7 +30,6 @@ Learn how to install several new modules in Adobe Commerce using Composer for ve
 ## Useful commands {#useful-commands}
 
 There are various commands that slightly differ, depending if you are on a self-hosted environment or using Adobe Commerce Cloud.
-The following commands are defined for you depending on the type of hosting. 
 
 ### On Premise hosting {#on-premise}
 
