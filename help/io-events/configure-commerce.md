@@ -34,5 +34,4 @@ bin/magento events:create-event-provider --label "my_provider" --description "Pr
 bin/magento events:subscribe observer.catalog_product_save_after --fields=name --fields=price
 ```
 
-
 {{$include /help/_includes/io-events-related-links.md}}
