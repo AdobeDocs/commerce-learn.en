@@ -183,4 +183,6 @@ In any GraphQL-aware client that you are using for testing (such as Altair and G
 
 Just as you saw that the actual HTTP request for a GraphQL query contains "query: `{string}`" in its body, any request containing a variables dictionary simply includes an additional "variables: `{json}`" in that same body, where `{json}` is the JSON string with the variable values.
 
-The new query also uses a _fragment_ (`productDetails`) to reuse the same field selection in multiple places. [Read more about fragments](https://graphql.org/learn/queries/#fragments) in the GraphQL documentation.
+The new query also uses a _fragment_ (`productDetails`) to reuse the same field selection in multiple places. [Read more about fragments](https://graphql.org/learn/queries/#fragments){target="_blank"} in the GraphQL documentation.
+
+{{$include /help/_includes/graphql-rest-related-links.md}}

@@ -26,11 +26,4 @@ If you're new to GraphQL, Adobe recommends starting with this introductory video
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302/graphql)
 
-## Useful resources
-
-Please use these links after you watch the video or if you want the tutorial pages that are represented in the video
-
-* [GraphQL Overview](./intro-graphql.md)
-* [Queries](./graphql-queries.md)
-* [Mutations](./graphql-mutations.md)
-* [Schema](./graphql-schema.md)
+{{$include /help/_includes/graphql-rest-related-links.md}}
