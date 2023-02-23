@@ -84,7 +84,7 @@ type Mutation {
 }
 ```
 
-You can delve into [the GraphQL documentation](https://graphql.org/learn/schema/) to learn about the details of the type system, including syntax for some concepts not represented here. The above example, however, is self-explanatory. (Also, note how similar the syntax is to query syntax.) Defining a GraphQL schema is simply a matter of expressing the available arguments and fields of a given type, along with the types of those fields. Each complex field type must itself have a definition, and so on, through the tree, until you get to simple scalar types like `String`.
+You can delve into [the GraphQL documentation](https://graphql.org/learn/schema/){target="_blank"} to learn about the details of the type system, including syntax for some concepts not represented here. The above example, however, is self-explanatory. (Also, note how similar the syntax is to query syntax.) Defining a GraphQL schema is simply a matter of expressing the available arguments and fields of a given type, along with the types of those fields. Each complex field type must itself have a definition, and so on, through the tree, until you get to simple scalar types like `String`.
 
 The `input` declaration is in all respects like a `type` but defines a type that can be used as input for an argument. Also note the `interface` declaration. This serves a function more or less the same as interfaces in PHP. Other types inherit from this interface.
 
