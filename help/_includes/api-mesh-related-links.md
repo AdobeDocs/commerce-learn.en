@@ -11,4 +11,3 @@ description: Links to related pages in API Mesh section
 * [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
 * [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
 * [Create multiple source GraphQL API request](../api-mesh/graphql-multiple-source.md)
-* [Return to Commerce tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
