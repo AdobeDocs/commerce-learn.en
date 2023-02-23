@@ -11,5 +11,5 @@ Please review these related tutorials after you watch the accompanying video. Th
 * [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
 * [GraphQL basics](../graphql-rest/intro-graphql.md)
 * [Queries](../graphql-rest/graphql-queries.md)
-* [Mutations](.../graphql-rest/graphql-mutations.md)
+* [Mutations](../graphql-rest/graphql-mutations.md)
 * [Schema](../graphql-rest/graphql-schema.md)
