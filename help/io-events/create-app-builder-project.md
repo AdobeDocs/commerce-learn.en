@@ -27,8 +27,6 @@ Learn how to create an Adobe Developer App Builder project to consume events fro
 
 ## Useful commands {#useful-commands}
 
-### Using the Adobe I/O CLI
-
 ```bash
 mkdir myproject && cd myproject
 
