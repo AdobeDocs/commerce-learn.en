@@ -20,9 +20,9 @@ Learn how to configure Adobe Commerce to expose the events. Additional documenta
 ## Video content {#video-content}
 
 * Configuration of the Adobe I/O events in the Commerce admin
-* Saving private key in Commerce admin
-* Saving unique identifier in Commerce admin
-* Create an events provider
+* Saving a private key in the Commerce admin
+* Saving the unique identifier in the Commerce admin
+* Create an event provider
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799)
 

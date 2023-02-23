@@ -12,7 +12,7 @@ badge: "Adobe Commerce 2.4.6"
 
 # Adobe Commerce 2.4.6 Installation
 
-Learn how to install several new modules in Adobe Commerce using composer for version 2.4.6. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Learn how to install several new modules in Adobe Commerce using Composer for version 2.4.6. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Who is this video for?
 
@@ -28,7 +28,7 @@ Learn how to install several new modules in Adobe Commerce using composer for ve
 
 ## Useful commands {#useful-commands}
 
-There are various commands that slightly differ depending if you are on a self-hosted environment or using Adobe Commerce Cloud.
+There are various commands that slightly differ, depending if you are on a self-hosted environment or using Adobe Commerce Cloud.
 The following commands are defined for you depending on the type of hosting. 
 
 ### On Premise hosting {#on-premise}
@@ -47,7 +47,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud .magento.env.yaml
+Commerce Cloud `.magento.env.yaml`:
 
 ```yaml
 stage:

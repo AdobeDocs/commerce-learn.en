@@ -36,9 +36,9 @@ bin/magento events:subscribe plugin.magento.catalog.model.resource_model.product
 
 cat app/etc/config.php
 
-php bin/magento events:list
+bin/magento events:list
 
-php bin/magento events:list -v
+bin/magento events:list -v
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
