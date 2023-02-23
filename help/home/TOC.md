@@ -25,7 +25,7 @@ breadcrumb-title: Videos and Tutorials
         + [5.2 - Declarative Schema](../backend-development/backend-5-2-declarative-schema.md)
         + [5.3 - Routing](../backend-development/backend-5-3-routing.md)
         + [5.4 - Create an [!DNL Admin] Page](../backend-development/backend-5-4-admin-page.md)
-    +   [6 - Exercises](../backend-development/backend-6-practice.md)
+        + [6 - Exercises](../backend-development/backend-6-practice.md)
     +   [!DNL Commerce] for Business Users {#merchants}
         + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
         + [1.2 - Data Grids](../site-management/introduction/1-2-data-grids.md)
