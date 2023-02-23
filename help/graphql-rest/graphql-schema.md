@@ -10,7 +10,7 @@ exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 ---
 # Schema language
 
-The queries and mutations we've worked with rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
+The queries and mutations used rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
 
 Here is an abbreviated type schema that supports the queries and mutations you've looked at so far:
 
@@ -92,6 +92,6 @@ The syntax `[CartItemInput!]!` looks tricky but is fairly intuitive in the end. 
 
 >[!NOTE]
 >
->The logic for how data is fetched and formatted according to a schema, and how such logic is mapped to particular types, is up to the GraphQL runtime implementation. Implementations, however, should follow a conceptual flow that make sense in light of our understanding of nested fields: A resolve operation associated with the root `Query` or `Mutation` type is performed, which examines each field specified in the request. For each field that resolves to a complex type, a similar resolve is done for that type, and so on, until everything has resolved into scalar values.
+>The logic for how data is fetched and formatted according to a schema, and how such logic is mapped to particular types, is up to the GraphQL runtime implementation. Implementations, however, should follow a conceptual flow that makes sense in light of an understanding around nested fields: A resolve operation associated with the root `Query` or `Mutation` type is performed, which examines each field specified in the request. For each field that resolves to a complex type, a similar resolve is done for that type, and so on, until everything has resolved into scalar values.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
