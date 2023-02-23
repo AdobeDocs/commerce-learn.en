@@ -79,9 +79,9 @@ the syntax is identical to a query. Like queries, the mutation includes:
 * An arbitrary operation name (`doAddToCart`)
 * A list of variables (for example, `$cartId`)
 * An initial field (`addProductsToCart`) with arguments (for example, `cartId`, set to the value of `$cartId`) in parentheses
-* A sub-selection of fields in braces
+* A subselection of fields in braces
 
-The fields sub-selection allows you to flexibly define the fields you would like returned (from the type assigned as the
+The fields subselection allows you to flexibly define the fields you would like returned (from the type assigned as the
 return value of `addProductsToCart` - `AddProductsToCartOutput`) after the mutation is completed. 
 
 As explained previously, fields defined in a GraphQL schema start on a root type for queries (typically referred to as a `Query`). Similarly,

@@ -99,8 +99,8 @@ A plausible response from a GraphQL server for the above query could be:
 }
 ```
 
-The above example relies on the out-of-the-box GraphQL schema for Magento, defined at the server. In this request, you
-query multiple types of data at once. The query expresses exactly the fields you want, and the returned data is formatted
+The above example relies on the out-of-the-box GraphQL schema for Adobe Commerce, defined at the server. In this request, you
+query multiple types of data at once. The query expresses exactly the fields that you want, and the returned data is formatted
 similarly to the query itself.
 
 >[!NOTE]
@@ -110,28 +110,28 @@ similarly to the query itself.
 
 ## Querying for what you want
 
-`country` and `categories` in the example represent two different "queries," for two different kinds of data. Unlike a traditional API paradigm like REST, which would define separate and explicit endpoints for each data type, GraphQL gives you the flexibility to query a single endpoint with an expression that can fetch many types of data at once.
+`country` and `categories` in the example represent two different "queries," for two different kinds of data. Unlike a traditional API paradigm like REST, which would define separate and explicit endpoints for each data type. GraphQL gives you the flexibility to query a single endpoint with an expression that can fetch many types of data at once.
 
-Likewise, the query specifies exactly the fields that are desired for both `country` (`id` and `full_name_english`) and `categories` (`items`, which itself has a sub-selection of fields), and the data you receive back mirrors that field specification. There are presumably many more fields available for these data types, but you get back only what you requested.
+Likewise, the query specifies exactly the fields that are desired for both `country` (`id` and `full_name_english`) and `categories` (`items`, which itself has a subselection of fields), and the data you receive back mirrors that field specification. There are presumably many more fields available for these data types, but you get back only what you requested.
 
 
 >[!NOTE]
 >
->You may notice that the return value for `items` is actually an _array_ of values, but you are nevertheless directly selecting sub-fields for it. When a field's type is a list, GraphQL implicitly understands sub-selections to apply to each item in the list.
+>You may notice that the return value for `items` is actually an _array_ of values, but you are nevertheless directly selecting subfields for it. When a field's type is a list, GraphQL implicitly understands subselections to apply to each item in the list.
 
 ## Arguments
 
 While the fields you want returned are specified within the braces of each type, named arguments and values for them are specified within parentheses after the type name. Arguments are often optional and often affect the way query results are filtered, formatted, or otherwise transformed. 
 
-You are passing an `id` argument to `country`, specifying the particular country we want to query, and a `filters` argument for `categories`.
+You are passing an `id` argument to `country`, specifying the particular country to query, and a `filters` argument for `categories`.
 
 ## Fields all the way down
 
 While you might tend to think of `country` and `categories` as separate queries or entities, the entire tree expressed in your query actually consists of nothing but fields. The expression of `products` is syntactically no different from that of `categories`. Both are fields, and there is no difference between their construction.
 
-Any GraphQL data graph has a single "root" type (typically referred to `Query`) to start the tree, and the types often considered to be entities are simply assigned to fields on this root. Our example query is actually making one generic query for the root type and selecting the fields `country` and `categories`. It is then selecting sub-fields of those fields, and so on, potentially several levels deep. Wherever the return type of a field is a complex type (for example, one with its own fields, rather than a scalar type), continue to select the fields you want.
+Any GraphQL data graph has a single "root" type (typically referred to `Query`) to start the tree, and the types often considered to be entities are assigned to fields on this root. The example query is actually making one generic query for the root type and selecting the fields `country` and `categories`. It is then selecting subfields of those fields, and so on, potentially several levels deep. Wherever the return type of a field is a complex type (for example, one with its own fields, rather than a scalar type), continue to select the fields you want.
 
-This concept of nested fields is also why you can pass arguments for `products` (`pageSize` and `currentPage`) in the same way you did for the top level `categories` field.
+This concept of nested fields is also why you can pass arguments for `products` (`pageSize` and `currentPage`) in the same way you did for the top-level `categories` field.
 
 ![GraphQL Field Tree](../assets/graphql-field-tree.png)
 
@@ -165,7 +165,7 @@ The first thing to note is the added the keyword `query` before the opening brac
 
 In the previous query, you hard-coded values for the arguments of your fields directly, as strings or integers. The GraphQL specification, however, has first-class support for separating user input from the main query using variables.
 
-In the new query, you are using parentheses before the opening brace of the entire query to define a `$search` variable (variables always use the dollar sign prefix syntax), and it is this variable that is being provided to the `search` argument for `products`.
+In the new query, you are using parentheses before the opening brace of the entire query to define a `$search` variable (variables always use the dollar sign prefix syntax). It is this variable that is being provided to the `search` argument for `products`.
 
 When a query contains variables, the GraphQL request is expected to include a separate JSON-encoded dictionary of values alongside the query itself. For the query above, you might send the following JSON of variable values in addition to the query body:
 
@@ -177,7 +177,7 @@ When a query contains variables, the GraphQL request is expected to include a se
 
 >[!NOTE]
 >
->If you're trying out these queries against the Venia example site rather than your own Magento instance, you likely will not get back any results for `related_products`.
+>If you're trying out these queries against the Venia example site rather than your own Adobe Commerce instance, the returned results are likely to be empty for `related_products`.
 
 In any GraphQL-aware client that you are using for testing (such as Altair and GraphiQL), the UI supports entering the variables JSON separately from the query.
 
