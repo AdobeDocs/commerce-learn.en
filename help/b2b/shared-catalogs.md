@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B for Adobe Commerce" type="Positive"
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 ---
 # Manage Shared Catalogs
@@ -26,5 +27,5 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## Additional resources
 
-- [Working with Shared Catalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html)
-- [Create a Shared Catalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html)
+- [Working with Shared Catalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+- [Create a Shared Catalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
