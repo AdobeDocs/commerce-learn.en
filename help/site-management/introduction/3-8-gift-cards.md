@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 badge1: "Adobe Commerce 2.3.1"
-badge2: "Only on Adobe Commerce" type="Positive"
+badge2: "Only on Adobe Commerce"
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 ---
 # [!DNL Commerce] for business users - Gift cards
