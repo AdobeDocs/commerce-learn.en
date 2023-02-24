@@ -5,6 +5,7 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+badge: label="Only in Adobe Commerce" type="Positive"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 ---
 # Content Staging
@@ -24,5 +25,5 @@ Content Staging gives your business team the ability to easily create, preview, 
 
 ## Additional resources
 
-- [Content Staging - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
-- [Preview a Campaign - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)
+- [Content Staging - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [Preview a Campaign - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
