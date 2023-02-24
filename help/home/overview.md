@@ -18,6 +18,12 @@ Welcome to the [!DNL Commerce] videos and tutorials collection. Using these reso
 - [Locating a malicious IP](../new-relic/malicious-ip.md)
 
  </div>
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >
