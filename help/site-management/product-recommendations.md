@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="Only in Adobe Commerce" type="Positive"
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
 ---
 # Set Up Product Recommendations
@@ -26,5 +27,5 @@ In this video, learn how to set up product recommendations.
 
 ## Additional resources
 
-- [Product Recommendations  Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Product Recommendations  Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
