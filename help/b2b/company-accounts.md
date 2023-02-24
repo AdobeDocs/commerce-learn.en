@@ -5,6 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B for Adobe Commerce" type="Positive"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 ---
 # Manage Company Accounts
@@ -25,5 +26,5 @@ For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company a
 
 ## Additional resources
 
-- [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html)
-- [Manage Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html)
+- [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [Manage Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
