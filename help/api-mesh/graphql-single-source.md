@@ -10,7 +10,7 @@ last-substantial-update: 2023-2-8
 ---
 # Create a mesh with a single source
 
-This video helps developers understand how to create a mesh with a single source in API Mesh for Adobe Developer App Builder. For this basic example to work as expected, you need a publicly accessible API or GraphQL endpoint. The video also explains how to create a simple `mesh.json` file to use with your Commerce instance. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+This video helps developers understand how to create a mesh with a single source in API Mesh for Adobe Developer App Builder. For this basic example to work as expected, you need a publicly accessible API or GraphQL endpoint. The video also explains how to create a simple `mesh.json` file to use with your Commerce instance. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Who is this video for?
 
