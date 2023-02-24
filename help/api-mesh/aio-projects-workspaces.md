@@ -11,7 +11,7 @@ last-substantial-update: 2023-2-8
 
 # Working with projects and workspaces
 
-This tutorial discusses creating a project and workspace to contain your mesh. This work happens predominately in the [Adobe Developer console](https://developer.adobe.com/console) UI.
+This tutorial discusses creating a project and workspace to contain your mesh. This work happens predominately in the [Adobe Developer console](https://developer.adobe.com/console){target="_blank"} UI.
 
 ## Who is this video for?
 
@@ -30,12 +30,12 @@ This tutorial discusses creating a project and workspace to contain your mesh. T
 
 ## Learn about the Adobe Developer Console
 
-In the Adobe Developer Console, the following hierarchy represents how your APIs fit into your Organization: `Organization > Project > Workspace > [API]`. To learn more about Adobe App Builder, logging in to the console, and basic troubleshooting, visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+In the Adobe Developer Console, the following hierarchy represents how your APIs fit into your Organization: `Organization > Project > Workspace > [API]`. To learn more about Adobe App Builder, logging in to the console, and basic troubleshooting, visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Introduction to Projects in the Adobe Developer Console
 
-All development work in Adobe Developer Console is done as part of a project. A project can include one or multiple products, and a combination of APIs, events, runtimes, and plugins. For more details on projects in Adobe Developer console, visit [Projects](https://developer.adobe.com/developer-console/docs/guides/projects/).
+All development work in Adobe Developer Console is done as part of a project. A project can include one or multiple products, and a combination of APIs, events, runtimes, and plugins. For more details on projects in Adobe Developer console, visit [Projects](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-For more information on using projects and workspaces in the context of API Mesh, see [Modify projects and workspaces](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
+For more information on using projects and workspaces in the context of API Mesh, see [Modify projects and workspaces](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}
