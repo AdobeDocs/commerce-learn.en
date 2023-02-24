@@ -10,7 +10,7 @@ last-substantial-update: 2023-2-8
 ---
 # Create a mesh with multiple sources
 
-This video helps developers understand how to create a mesh with multiple sources in API Mesh for Adobe Developer App Builder. This video shows how to create a mesh with multiple sources and identify errors. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+This video helps developers understand how to create a mesh with multiple sources in API Mesh for Adobe Developer App Builder. This video shows how to create a mesh with multiple sources and identify errors. For more details and code samples, visit [Create a mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Who is this video for?
 
@@ -19,7 +19,7 @@ This video helps developers understand how to create a mesh with multiple source
 
 ## Video content
 
-* How to use [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) to modify the default source schema
+* How to use [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} to modify the default source schema
 * How to troubleshoot errors, such as name conflicts, schema availability, and other schema syntax issues
 * Updating your mesh with a modified configuration
 

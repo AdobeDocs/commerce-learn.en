@@ -12,11 +12,11 @@ last-substantial-update: 2023-2-8
 # Installing Adobe I/O Runtime CLI and Mesh plugin
 
 Before you begin using API Mesh for Adobe Developer App Builder, you need to install the `aio` CLI and the API Mesh plugin.
-For installation instructions and prerequisites, visit the API Mesh [Getting started](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) page.
+For installation instructions and prerequisites, visit the API Mesh [Getting started](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} page.
 
 ## Who is this video for?
 
-* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) and API Mesh.
+* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} and API Mesh.
 
 ## Video content
 

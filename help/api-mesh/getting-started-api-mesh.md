@@ -16,7 +16,7 @@ If you're new to API Mesh for Adobe Developer App Builder, Adobe recommends star
 
 API Mesh combines multiple sources of data to get a single response for your application to consume.
 
-[View the full API Mesh documentation](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[View the full API Mesh documentation](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Example use cases
 
@@ -26,7 +26,7 @@ Your Commerce application has a REST API and a GraphQL endpoint. For example, yo
 
 As a developer using Adobe App Builder and API Mesh, it is not necessary to understand what a reverse proxy is. However, if you are interested in the overall functionality as it pertains to Adobe App Builder, use the following resources:
 
-* [What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy)
+* [What is a reverse proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [What is a reverse proxy and why does it matter](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
