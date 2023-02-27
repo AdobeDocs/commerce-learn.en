@@ -3,7 +3,7 @@ title: MBI - Standard reports
 description: Learn about the standard MBI reports, available out-of-the-box.
 kt: 5733
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
