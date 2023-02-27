@@ -3,7 +3,7 @@ title: MBI - Executive overview dashboard
 description: See a demonstration of the Executive Overview dashboard provided by MBI.
 kt: 5731
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa

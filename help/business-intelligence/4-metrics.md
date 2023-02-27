@@ -3,7 +3,7 @@ title: MBI - Metrics
 description: Learn about MBI metrics and how they are used to construct reports.
 kt: 5725
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
