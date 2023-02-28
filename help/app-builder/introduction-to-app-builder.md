@@ -56,6 +56,10 @@ For more details about the App Builder architecture, see the [Architecture Overv
 
 ## Amazon Sales Channel extension {#amazon-sales-channel-extension}
 
+>[!IMPORTANT]
+>
+>The Amazon Sales Channel extension is still under development and has not been officially released.  These videos and tutorials are meant to show you how to use Adobe Developer App Builder for a practical use case.
+
 The following tutorials demonstrate how to connect Adobe Commerce to Amazon Sales Channel using an App Builder extension. 
 
 * [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
