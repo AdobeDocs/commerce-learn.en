@@ -63,10 +63,14 @@ breadcrumb-title: Videos and Tutorials
     +   [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)  
     +   First App {#first-app}
         + [Overview](../app-builder/first-app/overview.md)
-        + [The .env file](../app-builder/first-app/env-file.md)        
+        + [The .env file](../app-builder/first-app/env-file.md)    
+        + [The app.config.yaml file](../app-builder/first-app/app-config-yaml-file.md)   
         + [actions folder](../app-builder/first-app/actions-folder.md)
         + [test folder](../app-builder/first-app/test-folder.md)
         + [web-src folder](../app-builder/first-app/web-src-folder.md)
+        + [Testing locally](../app-builder/first-app/testing-locally.md)
+        + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+        + [Conclusion](../app-builder/first-app/conclusion.md)
         + [Sample Module source code](https://github.com/magento/magento2-samples){target="_blank"}
     +   IO Events for Adobe Commerce {#io-events}
         + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)

@@ -1,21 +1,21 @@
 ---
-title: The .env file
-description: Learn about the types of files in the .env file for this sample application
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types content is used in the .env file
-kt: 12423
+title: The app.config.yaml file
+description: Learn about the types of files in the app.config.yaml file for this sample application
+landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files go in the app.config.yaml
+kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-3
 
 ---
 
-# The .env file
+# The app.config.yaml file
 
-This is a special file that is not part of the sample module, but will be very important for use in your Adobe Developer App Builder application. This contains secrets and elements that should never be committed to a repository. 
+This is a special file that helps drive the configuration and expectation for the application.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the .env file.
+* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the app.config.yaml in the sample application.
 
 ## Video content
 
