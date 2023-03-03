@@ -38,7 +38,7 @@ You can, and probably should follow it in the order of the linked pages on the l
 
 ## Video content
 
-* Introduction to App Builder and our sample module
+* Introduction to App Builder and the sample module
 * Prerequisites
 * Expectations for use of the sample module
 * Reusable parts found in the sample module

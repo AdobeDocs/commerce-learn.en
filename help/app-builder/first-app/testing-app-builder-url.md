@@ -21,7 +21,7 @@ Learn how to test your new Adobe Developer App Builder application using the URL
 
 * Some commands
 * What to expect
-* Some debugging methods, tips and tricks
+* Some debugging methods, tips, and tricks
 
 >[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
 

@@ -28,7 +28,7 @@ The first Adobe Developer App Builder was a success, learn what other resources 
 ## Additional App Builder resources
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
-* [Adobe Developer App Builder trial](https://developer.adobe.com/app-builder/trial/)){target="_blank"}
+* [Adobe Developer App Builder trial](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder docs](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
 * [Adobe Developer App Builder forums](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
 * [Adobe Developer App Builder contribution guidelines](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}

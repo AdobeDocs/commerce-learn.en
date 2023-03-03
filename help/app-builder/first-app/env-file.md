@@ -11,7 +11,7 @@ last-substantial-update: 2023-03-3
 
 # The .env file
 
-This is a special file that is not part of the sample module, but will be very important for use in your Adobe Developer App Builder application. This contains secrets and elements that should never be committed to a repository. 
+This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This contains secrets and elements that should never be committed to a repository. 
 
 ## Who is this video for?
 
@@ -45,7 +45,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see it being used in our sample module in file actions/commerce.index.js
+You can see it being used in the sample module in file actions/commerce.index.js
 
 ```javascript
         const oauth = getCommerceOauthClient(

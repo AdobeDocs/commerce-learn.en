@@ -11,19 +11,19 @@ last-substantial-update: 2023-03-3
 
 # Actions folder
 
-The actions folder for this sample app contains a few javascript files and one folder called commerce. The javascript shown is an excellent file that should be reused if relevant to your work. This will save time in development efforts for how to connect to the Adobe Commerce application using OAUTH and REST. 
+The actions folder for this sample app contains a few JavaScript files and one folder called commerce. The JavaScript shown is an excellent file that should be reused if relevant to your work. This saves time in development efforts for how to connect to the Adobe Commerce application using OAUTH and REST. 
 
-Inside the actions folder is one called commerce. The actual name of the folder is arbitrary, but it is referenced in our code so knowing its name is required and is helpful to make it meaningful when the application being developed grows and matures with added complexity.
+Inside the actions folder is one called commerce. The actual name of the folder is arbitrary, but it is referenced in the sample code so knowing its name is required. By choosing meaningful naming convention, this helps avoid confusion when the application being developed grows and matures with added complexity.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
+* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the actions folder in the sample application.
 
 ## Video content
 
-* Introduction to App Builder and our sample module focusing on the actions folder
+* Introduction to App Builder and the sample module focusing on the actions folder
 * Why is there a folder called commerce
-* What responsibility is held by the javascript file found in the actions/commerce folder
+* What responsibility is held by the JavaScript file found in the actions/commerce folder
 
 >[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
 

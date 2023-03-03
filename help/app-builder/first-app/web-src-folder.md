@@ -11,7 +11,7 @@ last-substantial-update: 2023-03-3
 
 # web-src folder
 
-The web-src folder for this sample app contains many javascript files and folders. This is used for applications that have a user interface. Not all applications will utilize this feature. For example if this was to help integrate with an external inventory management system, there are not pages that need to be viewed.
+The web-src folder for this sample app contains many JavaScript files and folders. This is used for applications that have a user interface. Not all applications use this feature. For example if this was to help integrate with an external inventory management system, there are not pages that need to be viewed.
 
 ## Who is this video for?
 
@@ -19,7 +19,7 @@ The web-src folder for this sample app contains many javascript files and folder
 
 ## Video content
 
-* Why do we use the web-src folder
+* What is the main purpose for the web-src folder
 * Typically included files and folders
 * How it is used in the application
 
@@ -120,7 +120,8 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-In this example below, we are `not` doing any limitation for the request. To avoid a 400 error you may need use searchCriteria.  For example
+In this example below, the code sample it is `not` doing any limitation for the request. To avoid a 400 error, that you may need use searchCriteria. 
+
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 
 ```javascript {line-numbers="true" start-line="1" highlight="25"}
