@@ -61,6 +61,13 @@ breadcrumb-title: Videos and Tutorials
     +   [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
     +   [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
     +   [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)  
+    +   First App
+        + [Overview](../app-builder/first-app/overview.md)
+        + [The .env file](../app-builder/first-app/env-file.md)        
+        + [actions folder](../app-builder/first-app/actions-folder.md)
+        + [test folder](../app-builder/first-app/test-folder.md)
+        + [web-src folder](../app-builder/first-app/web-src-folder.md)
+        + [Sample Module source code](https://github.com/magento/magento2-samples){target="_blank"}
     +   IO Events for Adobe Commerce {#io-events}
         + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
         + [Adobe Commerce 2.4.6 Installation](../io-events/2-4-6-installation.md)
