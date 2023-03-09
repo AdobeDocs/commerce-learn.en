@@ -68,6 +68,10 @@ The following tutorials demonstrate how to connect Adobe Commerce to Amazon Sale
 
 ## Get Started with App Builder {#additional-resources}
 
+A n overview of composable commerce strategy, that includes the initial set-up can be found by reading the following blog post:
+
+[How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+
 To help you get started with App Builder, Adobe has created the following documentation:
 
 * [App Builder Getting Started](https://developer.adobe.com/app-builder/docs/getting_started/)
