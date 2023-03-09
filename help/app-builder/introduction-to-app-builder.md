@@ -52,7 +52,7 @@ The following diagram illustrates how a standard application built on App Builde
 
 ![Architecture](/help/assets/app-builder/firefly-architecture.jpeg)
 
-For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/).
+For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Amazon Sales Channel extension {#amazon-sales-channel-extension}
 
@@ -68,25 +68,29 @@ The following tutorials demonstrate how to connect Adobe Commerce to Amazon Sale
 
 ## Get Started with App Builder {#additional-resources}
 
+A n overview of composable commerce strategy, that includes the initial set-up can be found by reading the following blog post:
+
+[How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+
 To help you get started with App Builder, Adobe has created the following documentation:
 
-* [App Builder Getting Started](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [App Builder Getting Started](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Continue learning with Documentation {#appbuilder-documentation}
 
 App Builder provides videos and documentation for developers, including guides and reference documentation to help develop your own custom applications:
 
-* [App Builder documentation](https://developer.adobe.com/app-builder/docs/overview/)
-* [App Builder videos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [App Builder documentation](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder videos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Try Out One of the Sample Applications {#appbuilder-codesamples}
 
 Ready to start developing? The following link contains sample applications to help get you started:
 
-* [App Builder Code Labs on Adobe Developer Website](https://developer.adobe.com/app-builder/docs/resources/)
+* [App Builder Code Labs on Adobe Developer Website](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Support {#support}
 
-For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) for assistance.
+For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} for assistance.
 
 {{$include /help/_includes/app-builder-related-links.md}}
