@@ -19,10 +19,11 @@ Learn how to locally test your new Adobe Developer App Builder application
 
 ## Video content
 
-* Some commands
-* using the debugger
-* some methods to figure out where errors come from and why
+* Different levels of testing
+* Unit tests
+* E2E test
+* Manual test
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

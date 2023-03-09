@@ -19,11 +19,12 @@ This is a special file that is not part of the sample module, but is important f
 
 ## Video content
 
-* Introduction to App Builder and the sample module focusing on the test folder
-* How are tests executed
-* Where are results logged
+* Introduction to the .env file and its purpose
+* How to generate the .env file
+* how to append the file to add new secrets
+* Ensure this file is never committed because it contains sensitive information
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593)
 
 ## Code Sample
 

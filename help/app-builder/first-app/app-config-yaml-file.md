@@ -19,11 +19,10 @@ This is a special file that helps drive the configuration and expectation for th
 
 ## Video content
 
-* Introduction to App Builder and the sample module focusing on the test folder
-* How are tests executed
-* Where are results logged
+* The app.config.yaml file discussed
+* How definitions defined are links to other .js files
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592)
 
 ## Code Sample
 
