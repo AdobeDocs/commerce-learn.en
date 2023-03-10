@@ -5,13 +5,13 @@ landing-page-description: Learn about Adobe Developer App Builder used with Adob
 kt: 12423
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-3
+last-substantial-update: 2023-03-10
 
 ---
 
 # The .env file
 
-This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This contains secrets and elements that should never be committed to a repository. 
+This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This contains secrets and elements. Do not commit this file to a repository. 
 
 ## Who is this video for?
 
@@ -22,7 +22,7 @@ This is a special file that is not part of the sample module, but is important f
 * Introduction to the .env file and its purpose
 * How to generate the .env file
 * how to append the file to add new secrets
-* Ensure this file is never committed because it contains sensitive information
+* Avoid committing this file because it contains sensitive information
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593)
 

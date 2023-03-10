@@ -21,7 +21,7 @@ This is a simple example and can be expanded to do x, y, and z.
 
 ## Video content
 
-* Why create use the test folder
+* Why use the test folder
 * Brief explanation of the unit test file and its components
 * End to end testing introduced
 

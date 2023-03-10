@@ -22,7 +22,7 @@ Inside the actions folder is one called commerce. The actual name of the folder 
 ## Video content
 
 * Introduction to App Builder and the sample module focusing on the actions folder
-* How we use the actions folder
+* How to use the actions folder
 * What responsibility is held by the JavaScript file found in the actions/commerce folder
 * Quick overview of OAUTH authentication files
 
