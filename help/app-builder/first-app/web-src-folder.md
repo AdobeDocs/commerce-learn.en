@@ -21,9 +21,9 @@ The web-src folder for this sample app contains many JavaScript files and folder
 
 * What is the main purpose for the web-src folder
 * Typically included files and folders
-* How it is used in the application
+* How this folder and the contents inside are used in the sample application
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665)
 
 ## A few code Samples
 

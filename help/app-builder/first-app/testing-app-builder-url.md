@@ -5,7 +5,7 @@ landing-page-description: Learn how to test your first Adobe Developer App Build
 kt: 12427
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-3
+last-substantial-update: 2023-03-10
 
 ---
 
@@ -19,10 +19,9 @@ Learn how to test your new Adobe Developer App Builder application using the URL
 
 ## Video content
 
-* Some commands
-* What to expect
-* Some debugging methods, tips, and tricks
+* How to deploy the application
+* Where to find the URL after the deployment
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
