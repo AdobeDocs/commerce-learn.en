@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# The app.config.yaml file
+# The `app.config.yaml` file
 
 This is a special file that helps drive the configuration and expectation for the application.
 
@@ -19,7 +19,7 @@ This is a special file that helps drive the configuration and expectation for th
 
 ## Video content
 
-* The app.config.yaml file discussed
+* The `app.config.yaml` file discussed
 * How definitions defined are links to other .js files
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592)
