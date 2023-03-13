@@ -23,7 +23,7 @@ The first Adobe Developer App Builder was a success, learn what other resources 
 * Methods of connecting to other developers
 * Closing comments
 
->[!VIDEO](hhttps://video.tv.adobe.com/v/3416741)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741)
 
 ## Additional App Builder resources
 
