@@ -5,7 +5,7 @@ landing-page-description: Learn about Adobe Developer App Builder used with Adob
 kt: 12421
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-3
+last-substantial-update: 2023-03-13
 
 ---
 
@@ -43,7 +43,7 @@ You can, and probably should follow it in the order of the linked pages on the l
 * Expectations for use of the sample module
 * Reusable parts found in the sample module
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxxxx)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 
