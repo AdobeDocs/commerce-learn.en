@@ -1,7 +1,7 @@
 ---
 title: App Builders create your first app
-description: Learn about Adobe Developer App Builder using Adobe Commerce and create your first app
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and create your first app
+description: Learn about Adobe Developer App Builder using Adobe Commerce and create your first app.
+landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and create your first app.
 kt: 12421
 doc-type: tutorial
 audience: all

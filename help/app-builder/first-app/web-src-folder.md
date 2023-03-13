@@ -1,7 +1,7 @@
 ---
 title: The web-src folder
-description: Learn about the types of files in the web-src folder and the nested files and folders for this sample application
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the web-src folder
+description: Learn about the types of files in the web-src folder and the nested files and folders for this sample application.
+landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the web-src folder.
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -9,9 +9,9 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# web-src folder
+# The `web-src` folder
 
-The web-src folder for this sample app contains many JavaScript files and folders. This is used for applications that have a user interface. Not all applications use this feature. For example if this was to help integrate with an external inventory management system, there are not pages that need to be viewed.
+The web-src folder for this sample app contains many JavaScript files and folders. This is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system may not require a frontend interface and code.
 
 ## Who is this video for?
 

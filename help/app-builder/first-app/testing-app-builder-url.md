@@ -1,7 +1,7 @@
 ---
 title: Testing using the Adobe Developer App Builder URL
-description: Learn how to test your first Adobe Developer App Builder app from the provided App Builder URL for your project
-landing-page-description: Learn how to test your first Adobe Developer App Builder app from the provided URL from your project
+description: Learn how to test your first Adobe Developer App Builder app from the provided App Builder URL for your project.
+landing-page-description: Learn how to test your first Adobe Developer App Builder app from the provided URL from your project.
 kt: 12427
 doc-type: tutorial
 audience: all

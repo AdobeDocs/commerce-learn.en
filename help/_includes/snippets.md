@@ -20,5 +20,5 @@ description: Reused visual elements to note feature or pages applying to a speci
 
 >[!CAUTION]
 >
->When performing API calls, ensure that some sort of searchCriteria is used. You might also consider using pagination. If the result from Adobe Commerce is too large, the Adobe Developer App Builder capacity may be met and cause an unexpected end to the file. This results in a malformed response result as a 400 error.  
-> Real life example. There is a need to request all the current products from Adobe Commerce. The resulting URL would resemble `{{base_url}}rest/V1/products?searchCriteria=all`. Depending on the size of the catalog the returned, the json may be too large for App Builder to consume. Instead use pagination and make a few request to avoid `Response is not valid 'message/http'.`
+>When performing API calls, ensure that some sort of searchCriteria is used. You might also consider using pagination. If the result from Adobe Commerce is too large, the Adobe Developer App Builder capacity may be met and cause an unexpected end to the file. The result is a malformed response result as a 400 error.  
+> For example, suppose There is a need to request all the current products from Adobe Commerce. The resulting URL would resemble `{{base_url}}rest/V1/products?searchCriteria=all`. Depending on the size of the catalog the returned, the json may be too large for App Builder to consume. Instead use pagination and make a few requests to avoid `Response is not valid 'message/http'.`

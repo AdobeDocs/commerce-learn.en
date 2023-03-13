@@ -21,7 +21,7 @@ This is a special file that is not part of the sample module, but is important f
 
 * Introduction to the .env file and its purpose
 * How to generate the .env file
-* how to append the file to add new secrets
+* How to append the file to add new secrets
 * Avoid committing this file because it contains sensitive information
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593)

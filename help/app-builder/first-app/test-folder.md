@@ -1,7 +1,7 @@
 ---
 title: The test folder
-description: Learn about the types of files in the test folder for this sample application
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the test folder
+description: Learn about the types of files in the test folder for this sample application.
+landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the test folder.
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ last-substantial-update: 2023-03-10
 
 The test folder for this sample app contains a single JavaScript file. This is used when running unit tests on the application
 
-This is a simple example and can be expanded to do x, y, and z.
+This is a simple example and can be expanded to create comprehensive tests for your specific applications.
 
 ## Who is this video for?
 
