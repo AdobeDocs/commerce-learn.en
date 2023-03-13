@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# The .env file
+# The `.env` file
 
 This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This contains secrets and elements. Do not commit this file to a repository. 
 
