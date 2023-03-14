@@ -11,11 +11,11 @@ last-substantial-update: 2023-03-13
 
 # Conclusion
 
-The first Adobe Developer App Builder was a success, learn what other resources you have to continue learning.
+Now that you have built your first Adobe Developer App Builder app, learn about other resources Adobe provides.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who has completed their first Adobe Developer App Builder app and ready to learn more.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who have completed their first Adobe Developer App Builder app and are ready to learn more.
 
 ## Video content
 

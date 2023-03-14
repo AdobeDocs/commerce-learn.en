@@ -11,19 +11,19 @@ last-substantial-update: 2023-03-10
 
 # test folder
 
-The test folder for this sample app contains a single JavaScript file. This is used when running unit tests on the application
+The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
 
 This is a simple example and can be expanded to create comprehensive tests for your specific applications.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the test folder.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who want to learn about the `test` folder.
 
 ## Video content
 
-* Why use the test folder
-* Brief explanation of the unit test file and its components
-* End to end testing introduced
+* Why use the `test` folder?
+* A brief explanation of the unit test file and its components
+* Introduction to end-to-end testing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416662)
 

@@ -11,7 +11,7 @@ last-substantial-update: 2023-03-13
 
 # Overview
 
-This tutorial makes an assumption that several prerequisites have been met.
+This tutorial has the following prerequisites:
 
 * Adobe Developer Console access is complete
 * Full access or trial access to App Builder has been granted
@@ -26,22 +26,22 @@ For more information on this, you can view this blog post to help with this init
 
 ## What to expect from reading this tutorial
 
-The goal when you are completed with following the pages in this tutorial is to have a simple single page application that communicates with Adobe Commerce to pull order history and products. Topics cover unique or interesting bits of functionality with code samples and instructions for where to place them in your repository. The intent is to explain some of the files that can be reused and save some development time. Hopefully, this inspires other ideas and encourages the adoption of out-of-process development patterns.
+When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
 
 ## How should I follow this tutorial
 
-You can, and probably should follow it in the order of the linked pages on the left navigation and duplicated at the bottom of each page. However, this is not a requirement. Each page can be reviewed in isolation as they are just topics in the overall concept of building an initial Adobe Developer App Builder app.
+This tutorial was designed for you to follow the order of pages in the left navigation. However, this is not a requirement. Each page can be viewed individually since they discuss the general concept of building an initial Adobe Developer App Builder app.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder.
 
 ## Video content
 
 * Introduction to App Builder and the sample module
 * Prerequisites
 * Expectations for use of the sample module
-* Reusable parts found in the sample module
+* Reusable parts of in the sample module
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416740)
 

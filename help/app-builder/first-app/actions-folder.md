@@ -11,20 +11,20 @@ last-substantial-update: 2023-03-13
 
 # Actions folder
 
-The actions folder for this sample app contains a few JavaScript files and one folder called commerce. The JavaScript shown is an excellent file that should be reused if relevant to your work. This saves time in development efforts for how to connect to the Adobe Commerce application using OAUTH and REST. 
+The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST. 
 
-Inside the actions folder is one called commerce. The actual name of the folder is arbitrary, but it is referenced in the sample code so knowing its name is required. By choosing meaningful naming convention, this helps avoid confusion when the application being developed grows and matures with added complexity.
+The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the actions folder in the sample application.
+* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
 
 ## Video content
 
-* Introduction to App Builder and the sample module focusing on the actions folder
-* How to use the actions folder
-* What responsibility is held by the JavaScript file found in the actions/commerce folder
-* Quick overview of OAUTH authentication files
+* Introduction to App Builder and the sample module focusing on the `actions` folder
+* How to use the "actions" folder
+* The purpose of the JavaScript file found in the `actions` and `commerce` folders
+* A quick overview of the OAuth authentication files
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590)
 

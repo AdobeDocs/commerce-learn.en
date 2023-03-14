@@ -11,11 +11,11 @@ last-substantial-update: 2023-03-13
 
 # The `.env` file
 
-This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. This contains secrets and elements. Do not commit this file to a repository. 
+This is a special file that is not part of the sample module, but is important for use in your Adobe Developer App Builder application. It contains secrets and other information that should not be committed to a repository. 
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the .env file.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who want to learn about the `.env` file.
 
 ## Video content
 

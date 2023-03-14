@@ -15,7 +15,7 @@ Learn how to locally test your new Adobe Developer App Builder application.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is ready to test their first Adobe Developer App Builder app.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are ready to test their first Adobe Developer App Builder app.
 
 ## Video content
 

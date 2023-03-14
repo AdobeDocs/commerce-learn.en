@@ -15,17 +15,17 @@ The web-src folder for this sample app contains many JavaScript files and folder
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the web-src folder and its contents
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are learning about the `web-src` folder and its contents.
 
 ## Video content
 
-* What is the main purpose for the web-src folder
+* What is the main purpose for the `web-src` folder?
 * Typically included files and folders
 * How this folder and the contents inside are used in the sample application
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665)
 
-## A few code Samples
+##  Code samples
 
 web-src/src/components/Orders.js
 
@@ -120,7 +120,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-In this example below, the code sample it is `not` doing any limitation for the request. To avoid a 400 error, that you may need use searchCriteria. 
+In the example below, the code sample is `not` limiting the request. To avoid a 400 error, reduce the size of the response by using `searchCriteria`. 
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

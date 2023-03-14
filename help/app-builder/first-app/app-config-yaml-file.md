@@ -11,16 +11,16 @@ last-substantial-update: 2023-03-13
 
 # The `app.config.yaml` file
 
-This is a special file that helps drive the configuration and expectation for the application.
+This file determine the configuration for the application.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who is learning about the app.config.yaml in the sample application.
+* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the `app.config.yaml` in the sample application.
 
 ## Video content
 
 * The `app.config.yaml` file discussed
-* How definitions defined are links to other .js files
+* How are definitions link to other `.js` files
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592)
 
@@ -36,7 +36,7 @@ AIO_runtime_apihost=https://adobeioruntime.net
 ## Adobe I/O Console service account credentials (JWT) Api Key
 SERVICE_API_KEY=
 
-# You can include some commerce OAUTH credentials too, our sample module will use this
+# You can also include commerce OAuth credentials, our sample module will use the following example credentials:
 #COMMERCE_BASE_URL=https://somecommercewebsite.com/
 #COMMERCE_CONSUMER_KEY=abcebdme5bvafnemk0mdeeiyfq123
 #COMMERCE_CONSUMER_SECRET=ffff86sqws3pss5hhuofiqgq4t04rrr11
