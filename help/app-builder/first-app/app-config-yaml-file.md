@@ -11,7 +11,7 @@ last-substantial-update: 2023-03-13
 
 # The `app.config.yaml` file
 
-This file determine the configuration for the application.
+This file determines the configuration for the application.
 
 ## Who is this video for?
 

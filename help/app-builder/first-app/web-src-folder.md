@@ -11,7 +11,7 @@ last-substantial-update: 2023-03-13
 
 # The `web-src` folder
 
-The web-src folder for this sample app contains many JavaScript files and folders. This is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system may not require a frontend interface and code.
+The web-src folder for this sample app contains many JavaScript files and folders. This folder is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system may not require a frontend interface and code.
 
 ## Who is this video for?
 

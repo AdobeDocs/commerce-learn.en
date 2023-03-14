@@ -9,9 +9,9 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# Actions folder
+# `actions` folder
 
-The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST. 
+The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST. 
 
 The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
 

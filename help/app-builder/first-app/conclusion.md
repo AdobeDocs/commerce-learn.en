@@ -15,7 +15,7 @@ Now that you have built your first Adobe Developer App Builder app, learn about 
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who have completed their first Adobe Developer App Builder app and are ready to learn more.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who has completed their first Adobe Developer App Builder app and are ready to learn more.
 
 ## Video content
 

@@ -20,13 +20,13 @@ This tutorial has the following prerequisites:
 * [The Adobe Developer App Builder workspaces have been created - Step 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [The AIO CLI commands to initialize the project and run have been executed](https://developer.adobe.com/runtime){target="_blank"}
 
-For more information on this, you can view this blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 {{avoid-400-error}}
 
 ## What to expect from reading this tutorial
 
-When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
+When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, after watching these videos this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
 
 ## How should I follow this tutorial
 

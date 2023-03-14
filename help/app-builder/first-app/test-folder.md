@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-10
 
 ---
 
-# test folder
+# `test` folder
 
 The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
 
@@ -17,7 +17,7 @@ This is a simple example and can be expanded to create comprehensive tests for y
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who want to learn about the `test` folder.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `test` folder.
 
 ## Video content
 
