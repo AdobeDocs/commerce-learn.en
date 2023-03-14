@@ -15,4 +15,4 @@ description: Links to related pages in App Builder First App section
 * [Testing Locally](../app-builder/first-app/testing-locally.md)
 * [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
 * [Conclusion](../app-builder/first-app/conclusion.md)
-* [Sample Module source code](https://github.com/magento/magento2-samples){target="_blank"}
+* [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}

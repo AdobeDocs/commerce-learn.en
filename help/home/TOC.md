@@ -71,7 +71,7 @@ breadcrumb-title: Videos and Tutorials
         + [Testing locally](../app-builder/first-app/testing-locally.md)
         + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
         + [Conclusion](../app-builder/first-app/conclusion.md)
-        + [Sample Module source code](https://github.com/magento/magento2-samples){target="_blank"}
+        + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
     +   IO Events for Adobe Commerce {#io-events}
         + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
         + [Adobe Commerce 2.4.6 Installation](../io-events/2-4-6-installation.md)
