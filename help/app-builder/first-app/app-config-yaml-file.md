@@ -44,7 +44,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see it being used in the sample module in file actions/commerce.index.js
+You can see these static values being used in the sample module in file `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(
