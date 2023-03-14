@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# Testing Using App Builder URL
+# Testing Using App Builder URL {#testing-app-builder-url}
 
 Learn how to test your new Adobe Developer App Builder application using the URL from your project.
 

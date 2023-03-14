@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# The `app.config.yaml` file
+# The `app.config.yaml` file {#app-config-yaml}
 
 This file determines the configuration for the application.
 

@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-13
 
 ---
 
-# Conclusion
+# Conclusion {#conclusion}
 
 Now that you have built your first Adobe Developer App Builder app, learn about other resources Adobe provides.
 
