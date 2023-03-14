@@ -25,7 +25,7 @@ The web-src folder for this sample app contains many JavaScript files and folder
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665)
 
-##  Code samples
+## Code samples
 
 web-src/src/components/Orders.js
 
