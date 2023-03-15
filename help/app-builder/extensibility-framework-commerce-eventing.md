@@ -2,6 +2,7 @@
 title: Extensibility framework and commerce eventing
 description: Learn about Unified Extensibility Framework and commerce evening
 landing-page-description: Learn about Unified Extensibility Framework and commerce evening
+short-description: Learn about Unified Extensibility Framework and commerce evening
 kt: 11740
 doc-type: tutorial
 audience: all

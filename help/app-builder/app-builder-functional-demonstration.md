@@ -2,6 +2,7 @@
 title: App Builder functional demonstration
 description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
 landing-page-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
+short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
 kt: 11762
 doc-type: tutorial
 audience: all

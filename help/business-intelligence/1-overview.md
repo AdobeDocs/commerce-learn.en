@@ -2,6 +2,7 @@
 title: MBI - Overview
 description: Learn about the three core components within the MBI product that provide a complete business intelligence solution.
 landing-page-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
+short-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence

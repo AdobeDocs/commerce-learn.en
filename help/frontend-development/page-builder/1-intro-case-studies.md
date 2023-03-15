@@ -2,6 +2,7 @@
 title: Page Builder for developers - Introduction
 description: Page Builder introduction, understand Page Builder capabilities
 landing-page-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
+short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
 topic: Commerce, Development
 kt: 5650
 doc-type: video

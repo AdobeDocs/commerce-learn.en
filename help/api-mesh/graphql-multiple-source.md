@@ -2,6 +2,7 @@
 title: Create a multiple source GraphQL to be used in API Mesh
 description: Discover how to use multiple sources for API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about some common errors and how to resolve them.
 landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
 kt: 11804
 doc-type: tutorial
 audience: all

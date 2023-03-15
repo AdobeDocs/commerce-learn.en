@@ -2,6 +2,7 @@
 title: Upgrade Compatibility Tool Overview
 description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
 landing-page-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
+short-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer

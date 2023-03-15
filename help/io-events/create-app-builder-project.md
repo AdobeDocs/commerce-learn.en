@@ -2,6 +2,7 @@
 title: Learn how to create an App Builder project using Commerce Events
 description: Learn how to create an App Builder project for use with Commerce events
 landing-page-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events 
+short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events 
 kt: 11888
 doc-type: tutorial
 audience: all

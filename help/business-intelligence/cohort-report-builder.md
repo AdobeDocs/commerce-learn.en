@@ -2,6 +2,7 @@
 title: MBI - Cohort Report Builder
 description: Learn how to use the MBI Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 landing-page-description: Watch this video to learn how use the MBI Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
+short-description: Watch this video to learn how use the MBI Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence

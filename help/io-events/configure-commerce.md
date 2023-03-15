@@ -2,6 +2,7 @@
 title: Configure Adobe Commerce
 description: Learn how to configure Adobe Commerce to allow events to be used in Adobe Developer App Builder.
 landing-page-description: Learn how to configure Adobe Commerce to use the event mechanism for consumption by Adobe Developer App Builder.
+short-description: Learn how to configure Adobe Commerce to use the event mechanism for consumption by Adobe Developer App Builder.
 kt: 11889
 doc-type: tutorial
 audience: all
