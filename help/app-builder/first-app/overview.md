@@ -22,8 +22,6 @@ This tutorial has the following prerequisites:
 
 For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-{{avoid-400-error}}
-
 ## What to expect from reading this tutorial
 
 When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, after watching these videos this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
@@ -44,6 +42,8 @@ This tutorial was designed for you to follow the order of pages in the left navi
 * Reusable parts of in the sample module
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416740)
+
+{{avoid-400-error}}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 
