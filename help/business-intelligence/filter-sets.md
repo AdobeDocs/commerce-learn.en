@@ -2,6 +2,7 @@
 title: MBI - Filter Sets
 description: Learn how to use the MBI filter sets feature to simplify business data reporting for Adobe Commerce and Magento Open Source.
 landing-page-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
+short-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence

@@ -2,6 +2,7 @@
 title: Learn how to install IO events for Adobe Commerce 2.4.5
 description: Learn how to install modules needed for IO events in Adobe Commerce 2.4.5 for use in Adobe Developer App Builder
 landing-page-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.  
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.  
 kt: 11886
 doc-type: tutorial
 audience: all

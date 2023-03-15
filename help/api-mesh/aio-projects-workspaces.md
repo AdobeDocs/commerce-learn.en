@@ -2,6 +2,7 @@
 title: Working with projects and workspaces
 description: Discover how to use Adobe Developer console to work with projects and workspaces. 
 landing-page-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
+short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
 kt: 11803
 doc-type: tutorial
 audience: all

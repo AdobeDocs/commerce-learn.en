@@ -2,6 +2,7 @@
 title: Learn how to use conditional events in Adobe Commerce
 description: Learn how to use conditional events to be used in Adobe Developer App Builder.
 landing-page-description: Learn how to use Adobe Commerce conditional events.
+short-description: Learn how to use Adobe Commerce conditional events.
 kt: 11890
 doc-type: tutorial
 audience: all

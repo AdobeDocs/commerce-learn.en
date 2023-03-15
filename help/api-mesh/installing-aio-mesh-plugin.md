@@ -2,6 +2,7 @@
 title: Installing Adobe I/O Runtime  command-line interface and API Mesh plugin
 description: Discover how to install Adobe I/O Runtime command-line interface and the API Mesh plugin
 landing-page-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
 kt: 11801
 doc-type: tutorial
 audience: all

@@ -2,6 +2,7 @@
 title: Get started with API Mesh
 description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe App Builder, working with projects, creating a graphql reverse proxy and much more.
 landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
 kt: 11802
 doc-type: tutorial
 audience: all

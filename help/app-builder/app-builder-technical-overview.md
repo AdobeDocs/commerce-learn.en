@@ -2,6 +2,7 @@
 title: App Builder technical overview
 description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
 landing-page-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
+short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
 kt: 11763
 doc-type: tutorial
 audience: all

@@ -2,6 +2,7 @@
 title: Out-of-process extensibility for Adobe Commerce
 description: Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility.
 landing-page-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
+short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
 audience: all

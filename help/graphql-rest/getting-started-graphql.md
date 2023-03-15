@@ -2,6 +2,7 @@
 title: Get started with GraphQL
 description: Discover how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Learn about using queries, mutations, and schemas.
 landing-page-description: Discover how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Learn about using queries, mutations, and schemas.
+short-description: Discover how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Learn about using queries, mutations, and schemas.
 kt: 11524
 doc-type: tutorial
 audience: all
