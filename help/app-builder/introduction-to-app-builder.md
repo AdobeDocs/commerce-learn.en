@@ -13,7 +13,7 @@ last-substantial-update: 2023-02-16
 
 Historically, Adobe Commerce development has used in-process extensibility. The in-process model requires any new code to be compatible with upgrades, the server's PHP version, and many other essential server applications and services that Commerce uses. Adobe Developer App Builder uses out-of-process extensibility to avoid these compatibility issues.
 
-## App Builder for Adobe Commerce {#project-firefly}
+## App Builder for Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -27,7 +27,7 @@ App Builder provides a way for customers to extend [!DNL Adobe Commerce] in vari
 * core services extensibility - Extend core application capabilities by extending the default behavior with custom features and business logic.
 * user experience extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts, and back-office applications.
 
-App Builder (previously known as Project Firefly) is a cloud-based solution, which means that it automatically scales. This service is also globally distributed to allow the best performance regardless of your geographic location.
+Adobe Developer App Builder is a cloud-based solution, which means that it automatically scales. This service is also globally distributed to allow the best performance regardless of your geographic location.
 
 ## Why should you learn more about App Builder
 
@@ -50,7 +50,7 @@ Instead of an out-of-the-box solution, Adobe Developer App Builder provides a co
 
 The following diagram illustrates how a standard application built on App Builder uses these functionalities:
 
-![Architecture](/help/assets/app-builder/firefly-architecture.jpeg)
+![Architecture](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
