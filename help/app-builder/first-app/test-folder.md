@@ -9,7 +9,7 @@ last-substantial-update: 2023-03-10
 
 ---
 
-# `test` folder {#test-folder}
+# Learn about the test folder {#test-folder}
 
 The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
 
