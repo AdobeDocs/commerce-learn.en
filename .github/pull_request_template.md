@@ -37,11 +37,11 @@
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Naming Standards followed]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] Did you follow the [Naming Standards](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] The TOC and the H1 match for each page being created or updated.
 - [ ] The TOC and the H1 have an action associated with it, for example: Learn how to create a GutHub pull request
 - [ ] Nothing should be monospaced in H1
 - [ ] Each page title should start with a ***C***apitol letter
 - [ ] I checked to see if any videos should have chapters
 - [ ] All videos have poster assigned to represent the video properly
-- [ ] Did you use [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
+- [ ] Did you use [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
