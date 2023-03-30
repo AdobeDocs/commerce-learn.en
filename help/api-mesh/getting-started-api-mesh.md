@@ -19,6 +19,19 @@ API Mesh combines multiple sources of data to get a single response for your app
 
 [View the full API Mesh documentation](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
+## Who is this video for?
+
+* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} and API Mesh.
+
+## Video content
+
+* Overview to API Mesh
+* Links to supplimental documentation
+* Use case for doing real time inventory check at checkout
+* Moving development efforts and resource usage away from your commerce application
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+
 ## Example use cases
 
 Your Commerce application has a REST API and a GraphQL endpoint. For example, you could use the REST API to apply special pricing or the GraphQL endpoint to handle inventory status. Using API Mesh, you can define both endpoints, retrieve the information, and return it to the requesting application as one response.
