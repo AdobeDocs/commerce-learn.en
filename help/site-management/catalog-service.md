@@ -27,11 +27,11 @@ In this video:
 
 Part 1:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415599)
+>[!VIDEO](https://video.tv.adobe.com/v/3415599?quality=12&learn=on)
 
 Part 2:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415600)
+>[!VIDEO](https://video.tv.adobe.com/v/3415600?quality=12&learn=on)
 
 ## Additional resources
 

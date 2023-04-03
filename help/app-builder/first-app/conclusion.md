@@ -23,7 +23,7 @@ Now that you have built your first Adobe Developer App Builder app, learn about 
 * Methods of connecting to other developers
 * Closing comments
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
 
 ## Additional App Builder resources
 

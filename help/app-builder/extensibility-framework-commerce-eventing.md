@@ -19,6 +19,6 @@ To learn how to use Adobe Commerce with Adobe Developer App Builder, view the fo
 
 ## App Builder for Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

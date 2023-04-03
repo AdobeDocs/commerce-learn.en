@@ -25,7 +25,7 @@ For installation instructions and prerequisites, visit the API Mesh [Getting sta
 * Installing the Adobe I/O Runtime CLI (command-line interface)
 * Installing the API Mesh plugin
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## Installing the `aio` CLI and API Mesh plugin
 

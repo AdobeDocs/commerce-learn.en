@@ -26,7 +26,7 @@ The actual names of folders in this example are arbitrary, but knowing their nam
 * The purpose of the JavaScript file found in the `actions` and `commerce` folders
 * A quick overview of the OAuth authentication files
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
 ## Code Samples
 

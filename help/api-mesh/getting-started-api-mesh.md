@@ -30,7 +30,7 @@ API Mesh combines multiple sources of data to get a single response for your app
 * Use case for doing real time inventory check at checkout
 * Moving development efforts and resource usage away from your commerce application
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Example use cases
 

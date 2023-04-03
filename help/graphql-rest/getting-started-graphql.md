@@ -25,6 +25,6 @@ If you're new to GraphQL, Adobe recommends starting with this introductory video
 * GraphQL Mutations
 * GraphQL Schema
 
->[!VIDEO](https://video.tv.adobe.com/v/3412302/graphql)
+>[!VIDEO](https://video.tv.adobe.com/v/3412302?quality=12&learn=on)
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
