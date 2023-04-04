@@ -27,7 +27,7 @@ This tutorial discusses creating a project and workspace to contain your mesh. T
 * Changing the selected Organization, project, or workspace in the CLI
 * Testing simple API Mesh commands
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Learn about the Adobe Developer Console
 

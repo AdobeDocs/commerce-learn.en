@@ -24,7 +24,7 @@ This video helps developers understand how to create a mesh with multiple source
 * How to troubleshoot errors, such as name conflicts, schema availability, and other schema syntax issues
 * Updating your mesh with a modified configuration
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## Create the json configuration file
 

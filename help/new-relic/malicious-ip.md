@@ -16,4 +16,4 @@ In this video:
 
 - Identify a potential IP that is suspicious or malicious​ to be used in Fastly to block it
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088/)
+>[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)

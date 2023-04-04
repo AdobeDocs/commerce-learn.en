@@ -24,6 +24,6 @@ Learn how to locally test your new Adobe Developer App Builder application.
 * E2E test
 * Manual test
 
->[!VIDEO](https://video.tv.adobe.com/v/3416594)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

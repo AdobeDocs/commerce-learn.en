@@ -41,7 +41,7 @@ This tutorial was designed for you to follow the order of pages in the left navi
 * Expectations for use of the sample module
 * Reusable parts of in the sample module
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 

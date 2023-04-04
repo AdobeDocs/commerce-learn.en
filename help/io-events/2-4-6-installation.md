@@ -25,7 +25,7 @@ Learn how to install several new modules in Adobe Commerce using Composer for ve
 * Commands to run for Adobe Commerce Cloud
 * Adobe Commerce Cloud yaml required edit
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## Useful commands {#useful-commands}
 

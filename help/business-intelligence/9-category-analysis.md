@@ -23,7 +23,7 @@ Category analysis is designed to deliver a high-level overview of select product
 >
 >The content in the video reflects the 2.2 release. See the [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) for the most up-to-date information.
 
->[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37904?quality=12&learn=on)
 
 ## Additional resources
 

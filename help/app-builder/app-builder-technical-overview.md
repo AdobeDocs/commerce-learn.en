@@ -21,6 +21,6 @@ The following video provides a technical overview on connecting Adobe Commerce a
 
 ## App Builder for Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512)
+>[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
