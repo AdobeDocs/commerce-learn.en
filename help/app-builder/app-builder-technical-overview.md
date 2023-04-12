@@ -7,9 +7,8 @@ kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16
-
+exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
 ---
-
 # Technical overview for App Builder
 
 The following video provides a technical overview on connecting Adobe Commerce and Amazon Sales Channel. This tutorial also explores how you can use Adobe App Builder for custom functionality and integrations.

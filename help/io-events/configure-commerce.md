@@ -7,9 +7,8 @@ kt: 11889
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21
-
+exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 ---
-
 # Configure Adobe Commerce
 
 Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.

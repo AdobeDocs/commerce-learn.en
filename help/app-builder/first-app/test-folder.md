@@ -6,9 +6,8 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10
-
+exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
 ---
-
 # Learn about the test folder {#test-folder}
 
 The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.

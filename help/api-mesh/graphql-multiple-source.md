@@ -7,7 +7,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-
+exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 ---
 # Create a mesh with multiple sources
 

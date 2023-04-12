@@ -6,9 +6,8 @@ kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13
-
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
 ---
-
 # Description and usage of the app.config.yaml file {#app-config-yaml}
 
 This file determines the configuration for the application.

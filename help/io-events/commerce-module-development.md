@@ -7,9 +7,8 @@ kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21
-
+exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 ---
-
 # Adobe Commerce module development
 
 Learn how register events, find supported events, and how to use a new XML file `io_events.xml` in custom module development. The video will also show developers how to find registered events that can used as well as unsubscribe any events that may already be defined. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.

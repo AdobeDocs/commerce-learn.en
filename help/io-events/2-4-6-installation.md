@@ -1,16 +1,15 @@
 ---
 title: Learn how to install IO events for Adobe Commerce 2.4.6
 description: Learn how to install modules needed for IO events in Adobe Commerce 2.4.6 for use in Adobe Developer App Builder
-landing-page-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.  
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.  
+landing-page-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22
-badge: "Adobe Commerce 2.4.6"
-
+badge: Adobe Commerce 2.4.6
+exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 ---
-
 # Adobe Commerce 2.4.6 Installation
 
 Learn how to install several new modules in Adobe Commerce using Composer for version 2.4.6. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.

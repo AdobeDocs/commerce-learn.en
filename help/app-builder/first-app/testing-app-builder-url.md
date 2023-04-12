@@ -6,9 +6,8 @@ kt: 12427
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13
-
+exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
 ---
-
 # Testing Using App Builder URL {#testing-app-builder-url}
 
 Learn how to test your new Adobe Developer App Builder application using the URL from your project.

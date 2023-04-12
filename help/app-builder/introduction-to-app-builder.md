@@ -7,9 +7,8 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16
-
+exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 ---
-
 # Introduction to App Builder
 
 Historically, Adobe Commerce development has used in-process extensibility. The in-process model requires any new code to be compatible with upgrades, the server's PHP version, and many other essential server applications and services that Commerce uses. Adobe Developer App Builder uses out-of-process extensibility to avoid these compatibility issues.

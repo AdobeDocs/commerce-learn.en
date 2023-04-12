@@ -1,10 +1,11 @@
 ---
-title: "[!DNL Live Search] for recommendations"
-description: "Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences."
+title: '[!DNL Live Search] for recommendations'
+description: Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
 ---
 # [!DNL Live Search] for recommendations
 

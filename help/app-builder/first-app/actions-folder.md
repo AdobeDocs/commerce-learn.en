@@ -6,9 +6,8 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13
-
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 ---
-
 # Learn about the actions folder {#actions-folder}
 
 The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST. 
