@@ -190,15 +190,13 @@ breadcrumb-title: Videos and Tutorials
 
 +   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
-        +   Introduction to Adobe Commerce headless architecture {#intro-adobe-commerce-headless-series}
-            + [Headless Architecture - Session 1](../headless/session-1.md) 
-    +   PWA Studio {#pwa-studio}
-        +   Introduction to PWA Studio {#introduction}
-            + [1 - Overview](../pwa/introduction/1-overview.md)
-            + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Launch](../pwa/introduction/3-launch.md)
-            + [4 - UPWARD](../pwa/introduction/4-upward.md)
-            + [5 - Getting started](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+        + [Headless Architecture - Session 1](../headless/session-1.md) 
+    +   Introduction to PWA Studio {#introduction}
+        + [1 - Overview](../pwa/introduction/1-overview.md)
+        + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
+        + [3 - Launch](../pwa/introduction/3-launch.md)
+        + [4 - UPWARD](../pwa/introduction/4-upward.md)
+        + [5 - Getting started](../pwa/introduction/5-getting-started.md)
+        + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
     +   [PWA Docker Development](../pwa/pwa-docker-development.md)
     +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
