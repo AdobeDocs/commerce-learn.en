@@ -193,5 +193,6 @@ breadcrumb-title: Videos and Tutorials
             + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
         +   [PWA Docker Development](../pwa/pwa-docker-development.md)
         +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-    +   Videos {#videos}
-            [Headless Architecture - Session 1](../headless/session-1.md)
+    +   Introduction to headless {#videos}
+        +   Introduction to Adobe Commerce headless architecture
+            + [Headless Architecture - Session 1](../headless/session-1.md)
