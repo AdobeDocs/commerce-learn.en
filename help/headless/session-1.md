@@ -1,6 +1,6 @@
 ---
 title: Headless Architecture Session 1
-description: Learn what is headless architecture, composable commerce and personalized experiences
+description: Learn what is headless architecture, composable commerce, and personalized experiences
 kt: 13144
 doc-type: tutorial
 audience: all
@@ -8,7 +8,7 @@ last-substantial-update: 2023-04-25
 ---
 # Adobe Commerce Headless Architecture
 
-High level overview of the history of Adobe Commerce and how things have been moving to fully support headless.  Benefits of headless architecture include parity across touch points, separation of development activities, improved scalability and so much more.
+High-level overview of the history of Adobe Commerce and how things have been moving to fully support headless.  Benefits of headless architecture include parity across touch points, separation of development activities, improved scalability and so much more.
 
 ## What to expect from watching this video
 
