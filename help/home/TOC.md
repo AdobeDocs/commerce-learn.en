@@ -188,7 +188,7 @@ breadcrumb-title: Videos and Tutorials
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
 
-+   Headless Architecture {#headless-architecture}   
++   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
         +   Introduction to Adobe Commerce headless architecture {#intro-adobe-commerce-headless-series}
             + [Headless Architecture - Session 1](../headless/session-1.md) 
@@ -200,5 +200,5 @@ breadcrumb-title: Videos and Tutorials
             + [4 - UPWARD](../pwa/introduction/4-upward.md)
             + [5 - Getting started](../pwa/introduction/5-getting-started.md)
             + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
-        +   [PWA Docker Development](../pwa/pwa-docker-development.md)
-        +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md
+    +   [PWA Docker Development](../pwa/pwa-docker-development.md)
+    +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
