@@ -50,6 +50,12 @@ breadcrumb-title: Videos and Tutorials
         + [5.2 - Customer Management](../site-management/introduction/5-2-customer-management.md)
         + [5.3 - Email Communications](../site-management/introduction/5-3-store-communications.md)
         + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
+    +   Self Hosting {#self-hosting}
+        + [Overview](../self-hosting/overview.md)
+        + [Security concepts](../self-hosting/security-concepts.md)
+        + [Monitoring telemetry and tools](../self-hosting/monitoring-tools.md)
+        + [Disaster recovery ideas](../self-hosting/disaster-recovery-ideas.md)
+        + [Performance tips](../self-hosting/performance-tips.md)
 +   GraphQL and REST {#graphql-rest}
     + [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
@@ -182,7 +188,10 @@ breadcrumb-title: Videos and Tutorials
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
 
-+   Headless Architecture {#headless-architecture}    
++   Headless Architecture {#headless-architecture}   
+    +   Introduction to headless {#introduction-to-headless}
+        +   Introduction to Adobe Commerce headless architecture {#intro-adobe-commerce-headless-series}
+            + [Headless Architecture - Session 1](../headless/session-1.md) 
     +   PWA Studio {#pwa-studio}
         +   Introduction to PWA Studio {#introduction}
             + [1 - Overview](../pwa/introduction/1-overview.md)
@@ -192,7 +201,4 @@ breadcrumb-title: Videos and Tutorials
             + [5 - Getting started](../pwa/introduction/5-getting-started.md)
             + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
         +   [PWA Docker Development](../pwa/pwa-docker-development.md)
-        +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-    +   Introduction to headless {#videos}
-        +   Introduction to Adobe Commerce headless architecture
-            + [Headless Architecture - Session 1](../headless/session-1.md)
+        +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md
