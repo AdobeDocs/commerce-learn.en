@@ -50,12 +50,6 @@ breadcrumb-title: Videos and Tutorials
         + [5.2 - Customer Management](../site-management/introduction/5-2-customer-management.md)
         + [5.3 - Email Communications](../site-management/introduction/5-3-store-communications.md)
         + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-    +   Self Hosting {#self-hosting}
-        + [Overview](../self-hosting/overview.md)
-        + [Security concepts](../self-hosting/security-concepts.md)
-        + [Monitoring telemetry and tools](../self-hosting/monitoring-tools.md)
-        + [Disaster recovery ideas](../self-hosting/disaster-recovery-ideas.md)
-        + [Performance tips](../self-hosting/performance-tips.md)
 +   GraphQL and REST {#graphql-rest}
     + [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
