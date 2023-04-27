@@ -5,6 +5,7 @@ kt: 13144
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-25
+exl-id: 49dd1397-7b94-43d8-b8e1-96d654f68b64
 ---
 # Adobe Commerce Headless Architecture
 
