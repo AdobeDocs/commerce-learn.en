@@ -122,7 +122,7 @@ breadcrumb-title: Videos and Tutorials
     + [Set Up Product Recommendations](../site-management/product-recommendations.md)
     + [Introduction to Live Search](../site-management/live-search.md)
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
-    + [Live Search full demonstration](../site-management/live-search-full-demo.md)    
+    + [Live Search full demonstration](../site-management/live-search-full-demonstration.md)    
 +   Orders and Fulfillment {#orders}
     + [Store Fulfillment Overview](../site-management/store-fulfillment.md)
     + [Manage Order Status](../site-management/order-status.md)
