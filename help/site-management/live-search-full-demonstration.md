@@ -5,6 +5,7 @@ kt: 13168
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-27
+exl-id: 92f57e62-5a60-484f-9b79-27c824708619
 ---
 # Adobe Commerce Live Search full demonstration
 
