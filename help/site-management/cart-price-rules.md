@@ -50,15 +50,15 @@ Same 10% discount as above cart rule in effect
 Add 2 products to the cart that are 19.95
 
 Each product should get $1.995 in discounts
-#1 - 19.95 x 0.1 = 1.995
-#2 - 19.95 x 0.1 = 1.995
+Product 1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
 
 A grand total of 3.99 is provided as a discount to the customer
 
 When displaying the line items to the store owner in the admin, 
 we need to adjust the first item and round it up to 2.000.  The second items we drop the third decimal 
-#1 = 2.00
-#2 = 1.99
+Product 1 = 2.00
+Product 2 = 1.99
 
 The total discount of the two products now when summed together match the actual discount provided to a customer.
 >[!ENDSHADEBOX]
@@ -77,12 +77,12 @@ Add 2 products to the cart that are 19.95
 Each product should get $1.995 in discounts, 
 however if we just round them up, it shows too much discount.
 
-#1 - 19.95 x 0.1 = 1.995
-#2 - 19.95 x 0.1 = 1.995
+Product 1 - 19.95 x 0.1 = 1.995
+Product 2 - 19.95 x 0.1 = 1.995
 
 Convert to round up all items
-#1 New value is 2.00
-#2 New value is 2.00
+Product 1 New value is 2.00
+Product 2 New value is 2.00
 
 A grand total of 3.99 was actually provided as a discount to the customer,
 however if we round up, it would show that $4.00 was given, and that is incorrect.
@@ -99,12 +99,12 @@ Same 10% discount as above cart rule in effect
 Add 2 products to the cart that are 19.95
 
 Each product should get $1.995 in discounts, however if we just drop the third decimal, this happens:
-#1 - 19.95 x 0.1 = 1.995
-#2 - 19.95 x 0.1 = 1.995
+Product 1 - 19.95 x 0.1 = 1.995
+Product 2 - 19.95 x 0.1 = 1.995
 
 Convert to drop the third decimal for all items
-#1 New value is 1.99
-#2 New value is 1.99
+Product 1 New value is 1.99
+Product 2 New value is 1.99
 
 A grand total of 3.99 was actually provided as a discount to the customer,
 however if we drop the third decimal, it would show that $3.98 was given, and that is incorrect.
