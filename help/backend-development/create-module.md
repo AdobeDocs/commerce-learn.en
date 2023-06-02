@@ -2,9 +2,10 @@
 title: Create a module
 description: Create a page that returns json with one parameter.
 topic: Development
-kt: 5602
+kt: 5614
 doc-type: video
 activity: use
+last-substantial-update: 2023-6-2
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 ---
 # Create a module
