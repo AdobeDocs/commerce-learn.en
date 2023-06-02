@@ -24,7 +24,34 @@ Module is a structural element of [!DNL Commerce] – the whole system is built 
 - Upgrade script to install the new module.
 - Check that the module is working.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+
+### module.xml
+
+```xml
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Training_Sales">
+        <sequence>
+            <module name="Magento_Sales"/>
+        </sequence>
+    </module>
+</config>
+```
+
+### registration.php
+
+```PHP
+<?php
+
+use Magento\Framework\Component\ComponentRegistrar;
+
+ComponentRegistrar::register(
+    ComponentRegistrar::MODULE,
+    'Training_Sales',
+    __DIR__);
+```
 
 ## Useful resources
 
