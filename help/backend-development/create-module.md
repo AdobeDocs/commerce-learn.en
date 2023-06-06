@@ -43,7 +43,7 @@ Module is a structural element of [!DNL Commerce] – the whole system is built 
 
 ### registration.php
 
-```PHP
+```php
 <?php
 
 use Magento\Framework\Component\ComponentRegistrar;
@@ -54,23 +54,32 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Add a plugin to provide some functionality
+### Add a plugin and provide some functionality
 
-The next step is to add some functionality to our very basic module.  A Plugin is an essential tool that all Adobe Commerce developers will use.  This video and tutorial will help you create a plugin.  
+The next step is to add some functionality to our basic module. A Plugin is an essential tool that all Adobe Commerce developers use. This video and tutorial help you create a plugin.  
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
+
+### Things to remember for Plugins
+
+- All plugins are declared in `di.xml`.  
+- The plugin requires a unique name
+- disabled and sortOrder are optional
+- Scope of the plugin is set by the folder that it is inside
+- Plugins can be executed before, after or both (around) the method is called
+- Avoid using `around` plugins. They are tempting to use but often are the wrong choice and will lead to performance issues.
 
 ### Plugin code samples
 
 Here are the XML and PHP classes used in the tutorial for adding a plugin to the first module
 
-#### app/code/Training/Sales/etc/adminhtml/di.xml
+### app/code/Training/Sales/etc/adminhtml/di.xml
 
-```XML
+```xml
 <?xml version="1.0" ?>
 <!--
 /**
- * Copyright © Magento, Inc. All rights reserved.
+ * Copyright &copy; Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
 -->
@@ -82,13 +91,14 @@ Here are the XML and PHP classes used in the tutorial for adding a plugin to the
 </config>
 
 ```
-#### app/code/Training/Sales/etc/frontend/di.xml
 
-```XML
+### app/code/Training/Sales/etc/frontend/di.xml
+
+```xml
 <?xml version="1.0" ?>
 <!--
 /**
- * Copyright © Magento, Inc. All rights reserved.
+ * Copyright &copy; Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
 -->
@@ -99,17 +109,15 @@ Here are the XML and PHP classes used in the tutorial for adding a plugin to the
                 type="Training\Sales\Plugin\CustomerLoginPostPlugin" sortOrder="20"/>
     </type>
 </config>
-
 ```
 
-#### app/code/Training/Sales/etc/webapi_rest/di.xml
+### app/code/Training/Sales/etc/webapi_rest/di.xml
 
-
-```XML
+```xml
 <?xml version="1.0" ?>
 <!--
 /**
- * Copyright © Magento, Inc. All rights reserved.
+ * Copyright &copy; Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
 -->
@@ -121,9 +129,9 @@ Here are the XML and PHP classes used in the tutorial for adding a plugin to the
 </config>
 ```
 
-#### app/code/Training/Sales/Plugin/AdminAddLoggingAfterOrderPlacePlugin.php
+### app/code/Training/Sales/Plugin/AdminAddLoggingAfterOrderPlacePlugin.php
 
-```PHP
+```php
 <?php
 
 declare(strict_types=1);
@@ -167,12 +175,11 @@ class AdminAddLoggingAfterOrderPlacePlugin
         return $result;
     }
 }
-
 ```
 
-#### app/code/Training/Sales/Plugin/CustomerLoginPostPlugin.php
+### app/code/Training/Sales/Plugin/CustomerLoginPostPlugin.php
 
-```PHP
+```php
 <?php
 
 declare(strict_types=1);
@@ -218,12 +225,11 @@ class CustomerLoginPostPlugin
         $this->logger->notice( "Login Post controller was used for " . $username );
     }
 }
-
 ```
 
-#### app/code/Training/Sales/Plugin/RestAddLoggingAfterOrderPlacePlugin.php
+### app/code/Training/Sales/Plugin/RestAddLoggingAfterOrderPlacePlugin.php
 
-```PHP
+```php
 <?php
 
 declare(strict_types=1);
@@ -267,7 +273,6 @@ class RestAddLoggingAfterOrderPlacePlugin
         return $result;
     }
 }
-
 ```
 
 ## Useful resources
