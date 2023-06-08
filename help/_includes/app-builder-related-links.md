@@ -10,3 +10,4 @@ description: Links to related pages in App Builder
 * [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
 * [Functional demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
 * [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)
+* [Submit app to the Marketplace](../app-builder/submit-app-process.md)
