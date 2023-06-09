@@ -8,9 +8,9 @@ audience: all
 last-substantial-update: 2023-06-08
 
 ---
-# Learn how to submit an app to the Marketplace
+# Learn how to submit an app to the Adobe Commerce Marketplace
 
-The process of submitting an app to the App Builder Marketplace
+The Adobe Commerce Marketplace is now accepting submissions for listing of App Builder apps. App Builder is our next generation extensibility platform giving developers all the tools and services needed to build secure and scalable apps for Adobe Commerce. Developers can now publish their apps to the Adobe Commerce Marketplace, the trusted source for businesses to discover and purchase high quality apps to meet their needs. You can submit your app for review by going to [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
 
 ## Who is this video for?
 
