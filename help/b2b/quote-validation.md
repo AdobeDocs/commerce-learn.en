@@ -1,6 +1,6 @@
 ---
-title: Sales Rep initiates the quote
-description: Learn how the sales representative can initiate the quote from the Adobe Commerce admin
+title: Learn about the validation levels for the B2B quote process
+description: Learn how the Adobe Commerce application has strict validation processes to ensure the quoting procedure is valid and consistent
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -11,7 +11,7 @@ last-substantial-update: 2023-06-13
 # Sales Representative initiates the quote
 
 {{b2b-feature}}
-Learn how the sales representative can initiate the quote from the admin panel, filter by user and website, draft quotes, quote visibility and many more features.
+Learn the validation steps and areas that Adobe Commerce B2B Quote functionality provides to ensure the consistent and valid quote process.
 
 ## Who is this video for?
 
@@ -20,7 +20,7 @@ Learn how the sales representative can initiate the quote from the admin panel, 
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420412?learn=on)
 
 ## Additional resources
 
