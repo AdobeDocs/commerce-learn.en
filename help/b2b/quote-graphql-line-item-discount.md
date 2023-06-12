@@ -19,7 +19,7 @@ Learn how to use the line item discount and see the values using GraphQL
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3420410?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
 
 ## Additional resources
 
