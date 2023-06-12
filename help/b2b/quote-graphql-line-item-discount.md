@@ -8,7 +8,7 @@ activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13
 ---
-# Sales Representative initiates the quote
+# B2B Sales quote line item discount using GraphQL
 
 {{b2b-feature}}
 Learn how to use the line item discount and see the values using GraphQL
