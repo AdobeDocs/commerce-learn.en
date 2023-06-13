@@ -132,6 +132,14 @@ breadcrumb-title: Videos and Tutorials
     + [Manage Shared Catalogs](../b2b/shared-catalogs.md)
     + [Manage Company Credit](../b2b/company-credit.md)
     + [Purchase Orders and Approvals](../b2b/purchase-orders.md)
+    + Quote {#b2b-quote}
+        + [Sales Representative initiates quote](../b2b/sales-rep-initiates-quote.md)
+        + [Quote validation from admin](../b2b/quote-validation-admin-panel.md)
+        + [Sales Representative initiates quote REST API](../b2b/sales-rep-initiates-quote-api.md)
+        + [Quote line item discounts](../b2b/quote-line-item-discount.md)
+        + [Quote line item notes](../b2b/quote-line-item-notes.md)
+        + [Quote line item discount GraphQL](../b2b/quote-graphql-line-item-discount.md)
+        + [Quote line item discount REST API](../b2b/quote-rest-api-line-item-notes.md)
 +   Tools and External services {#tools}
     +   [Site-Wide Analysis Tool Dashboard](../tools/site-wide-analysis-tool.md)
     +   [Observation for Adobe Commerce](../tools/observation-tool.md)
