@@ -60,7 +60,8 @@ breadcrumb-title: Videos and Tutorials
     +   [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     +   [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
     +   [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
-    +   [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md)  
+    +   [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md) 
+    +   [Submit app to the Marketplace](../app-builder/submit-app-process.md)
     +   Build your first App builder App {#first-app}
         + [Overview](../app-builder/first-app/overview.md)
         + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
