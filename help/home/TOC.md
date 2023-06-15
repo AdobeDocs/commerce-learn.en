@@ -111,31 +111,11 @@ breadcrumb-title: Videos and Tutorials
     +   [Quality Patch Tool](../tools/quality-patch-tool.md)
     +   New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
-+   MBI {#mbi}
++   Commerce Intelligence {#mbi}
     +   [Filter Sets](../business-intelligence/filter-sets.md)
     +   [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
     +   [SQL Report Builder](../business-intelligence/sql-report-builder.md)
-    +   [Prepping for the Future](../business-intelligence/prepare-for-future.md)  
-    +   Recorded Webinars {#webinars}
-        + [Getting Started with MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-        + [Managing Data Sets in MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-        + [Optimize Your MBI Data Warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-        + [MBI Dashboards Deep Dive](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-        + [Holiday Readiness with MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-        + [MBI - Ask an Expert](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-    +   Introduction to MBI Video Series {#introduction}
-        + [Overview](../business-intelligence/1-overview.md)
-        + [Data warehousing](../business-intelligence/2-data-warehousing.md)
-        + [Build reports](../business-intelligence/3-build-reports.md)
-        + [Metrics](../business-intelligence/4-metrics.md)
-        + [Standard reports](../business-intelligence/5-standard-reports.md)
-        + [Executive summary](../business-intelligence/6-executive-summary-dashboard.md)
-        + [Orders dashboard](../business-intelligence/7-orders-dashboard.md)
-        + [Customer-focused dashboards](../business-intelligence/8-customer-focused-dashboards.md)
-        + [Category analysis](../business-intelligence/9-category-analysis.md)
-        + [Return on investment tracking](../business-intelligence/10-roi-tracking.md)
-        + [Share results and export data](../business-intelligence/11-share-results-export-data.md)
-        + [Customer success stories](../business-intelligence/12-customer-success.md)
+    +   [Prepping for the Future](../business-intelligence/prepare-for-future.md)    
 +   Commerce Upgrades {#upgrade}
     + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
     + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)

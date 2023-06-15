@@ -1,8 +1,8 @@
 ---
-title: MBI - SQL Report Builder
-description: Learn how to use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
-landing-page-description: Watch this video to learn how use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
-short-description: Watch this video to learn how use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+title: Commerce Intelligence - SQL Report Builder
+description: Learn how to use the Commerce Intelligence SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+landing-page-description: Watch this video to learn how use the Commerce Intelligence SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+short-description: Watch this video to learn how use the Commerce Intelligence SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -26,7 +26,7 @@ In this video:
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
@@ -39,6 +39,6 @@ In this video:
 
 ## Useful resources
 
-[Using the SQL Report Builder - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Using the SQL Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Creating Visualizations from SQL Queries - MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Creating Visualizations from SQL Queries - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
