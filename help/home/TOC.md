@@ -111,7 +111,7 @@ breadcrumb-title: Videos and Tutorials
     +   [Quality Patch Tool](../tools/quality-patch-tool.md)
     +   New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
-+   MBI {#mbi}
++   Commerce Intelligence {#mbi}
     +   [Filter Sets](../business-intelligence/filter-sets.md)
     +   [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
     +   [SQL Report Builder](../business-intelligence/sql-report-builder.md)
