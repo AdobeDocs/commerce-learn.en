@@ -15,17 +15,6 @@ breadcrumb-title: Videos and Tutorials
         + [4 - Deployment](../cloud/4-deployment.md)
         + [5 - Development](../cloud/5-dev-config.md)
         + [6 - Services and DNS](../cloud/6-launch.md)
-    +   [!DNL Commerce] for Developers {#development}
-        + [1.1 - Overview](../backend-development/backend-1-1-overview.md)
-        + [1.2 - Development Workflow](../backend-development/backend-1-2-workflow.md)
-        + [2 - Installation](../backend-development/backend-2-install.md)
-        + [3 - Post Install](../backend-development/backend-3-post-install.md)
-        + [4 - Code base](../backend-development/backend-4-code-base.md)
-        + [5.1 - Development Basics](../backend-development/backend-5-1-dev-basics.md)
-        + [5.2 - Declarative Schema](../backend-development/backend-5-2-declarative-schema.md)
-        + [5.3 - Routing](../backend-development/backend-5-3-routing.md)
-        + [5.4 - Create an [!DNL Admin] Page](../backend-development/backend-5-4-admin-page.md)
-        + [6 - Exercises](../backend-development/backend-6-practice.md)
     +   [!DNL Commerce] for Business Users {#merchants}
         + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
         + [1.2 - Data Grids](../site-management/introduction/1-2-data-grids.md)
