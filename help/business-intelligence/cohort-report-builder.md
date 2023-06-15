@@ -22,7 +22,7 @@ In this video:
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](1-overview.md) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to MBI, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Who is this video for?
 
