@@ -7,6 +7,7 @@ role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13
+exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
 ---
 # B2B sales quote validation using the admin panel
 

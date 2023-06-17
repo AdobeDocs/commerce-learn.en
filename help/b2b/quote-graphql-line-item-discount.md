@@ -7,6 +7,7 @@ role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13
+exl-id: 91996345-072b-4f24-af1e-d418bf9877b9
 ---
 # B2B Sales quote line item discount using GraphQL
 

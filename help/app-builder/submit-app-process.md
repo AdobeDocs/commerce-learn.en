@@ -6,7 +6,7 @@ kt: 13436
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-06-08
-
+exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
 ---
 # Learn how to submit an app to the Adobe Commerce Marketplace
 

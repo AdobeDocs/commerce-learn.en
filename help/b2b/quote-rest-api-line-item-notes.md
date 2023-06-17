@@ -7,6 +7,7 @@ role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13
+exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
 ---
 # B2B Sales quote line item notes using REST API
 

@@ -7,6 +7,7 @@ role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-06-13
+exl-id: ea3b8e74-a769-45db-ac71-91a063cde21f
 ---
 # Sales Representative initiates the quote
 
