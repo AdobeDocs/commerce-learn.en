@@ -57,7 +57,6 @@ breadcrumb-title: Videos and Tutorials
     + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
     + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
     + [Change a Store URL](../site-management/change-store-url.md)
-    + [Store Site Map Setup](../site-management/site-map-setup.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
     + [Use Payment Services](../site-management/payment-services.md)
 +   Customer Management {#customers}
