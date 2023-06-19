@@ -1,6 +1,6 @@
 ---
 title: Create a module
-description: Create a page that returns json with one parameter.
+description: Create a module that logs to the PSR logger
 topic: Development
 kt: 5614
 doc-type: video
