@@ -6,8 +6,8 @@ audience: all
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
-feature: Configuration, System, Quotes
-topic: Commerce, Administration, B2B, Companies
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
