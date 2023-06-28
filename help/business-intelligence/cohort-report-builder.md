@@ -8,6 +8,11 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+last-substantial-update: 2023-2-10
+feature: Commerce Intelligence
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
 ---
 # Commerce Intelligence - Cohort Report Builder

@@ -7,6 +7,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
 ---
 # Mutations

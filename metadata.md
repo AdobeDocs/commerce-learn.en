@@ -6,6 +6,7 @@ git-repo: https://github.com/AdobeDocs/commerce-learn.en
 index: y
 type: Tutorial
 solution: Commerce
+feature-set: Commerce
 ---
 
 # Metadata for internal use

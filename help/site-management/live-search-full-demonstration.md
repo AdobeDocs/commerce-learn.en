@@ -5,6 +5,10 @@ kt: 13168
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 92f57e62-5a60-484f-9b79-27c824708619
 ---
 # Adobe Commerce Live Search full demonstration

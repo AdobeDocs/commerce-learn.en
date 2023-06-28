@@ -5,6 +5,11 @@ topic: Development
 kt: 5649
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
 ---
 # PWA Studio for developers - Peregrine

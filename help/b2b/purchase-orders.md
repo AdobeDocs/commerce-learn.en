@@ -6,6 +6,11 @@ audience: all
 role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 ---
 # Purchase Orders and Approvals

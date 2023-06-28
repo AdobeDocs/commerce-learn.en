@@ -4,8 +4,12 @@ description: Learn about the recommended permissions for customer service, creat
 topic: Commerce
 kt: 5779
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Customers
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 ---
 # [!DNL Commerce] for business users - Customer management

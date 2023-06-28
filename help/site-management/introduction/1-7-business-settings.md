@@ -4,8 +4,12 @@ description: Learn about locale settings, store information, secure and unsecure
 topic: Commerce
 kt: 5764
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
 ---
 # [!DNL Commerce] for business users - Store settings

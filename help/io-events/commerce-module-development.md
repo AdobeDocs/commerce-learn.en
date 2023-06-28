@@ -7,6 +7,10 @@ kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21
+feature: App Builder, Eventing, Backend Development
+topic: Commerce, Architecture
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 ---
 # Adobe Commerce module development

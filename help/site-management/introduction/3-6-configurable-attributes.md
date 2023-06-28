@@ -4,8 +4,12 @@ description: Learn how to set up configurable product attributes.
 topic: Commerce
 kt: 5772
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Catalogs
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
 ---
 # [!DNL Commerce] for business users - Configurable attributes

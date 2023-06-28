@@ -6,8 +6,12 @@ short-description: Watch this video series to get started with the basics of Ado
 topic: Commerce
 kt: 5758
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-5-28
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 ---
 # [!DNL Commerce] for business users - [!DNL Admin] menus

@@ -4,8 +4,12 @@ description: Learn the basics of the [!DNL Commerce] architecture, including the
 topic: Commerce
 kt: 5760
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
 ---
 # [!DNL Commerce] for business users - Sites, stores, and views

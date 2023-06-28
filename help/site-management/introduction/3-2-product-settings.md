@@ -4,8 +4,12 @@ description: Learn how to create products, configure settings, and use attribute
 topic: Commerce
 kt: 5768
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Catalogs, Price Rules
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
 ---
 # [!DNL Commerce] for business users - Product settings

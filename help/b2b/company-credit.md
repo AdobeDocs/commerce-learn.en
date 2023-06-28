@@ -3,9 +3,13 @@ title: Manage Company Credit
 description: Learn how to B2B company account users can make purchases on their account up to the credit limit that is granted.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 ---
 # Manage Company Credit

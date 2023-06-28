@@ -7,6 +7,11 @@ doc-type: feature video
 solution: Commerce
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Shipping/Delivery
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 ---
 # Store Fulfillment Overview

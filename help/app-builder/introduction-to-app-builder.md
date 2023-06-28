@@ -6,7 +6,11 @@ short-description: Learn what is App Builder and how it can help with Adobe Comm
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-02-16
+last-substantial-update: 2023-2-16
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 ---
 # Introduction to App Builder

@@ -3,8 +3,12 @@ title: Manage Order Status
 description: Learn how to check order status and its details, and how to change an order's status.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
 ---
 # Manage Order Status

@@ -3,8 +3,12 @@ title: Use Payment Services
 description: Learn how to add Payment Services to your store and reduce operational overhead, increase revenue, and improve the entire shopper experience.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Shopping Cart
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
 ---
 # Use Payment Services

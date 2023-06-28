@@ -7,6 +7,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
 ---
 # GraphQL queries

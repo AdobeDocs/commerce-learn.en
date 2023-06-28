@@ -3,10 +3,12 @@ title: "Introduction to [!DNL Live Search]"
 description: "Learn how to add [!DNL Live Search] to your store and produce highly engaging, relevant, and personalized shopping experiences."
 doc-type: feature video
 audience: all
-role: Admin, User
-activity: use
-last-substantial-update: 2023-04-27
 badge: label="Only in Adobe Commerce" type="Positive"
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 ---
 # Introduction to [!DNL Live Search]

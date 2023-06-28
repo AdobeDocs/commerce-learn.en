@@ -4,8 +4,12 @@ description: Learn about creating a product in a category, visual merchandizing,
 kt: 10550
 doc-type: feature videos
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Search, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 ---
 # Manage Products in a Category

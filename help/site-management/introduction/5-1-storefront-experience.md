@@ -4,8 +4,12 @@ description: Learn about the customer experience on the storefront, including ac
 topic: Commerce
 kt: 5778
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Customers, Native Luma Frontend Development, Page Content, Site Navigation
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
 ---
 # [!DNL Commerce] for business users - Storefront

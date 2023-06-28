@@ -4,8 +4,12 @@ description: Learn how to define role scopes (exclusive to Adobe Commerce) and t
 topic: Commerce
 kt: 5763
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Security, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
 ---
 # [!DNL Commerce] for business users - Role scopes and permissions

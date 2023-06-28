@@ -4,8 +4,12 @@ description: Learn how to add new websites, stores, and views according to the n
 kt: 5609
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Customers
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 ---
 # Add websites, stores, and store views

@@ -4,8 +4,12 @@ description: Communicate with your customers using transactional emails triggere
 topic: Commerce
 kt: 5780
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Customers, Personalization
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
 ---
 # [!DNL Commerce] for business users - Email communications

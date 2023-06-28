@@ -4,8 +4,12 @@ description: Learn how to configure currency and the tax rules that [!DNL Commer
 kt: 10542
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Shopping Cart, Taxes
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 ---
 # Manage Currency and Tax Rules

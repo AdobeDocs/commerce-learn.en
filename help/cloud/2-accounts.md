@@ -5,6 +5,10 @@ kt: 5657
 doc-type: video
 audience: all
 activity: use
+feature: Cloud
+topic: Commerce, Architecture
+role: Admin, Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 89e117ae-b504-42ac-b3cb-8fbbe398b027
 ---
 # Adobe Commerce on cloud infrastructure - Hosting and accounts

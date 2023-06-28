@@ -8,6 +8,11 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+last-substantial-update: 2023-2-10
+feature: Commerce Intelligence
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 ---
 # MBI - SQL Report Builder

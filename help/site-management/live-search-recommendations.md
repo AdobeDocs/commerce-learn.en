@@ -5,6 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
 ---
 # [!DNL Live Search] for recommendations

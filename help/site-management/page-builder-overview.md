@@ -3,9 +3,13 @@ title: '[!DNL Page Builder] overview'
 description: Learn how to build pages [!DNL Commerce] store pages in the Admin using [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
-role: Admin, Leader, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
 ---
 # [!DNL Page Builder] overview

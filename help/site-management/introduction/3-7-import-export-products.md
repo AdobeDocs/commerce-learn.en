@@ -4,8 +4,12 @@ description: Learn how to import and export your catalog products.
 topic: Commerce
 kt: 5773
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Catalogs
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 ---
 # [!DNL Commerce] for business users - Import and export products

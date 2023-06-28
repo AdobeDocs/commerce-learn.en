@@ -4,8 +4,12 @@ description: Learn about using the URL Rewrite tool to change any URL that is as
 kt: 10554
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Search, Site Navigation
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 ---
 # Manage URL Rewrites for SEO

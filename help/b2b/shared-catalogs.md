@@ -6,6 +6,11 @@ audience: all
 role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
+last-substantial-update: 2023-5-10
+feature: Configuration, System
+topic: Commerce, Administration, B2B
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 ---
 # Manage Shared Catalogs

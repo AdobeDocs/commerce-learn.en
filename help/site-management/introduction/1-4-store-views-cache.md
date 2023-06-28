@@ -4,8 +4,12 @@ description: Learn how to create store views and clear the cache.
 topic: Commerce
 kt: 5761
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 ---
 # [!DNL Commerce] for business users - Store views and cache clearing

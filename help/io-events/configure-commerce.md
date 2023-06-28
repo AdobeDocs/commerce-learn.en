@@ -7,6 +7,10 @@ kt: 11889
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21
+feature: App Builder, Configuration, Backend Development
+topic: Commerce, Architecture
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 ---
 # Configure Adobe Commerce

@@ -4,8 +4,12 @@ description: Learn the basics about [!DNL Admin] user accounts and user roles th
 topic: Commerce
 kt: 5762
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Security, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
 ---
 # [!DNL Commerce] for business users - Users and roles

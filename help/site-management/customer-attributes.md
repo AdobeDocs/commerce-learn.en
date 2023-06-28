@@ -4,8 +4,12 @@ description: Learn how to add custom attributes to the Account Information, Addr
 kt: 10547
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 ---
 # Create Customer Attributes
