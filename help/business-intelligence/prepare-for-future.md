@@ -8,6 +8,11 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+last-substantial-update: 2023-2-10
+feature: Commerce Intelligence
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
 ---
 # Commerce Intelligence - Prepping for the Future

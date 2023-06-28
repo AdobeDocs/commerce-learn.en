@@ -4,8 +4,12 @@ description: Adobe Commerce and Magento Open Source support two-factor authentic
 kt: 9443
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Security
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 ---
 # Two-factor authentication

@@ -5,9 +5,13 @@ landing-page-description: Watch this technical video to learn how the Upgrade Co
 short-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
 kt: 9983
 doc-type: technical video
-role: Admin, Leader, Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Upgrade, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 ---
 # Upgrade Compatibility Tool Overview

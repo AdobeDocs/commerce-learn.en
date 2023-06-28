@@ -3,8 +3,12 @@ title: Manage Related Product Rules
 description: Learn how to present a targeted selection of products to store customers as related products, up-sells, and cross-sells.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
 ---
 # Manage Related Product Rules

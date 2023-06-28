@@ -3,8 +3,12 @@ title: '[!DNL Live Search] for recommendations'
 description: Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
 ---
 # [!DNL Live Search] for recommendations

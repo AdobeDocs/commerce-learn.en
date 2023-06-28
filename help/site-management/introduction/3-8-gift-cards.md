@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] for business users - Gift cards"
 description: Learn how to include gift cards in your [!DNL Commerce] store.
-topic: Commerce
 kt: 5774
 doc-type: video
-role: Admin, Leader, User
 activity: use
 badge1: "Adobe Commerce 2.3.1"
 badge2: label="Only on Adobe Commerce" type="Positive"
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Catalogs, Shopping Cart
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 ---
 # [!DNL Commerce] for business users - Gift cards

@@ -3,8 +3,12 @@ title: Dependency injection example
 description: View an example of dependency injection.
 kt: 5621
 doc-type: video
-topic: Development
 activity: use
+last-substantial-update: 2023-2-10
+feature: Configuration, System, Backend Development
+topic: Commerce, Development
+role: Admin, Developer
+level: Beginner, Intermediate
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 ---
 # Dependency injection example

@@ -5,7 +5,11 @@ landing-page-description: Learn how to test your first Adobe Developer App Build
 kt: 12427
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-13
+last-substantial-update: 2023-3-13
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
 ---
 # Testing Locally {#testing-locally}

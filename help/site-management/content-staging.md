@@ -2,10 +2,14 @@
 title: Content Staging
 description: Learn how to create, preview, and schedule a wide range of content updates for your store directly from the Admin.
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
 badge: label="Only in Adobe Commerce" type="Positive"
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Staging
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 ---
 # Content Staging

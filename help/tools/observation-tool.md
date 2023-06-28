@@ -2,9 +2,13 @@
 title: Use Observation for Adobe Commerce
 description: Watch this technical video and learn how to use the Observation Tool for Adobe Commerce.
 doc-type: technical video
-role: Developer, Admin
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 ---
 # Use Observation for Adobe Commerce

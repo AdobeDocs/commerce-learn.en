@@ -5,6 +5,11 @@ kt: 5610
 doc-type: feature video
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Security, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
 ---
 # Users, roles, and permissions

@@ -5,7 +5,11 @@ landing-page-description: Learn about Adobe Developer App Builder used with Adob
 kt: 12423
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-13
+last-substantial-update: 2023-3-13
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
 ---
 # Generate and configure the .env file {#env-file}

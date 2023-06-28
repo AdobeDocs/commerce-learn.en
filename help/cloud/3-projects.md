@@ -5,6 +5,10 @@ kt: 5658
 doc-type: video
 audience: all
 activity: use
+feature: Cloud
+topic: Commerce, Architecture
+role: Admin, Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: cbda1031-906a-4e25-81be-f3f15347d82c
 ---
 # Adobe Commerce on cloud infrastructure - Projects and files

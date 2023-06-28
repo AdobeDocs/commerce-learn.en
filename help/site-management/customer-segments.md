@@ -4,8 +4,12 @@ description: Learn how to dynamically display content and promotions to specific
 kt: 10545
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Price Rules
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 ---
 # Create Customer Segments

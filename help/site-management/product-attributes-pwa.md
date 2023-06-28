@@ -2,9 +2,13 @@
 title: Use Product Attributes with PWA Studio
 description: Learn how to manage product attributes with PWA Studio.
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 ---
 # Use Product Attributes with PWA Studio

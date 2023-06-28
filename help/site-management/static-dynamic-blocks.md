@@ -3,9 +3,13 @@ title: Create Static and Dynamic Blocks
 description: Learn how to create static and dynamic blocks for your store pages.
 kt: null
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
 ---
 # Create Static and Dynamic Blocks

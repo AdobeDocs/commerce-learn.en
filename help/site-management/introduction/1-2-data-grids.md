@@ -1,11 +1,14 @@
 ---
 title: "[!DNL Commerce] for business users - Data grids"
 description: Learn how to work with data grids in the [!DNL Commerce Admin].
-topic: Commerce
 kt: 5759
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Search
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
 ---
 # [!DNL Commerce] for business users - Data grids

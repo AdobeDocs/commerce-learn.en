@@ -4,8 +4,12 @@ description: Learn how to define the basic category structure for your product c
 kt: 10549
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 ---
 # Create a Category

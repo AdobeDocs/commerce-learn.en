@@ -3,10 +3,13 @@ title: Using Adobe Commerce REST API for line item notes
 description: Learn about line item notes on a B2B quote in Adobe Commerce using REST API
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
-last-substantial-update: 2023-06-13
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
 ---
 # B2B Sales quote line item notes using REST API

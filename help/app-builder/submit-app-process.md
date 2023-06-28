@@ -5,7 +5,11 @@ landing-page-description: Learn about Adobe Developer App Builder and how to sub
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-6-19
+last-substantial-update: 2023-2-16
+feature: API Mesh, App Builder, Extensibility, Tools and External Services
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
 ---
 # Learn how to submit an app to the Adobe Commerce Marketplace

@@ -3,9 +3,13 @@ title: Set Up Product Recommendations
 description: Learn how to use product recommendations on your Adobe Commerce store.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="Only in Adobe Commerce" type="Positive"
+last-substantial-update: 2023-04-27
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
 ---
 # Set Up Product Recommendations

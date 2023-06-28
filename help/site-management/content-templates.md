@@ -2,9 +2,13 @@
 title: Create Content Templates
 description: Learn how templates can save time and effort when creating content or replacing older content.
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Personalization, Native Luma Frontend Development
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 ---
 # Create Content Templates

@@ -3,9 +3,13 @@ title: Change a store URL
 description: Learn how to change your [!DNL Commerce] store base URL in the Admin.
 kt: 5605
 doc-type: feature video
-role: Admin, Leader
 audience: all
 activity: use
+last-substantial-update: 2023-04-27
+feature: Configuration, System, Native Luma Frontend Development
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
 ---
 # Change a store URL

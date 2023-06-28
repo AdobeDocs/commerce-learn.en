@@ -1,11 +1,14 @@
 ---
 title: "[!DNL Commerce] for business users - Layered navigation"
 description: Enable layered navigation in your [!DNL Commerce] store so that customers can find products easily and quickly.
-topic: Commerce
 kt: 5775
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28
+feature: Configuration, System, Native Luma Frontend Development, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 ---
 # [!DNL Commerce] for business users - Layered navigation

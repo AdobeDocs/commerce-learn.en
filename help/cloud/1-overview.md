@@ -4,6 +4,10 @@ description: Identify the key technologies within the cloud stack​. Describe t
 landing-page-description: Watch this video series to get started on the cloud infrastructure used for deploying and managing Adobe Commerce.
 short-description: Watch this video series to get started on the cloud infrastructure used for deploying and managing Adobe Commerce.
 kt: 5656
+feature: Cloud
+topic: Commerce, Architecture
+role: Admin, Architect, Developer, User
+level: Beginner, Intermediate
 doc-type: video
 audience: all
 activity: use
