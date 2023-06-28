@@ -1,7 +1,6 @@
 ---
 title: Add a table to a database
 description: "[!DNL Commerce] has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them."
-topic: Development
 kt: 5613
 doc-type: video
 activity: use
