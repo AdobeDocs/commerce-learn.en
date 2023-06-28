@@ -2,7 +2,7 @@
 title: '[!DNL Commerce] Videos and Tutorials'
 description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
 last-substantial-update: 2023-01-19
-feature:B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
+feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
 role: Architect, Developer, User
 level: Beginner, Intermediate

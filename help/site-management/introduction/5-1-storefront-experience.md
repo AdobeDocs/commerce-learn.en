@@ -1,7 +1,6 @@
 ---
 title: "[!DNL Commerce] for business users - Storefront"
 description: Learn about the customer experience on the storefront, including account creation, wish lists, and adding wish list items to the cart
-topic: Commerce
 kt: 5778
 doc-type: video
 activity: use

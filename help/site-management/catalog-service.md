@@ -3,7 +3,6 @@ title: Catalog Service for Adobe Commerce
 description: Learn how to install and test the catalog service.
 doc-type: feature video
 audience: all
-role: Developer, Admin
 last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration

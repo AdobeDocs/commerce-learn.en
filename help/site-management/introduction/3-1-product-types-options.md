@@ -1,7 +1,6 @@
 ---
 title: "[!DNL Commerce] for business users - Product types"
 description: Learn about the [!DNL Commerce] product types and the options for each.
-topic: Commerce
 kt: 5767
 doc-type: video
 activity: use

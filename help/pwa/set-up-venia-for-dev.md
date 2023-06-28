@@ -1,13 +1,12 @@
 ---
 title: Set up Venia for PWA development
 description: Learn how to set up the Venia storefront for your PWA development project.
-topic: Development
 kt: 5564
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
-topic: Commerce, Headless
+topic: Commerce, Headless, Development
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb

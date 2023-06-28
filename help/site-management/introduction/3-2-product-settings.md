@@ -1,7 +1,6 @@
 ---
 title: "[!DNL Commerce] for business users - Product settings"
 description: Learn how to create products, configure settings, and use attributes.
-topic: Commerce
 kt: 5768
 doc-type: video
 activity: use

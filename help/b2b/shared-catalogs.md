@@ -3,7 +3,6 @@ title: Manage Shared Catalogs
 description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-5-10

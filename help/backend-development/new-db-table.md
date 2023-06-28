@@ -7,7 +7,7 @@ doc-type: video
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
-topic: Commerce, Administration
+topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b

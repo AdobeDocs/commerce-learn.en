@@ -1,13 +1,12 @@
 ---
 title: PWA Docker Development
 description: Learn about PWA development on Docker.
-topic: Development
 kt: 5564
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
-topic: Commerce, Headless
+topic: Commerce, Headless, Development
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: df79e9d8-5047-4063-b37d-184fcf0c0ac4

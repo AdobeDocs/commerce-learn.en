@@ -1,13 +1,12 @@
 ---
 title: Create a product attribute
 description: Create a page that returns json with one parameter.
-topic: Development
 kt: 5602
 doc-type: video
 activity: use
 last-substantial-update: 2023-2-10 
 feature: Configuration, System, Backend Development
-topic: Commerce, Administration
+topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195

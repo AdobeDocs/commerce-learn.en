@@ -1,7 +1,6 @@
 ---
 title: "[!DNL Commerce] for business users - Landing pages"
 description: Learn how to set up category landing page and control the appearance.
-topic: Commerce
 kt: 5766
 doc-type: video
 activity: use

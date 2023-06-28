@@ -1,13 +1,12 @@
 ---
 title: PWA Studio for developers - Peregrine
 description: Learn about Peregrine, including the Peregrine library. Understand the motivation behind Peregrine​ the differences between Peregrine hooks and talons.
-topic: Development
 kt: 5649
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
-topic: Commerce, Headless
+topic: Commerce, Headless, Development
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750

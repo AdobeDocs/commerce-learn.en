@@ -3,7 +3,6 @@ title: Purchase Orders and Approvals
 description: Learn how to enable purchase orders and approval rules for your B2B company accounts.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16

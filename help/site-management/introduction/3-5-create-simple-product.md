@@ -1,7 +1,6 @@
 ---
 title: "[!DNL Commerce] for business users - Simple products"
 description: Learn how to create a simple product using product attribute sets.
-topic: Commerce
 kt: 5771
 doc-type: video
 activity: use
