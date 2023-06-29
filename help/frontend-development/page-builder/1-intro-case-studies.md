@@ -3,10 +3,13 @@ title: Page Builder for developers - Introduction
 description: Page Builder introduction, understand Page Builder capabilities
 landing-page-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
 short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
-topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 ---
 # Page Builder for developers - Introduction
