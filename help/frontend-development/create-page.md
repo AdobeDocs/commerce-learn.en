@@ -1,10 +1,13 @@
 ---
 title: Create a New Page
 description: Create a page that returns json with one parameter.
-topic: Development
 kt: 5602
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 ---
 # Create a New Page
