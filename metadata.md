@@ -7,6 +7,7 @@ index: y
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
+product: Magento
 ---
 
 # Metadata for internal use
