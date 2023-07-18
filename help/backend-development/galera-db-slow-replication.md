@@ -21,6 +21,7 @@ As a solution, if possible, batch your large operations to help the secondary da
 
 - Architects
 - Developers
+- DevOps
 
 ## Video content
 
