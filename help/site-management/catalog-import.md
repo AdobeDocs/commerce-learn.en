@@ -28,11 +28,11 @@ Cons:
 Slow
 limited to upload size on server
 requires admin access and someone to perform the action, automation is limited 
-Schedule imports are lmited to 1x a day max
+Schedule imports are limited to 1x a day max
 
 ## Bulk REST API
 
-This allows for automation to kick in and more frequent updates.  This is faster than using the admin upload of CSV
+The bulk REST API allows for automation to kick in and more frequent updates. This API is faster than using the admin upload of CSV
 
 Pros:
 
@@ -40,7 +40,7 @@ Cons:
 
 ## CSV REST API
 
-This allows for extremely fast imports as compared to all other native options. 
+This API option allows for extremely fast imports as compared to all other native options. 
 
 Pros:
 
