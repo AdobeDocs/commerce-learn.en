@@ -126,6 +126,7 @@ solution: Commerce
     + [Create a module](../backend-development/create-module.md)
     + [Add a product attribute](../backend-development/add-product-attribute.md)
     + [Dependency injection example](../backend-development/dependency-injection.md)
+    + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
 +   Native Frontend Luma Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
