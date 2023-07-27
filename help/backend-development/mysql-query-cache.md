@@ -1,18 +1,19 @@
 ---
-title: Learn about mysql query cache and some recommended settings
-description: learn about mysql query cache.  Get an understanding for how the query and result is saved, and how the cache is invalidated.
+title: Learn how mysql query caching
+description: There are times when mysql queries get backed up waiting for a lock.  This tutorial explains what is query caching and some recommendations for settings if you have issues.
 kt: 13690
 doc-type: video
 activity: use
-last-substantial-update: 2023-7-18
-feature: Backend Development, Logs, Services
+last-substantial-update: 2023-7-27
+feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 
 ---
-# Learn MySQL query cache
+# Learn about mysql query caching
 
+Learn what MySQL query cache is and some basic understanding for how it works. Learn how to detect an issue with mysql query caching, by finding "waiting for query cache lock" appearing in a high volume in the mysql slow query logs.
 
 
 ## Who is this video for?
@@ -23,14 +24,15 @@ level: Intermediate
 
 ## Video content
 
-- Galera replication to secondary database
-- Learn about flow control
-- Finding thread numbers in mysql slow query logs
-- Bulk executions only happen on the primary. Replications happen 1 at a time
-- Batch your large commits to help the replication keep up with the primary
+- Learn about query caching
+- How to detect if your query cache settings may be an issue by finding "waiting for query cache lock"
+- See how the SQL is saved and used in finding a matching query cache
+- Some tips on configuration settings
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015learn=on)
 
 ## Useful resources
 
-- [Galera Cluster](https://galeracluster.com/)
+- [General MySQL guidelines](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
+- [Galera replication and slow queries](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
