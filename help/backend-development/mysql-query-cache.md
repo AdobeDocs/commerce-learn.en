@@ -1,6 +1,6 @@
 ---
 title: Learn how mysql query caching
-description: There are times when mysql queries get backed up waiting for a lock.  This tutorial explains what is query caching and some recommendations for settings if you have issues.
+description: Sometimes mysql queries get backed up waiting for a lock. This tutorial explains what is query caching and some recommendations for settings if you have issues.
 kt: 13690
 doc-type: video
 activity: use
@@ -29,7 +29,7 @@ Learn what MySQL query cache is and some basic understanding for how it works. L
 - See how the SQL is saved and used in finding a matching query cache
 - Some tips on configuration settings
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Useful resources
 
