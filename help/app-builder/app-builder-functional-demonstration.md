@@ -17,12 +17,8 @@ exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
 
 To learn more about how to use Adobe Commerce with App Builder, view the video below that shows how to connect Adobe Commerce to Amazon Seller Central. This demonstration uses events from Adobe Commerce that are consumed by App Builder to enable continuous integration with Amazon Marketplace. This functional demonstration describes how this integration works and explores the potential of Adobe App Builder.
 
->[!IMPORTANT]
->
->The Amazon Sales Channel extension is still under development and has not been officially released.  These videos and tutorials are meant to show you how to use Adobe Developer App Builder for a practical use case.
-
 ## App Builder for Adobe Commerce {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
