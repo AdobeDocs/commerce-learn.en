@@ -15,7 +15,6 @@ level: Intermediate
 
 Learn what MySQL query cache is and some basic understanding for how it works. Learn how to detect an issue with mysql query caching, by finding "waiting for query cache lock" appearing in a high volume in the mysql slow query logs.
 
-
 ## Who is this video for?
 
 - Architects
