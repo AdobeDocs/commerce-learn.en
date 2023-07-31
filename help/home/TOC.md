@@ -127,6 +127,7 @@ solution: Commerce
     + [Add a product attribute](../backend-development/add-product-attribute.md)
     + [Dependency injection example](../backend-development/dependency-injection.md)
     + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
+    + [MySQL query cache](../backend-development/mysql-query-cache.md)
 +   Native Frontend Luma Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -137,7 +138,6 @@ solution: Commerce
         + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
-
 +   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
         + [Headless Architecture - Session 1](../headless/session-1.md) 
