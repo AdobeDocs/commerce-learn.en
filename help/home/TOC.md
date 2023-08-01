@@ -139,7 +139,6 @@ solution: Commerce
         + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
-    +   [Augmented Reality](../frontend-development/augmented-reality.md)
 +   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
         + [Headless Architecture - Session 1](../headless/session-1.md) 
