@@ -139,10 +139,7 @@ solution: Commerce
         + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
-<<<<<<< HEAD
     +   [Augmented Reality](../frontend-development/augmented-reality.md)
-=======
->>>>>>> fc40a2a9971a38acf0ef6d5bc585bf676d74956b
 +   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
         + [Headless Architecture - Session 1](../headless/session-1.md) 
@@ -155,4 +152,3 @@ solution: Commerce
         + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
     +   [PWA Docker Development](../pwa/pwa-docker-development.md)
     +   [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-
