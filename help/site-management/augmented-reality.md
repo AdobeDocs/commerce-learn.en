@@ -43,7 +43,7 @@ Using the native Luma frontend, the video below shows how it would be displayed 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422371&learn=on)
 
-## Watch the Augmented Reality item on a mobile device
+## Watch the AR item on a mobile device
 
 Once the visitor scans the QR code with their device, the item is superimposed on the camera view so they can see it item. 
 
