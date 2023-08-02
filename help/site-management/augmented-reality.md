@@ -35,19 +35,19 @@ AR Viewer serves to [!DNL bridge] the gap between physical and digital retail, e
 Adding a new 3D model to the product is a simple process after the module is installed on the Adobe Commerce installation.
 In the following video, there is a new section that supports the upload of the `.USDZ` file upload.  
 
->[!VIDEO](https://video.tv.adobe.com/v/3422370&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
 ## View the QR code from the Luma storefront
 
 Using the native Luma frontend, the video below shows how it would be displayed to a customer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422371&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422371?learn=on)
 
 ## Watch the AR item on a mobile device
 
 Once the visitor scans the QR code with their device, the item is superimposed on the camera view so they can see it item. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422372learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422372?learn=on)
 
 ## Useful resources
 
