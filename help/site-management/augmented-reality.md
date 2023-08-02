@@ -13,7 +13,7 @@ badge: AR Viewer available in the Commerce Marketplace
 
 # Augmented Reality Viewer for Adobe Commerce
 
-As the digital shopping landscape continues to evolve, incorporating augmented reality (AR) into the buying process is becoming increasingly important. AR allows customers to interact with products in a way that is similar to an in-person shopping experience, in turn enhancing customer satisfaction and conversion rates.
+As the digital shopping landscape continues to evolve, incorporating Augmented Reality (AR) into the buying process is becoming increasingly important. AR allows users to interact with products in a way that is similar to an in-person shopping experience, in turn enhancing customer satisfaction and conversion rates.
 AR Viewer is an extension for Adobe Commerce that brings a new feature to online store owners – the ability to upload 3D models of their products. Moreover, upon uploading a 3D model, The Adobe Commerce AR view extension automatically generates a QR code. On the front-end, the product page displays this QR code, which customers can easily scan using their mobile devices to view the product in AR. This module allows customers to explore the product in a more immersive and engaging manner, enhancing their understanding of the product and aiding in more informed purchase decisions.
 
 AR Viewer serves to [!DNL bridge] the gap between physical and digital retail, enabling sellers to provide a rich, interactive customer experience without requiring extensive technical knowledge or intensive manual work. Its user-friendly interface is seamlessly integrated into the Adobe Commerce admin, making it a convenient addition to any online store.
