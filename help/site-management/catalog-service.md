@@ -39,4 +39,4 @@ Part 2:
 ## Additional resources
 
 - [Catalog Service for Adobe Commerce Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services community Slack channel](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+
