@@ -66,7 +66,6 @@ solution: Commerce
     + [Create Customer Attributes](../site-management/customer-attributes.md)
     + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
 +   Catalog Management {#catalog}
-    + [Catalog Service for Adobe Commerce](../site-management/catalog-service.md)
     + [Create a Category](../site-management/category-create.md)
     + [Manage Products in a Category](../site-management/category-products.md)
     + [Inventory Management](../site-management/inventory-management.md)
