@@ -31,7 +31,7 @@ AR Viewer serves to [!DNL bridge] the gap between physical and digital retail, e
 ## Adding the 3D model to a product 
 
 Adding a new 3D model to the product is a simple process after the module is installed on the Adobe Commerce installation.
-In the following video, there is anew section that supports the upload of the `.USDZ` file upload.  
+In the following video, there is a new section that supports the upload of the `.USDZ` file upload.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370&learn=on)
 
