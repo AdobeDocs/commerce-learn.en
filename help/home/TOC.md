@@ -65,7 +65,6 @@ breadcrumb-title: Videos and Tutorials
     + [Create Customer Attributes](../site-management/customer-attributes.md)
     + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
 +   Catalog Management {#catalog}
-    + [Catalog Service for Adobe Commerce](../site-management/catalog-service.md)
     + [Create a Category](../site-management/category-create.md)
     + [Manage Products in a Category](../site-management/category-products.md)
     + [Inventory Management](../site-management/inventory-management.md)
@@ -125,6 +124,8 @@ breadcrumb-title: Videos and Tutorials
     + [Create a module](../backend-development/create-module.md)
     + [Add a product attribute](../backend-development/add-product-attribute.md)
     + [Dependency injection example](../backend-development/dependency-injection.md)
+    + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
+    + [MySQL query cache](../backend-development/mysql-query-cache.md)
 +   Native Frontend Luma Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -135,7 +136,6 @@ breadcrumb-title: Videos and Tutorials
         + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
     +   [Add a JavaScript module](../frontend-development/add-javascript-module.md)
     +   [Create a page](../frontend-development/create-page.md)
-
 +   Headless Architecture {#headless-architecture}    
     +   Introduction to headless {#introduction-to-headless}
         + [Headless Architecture - Session 1](../headless/session-1.md) 
