@@ -52,7 +52,6 @@ Once the visitor scans the QR code with their device, the item is superimposed o
 ## Useful resources
 
 [AR Viewer for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[AR Viewer requirements](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-requirements.html){target="_blank"}
 [Manage product 3D models with the AR Viewer for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace extension
