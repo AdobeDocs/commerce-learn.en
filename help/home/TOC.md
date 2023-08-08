@@ -73,6 +73,7 @@ solution: Commerce
     + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
     + [Manage SEO Metadata](../site-management/seo-metadata.md)
     + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
+    + [AR Viewer](../site-management/augmented-reality.md)
 +   Content Management {#content}
     + [Page Builder Overview](../site-management/page-builder-overview.md)
     + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
