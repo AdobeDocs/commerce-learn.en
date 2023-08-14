@@ -133,7 +133,6 @@ Pros:
 
 Cons:
 
-- Data is already in the CSV format
 - The images and videos associated must be uploaded separately
 - You are required to use the option attribute IDs not the labels
 
@@ -141,6 +140,7 @@ Cons:
 
 ### When to consider this approach
 
+- Data is already in the CSV format or it can be done with low effort
 - Catalog is any size
 - Updates are frequent, more than 1x a day is acceptable
 - Overall time to import is important
