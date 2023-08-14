@@ -23,7 +23,7 @@ Choose from one of the options below to learn more.
 
 ## Creating the products manually {#manual-import}
 
-If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. Do not forget you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}. 
+If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. To see additional documentation for this process, visit [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}. 
 
 
 
@@ -45,7 +45,7 @@ This tool allows a store owner to import a catalog using a CSV right from the co
 [Import Data from Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 Pros:
-Uploading a CSV from the admin is a very straight forward approach to catalog management. It allows for faster catalog product updates to a moderately sized catalog. 
+Uploading a CSV from the admin is a straight forward approach to catalog management. It allows for faster catalog product updates to a moderately sized catalog. 
 
 Cons:
 
@@ -80,7 +80,7 @@ Cons:
 
 - The images and videos associated must be uploaded separately
 - Can be limited by bandwidth constraints on the hosting provider
-- You need to know option attribute IDs not the labels
+- You are required to use option attribute IDs not the labels
 
 
 
@@ -103,12 +103,12 @@ An asynchronous web endpoint intercepts messages to a Web API and writes them to
 Pros:
 
 - Fast to import data
-- Store scope is supported or you can specify `all` to preform operation on all existing stores
+- Store scope is supported or you can specify `all` to perform operation on all existing stores
 
 Cons:
 
 - GET request are not supported
-- You need to know option attribute IDs
+- You are required to use the option attribute IDs, instead of the labels
 
 
 ### When to consider this approach
@@ -123,7 +123,7 @@ Cons:
 ## CSV REST API {#csv-rest-api}
 
 This API option allows for extremely fast imports as compared to all other native options. 
-TODO see if this is also Saves to message queue
+
 [Import data REST CSV api](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Pros:
 
@@ -133,9 +133,9 @@ Pros:
 
 Cons:
 
-- Data has to be structured in CSV format
+- Data is already in the CSV format
 - The images and videos associated must be uploaded separately
-- You need to know option attribute IDs not the labels
+- You are required to use the option attribute IDs not the labels
 
 
 
