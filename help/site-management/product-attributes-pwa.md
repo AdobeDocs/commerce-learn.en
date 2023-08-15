@@ -4,6 +4,7 @@ description: Learn how to manage product attributes with PWA Studio.
 doc-type: feature video
 audience: all
 activity: use
+kt: 13789
 last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration

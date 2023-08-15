@@ -4,6 +4,7 @@ description: Learn how the sales representative can initiate the quote from the 
 doc-type: feature video
 audience: all
 activity: use
+kt: 13797
 badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
