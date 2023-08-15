@@ -5,7 +5,7 @@ kt: 13634
 doc-type: tutorial
 audience: all
 activity: use
-last-substantial-update: 2023-7-14
+last-substantial-update: 2023-8-15
 feature: Backend Development, Catalogs, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
