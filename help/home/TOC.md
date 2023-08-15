@@ -2,7 +2,6 @@
 user-guide-title: Videos and Tutorials
 user-guide-description: Learn about Adobe Commerce and Magento Open Source through videos and tutorials. 
 breadcrumb-title: Videos and Tutorials
-solution: Commerce
 ---
 
 # Adobe Commerce Videos and Tutorials {#tutorials}
@@ -74,6 +73,7 @@ solution: Commerce
     + [Manage SEO Metadata](../site-management/seo-metadata.md)
     + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
     + [AR Viewer](../site-management/augmented-reality.md)
+    + [Catalog Import and update](../site-management/catalog-import.md)
 +   Content Management {#content}
     + [Page Builder Overview](../site-management/page-builder-overview.md)
     + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
