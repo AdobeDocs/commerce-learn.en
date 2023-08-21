@@ -6,7 +6,7 @@ short-description: Learn about Adobe Developer App Builder used in Adobe Commerc
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
@@ -15,11 +15,7 @@ exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
 ---
 # Technical overview for App Builder
 
-The following video provides a technical overview on connecting Adobe Commerce and Amazon Sales Channel. This tutorial also explores how you can use Adobe App Builder for custom functionality and integrations.
-
->[!IMPORTANT]
->
->The Amazon Sales Channel extension is still under development and has not been officially released.  These videos and tutorials are meant to show you how to use Adobe Developer App Builder for a practical use case.
+The following video provides a technical overview on a sample integration pattern connecting Adobe Commerce to Amazon Seller Central. This tutorial also explores differences between developing traditional PHP extensions and App Builder apps.
 
 
 ## App Builder for Adobe Commerce {#app-builder-technical-overview}
