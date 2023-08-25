@@ -10,6 +10,7 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
+
 ---
 # Learn options for importing a catalog
 
