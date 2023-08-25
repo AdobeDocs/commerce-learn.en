@@ -5,11 +5,12 @@ doc-type: feature video
 audience: all
 activity: use
 last-substantial-update: 2022-12-28
-feature: Configuration, System, Catalogs, Customers, Personalization, Shopping Cart, Price Rules
+feature: Configuration, System, Customers, Personalization, Shopping Cart, Price Rules
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
+
 ---
 # Create a Catalog Price Rule
 
