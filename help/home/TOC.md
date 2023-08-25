@@ -3,6 +3,7 @@ user-guide-title: Videos and Tutorials
 user-guide-description: Learn about Adobe Commerce and Magento Open Source through videos and tutorials. 
 breadcrumb-title: Videos and Tutorials
 auto-video-transcripts: true
+
 ---
 
 # Adobe Commerce Videos and Tutorials {#tutorials}
