@@ -6,7 +6,7 @@ short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adob
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-8-28
+last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
@@ -15,7 +15,7 @@ exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 ---
 # Get started with API Mesh
 
-If you are new to API Mesh for Adobe Developer App Builder, Adobe recommends starting with this introductory tutorial, before progressing to the other videos and tutorials.
+If you're new to API Mesh for Adobe Developer App Builder, Adobe recommends starting with this introductory tutorial, before progressing to the other videos and tutorials.
 
 ## What is API Mesh
 
@@ -25,7 +25,7 @@ API Mesh combines multiple sources of data to get a single response for your app
 
 ## Who is this video for?
 
-* Developers new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} and API Mesh.
+* Any developer new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} and API Mesh.
 
 ## Video content
 
