@@ -17,7 +17,7 @@ exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
 
 In this video:
 
-- Identify the key technologies within the cloud stack​
+- Identify the key technologies within the cloud stack
 - Describe the content delivery strategy for Adobe Commerce on cloud infrastructure
 - Understand the value of the read-only file system
 

@@ -129,6 +129,7 @@ auto-video-transcripts: true
     + [Dependency injection example](../backend-development/dependency-injection.md)
     + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
     + [MySQL query cache](../backend-development/mysql-query-cache.md)
+    + [PT Query Digest](../backend-development/pt-query-digest.md)
 +   Native Frontend Luma Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
