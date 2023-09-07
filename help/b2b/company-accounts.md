@@ -4,6 +4,7 @@ description: Learn how to manage your B2B company accounts, including any pendin
 doc-type: feature video
 audience: all
 activity: use
+kt: 13909
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
