@@ -4,6 +4,7 @@ description: Learn how to B2B company account users can make purchases on their 
 doc-type: feature video
 audience: all
 activity: use
+kt: 13910
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
