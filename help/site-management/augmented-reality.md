@@ -1,6 +1,6 @@
 ---
 title: AR Viewer for Adobe Commerce
-description: Adobe has released a module available on the Commerce Marketplace to support Augmented Reality viewing.
+description: Learn about the Augmented Reality Viewing module available on the Commerce Marketplace.
 kt: 13738
 doc-type: video
 activity: use
