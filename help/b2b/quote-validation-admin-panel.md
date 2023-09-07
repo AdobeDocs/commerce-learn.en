@@ -13,8 +13,9 @@ exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
 ---
 # B2B sales quote validation using the admin panel
 
-{{b2b-feature}}
 Learn the validation steps and areas that Adobe Commerce B2B Quote functionality provides to ensure the consistent and valid quote process.
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
