@@ -5,7 +5,6 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13799
-badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
