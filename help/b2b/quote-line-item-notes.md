@@ -14,8 +14,9 @@ exl-id: 4651c38f-6794-47bb-b90f-dd8736b44233
 ---
 # B2B Sales quote line item discount
 
-{{b2b-feature}}
 Learn how to use the line item notes for an Adobe Commerce B2B quote.
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
