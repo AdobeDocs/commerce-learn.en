@@ -4,6 +4,7 @@ description: Learn how to add [!DNL Live Search] for product recommendations to 
 doc-type: feature video
 audience: all
 activity: use
+kt: 13792
 last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
