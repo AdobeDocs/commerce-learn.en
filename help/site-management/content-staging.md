@@ -4,7 +4,7 @@ description: Learn how to create, preview, and schedule a wide range of content 
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Only in Adobe Commerce" type="Positive"
+kt: 13907
 last-substantial-update: 2023-04-27
 feature: Configuration, System, Staging
 topic: Commerce, Administration
@@ -14,9 +14,9 @@ exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 ---
 # Content Staging
 
-{{ee-feature}}
-
 Content Staging gives your business team the ability to easily create, preview, and schedule a wide range of content updates for your store directly from the Admin. For example, rather than thinking in terms of a static page, consider a page to be a collection of different elements that can be added or removed according to schedule. You can use Content Staging to create a page that changes automatically throughout the year on schedule.
+
+{{ee-feature}}
 
 ## Who is this video for?
 
