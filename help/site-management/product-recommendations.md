@@ -5,7 +5,6 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13790
-badge: label="Only in Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
