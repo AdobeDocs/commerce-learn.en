@@ -14,8 +14,9 @@ exl-id: 91996345-072b-4f24-af1e-d418bf9877b9
 ---
 # B2B Sales quote line item discount using GraphQL
 
-{{b2b-feature}}
 Learn how to use the line item discount and see the values using GraphQL
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
