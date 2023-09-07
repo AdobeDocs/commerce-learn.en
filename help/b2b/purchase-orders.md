@@ -4,7 +4,6 @@ description: Learn how to enable purchase orders and approval rules for your B2B
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
