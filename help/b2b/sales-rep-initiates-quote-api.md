@@ -14,8 +14,9 @@ exl-id: 6ec1952f-3c8f-4159-a3a9-d02abcd6c1d4
 ---
 # Sales Representative initiates the quote with the REST API
 
-{{b2b-feature}}
 Learn how the sales representative can initiate the quote from the Adobe Commerce REST API.
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
