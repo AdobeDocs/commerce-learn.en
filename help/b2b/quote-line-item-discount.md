@@ -14,8 +14,9 @@ exl-id: 4491e81c-7c78-4d01-a79b-190a1f2c72d9
 ---
 # B2B Sales quote line item discount
 
-{{b2b-feature}}
 Learn how to use the line item discount and see the values using the Adobe Commerce admin.
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
