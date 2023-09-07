@@ -5,7 +5,6 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13801
-badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
@@ -15,8 +14,9 @@ exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
 ---
 # B2B Sales quote line item notes using REST API
 
-{{b2b-feature}}
 Learn how to use the line item notes for an Adobe Commerce B2B quote through the REST API.
+
+{{b2b-feature}}
 
 ## Who is this video for?
 
