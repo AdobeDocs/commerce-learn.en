@@ -4,7 +4,6 @@ description: Learn how to use B2B shared catalogs to maintain gated catalogs wit
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
 last-substantial-update: 2023-5-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
