@@ -11,7 +11,7 @@ role: Architect, Developer
 level: Intermediate
 
 ---
-# Learn about Percona Toolkit pt-query-digest
+# Percona Toolkit pt-query-digest
 
 Learn why you use the pt-query-digest and some real-world examples to help deepen the reasoning.
 
