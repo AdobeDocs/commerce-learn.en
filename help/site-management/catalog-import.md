@@ -12,7 +12,7 @@ role: Admin, User
 level: Beginner, Intermediate
 
 ---
-# Learn options for importing a catalog
+# Options for importing a catalog
 
 There are a few native methods for importing a catalog into Adobe Commerce. Each method has its own reasoning for usage along with pros and cons that must be considered. 
 
