@@ -3,10 +3,10 @@ title: Perform a mutation using GraphQL
 description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
 landing-page-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
 short-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
-kt: 11524
-doc-type: tutorial
+kt: 13938
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
@@ -14,6 +14,19 @@ level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
 ---
 # Mutations
+
+This is part 3 of the series for GraphQL and Adobe Commerce. Mutations are the ability to save, update, and return values using GraphQL.
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+
+## Related videos and tutorials on GraphQL in this series
+
+* [Part 1 GraphQL - Introduction](../graphql-rest/intro-graphql.md)
+* [Part 2 GraphQL - Queries](../graphql-rest/graphql-queries.md)
+* [Part 4 GraphQL - Schema](../graphql-rest/graphql-schema.md) 
+
+## Example mutation
 
 Any complete API specification needs to offer the ability not only to query data, but also to create and update it. 
 

@@ -17,7 +17,6 @@ auto-video-transcripts: true
         + [5 - Development](../cloud/5-dev-config.md)
         + [6 - Services and DNS](../cloud/6-launch.md)
 +   GraphQL and REST {#graphql-rest}
-    + [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
     + [Mutations](../graphql-rest/graphql-mutations.md)

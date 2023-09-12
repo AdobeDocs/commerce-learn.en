@@ -4,9 +4,9 @@ description: Learn how to use GraphQL on Adobe Commerce and [!DNL Magento Open S
 landing-page-description: Learn how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Use GraphQL GET and POST calls for Adobe Commerce and [!DNL Magento Open Source].
 short-description: Learn how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Use GraphQL GET and POST calls for Adobe Commerce and [!DNL Magento Open Source].
 kt: 11524
-doc-type: tutorial
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
@@ -15,9 +15,17 @@ exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 ---
 # GraphQL introduction
 
-GraphQL has quickly become the industry standard for how powerful client-side applications talk to a backend. It's an increasingly relevant topic for Adobe Commerce developers, as the platform continues to expand its capabilities in the realm of headless implementations.
+This is part 1 of the series for GraphQL and Adobe Commerce. GraphQL has quickly become the industry standard for how powerful client-side applications talk to a backend. It's an increasingly relevant topic for Adobe Commerce developers, as the platform continues to expand its capabilities in the realm of headless implementations.
 
 If you're new to GraphQL, this section orients you to the basic concepts and usage.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+
+## Related videos and tutorials on GraphQL in this series
+
+* [Part 2 GraphQL - Queries](../graphql-rest/graphql-queries.md)
+* [Part 3 GraphQL - Mutations](../graphql-rest/graphql-mutations.md)
+* [Part 4 GraphQL - Schema](../graphql-rest/graphql-schema.md) 
 
 ## What is GraphQL?
 
