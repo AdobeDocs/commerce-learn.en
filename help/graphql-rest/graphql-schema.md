@@ -3,10 +3,10 @@ title: Schema language with GraphQL
 description: Learn about the schema involved with GraphQL. Read a description of the schema, along with some interesting patterns and ways to read the schema.
 landing-page-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
@@ -15,7 +15,17 @@ exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 ---
 # Schema language
 
-The queries and mutations used rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
+This is part 4 of the series for GraphQL and Adobe Commerce. The queries and mutations used rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## Related videos and tutorials on GraphQL in this series
+
+* [Part 1 GraphQL - Introduction](../graphql-rest/intro-graphql.md)
+* [Part 2 GraphQL - Queries](../graphql-rest/graphql-queries.md)
+* [Part 3 GraphQL - Mutations](../graphql-rest/graphql-mutations.md)
+
+## Example schema
 
 Here is an abbreviated type schema that supports the queries and mutations you've looked at so far:
 
