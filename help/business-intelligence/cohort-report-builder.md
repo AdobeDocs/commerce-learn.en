@@ -5,7 +5,7 @@ landing-page-description: Watch this video to learn how use the Commerce Intelli
 short-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
