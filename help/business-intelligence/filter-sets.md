@@ -5,7 +5,7 @@ landing-page-description: Watch this video to learn how use the Commerce Intelli
 short-description: Watch this video to learn how use the MBCommerce IntelligenceI filter sets feature to simplify business data reporting.
 kt: 10289
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
