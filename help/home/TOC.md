@@ -16,6 +16,9 @@ auto-video-transcripts: true
         + [4 - Deployment](../cloud/4-deployment.md)
         + [5 - Development](../cloud/5-dev-config.md)
         + [6 - Services and DNS](../cloud/6-launch.md)
+    +   Global Reference Architecture{#global-reference-architecture}
+        + [What is Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
+        + [How do you leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
 +   GraphQL and REST {#graphql-rest}
     + [Get started with GraphQL](../graphql-rest/getting-started-graphql.md)
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
