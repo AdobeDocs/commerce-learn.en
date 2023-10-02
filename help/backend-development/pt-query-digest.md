@@ -9,7 +9,7 @@ feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-
+exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
 ---
 # Percona Toolkit pt-query-digest
 

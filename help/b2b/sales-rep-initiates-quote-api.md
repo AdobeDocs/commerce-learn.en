@@ -10,7 +10,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 6ec1952f-3c8f-4159-a3a9-d02abcd6c1d4
+exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
 ---
 # Sales Representative initiates the quote with the REST API
 

@@ -10,7 +10,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: ea3b8e74-a769-45db-ac71-91a063cde21f
+exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
 ---
 # Sales Representative initiates the quote
 

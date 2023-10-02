@@ -9,7 +9,7 @@ feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
 role: Architect, Developer, User
 level: Beginner, Intermediate
-exl-id: 49dd1397-7b94-43d8-b8e1-96d654f68b64
+exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 ---
 # Adobe Commerce Headless Architecture
 

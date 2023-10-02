@@ -9,7 +9,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
+exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
 ---
 # B2B sales quote validation using the admin panel
 

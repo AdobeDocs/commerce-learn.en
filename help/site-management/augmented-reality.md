@@ -9,8 +9,8 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer available in the Commerce Marketplace
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
 ---
-
 # Augmented Reality Viewer for Adobe Commerce
 
 As the digital shopping landscape continues to evolve, incorporating Augmented Reality (AR) into the buying process is becoming increasingly important. AR allows users to interact with products in a way that is similar to an in-person shopping experience, in turn enhancing customer satisfaction and conversion rates.
@@ -57,4 +57,3 @@ Once the visitor scans the QR code with their device, the item is superimposed o
 ## Adobe Commerce Marketplace extension
 
 [AR viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

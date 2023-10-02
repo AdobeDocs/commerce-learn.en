@@ -9,7 +9,7 @@ feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-exl-id: 92f57e62-5a60-484f-9b79-27c824708619
+exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
 ---
 # Adobe Commerce Live Search full demonstration
 

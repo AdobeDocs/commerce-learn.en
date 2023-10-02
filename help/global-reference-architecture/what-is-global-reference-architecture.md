@@ -10,7 +10,7 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
 ---
 # Introduction to Global Reference Architecture
 

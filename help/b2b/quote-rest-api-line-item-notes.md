@@ -10,7 +10,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
+exl-id: ee8b03e6-2f8f-474f-9180-acdc120f87a4
 ---
 # B2B Sales quote line item notes using REST API
 

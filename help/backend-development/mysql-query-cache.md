@@ -9,7 +9,7 @@ feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-
+exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
 ---
 # Learn about mysql query caching
 

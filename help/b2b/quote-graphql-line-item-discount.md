@@ -10,7 +10,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 91996345-072b-4f24-af1e-d418bf9877b9
+exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
 ---
 # B2B Sales quote line item discount using GraphQL
 

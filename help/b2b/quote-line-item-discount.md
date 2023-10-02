@@ -10,7 +10,7 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 4491e81c-7c78-4d01-a79b-190a1f2c72d9
+exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
 ---
 # B2B Sales quote line item discount
 

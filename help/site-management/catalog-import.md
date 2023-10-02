@@ -10,7 +10,7 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
 ---
 # Options for importing a catalog
 

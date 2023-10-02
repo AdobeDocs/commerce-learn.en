@@ -10,7 +10,7 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
 ---
 # Learn how to submit an app to the Adobe Commerce Marketplace
 

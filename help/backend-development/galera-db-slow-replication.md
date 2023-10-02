@@ -9,7 +9,7 @@ feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-
+exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
 ---
 # Learn about Galera DB replication and related MySQL slow queries
 
