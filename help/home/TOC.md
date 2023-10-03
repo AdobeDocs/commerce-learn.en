@@ -19,6 +19,7 @@ auto-video-transcripts: true
     +   Global Reference Architecture{#global-reference-architecture}
         + [What is Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [How do you leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+        + [How do you architect Global Reference Architecture](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
 +   GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
