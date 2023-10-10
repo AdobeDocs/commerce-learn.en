@@ -1,7 +1,7 @@
 ---
 title: Create a product attribute
 description: Create a page that returns json with one parameter.
-kt: 5602
+kt: 14131
 doc-type: video
 activity: use
 last-substantial-update: 2023-2-10 
@@ -24,7 +24,7 @@ In this video:
 
 ## Who is this video for?
 
-- Developers
+- Developers new to commerce who need to learn how to create a product attribute programmatically
   
 ## Video content
 
