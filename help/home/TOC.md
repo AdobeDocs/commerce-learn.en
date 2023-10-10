@@ -125,7 +125,7 @@ auto-video-transcripts: true
     + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
     + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
     + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
-+   Backend Development {#backend-development}
++   Back-end Development {#backend-development}
     + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Add a table to a database](../backend-development/new-db-table.md)
     + [Create a module](../backend-development/create-module.md)
@@ -134,7 +134,7 @@ auto-video-transcripts: true
     + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
     + [MySQL query cache](../backend-development/mysql-query-cache.md)
     + [PT Query Digest](../backend-development/pt-query-digest.md)
-+   Native Frontend Luma Development {#frontend-development}
++   Native Front-end Luma Development {#frontend-development}
     +   Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
         + [2 - Configuration and content](../frontend-development/page-builder/2-config-create-content.md)
