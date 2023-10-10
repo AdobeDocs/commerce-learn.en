@@ -127,7 +127,6 @@ auto-video-transcripts: true
     + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 +   Back-end Development {#backend-development}
     + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
-    + [Add a table to a database](../backend-development/new-db-table.md)
     + [Create a module](../backend-development/create-module.md)
     + [Add a product attribute](../backend-development/add-product-attribute.md)
     + [Dependency injection example](../backend-development/dependency-injection.md)
