@@ -57,6 +57,11 @@ ComponentRegistrar::register(
 
 ### app/code/Learning/ClothingMaterial/etc/module.xml
 
+>[!NOTE]
+>
+>If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.
+
+
 ```xml
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
