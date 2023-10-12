@@ -34,12 +34,12 @@ In this video:
 
 First create the folders, xml and PHP files that necessary:
 
-* app/code/Learning/ClothingMaterial/registration.php
-* app/code/Learning/ClothingMaterial/etc/module.xml
-* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-* app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/registration.php
+- app/code/Learning/ClothingMaterial/etc/module.xml
+- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+- app/code/Learning/ClothingMaterial/Setup/installData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
