@@ -1,5 +1,5 @@
 source,dest
-https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/2-data-warehousing.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/2-data-warehousing.html
+https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/2-data-warehousing.html,https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/create-dw-views.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/3-build-reports.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/3-build-reports.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/4-metrics.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/4-metrics.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/5-standard-reports.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/5-standard-reports.html
@@ -91,3 +91,5 @@ https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/site-map-
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html,https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/installation.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/graphql-rest/getting-started-graphql.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/graphql-rest/intro-graphql.html
 https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html,https://developer.adobe.com/commerce/php/development/components/declarative-schema/
+https://experienceleague.adobe.com/docs/commerce-learn/content/backend-development/create-module.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html
+https://experienceleague.adobe.com/docs/commerce-learn/tutorials/pwa-studio/introduction/1-overview.html,https://experienceleague.adobe.com/docs/commerce-learn/tutorials/headless-architecture/introduction/1-overview.html
