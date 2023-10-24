@@ -16,7 +16,7 @@ exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 
 Learn how to leverage Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and how they are a valuable resource to a GRA implementation.
 
-## Who is this video for?
+## Audience
 
 * Anyone needing to understand this concept.
 * Large projects with multiple brands
