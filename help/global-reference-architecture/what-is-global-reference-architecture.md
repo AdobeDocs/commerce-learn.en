@@ -1,5 +1,5 @@
 ---
-title: What is Global Reference Architecture
+title: Introduction about Global Reference Architecture
 description: Learn about the technique used for managing complex commerce projects called Global Reference Architecture
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14039
@@ -12,11 +12,11 @@ role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
 ---
-# Introduction to Global Reference Architecture
+# Introduction about Global Reference Architecture
 
 Learn about Global Reference Architecture, some core concepts, and benefits for this approach. 
 
-## Who is this video for?
+## Audience
 
 * Anyone needing to understand this concept.
 * Large projects with multiple brands
