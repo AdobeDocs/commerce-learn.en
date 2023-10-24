@@ -12,7 +12,7 @@ role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
 ---
-# Leveraging Global Reference Architecture
+# Architecting for Global Reference Architecture
 
 Learn how to architect Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss what is and what is not GRA. A deep discussion on code management using separate packages, split git and monorepo. Other topics around documentation, tools, and personnel expectations are discussed to elaborate on their parts for a successful GRA implementation.
 
