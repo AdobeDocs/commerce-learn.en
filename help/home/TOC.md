@@ -21,6 +21,9 @@ auto-video-transcripts: true
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
         + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+    + Commerce Capabilities {#capabilities} 
+        + [Data Connection](../capabilities/data-connection.md)
+        + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)    
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
@@ -93,7 +96,7 @@ auto-video-transcripts: true
     + [Set Up Product Recommendations](../site-management/product-recommendations.md)
     + [Introduction to Live Search](../site-management/live-search.md)
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
-    + [Live Search full demonstration](../site-management/live-search-full-demonstration.md)    
+    
 + Orders and Fulfillment {#orders}
     + [Store Fulfillment Overview](../site-management/store-fulfillment.md)
     + [Manage Order Status](../site-management/order-status.md)
