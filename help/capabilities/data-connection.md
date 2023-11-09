@@ -25,18 +25,8 @@ Learn how to use Adobe Commerce Data Connection along with some basic configurat
 
 ## Video content
 
-* Learn about customer data that can be transferred from Commerce to the Adobe Experience Edge
-* What is an API
-* How to use Adobe Journey Optimizer to follow up with a customer
-* Types of storefront events that can be captured
-* Real-time customer data evaluated and personalized content shown as the customer continues to browse
-* Customer segments and how they can be automatically adjusted based on customer history
-* Single unified profiles
-* Abandon cart emails, SMS messages and how they can be used with Adobe Journey Optimizer
-* Basic configurations and setup for the Commerce Data Connector 
-* Dynamic blocks and cart price rules used to provide discounts
-* Customer profiles, audiences, and customer details in Adobe Experience Platform
-* How Adobe Target can provide dynamic personalized content
-* Customer Journey Analytics dashboards introduced
+* Sending behavioral data from Adobe Commerce to other DX products (e.g., AJO, Analytics, Target, Real-Time CDP) for segment decisioning, profile enrichment, and personalized experiences across the customer journey.
+* Real-Time CDP audiences updating and modifying segmentation in real-time based on browser data, server-side data (including order history), and data from other sources (i.e., loyalty data).
+* Utilizing Real-Time CDP audiences to personalize both cart price rules and dynamic blocks in Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
