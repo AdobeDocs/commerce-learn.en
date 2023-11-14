@@ -1,6 +1,6 @@
 ---
 title: Create a simple product
-description: Learn how to create a simple product using the REST API and the Commerce admin.
+description: Learn how to create a simple product using the REST API and the Commerce Admin.
 kt: 14446
 doc-type: video
 audience: all
@@ -14,19 +14,19 @@ level: Beginner
 ---
 # Create a simple product
 
-Learn how to create a simple product using the REST API and the commerce admin. 
+Learn how to create a simple product using the REST API and the Adobe Commerce Admin. 
 
 ## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers
-- New developers using Adobe Commerce who are needing to learn how to use REST to create a product in Adobe Commerce
+- New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
 
 ## Video content
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Curl code sample to create a product
+## Create a product using curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -44,7 +44,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Curl code sample to get a product
+## Get a product using curl
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
