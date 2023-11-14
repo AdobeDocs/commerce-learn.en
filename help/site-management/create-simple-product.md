@@ -5,7 +5,7 @@ kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13
+last-substantial-update: 2023-11-14
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -20,7 +20,7 @@ Learn how to create a simple product using the REST API and the commerce admin.
 
 - Website managers
 - eCommerce merchandisers
-- New developers to Adobe Commerce who are needing to learn how to use REST to create a product in Adobe Commerce
+- New developers using Adobe Commerce who are needing to learn how to use REST to create a product in Adobe Commerce
 
 ## Video content
 
