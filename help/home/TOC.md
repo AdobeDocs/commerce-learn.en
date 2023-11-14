@@ -23,7 +23,9 @@ auto-video-transcripts: true
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
-        + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)    
+        + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
+    + Create Products {#create-products}
+        + [Simple Product](../site-management/create-simple-product.md)        
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
