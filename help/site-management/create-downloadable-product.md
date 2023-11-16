@@ -26,6 +26,12 @@ Learn how to create a downloadable product using the REST API and the Adobe Comm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
+>[!IMPORTANT]
+>
+>You will need to add an entry to the `env.php` for the approved downloadable domains. You can read more on the env configuration file for this topic [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+>
+>To do so you can follow the instructions on the [CLI reference for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank"}
+
 ## Create a downloadable product using curl
 
 ```bash
