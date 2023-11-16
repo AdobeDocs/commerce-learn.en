@@ -1,6 +1,6 @@
 ---
 title: Create a downloadable product
-description: Learn how to create a downloadable product using the REST API and the Commerce Admin.
+description: Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
 kt: 14464
 doc-type: video
 audience: all
