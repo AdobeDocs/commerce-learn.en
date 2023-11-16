@@ -25,9 +25,9 @@ auto-video-transcripts: true
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
     + Create Products {#create-products}
-        + [Simple Product](../site-management/create-simple-product.md) 
-        + [Virtual Product](../site-management/create-virtual-product.md)  
-        + [Downloadable Product](../site-management/create-downloadable-product.md)     
+        + [Simple product](../site-management/create-simple-product.md) 
+        + [Virtual product](../site-management/create-virtual-product.md)  
+        + [Downloadable product](../site-management/create-downloadable-product.md)     
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
