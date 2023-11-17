@@ -112,7 +112,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
                 "price": 0,
                 "number_of_downloads": 0,
                 "link_type": "url",
-                "link_url": "https://app.dx.test/russell.jpg",
+                "link_url": "{{your.url.here}}/russell.jpg",
                 "sample_type": null
             }
         ]
@@ -143,10 +143,10 @@ Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
     "price": 0,
     "number_of_downloads": 0,
     "link_type": "url",
-    "link_file": "https://app.dx.test/some-file.zip",
+    "link_file": "{{your.url.here}}/some-file.zip",
 "link_url": "https://app.dx.test/some-file.zip",
     "link_file_content": {
-      "file_data": "https://app.dx.test/some-file.zip",
+      "file_data": "{{your.url.here}}/some-file.zip",
       "extension_attributes": {}
     }
   },
