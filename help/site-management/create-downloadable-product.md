@@ -54,7 +54,9 @@ To learn more about this topic, review the Experience League page dedicated to t
 >[!IMPORTANT]
 >Depending on your version of Adobe Commerce, there have been reports of an error when trying to edit the product in the Adobe Commerce Admin. Using the REST API it creates the product, but the linked download has a price of `null`. When you use the Adobe Commerce Admin to edit the product, an error message is shown: `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`. The easiest fix is to use the update link API - POST V1/products/{sku}/downloadable-links. The code example is described [Update a product download link using CURL](#update-downloadable-links).
 
-## Create a downloadable product using curl with a file that exists on the website
+## Create a downloadable product using curl with a URL and a remote location for the download
+
+This example shows how to create a downloadable product with the URL for the download that is NOT on the same server. This is typical if the file is in an S3 bucket or other digital asset manager.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -63,68 +65,90 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e' \
 --data '{
   "product": {
-    "sku": "postman-rest-downloadable-product-test",
-    "name": "POSTMAN downloadable product test",
+    "sku": "POSTMAN-download-product-1",
+    "name": "POSTMAN download product-1",
     "attribute_set_id": 4,
-    "price": 4.5,
-    "type_id": "downloadable",
-    "extension_attributes": {
-      "downloadable_product_links": [
-        {
-          "title": "My downloadable thing",
-          "sort_order": 0,
-          "is_shareable": 0,
-          "price": 0,
-          "number_of_downloads": 0,
-          "link_type": "file",
-          "link_file": "{{your.url.here}}/pub/media/sample.png",
-          "link_file_content": {
-            "file_data": "some file content data",
-            "name": "My file content name string",
-            "extension_attributes": {}
-          }
-        }
-      ]
-    }
-  }
-}
-'
-```
-
-## Create a downloadable product that has a url for the download link
-
-```json
-{
-  "product": {
-    "sku": "admin created url downloadable product - 8",
-    "name": "admin created url downloadable product - 8",
-    "attribute_set_id": 4,
-    "price": 5.58,
+    "price": 9.9,
     "status": 1,
     "visibility": 4,
     "type_id": "downloadable",
     "extension_attributes": {
+        "website_ids": [
+            1
+        ],
+        
         "downloadable_product_links": [
             {
-                "title": "My admin created downloadable url - 8",
+                "title": "My url link",
                 "sort_order": 1,
                 "is_shareable": 1,
                 "price": 0,
                 "number_of_downloads": 0,
                 "link_type": "url",
-                "link_url": "{{your.url.here}}/russell.jpg",
-                "sample_type": null
+                "link_url": "{{location.url.where.file.exists}}/some-file.zip",
+                "sample_type": "url",
+                "sample_url": "{{location.url.where.file.exists}}/sample-file.zip"
             }
-        ]
-    }
+        ],
+        "downloadable_product_samples": []
+    },
+    "product_links": [],
+    "options": [],
+    "media_gallery_entries": [],
+    "tier_prices": []
   }
 }
+'
+```
+
+## Create a downloadable product using curl with a URL and the location for the download is on this server
+
+For this example, the intent is to mimic that process if the product would be created from the Adobe Commerce Admin. In this use case, when the administrator managing the catalog chooses `upload file`, the expectation is the file resides on the same server as the Adobe Commerce application. When this happens, the file is uploaded to `pub/media/downloadable/files/links/`. Inside this directory, using the first two characters of the file name, the application creates or uses existing folders. For Example, if the uploaded file is named `download-example.zip`. If the folder `pub/media/downloadable/files/links/d/` does not exist, it is created. If the folder `pub/media/downloadable/files/links/d/o/` does not exist, it is created  The Adobe Commerce Application transfers the file inside the directory `pub/media/downloadable/files/links/d/o/` to have the path `/pub/media/downloadable/files/links/d/o/download-example.zip`. It is important to understand this process and recognize the pattern. When establishing an integration to the Adobe Commerce application, the automation can create and move the files to their respective locations. It is also an important point to realize that the file path of the uploaded file in the product configuration is the information found after `/pub/media/downloadable/files/links/`. This is what will be used in the link_url section of the json. In this example, it is `/d/o/downloadable-file-demo-file-upload.zip`.
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=571f5ebe48857569cd56bde5d65f83a2; private_content_version=9f3286b427812be6aec0b04cae33ba35' \
+--data '{
+  "product": {
+    "sku": "sample-local-download-file",
+    "name": "A downloadable product with locally hosted download file",
+    "attribute_set_id": 4,
+    "price": 33,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "downloadable",
+    "extension_attributes": {
+        "website_ids": [
+            1
+        ],
+        "downloadable_product_links": [
+            {
+                "title": "an api version of already upload file",
+                "sort_order": 1,
+                "is_shareable": 1,
+                "price": 0,
+                "number_of_downloads": 0,
+                "link_type": "file",
+                "link_file": "/d/o/downloadable-file-demo-file-upload.zip",
+                "sample_type": null
+            }
+        ],
+        "downloadable_product_samples": []
+    },
+    "product_links": [],
+    "options": [],
+    "media_gallery_entries": [],
+    "tier_prices": []
+  }
+}'
 ```
 
 ## Get a product using curl
 
 ```bash
-curl --location '{{your.url.here}}/rest/default/V1/products/postman-rest-downloadable-product-test' \
+curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-product-1' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
 --header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e'
 ```
@@ -132,6 +156,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/postman-rest-downloa
 ## Update the product using Postman {#update-downloadable-links}
 
 Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
+The id is the ID that was generated when the product was created. For example in the code sample below, it is the number 39, but make sure it is updated to use the ID from your website. This updates the links for the downloadable products. 
 
 ```json
 {
@@ -144,7 +169,7 @@ Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
     "number_of_downloads": 0,
     "link_type": "url",
     "link_file": "{{your.url.here}}/some-file.zip",
-"link_url": "https://app.dx.test/some-file.zip",
+    "link_url": "{{your.url.here}}/some-file.zip",
     "link_file_content": {
       "file_data": "{{your.url.here}}/some-file.zip",
       "extension_attributes": {}
@@ -156,8 +181,10 @@ Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
 
 ## Update a product download link using CURL
 
+Part of the URL is the sku that is being updated, in this example it is `abcd12345`. This needs to be changed to match the product SKU you want to update.
+
 ```bash
-curl --location '{{your.url.here}}/rest/all/V1/products/My-admin-download-product-4/downloadable-links' \
+curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
 --header 'Cookie: PHPSESSID=fa5d76f4568982adf369f758e8cb9544; private_content_version=564dde2976849891583a9a649073f01e' \
@@ -171,7 +198,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/My-admin-download-produc
     "number_of_downloads": 0,
     "link_type": "url",
     "link_file": "{{your.url.here}}/some-file.zip",
-"link_url": "{{your.url.here}}/some-file.zip",
+    "link_url": "{{your.url.here}}/some-file.zip",
     "link_file_content": {
       "file_data": "{{your.url.here}}/some-file.zip",
       "extension_attributes": {}
