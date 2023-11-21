@@ -28,7 +28,7 @@ Learn how to create a downloadable product using the REST API and the Adobe Comm
 
 ## Allowed downloadable domains
 
-This is unique to downloadable products. For Adobe Commerce to allow for downloads, it is required to specify what domains are permitted. For this reason, the domains are added to the projects' `env.php`. This is accomplished by using a command line to specify the domain that is allowed to be a linkable source for the downloadable content. If you try to create a downloadable product using the REST API before this is done, an error is returned:
+You must specify which domains are permitted to allow downloads. Domains are added to the project's `env.php` file via the command line. The `env.php` file details the domains allowed to contain downloadable content. An error occurs if a downloadable product is created using the REST API _before_  the `php.env` file is updated:
 
 ```bash
 {
@@ -37,9 +37,9 @@ This is unique to downloadable products. For Adobe Commerce to allow for downloa
 
 ```
 
-To set the domain, connect to the server using terminal. The command is similar to this: `bin/magento downloadable:domains:add www.example.com`
+To set the domain, connect to the server: `bin/magento downloadable:domains:add www.example.com`
 
-Once that is complete, the `env.php` is modified inside the downloadable_domains array and look similar to this section
+Once that is complete, the `env.php` is modified inside the _downloadable_domains_ array.
 
 ```php
     'downloadable_domains' => [
@@ -47,16 +47,22 @@ Once that is complete, the `env.php` is modified inside the downloadable_domains
     ],
 ```
 
-Now that the domain is added to the `env.php` you can create a downloadable product in the Adobe Commerce Admin or using a REST API.
+Now that the domain is added to the `env.php`, you can create a downloadable product in the Adobe Commerce Admin or by using the REST API.
 
-To learn more about this topic, review the Experience League page dedicated to this topic [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"} as even more details can be found at [CLI reference for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank"}
+See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) to learn more. See [CLI reference for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd for more details.
 
 >[!IMPORTANT]
->Depending on your version of Adobe Commerce, there have been reports of an error when trying to edit the product in the Adobe Commerce Admin. Using the REST API it creates the product, but the linked download has a price of `null`. When you use the Adobe Commerce Admin to edit the product, an error message is shown: `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`. The easiest fix is to use the update link API - POST V1/products/{sku}/downloadable-links. The code example is described [Update a product download link using CURL](#update-downloadable-links).
+>On some versions of Adobe Commerce, you might get the following error when a product is edited in the Adobe Commerce Admin. The product is created using the REST API but the linked download has a `null` price. 
 
-## Create a downloadable product using curl with a URL and a remote location for the download
+`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`. 
 
-This example shows how to create a downloadable product with the URL for the download that is NOT on the same server. This is typical if the file is in an S3 bucket or other digital asset manager.
+To fix this error, use the update link API: `POST V1/products/{sku}/downloadable-links.`
+
+See the [Update a product download link using cURL](#update-downloadable-links) section for more info.
+
+## Create a downloadable product using cURL (download from remote server)
+
+This example shows how to create a downloadable product using cURL when the file to download is not on the same server. This use case is typical if the file is stored in an S3 bucket or other digital asset manager.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -101,9 +107,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Create a downloadable product using curl with a URL and the location for the download is on this server
+## Create a downloadable product using cURL (download from Commerce application server) 
 
-For this example, the intent is to mimic that process if the product would be created from the Adobe Commerce Admin. In this use case, when the administrator managing the catalog chooses `upload file`, the expectation is the file resides on the same server as the Adobe Commerce application. When this happens, the file is uploaded to `pub/media/downloadable/files/links/`. Inside this directory, using the first two characters of the file name, the application creates or uses existing folders. For Example, if the uploaded file is named `download-example.zip`. If the folder `pub/media/downloadable/files/links/d/` does not exist, it is created. If the folder `pub/media/downloadable/files/links/d/o/` does not exist, it is created  The Adobe Commerce Application transfers the file inside the directory `pub/media/downloadable/files/links/d/o/` to have the path `/pub/media/downloadable/files/links/d/o/download-example.zip`. It is important to understand this process and recognize the pattern. When establishing an integration to the Adobe Commerce application, the automation can create and move the files to their respective locations. It is also an important point to realize that the file path of the uploaded file in the product configuration is the information found after `/pub/media/downloadable/files/links/`. This is what will be used in the link_url section of the json. In this example, it is `/d/o/downloadable-file-demo-file-upload.zip`.
+This example demonstrates how to use cURL to create a downloadable product from the Adobe Commerce Admin when the file is stored on the same server as the Adobe Commerce application.
+
+In this use case, when the administrator managing the catalog chooses `upload file`, the file is transferred to the `pub/media/downloadable/files/links/` directory.  Automation creates and moves the files to their respective locations based on the following pattern:
+
+- Each uploaded file is stored in a folder based on the first two characters of the file name.
+- When the upload is initiated, the Commerce application creates or uses existing folders to transfer the file. 
+- When downloading the file, the `link_url` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
+
+For example, if the uploaded file is named `download-example.zip`:
+
+- The file is uploaded to the path `pub/media/downloadable/files/links/d/o/`.
+   The subdirectories `/d` and `/d/o` are created if they do not exist.
+
+- The final path to the file is `/pub/media/downloadable/files/links/d/o/download-example.zip`. 
+
+- The `link_url` value for this example is `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -156,7 +177,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 ## Update the product using Postman {#update-downloadable-links}
 
 Use the endpoint `rest/all/V1/products/{sku}/downloadable-links`
-The id is the ID that was generated when the product was created. For example in the code sample below, it is the number 39, but make sure it is updated to use the ID from your website. This updates the links for the downloadable products. 
+The `SKU` is the product ID that was generated when the product was created. For example in the code sample below, it is the number 39, but make sure it is updated to use the ID from your website. This updates the links for the downloadable products. 
 
 ```json
 {
@@ -181,7 +202,7 @@ The id is the ID that was generated when the product was created. For example in
 
 ## Update a product download link using CURL
 
-Part of the URL is the sku that is being updated, in this example it is `abcd12345`. This needs to be changed to match the product SKU you want to update.
+When you update a product download link using cURL, the URL includes the SKU for the product that is being updated.  In the following code example, the SKU is `abcd12345`. When you submit the command, change value to match the SKU for the product you want to update.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
