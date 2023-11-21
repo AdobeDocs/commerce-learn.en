@@ -115,7 +115,7 @@ In this use case, when the administrator managing the catalog chooses `upload fi
 
 - Each uploaded file is stored in a folder based on the first two characters of the file name.
 - When the upload is initiated, the Commerce application creates or uses existing folders to transfer the file. 
-- When downloading the file, the `link_url` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
+- When downloading the file, the `link_file` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
 
 For example, if the uploaded file is named `download-example.zip`:
 
