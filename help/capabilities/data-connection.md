@@ -9,7 +9,7 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-
+exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
 ---
 # Adobe Commerce Data Connection full demonstration
 

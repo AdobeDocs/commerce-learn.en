@@ -10,7 +10,7 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-
+exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
 ---
 # Create a simple product
 

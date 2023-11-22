@@ -10,7 +10,7 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-
+exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
 ---
 # Create a virtual product
 
