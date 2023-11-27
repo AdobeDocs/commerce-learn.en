@@ -51,6 +51,7 @@ auto-video-transcripts: true
         + [Conclusion](../app-builder/first-app/conclusion.md)
         + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
     + IO Events for Adobe Commerce {#io-events}
+        + [Getting started IO Events](../io-events/getting-started-io-events.md)
         + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
         + [Adobe Commerce 2.4.6 Installation](../io-events/2-4-6-installation.md)
         + [Create an App Builder project](../io-events/create-app-builder-project.md)       
