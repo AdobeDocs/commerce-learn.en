@@ -11,6 +11,7 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
 ---
 # Getting Started with IO Events for Adobe Commerce
 
