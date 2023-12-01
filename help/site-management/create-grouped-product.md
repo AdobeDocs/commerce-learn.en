@@ -1,4 +1,4 @@
----
+  ---
 title: Create a grouped product
 description: Learn how to create a grouped product using the REST API and the Commerce Admin.
 kt: 14585
@@ -34,7 +34,7 @@ One other unique item with grouped products is the simple products have a positi
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Setup for the grouped product
 
