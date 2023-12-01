@@ -14,9 +14,15 @@ level: Beginner
 ---
 # Create a grouped product
 
-Learn how to create a grouped product using the REST API and the Adobe Commerce Admin. When using REST API for this process, first an empty grouped product is created, then populate the empty grouped product with simple products. So a key thing to remember is, the simple products must be created before being used. Typically this means all the simple products are created first, then a configurable product is created. Once the empty grouped product is created, associate the simple products. 
+Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
-When creating grouped products in the Adobe Commerce Admin, it is advisable to have the simple products created first. When you are ready to create the grouped product, the association of the simple products can be done at the same time. Unlike the REST api, where this is a two-step process, from the Commerce Admin the grouped product can be created and the simple products assigned at one time.
+Use the REST API to create a group product in the Admin:
+1. Create an empty grouped product.
+1. Create simple products to use in the grouped product.
+1. Populate the empty grouped product with simple products. 
+1. Create an empty grouped product and associate the simple products.
+
+When creating grouped products in the Adobe Commerce Admin, It is recommended tha sitmple products are created first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
 
 One other unique item with grouped products is the simple products have a position to help with the frontend experience. This position provides the sort order for the simple products. In conjunction, the frontend uses these values when organizing the product detail page for this grouped product.
 
@@ -32,9 +38,9 @@ One other unique item with grouped products is the simple products have a positi
 
 ## Setup for the grouped product
 
-In this example, there will be three simple products and a grouped product. The simple products are created first. Next, the grouped product is created. Finally, two simple products are associated to the grouped product. The final task adds the third simple product to the grouped product.
+In this example, there are three simple products (created first) and a grouped product. Two simple products are associated with the grouped product, and then the third simple product is added to the grouped product.
 
-## Create the first simple product using curl
+## Create the first simple product using cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -52,7 +58,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Create the second simple product using curl
+## Create the second simple product using cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -70,7 +76,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Create the third simple product using curl
+## Create the third simple product using cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -88,7 +94,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Create an empty grouped product using curl
+## Create an empty grouped product using cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -143,7 +149,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Add the third simple product to the existing grouped product
 
-Do not forget to have the appropriate position number, for this it can be anything except `1` or `2`. Those were used with the first two products that were originally associated to this grouped product. For this example, it is position `4`.
+Include the appropriate position number (anything except `1` or `2`), which are used for the first two products originally associated tothe grouped product. For this example, the position is `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -168,12 +174,12 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Delete a simple product from a grouped product
 
-According to the [Adobe Developer documentation](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/), to delete you are to use this pattern: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`
+To [delete a simple product](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) from a grouped product, use: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-However, it may not be clear what to use for {type}. Using xdebug, it is possible capture the request and evaluate the $linkTypes. When evaluating the options, there is four: `related`, `crosssell`, `uupsell`, and `associated`. See the image below:
+To discover what to use as `{type}`, use xdebug to capture the request and evaluate the $linkTypes: `related`, `crosssell`, `uupsell`, and `associated`.
 ![Grouped Product link types - alt text](/help/assets/site-management/catalog/grouped-types.png "Grouped product link types captured during xdebug session")
 
-If you recall what was used in linking the simple products to the grouped product, the payload contained a few sections similar to one below
+When linking the simple products to the grouped product, the payload contained a few sections similar to:
 
 ```bash
         {
@@ -189,9 +195,9 @@ If you recall what was used in linking the simple products to the grouped produc
 
 ```
 
-The third line it contains `"link_type":"associated",`. This word `associated` is needed in the DELETE request for {type}. This means that the URL would be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+`associated` in `"link_type":"associated",` is required in the DELETE request for `{type}`. The URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Here is the curl request to delete the simple product with the sku `product-sku-three` from the grouped product with the sku `my-new-grouped-product`.
+See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the 'my-new-grouped-product` SKU:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -199,7 +205,7 @@ curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-n
 --header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
 ```
 
-## Get a grouped product using curl
+## Get a grouped product using cURL
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
