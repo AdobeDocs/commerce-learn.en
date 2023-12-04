@@ -1,4 +1,5 @@
   ---
+
 title: Create a grouped product
 description: Learn how to create a grouped product using the REST API and the Commerce Admin.
 kt: 14585
@@ -10,14 +11,14 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-
 ---
-# Create a grouped product
 
+# Create a grouped product
 
 A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist. In this tutoria you will learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a group product in the Admin:
+
 1. Create an empty grouped product.
 1. Create simple products to use in the grouped product.
 1. Populate the empty grouped product with simple products. 
@@ -198,7 +199,7 @@ When linking the simple products to the grouped product, the payload contained a
 
 In the payload, the `link_type` value `associated` provides the `{type}` value required in the DELETE request. The request URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the 'my-new-grouped-product` SKU:
+See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the `my-new-grouped-product` SKU:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
