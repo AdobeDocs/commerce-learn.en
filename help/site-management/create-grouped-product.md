@@ -1,5 +1,4 @@
-  ---
-
+---
 title: Create a grouped product
 description: Learn how to create a grouped product using the REST API and the Commerce Admin.
 kt: 14585
@@ -15,16 +14,16 @@ level: Beginner
 
 # Create a grouped product
 
-A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist. In this tutoria you will learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
+A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist. In this tutorial, you learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a group product in the Admin:
 
 1. Create an empty grouped product.
-1. Create simple products to use in the grouped product.
+1. Create simple products for use in the grouped product.
 1. Populate the empty grouped product with simple products. 
 1. Create an empty grouped product and associate the simple products.
 
-When creating grouped products in the Adobe Commerce Admin, It is recommended tha sitmple products are created first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
+When creating grouped products in the Adobe Commerce Admin, It is recommended that simple products are created first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
 
 The sort order attribute in the payload is required and is used by the frontend for displaying the associated products in a desired order.
 
@@ -151,7 +150,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Add the third simple product to the existing grouped product
 
-Include the appropriate position number (anything except `1` or `2`), which are used for the first two products originally associated tothe grouped product. For this example, the position is `4`.
+Include the appropriate position number (anything except `1` or `2`), which are used for the first two products originally associated to the grouped product. For this example, the position is `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
