@@ -14,7 +14,9 @@ level: Beginner
 
 # Create a grouped product
 
-A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist. In this tutorial, you learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
+A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist.
+
+In this tutorial, you learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a group product in the Admin:
 
@@ -23,9 +25,9 @@ Use the REST API to create a group product in the Admin:
 1. Populate the empty grouped product with simple products. 
 1. Create an empty grouped product and associate the simple products.
 
-When creating grouped products in the Adobe Commerce Admin, It is recommended that simple products are created first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
+   When you associate simple products to the grouped product, the sort order attribute (`position`) in the payload is required and is used by the frontend to display the associated products in a desired order.
 
-The sort order attribute in the payload is required and is used by the frontend for displaying the associated products in a desired order.
+When creating grouped products from the Adobe Commerce Admin, create the simple products first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
 
 ## Who is this video for?
 
