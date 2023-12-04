@@ -27,7 +27,8 @@ auto-video-transcripts: true
     + Create Products {#create-products}
         + [Simple product](../site-management/create-simple-product.md) 
         + [Virtual product](../site-management/create-virtual-product.md)  
-        + [Downloadable product](../site-management/create-downloadable-product.md)     
+        + [Downloadable product](../site-management/create-downloadable-product.md)
+        + [Grouped product](../site-management/create-grouped-product.md)     
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
