@@ -196,7 +196,7 @@ When linking the simple products to the grouped product, the payload contained a
 
 ```
 
-`associated` in `"link_type":"associated",` is required in the DELETE request for `{type}`. The URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+In the payload, the `link_type` value `associated` provides the `{type}` value required in the DELETE request. The request URL will be similar to `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
 See the cURL request to delete the simple product with the `product-sku-three` SKU from the grouped product with the 'my-new-grouped-product` SKU:
 
