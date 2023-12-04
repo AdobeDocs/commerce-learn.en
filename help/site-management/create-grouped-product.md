@@ -25,7 +25,7 @@ Use the REST API to create a group product in the Admin:
 1. Populate the empty grouped product with simple products. 
 1. Create an empty grouped product and associate the simple products.
 
-   When you associate simple products to the grouped product, the sort order attribute (`position`) in the payload  is used by the frontend to display the associated products in a desired order. If no attribute is assigned, the products are displayed in the order that they are added to the group product.
+   When you associate simple products to the grouped product, the sort order attribute (`position`) in the payload  is used by the frontend to display the associated products in a desired order. If the `position` attribute is not specified, the products are displayed in the order that they were added to the grouped product. 
 
 When creating grouped products from the Adobe Commerce Admin, create the simple products first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
 
