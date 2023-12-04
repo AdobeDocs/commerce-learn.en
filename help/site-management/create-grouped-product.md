@@ -14,7 +14,8 @@ level: Beginner
 ---
 # Create a grouped product
 
-Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
+
+A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist. In this tutoria you will learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a group product in the Admin:
 1. Create an empty grouped product.
