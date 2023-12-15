@@ -14,28 +14,28 @@ level: Beginner
 
 # Create a configurable product
 
-A configurable product is a parent product of multiple simple products. You define a configurable product so that the buyer must make one or more choices to select a product. Before creating a configurable product, verify that all the simple products to include in this configurable product are available in Adobe Commerce, and create any that do not exist.
+A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a product. Before creating a configurable product, verify that all the simple products to include in this configurable product are available in Adobe Commerce. Create any that do not exist.
 
-In this tutorial, you learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
+In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a configurable product:
 
-1. Get the attributes for an attribute set to use the ID numbers for subsequent API calls
+1. Get the attributes for an attribute set to use the ID numbers for subsequent API calls.
 1. Create simple products for use in the configurable product.
 1. Create an empty configurable product and associate the simple products.
-1. Set the product attributes for the types of options on the configurable product
+1. Set the product attributes for the configurable product.
 1. Populate the empty configurable product with simple products. 
-1. Get the configurable product and all the attributes
-1. Get the assigned children products for the configurable product
-1. Delete an association of a simple product to a configurable product
+1. Get the configurable product and all the attributes.
+1. Get the assigned children products for the configurable product.
+1. Delete the association of simple products to configurable products.
 
-When creating configurable products from the Adobe Commerce Admin, you can either the simple products first or use the automated tool that creates new simple products for use using the wizard. 
+When creating configurable products from the Adobe Commerce Admin, you can create the simple products first or use the automated tool to create new simple products using the creation wizard. 
 
 ## Who is this video for?
 
 - Website managers
 - eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create configurable products in Adobe Commerce using the REST API.
+- New Adobe Commerce developers who want to learn how to create configurable products in Adobe Commerce using the REST API
 
 ## Video content
 
@@ -43,9 +43,9 @@ When creating configurable products from the Adobe Commerce Admin, you can eithe
 
 ## Get the color attributes using cURL
 
-### Environment ids and product details to adjust:
+### Adjust environment IDs and product details
 
-- Change `attribute-sets/10/attributes` and replace 10 with the attribute set id is in your environment.
+Change `attribute-sets/10/attributes` and replace 10 with the attribute set ID in your environment.
 
 
 ```bash
@@ -55,10 +55,10 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 ## Create the first simple product using cURL
 
-### Environment ids and product details to adjust:
+### Adjust environment IDs and product details
 
-- Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
-- Change `"value": "13"` and replace 13 with the value that is in your environment.
+- Change `"attribute_set_id": 10,` and replace 10 with the attribute set ID in your environment.
+- Change `"value": "13"` and replace 13 with the value in your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -94,7 +94,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create the second simple product using cURL
 
-### Environment ids and product details to adjust:
+### Adjust environment IDs and product details
 
 - Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
 - Change `"value": "14"` and replace 14 with the value that is in your environment.
