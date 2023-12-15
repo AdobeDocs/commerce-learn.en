@@ -10,8 +10,8 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
 ---
-
 # Create a grouped product
 
 A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist.
