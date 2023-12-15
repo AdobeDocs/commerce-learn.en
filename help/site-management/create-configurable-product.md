@@ -43,10 +43,42 @@ When creating configurable products from the Adobe Commerce Admin, you can creat
 
 ## Get the color attributes using cURL
 
+In this example we are gathering all the attributes assigned to the attribute set with an ID of 10. When reviewing the response, it will likely be in the middle. Using grep or other methods to search the results will help expedite finding the values. My response was near line 665, here is a snippet from the json response
+
+```json
+...
+{
+        "attribute_id": 93,
+        "attribute_code": "color",
+        "frontend_input": "select",
+        "entity_type_id": "4",
+        "is_required": false,
+        "options": [
+            {
+                "label": " ",
+                "value": ""
+            },
+            {
+                "label": "Red",
+                "value": "13"
+            },
+            {
+                "label": "Blue",
+                "value": "14"
+            },
+            {
+                "label": "Green",
+                "value": "15"
+            }
+        ],
+...
+```
+
 ### Adjust environment IDs and product details
 
 Change `attribute-sets/10/attributes` and replace 10 with the attribute set ID in your environment.
 
+The following uses the GET method
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -59,6 +91,8 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 - Change `"attribute_set_id": 10,` and replace 10 with the attribute set ID in your environment.
 - Change `"value": "13"` and replace 13 with the value in your environment.
+
+The following uses the POST method
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -99,6 +133,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 - Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
 - Change `"value": "14"` and replace 14 with the value that is in your environment.
 
+The following uses the POST method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -137,6 +173,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 - Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
 - Change `"value": "15"` and replace 15 with the value that is in your environment.
+
+The following uses the POST method
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -177,6 +215,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 - Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
 - Change `"value": "93"` and replace 93 with the value that is in your environment.
 
+The following uses the POST method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -211,6 +251,8 @@ If you forget to do this step, when you try to associate a child product to the 
 
 - Change `"attribute_id": 93,` and replace 93 with the attribute id that is in your environment.
 
+The following uses the POST method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
 --header 'Content-Type: application/json' \
@@ -233,6 +275,10 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 ## Link first child product to the configurable
 
+To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-red is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
+
+The following uses the POST method
+
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
 --header 'Content-Type: application/json' \
@@ -246,6 +292,10 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Link second child product to the configurable
 
+To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-blue is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
+
+The following uses the POST method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
 --header 'Content-Type: application/json' \
@@ -257,6 +307,10 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 ```
 
 ## Link third child product to the configurable
+
+To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-green is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
+
+The following uses the POST method
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
@@ -270,6 +324,20 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 ## Get a configurable product using cURL
 
+Now there is a configurable product with children SKUs assigned, it is possible to see how they are part of the API response. In the code sample below, the response will contain all the details for the product and the assigned attributes. However the children are only represented by their ID numbers as seen in this code snippet:
+
+```json
+...
+        "configurable_product_links": [
+            155,
+            157,
+            156
+        ]
+...
+```
+
+The following uses the GET method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
@@ -277,12 +345,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Get the children product associated to a configurable product
 
+This request only returns the children associated to the configurable product. This response has all the attributes for the child product including SKU and price.
+
+The following uses the GET method
+
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
 ```
 
 ## Delete or remove a child product from the parent configurable
+
+There may be a need remove the child product as being associated to the configurable product, but not actually deleting it from the catalog. This is handled by using the following API.
+
+The following uses the DELETE method
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
