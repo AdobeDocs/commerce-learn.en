@@ -16,13 +16,15 @@ level: Beginner
 
 A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
 
+Although a configurable product uses more SKUs and may initially take a little longer to set up, it can save you time in the end. If you plan to grow your business, the configurable product type is a good choice for products with multiple options.
+
 Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
 
 In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
 
 Use the REST API to create a configurable product:
 
-1. Get the attributes for an attribute set to use the ID numbers for subsequent API calls.
+1. Get the attributes for an [attribute set](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) to use the ID numbers for subsequent API calls.
 1. Create simple products for use in the configurable product.
 1. Create an empty configurable product and associate the simple products.
 1. Set the product attributes for the configurable product.
@@ -31,7 +33,7 @@ Use the REST API to create a configurable product:
 1. Get the assigned children products for the configurable product.
 1. Delete the association of simple products to configurable products.
 
-When creating configurable products from the Adobe Commerce Admin, you can create the simple products first, or use the automated tool to create new simple products using the creation wizard. 
+When creating configurable products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard. 
 
 ## Who is this video for?
 
@@ -45,7 +47,7 @@ When creating configurable products from the Adobe Commerce Admin, you can creat
 
 ## Get the color attributes using cURL
 
-In this example we are retrieving all the attributes assigned to the attribute set with an ID of 10. When reviewing the response, the attribute ID information will likely be in the middle. Expedite the search for these values by using grep or other methods to search the results. My response was near line 665 and is included in the following snippet from the JSON response.
+In this example, the entire attribute set with all the individual attributes is returned for attribute set 10. It can be long, hundreds of lines are not uncommon. When reviewing the response, the attribute ID for color will likely be in the middle. Expedite the search for these values by using grep or other methods to search the results. My response was near line 665 and is included in the following snippet from the JSON response.
 
 ```json
 ...
@@ -87,9 +89,11 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 ## Create the first simple product using cURL
 
 ### Adjust environment IDs and product details
+
 Create the first simple product by using the API to send the following POST request using cURL.
 
 Before submitting the request, update the example with values for your environment.
+
 - Change `"attribute-set": 10` to replace `10` with the attribute set ID from your environment.
 - Change `"value": "13"` to replace `13` with the value from your environment.
 
@@ -130,6 +134,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 Create the second simple product by using the API to send the following POST request using cURL.
 
 Before submitting the request, update the example with values for your environment.
+
 - Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from in your environment.
 - Change `"value": "14"` and replace `14` with the value from your environment.
 
@@ -171,6 +176,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 Create the third simple product by using the API to send the following POST request using cURL.
 
 Before submitting the request, update the example with values for your environment.
+
 - Change `"attribute_set_id": 10,` to replace `10` with the attribute set ID from your environment.
 - Change `"value": "15"` and replace `15` with the value from your environment.
 
@@ -264,19 +270,21 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
   }
 }'
 ```
-If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message will be similar to the following example:
+If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message is similar to the following example:
 
 `{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
-## Link first child product to the configurable
+
+## Link the child product to the configurable
 
 Now, you have created three simple products:
+
 - `"Kids Hawaiian Ukulele Red"`,
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Add these simple products as children of the configurable product by using the API to send the following POST request for each product.  Submit a separate request for each product.
+Add these simple products as children of the configurable product by using the API to send the following POST request for each product. Submit a separate request for each product.
 
-For each request, update the `childSKU` value with the value for the child product you are adding.  The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
+For each request, update the `childSKU` value with the value for the child product you are adding. The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
 
 
 ```bash
@@ -290,41 +298,9 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 '
 ```
 
-## Link second child product to the configurable
-
-To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-blue is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
-
-The following uses the POST method
-
-```bash
-curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
---header 'Content-Type: application/json' \
---header 'Authorization: Bearer {{Your Bearer Token}}' \
---data '{
-  "childSku": "Kids-Hawaiian-Ukulele-blue"
-}
-'
-```
-
-## Link third child product to the configurable
-
-To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-green is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
-
-The following uses the POST method
-
-```bash
-curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
---header 'Content-Type: application/json' \
---header 'Authorization: Bearer {{Your Bearer Token}}' \
---data '{
-  "childSku": "Kids-Hawaiian-Ukulele-green"
-}
-'
-```
-
 ## Get a configurable product using cURL
 
-Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products, by the API to send the following GET request using cURL. This request returns detailed information about the configurable product.
+Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products by the API to send the following GET request using cURL. This request returns detailed information about the configurable product.
 
 ```json
 ...
