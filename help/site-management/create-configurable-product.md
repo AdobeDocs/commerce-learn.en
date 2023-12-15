@@ -270,6 +270,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
   }
 }'
 ```
+
 If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message is similar to the following example:
 
 `{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
@@ -332,7 +333,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Delete or remove a child product from the parent configurable
 
-You can remove a child product from a configurable product without deleting the product from the catalog by using the API to send the following DELETE request using cURL.```
+You can remove a child product from a configurable product without deleting the product from the catalog by using the API to send the following DELETE request using cURL.
 
 The following uses the DELETE method
 
