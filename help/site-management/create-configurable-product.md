@@ -203,7 +203,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Set the options available for the configurable product
 
-If you forget to do this step, when you try to associate a child product to the configurable, you will get an error similar to:
+If you forget to do this step, when you try to associate a child product to the configurable product, you get an error similar to:
 
 `{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
 
