@@ -14,7 +14,9 @@ level: Beginner
 
 # Create a configurable product
 
-A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a product. Before creating a configurable product, verify that all the simple products to include in this configurable product are available in Adobe Commerce. Create any that do not exist.
+A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
+
+Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
 
 In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
 
@@ -29,7 +31,7 @@ Use the REST API to create a configurable product:
 1. Get the assigned children products for the configurable product.
 1. Delete the association of simple products to configurable products.
 
-When creating configurable products from the Adobe Commerce Admin, you can create the simple products first or use the automated tool to create new simple products using the creation wizard. 
+When creating configurable products from the Adobe Commerce Admin, you can create the simple products first, or use the automated tool to create new simple products using the creation wizard. 
 
 ## Who is this video for?
 
@@ -43,7 +45,7 @@ When creating configurable products from the Adobe Commerce Admin, you can creat
 
 ## Get the color attributes using cURL
 
-In this example we are gathering all the attributes assigned to the attribute set with an ID of 10. When reviewing the response, it will likely be in the middle. Using grep or other methods to search the results will help expedite finding the values. My response was near line 665, here is a snippet from the json response
+In this example we are retrieving all the attributes assigned to the attribute set with an ID of 10. When reviewing the response, the attribute ID information will likely be in the middle. Expedite the search for these values by using grep or other methods to search the results. My response was near line 665 and is included in the following snippet from the JSON response.
 
 ```json
 ...
@@ -74,11 +76,8 @@ In this example we are gathering all the attributes assigned to the attribute se
 ...
 ```
 
-### Adjust environment IDs and product details
 
-Change `attribute-sets/10/attributes` and replace 10 with the attribute set ID in your environment.
-
-The following uses the GET method
+To retrieve the attribute IDs to set up your configurable product, update the `attribute-sets/10/attributes` portion of the following cURL request to replace `10` with the attribute set ID in your environment. This request uses the GET method.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -88,11 +87,11 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 ## Create the first simple product using cURL
 
 ### Adjust environment IDs and product details
+Create the first simple product by using the API to send the following POST request using cURL.
 
-- Change `"attribute_set_id": 10,` and replace 10 with the attribute set ID in your environment.
-- Change `"value": "13"` and replace 13 with the value in your environment.
-
-The following uses the POST method
+Before submitting the request, update the example with values for your environment.
+- Change `"attribute-set": 10` to replace `10` with the attribute set ID from your environment.
+- Change `"value": "13"` to replace `13` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -128,12 +127,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create the second simple product using cURL
 
-### Adjust environment IDs and product details
+Create the second simple product by using the API to send the following POST request using cURL.
 
-- Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
-- Change `"value": "14"` and replace 14 with the value that is in your environment.
+Before submitting the request, update the example with values for your environment.
+- Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from in your environment.
+- Change `"value": "14"` and replace `14` with the value from your environment.
 
-The following uses the POST method
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -169,12 +168,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create the third simple product using cURL
 
-### Environment ids and product details to adjust:
+Create the third simple product by using the API to send the following POST request using cURL.
 
-- Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
-- Change `"value": "15"` and replace 15 with the value that is in your environment.
-
-The following uses the POST method
+Before submitting the request, update the example with values for your environment.
+- Change `"attribute_set_id": 10,` to replace `10` with the attribute set ID from your environment.
+- Change `"value": "15"` and replace `15` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -210,12 +208,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create an empty configurable product using cURL
 
-### Environment ids and product details to adjust:
+Create an empty configurable product by using the API to send the following POST request using cURL.
 
-- Change `"attribute_set_id": 10,` and replace 10 with the attribute set id is in your environment.
-- Change `"value": "93"` and replace 93 with the value that is in your environment.
+Before submitting the request, update the example with values for your environment.
 
-The following uses the POST method
+- Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from your environment.
+- Change `"value": "93"` and replace `93` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -243,15 +241,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Set the options available for the configurable product
 
-If you forget to do this step, when you try to associate a child product to the configurable product, you get an error similar to:
+Set the options available for the configurable product by using the API to send the following POST request using cURL.
 
-`{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
-
-### Environment ids and product details to adjust:
-
-- Change `"attribute_id": 93,` and replace 93 with the attribute id that is in your environment.
-
-The following uses the POST method
+Before submitting the request, change `"attribute_id": 93,` to replace `93` with the attribute id from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -272,12 +264,20 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
   }
 }'
 ```
+If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message will be similar to the following example:
 
+`{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
 ## Link first child product to the configurable
 
-To add the children products, these occur one at a time. In this example the simple product kids-Hawaiian-Ukulele-red is being assigned to the configurable product with the sku `kids-Hawaiian-Ukulele`.
+Now, you have created three simple products:
+- `"Kids Hawaiian Ukulele Red"`,
+- `"Kids-Hawaiian-Ukulele-Blue"`
+- `"Kids-Hawaiian-Ukulele-Green"`
 
-The following uses the POST method
+Add these simple products as children of the configurable product by using the API to send the following POST request for each product.  Submit a separate request for each product.
+
+For each request, update the `childSKU` value with the value for the child product you are adding.  The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
+
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/child' \
@@ -324,7 +324,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 ## Get a configurable product using cURL
 
-Now there is a configurable product with children SKUs assigned, it is possible to see how they are part of the API response. In the code sample below, the response will contain all the details for the product and the assigned attributes. However the children are only represented by their ID numbers as seen in this code snippet:
+Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products, by the API to send the following GET request using cURL. This request returns detailed information about the configurable product.
 
 ```json
 ...
@@ -356,7 +356,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Delete or remove a child product from the parent configurable
 
-There may be a need remove the child product as being associated to the configurable product, but not actually deleting it from the catalog. This is handled by using the following API.
+You can remove a child product from a configurable product without deleting the product from the catalog by using the API to send the following DELETE request using cURL.```
 
 The following uses the DELETE method
 
