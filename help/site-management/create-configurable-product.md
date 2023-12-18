@@ -138,7 +138,6 @@ Before submitting the request, update the example with values for your environme
 - Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from in your environment.
 - Change `"value": "14"` and replace `14` with the value from your environment.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -173,7 +172,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create the third simple product using cURL
 
-Create the third simple product by using the API to send the following POST request using cURL.
+Create the third simple product by sending the following POST request using cURL.
 
 Before submitting the request, update the example with values for your environment.
 
@@ -214,7 +213,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create an empty configurable product using cURL
 
-Create an empty configurable product by using the API to send the following POST request using cURL.
+Create an empty configurable product by sending the following POST request using cURL.
 
 Before submitting the request, update the example with values for your environment.
 
@@ -247,7 +246,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Set the options available for the configurable product
 
-Set the options available for the configurable product by using the API to send the following POST request using cURL.
+Set the options available for the configurable product by sending the following POST request using cURL.
 
 Before submitting the request, change `"attribute_id": 93,` to replace `93` with the attribute id from your environment.
 
@@ -283,7 +282,7 @@ Now, you have created three simple products:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Add these simple products as children of the configurable product by using the API to send the following POST request for each product. Submit a separate request for each product.
+Add these simple products as children of the configurable product by sending the following POST request. Submit a separate request for each product.
 
 For each request, update the `childSKU` value with the value for the child product you are adding. The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -301,7 +300,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Get a configurable product using cURL
 
-Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products by the API to send the following GET request using cURL. This request returns detailed information about the configurable product.
+Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products by sending the following GET request using cURL. This request returns detailed information about the configurable product.
 
 ```json
 ...
@@ -322,7 +321,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Get the children product associated to a configurable product
 
-This request only returns the children associated to the configurable product. This response has all the attributes for the child product including SKU and price.
+Return only the children associated with the configurable product by sending the following GET request. The response will include all the attributes for the child product including SKU and price.
 
 The following uses the GET method
 
@@ -333,9 +332,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Delete or remove a child product from the parent configurable
 
-You can remove a child product from a configurable product without deleting the product from the catalog by using the API to send the following DELETE request using cURL.
-
-The following uses the DELETE method
+You can remove a child product from a configurable product without deleting the product from the catalog by sending the following DELETE request using cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
