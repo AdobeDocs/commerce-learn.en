@@ -14,19 +14,19 @@ level: Beginner
 
 # Create a bundle product
 
-A bundle product is a way to group several products under a parent product. These children products can be a defined set of products or offer a few variations to allow for customer flexibility. Bundle product types do take a little longer to setup and some time is needed in planning before you use them, however this type of product allows for a better shopping experience.
+A bundle product is a way to group several products under a parent product. These child products can be a defined set of products or offer a few variations that provide flexible configuration options for customers. Bundle product types do take a little longer to setup, and you need to do some planning before you configure them. However, offering bundle products improves the shopping experience by making it easier for customers to customize their product selections.
 
-For example, the website can sell a bundle of products called `Learning to surf`. This bundle product is the parent product but is simply a container for the assigned children products used as options. This `Learning to surf` bundle includes the following:
+For example, you can offer a product bundle called `Learning to surf` in your web store. The bundle is the parent product that serves as a container for the assigned child products that specify available options:
 
 - A standard surfboard
-- A typical Surfboard leash
+- A typical surfboard leash
 - Red surfboard fins
 
 However at times a bit flexibility is helpful to the customer. This does require a slightly more complex use of options that are some extra children products but the purpose is to provide some options:
 
 - A standard surfboard
-- A typical Surfboard leash
-- Choose the fin color
+- A typical surfboard leash
+- Choose the fin color:
   - Red
   - Blue
   - Yellow
@@ -43,10 +43,10 @@ Use the REST API to create a bundle product:
 1. Create simple products for use in the bundle product.
 1. Create a bundle product and associate the simple products.
 1. Get the bundle product and all the associated options.
-1. Delete an option from one section of the bundle products
+1. Delete an option from one section of the bundle products.
 1. Restore the options for a bundle product.
 
-When creating bundle products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard. 
+When creating bundle products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool to create simple products using a wizard. 
 
 ## Who is this video for?
 
@@ -58,14 +58,13 @@ When creating bundle products from the Adobe Commerce Admin, you can either crea
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
-## Using the REST api to create all the products
+## Create products using the REST API
 
-This API is creating all the products needed in the example, five simple products, and one bundle product that has three options.
+The following API requests create all the products required to create the bundle product: five simple products, and one bundle product that has three options.
 
 Before submitting the request, update the example with values for your environment.
 
 - Change `"attribute-set": 4` to replace `4` with the attribute set ID from your environment.
-
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -305,9 +304,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Get a bundle product using cURL
 
-You can get the bundle product and all associated options.
-
-The following uses the GET method
+Get the bundle product and all associated options by submitting the following GET request using cURL.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/beginner-surfboard' \
@@ -316,7 +313,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/beginner-surfboard' 
 
 ## Delete or remove an option from a bundle product
 
-You can remove a child product from a bundle product without deleting the product from the catalog by sending the following DELETE request using cURL.
+Remove a child product from a bundle product without deleting the product from the catalog by sending the following DELETE request using cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-products/beginner-surfboard/options/35/children/blue-fins-and-fin-plugs' \
@@ -324,11 +321,11 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 --header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3'
 ```
 
-## Add back the product options
+## Restore product options
 
-The main thing to remember for adding back a set of options is to do all the options you want placed on this product. If your original set of options contained three products, and one was removed. For the third option to return, it would require that all three options are part of the POST api. 
+When updating bundle product options, make sure to include all the options you want to associate with this product. If your original set of options contained three products and one was removed, include all three options in the POST request to ensure that the product bundle specifies all the options. If you include only the option you removed, then the updated product bundle includes only that option.
 
-To know what is the option id, that information can be found when looking at the GET request for the bundle product. In the following API value that was returned, the ID fort the option_id 35 can be found.
+Locate the option ID by reviewing the response from the [GET request](#get-a-bundle-product-using-curl) for the bundle product. In the previous example, the `option_id` is `35`.
 
 ```bash
 ...
@@ -378,6 +375,7 @@ To know what is the option id, that information can be found when looking at the
             }
 ...
 ```
+Update the product bundle to add the option you removed by submitting the following POST request using cURL.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
