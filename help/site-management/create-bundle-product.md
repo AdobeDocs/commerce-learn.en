@@ -366,6 +366,7 @@ Locate the option ID by reviewing the response from the [GET request](#get-a-bun
             }
 ...
 ```
+
 Update the product bundle to add the option you removed by submitting the following POST request using cURL.
 
 ```bash
