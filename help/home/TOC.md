@@ -74,9 +74,9 @@ auto-video-transcripts: true
     + [Change a Store URL](../site-management/change-store-url.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
     + Adobe Commerce Services {#adobe-commerce-services}
-        + [Configure Service Connector](../adobe-commerce-services/configure-adobe-commerce-services-connector.md)
-        + [Configure Payment Services](../adobe-commerce-services/configure-adobe-payment-services.md)
-        + [Use Payment Services](../adobe-commerce-services/payment-services.md)
+        + [Configure Service Connector](../site-management/configure-adobe-commerce-services-connector.md)
+        + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
+        + [Use Payment Services](../site-management/payment-services.md)
 + Customer Management {#customers}
     + [Create Customer Segments](../site-management/customer-segments.md)
     + [Create Customer Groups](../site-management/customer-groups.md)
