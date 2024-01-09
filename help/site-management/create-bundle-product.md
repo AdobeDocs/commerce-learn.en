@@ -14,7 +14,7 @@ level: Beginner
 
 # Create a bundle product
 
-A bundle product is a way to group several products under a parent product. These child products can be a defined set of products or offer a few variations that provide flexible configuration options for customers. Bundle product types do take a little longer to setup, and you need to do some planning before you configure them. However, offering bundle products improves the shopping experience by making it easier for customers to customize their product selections.
+A bundle product is a way to group several products under a parent product. These child products can be a defined set of products or offer a few variations that provide flexible configuration options for customers. Bundle product types do take a little longer to set up, and you must do some planning before you configure them. However, offering bundle products improves the shopping experience by making it easier for customers to customize their product selections.
 
 For example, you can offer a product bundle called `Learning to surf` in your web store. The bundle is the parent product that serves as a container for the assigned child products that specify available options:
 
@@ -22,7 +22,7 @@ For example, you can offer a product bundle called `Learning to surf` in your we
 - A typical surfboard leash
 - Red surfboard fins
 
-However at times a bit flexibility is helpful to the customer. This does require a slightly more complex use of options that are some extra children products but the purpose is to provide some options:
+When additional flexibility is desired, to allow for several options of child products is recommended. This requires a more complex use of options and child products. To expand on the previous example, the final options are:
 
 - A standard surfboard
 - A typical surfboard leash
@@ -302,15 +302,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Get a bundle product using cURL
-
-Get the bundle product and all associated options by submitting the following GET request using cURL.
-
-```bash
-curl --location '{{your.url.here}}/rest/default/V1/products/beginner-surfboard' \
---header 'Authorization: Bearer {{Your Bearer Token}}'
-```
-
 ## Delete or remove an option from a bundle product
 
 Remove a child product from a bundle product without deleting the product from the catalog by sending the following DELETE request using cURL.
@@ -323,7 +314,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## Restore product options
 
-When updating bundle product options, make sure to include all the options you want to associate with this product. If your original set of options contained three products and one was removed, include all three options in the POST request to ensure that the product bundle specifies all the options. If you include only the option you removed, then the updated product bundle includes only that option.
+When updating bundle product options, make sure to include all the options you want to associate with this product. If your original set of options contained three products and one was removed, include all three options in the POST request to ensure that the product bundle specifies all the options. If you included only the option you removed, then the updated product bundle includes only that option.
 
 Locate the option ID by reviewing the response from the [GET request](#get-a-bundle-product-using-curl) for the bundle product. In the previous example, the `option_id` is `35`.
 
