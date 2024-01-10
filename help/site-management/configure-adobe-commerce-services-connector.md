@@ -1,6 +1,6 @@
 ---
-title: Configure Adobe Commerce services connector and frequently asked questions
-description: Learn how to configure the Adobe Services connector for use with SaaS products from Adobe Commerce. Learn some common issues and how to resolve them.
+title: Configure Adobe Commerce Services Connector
+description: Learn how to configure the Adobe Commerce Services Connector for use with Commerce SaaS products and learn how to resolve common issues.
 doc-type: video
 audience: all
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 ---
-# Learn how Configure the Adobe Commerce Services Connector
+# Configure the Adobe Commerce Services Connector
 
-To get started using Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps. For help getting started, Watch the following video and learn how to configure Payment Services for Adobe Commerce video .
+To use Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps. Watch the following video to learn how to configure Payment Services for Adobe Commerce.
 
 ## Who is this video for?
 
@@ -23,15 +23,15 @@ To get started using Payment Services for Adobe Commerce and Magento Open Source
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425957?learn=on)
 
-## Adobe Commerce Services configuration FAQ
+## Configuration FAQs
 
-The Commerce Services Connector is a configuration developed by Adobe that unlocks various SaaS functionalities. To help you with the Commerce Services Configuration, here are a few of the top frequently asked questions to provide some additional support to get started:
+The Commerce Services Connector is a configuration developed by Adobe that unlocks various SaaS functionalities. These are some of the most frequently asked questions regarding configuration:
 
 - Fix invalid or public keys.
 - Rotate your store's API key.
 - Navigate the SaaS Identifier step of setting up the Commerce Service Connector.
-- Troubleshoot the sandbox button when onboarding Payment Services
-- Why your Commerce Service Connector isn't loading in the UI.
+- Troubleshoot the sandbox button when onboarding Payment Services.
+- Commerce Service Connector not loading in the UI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 

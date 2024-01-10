@@ -1,6 +1,6 @@
 ---
-title: Configure Adobe Commerce Payment Service
-description: Learn how to configure the Adobe Commerce Payment Services.
+title: Configure Adobe Commerce Payment Services
+description: Learn how to configure Adobe Commerce Payment Services.
 doc-type: video
 audience: all
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 ---
-# Learn how to configure Payment Services for Adobe Commerce
+# Configure Payment Services for Adobe Commerce
 
-o    To get started using Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps, watch the How to Configure Payment Services for Adobe Commerce video for examples of how to get started.
+To use Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps. See the following video to learn more about required onboarding steps.
 
 ## Who is this video for?
 
