@@ -31,8 +31,7 @@ When additional flexibility is desired, to allow for several options of child pr
   - Blue
   - Yellow
 
-
-Whether the bundle is a static group of simple products or several products with variations promoting, the flexible configuration options make bundle product types a unique and powerful merchandising tool for the Adobe Commerce store.
+Whether the bundle is a static group of simple products or several products with variations, the flexible configuration options make bundle product types a unique and powerful merchandising tool for the Adobe Commerce store.
 
 Before creating a bundle product, verify that all the simple products to include in the bundle product are available in Adobe Commerce. Create any that do not exist.
 
@@ -183,7 +182,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create a bundle product and assign the simple products as options
 
-Create an empty bundle product by sending the following POST request.
+Create a bundle product by sending the following POST request.
 
 Before submitting the request, update the example with values for your environment.
 
@@ -367,7 +366,7 @@ Locate the option ID by reviewing the response from creation for the bundle prod
 ...
 ```
 
-Update the product bundle to add the option you removed by submitting the following POST request using cURL.
+Update the product bundle to add the option you removed by submitting the following POST request.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
