@@ -32,7 +32,7 @@ When additional flexibility is desired, to allow for several options of child pr
   - Yellow
 
 
-Whether the bundle is a static group of simple products or several products with variations promoting flexibility, the flexibility and configurations options make bundle product types a unique and powerful option for the Adobe Commerce store.
+Whether the bundle is a static group of simple products or several products with variations promoting, the flexible configuration options make bundle product types a unique and powerful merchandising tool for the Adobe Commerce store.
 
 Before creating a bundle product, verify that all the simple products to include in the bundle product are available in Adobe Commerce. Create any that do not exist.
 
