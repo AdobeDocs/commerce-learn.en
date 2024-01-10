@@ -316,7 +316,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 When updating bundle product options, make sure to include all the options you want to associate with this product. If your original set of options contained three products and one was removed, include all three options in the POST request to ensure that the product bundle specifies all the options. If you included only the option you removed, then the updated product bundle includes only that option.
 
-Locate the option ID by reviewing the response from the [GET request](#get-a-bundle-product-using-curl) for the bundle product. In the previous example, the `option_id` is `35`.
+Locate the option ID by reviewing the response from creation for the bundle product. In the that response, the `option_id` is `35`.
 
 ```json
 ...
