@@ -26,7 +26,7 @@ When additional flexibility is desired, to allow for several options of child pr
 
 - A standard surfboard
 - A typical surfboard leash
-- Choose the fin color:
+- Choice of fin color:
   - Red
   - Blue
   - Yellow
@@ -38,7 +38,7 @@ Before creating a bundle product, verify that all the simple products to include
 
 In this tutorial, learn how to create a bundle product using the REST API and the Adobe Commerce Admin. 
 
-Use the REST API to create a bundle product:
+Use the REST API to define a bundle product:
 
 1. Create simple products for use in the bundle product.
 1. Create a bundle product and associate the simple products.
@@ -58,9 +58,9 @@ When creating bundle products from the Adobe Commerce Admin, you can either crea
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
-## Create products using the REST API
+## Create products with REST
 
-The following API requests create all the products required to create the bundle product: five simple products, and one bundle product that has three options.
+The following commands create all the products required to define the bundle product in this example: five simple products, and one bundle product that has three options.
 
 Before submitting the request, update the example with values for your environment.
 
@@ -181,9 +181,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Create a bundle product and assign the simple products as options using cURL
+## Create a bundle product and assign the simple products as options
 
-Create an empty bundle product by sending the following POST request using cURL.
+Create an empty bundle product by sending the following POST request.
 
 Before submitting the request, update the example with values for your environment.
 
@@ -302,7 +302,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Delete or remove an option from a bundle product
+## Delete an option from a bundle product
 
 Remove a child product from a bundle product without deleting the product from the catalog by sending the following DELETE request using cURL.
 
@@ -318,7 +318,7 @@ When updating bundle product options, make sure to include all the options you w
 
 Locate the option ID by reviewing the response from the [GET request](#get-a-bundle-product-using-curl) for the bundle product. In the previous example, the `option_id` is `35`.
 
-```bash
+```json
 ...
 ,
             {
