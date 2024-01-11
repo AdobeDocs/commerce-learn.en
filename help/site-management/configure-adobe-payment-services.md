@@ -21,7 +21,7 @@ To use Payment Services for Adobe Commerce and Magento Open Source, you must com
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3425957?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425958?learn=on)
 
 ## Additional resources
 
