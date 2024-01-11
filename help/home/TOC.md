@@ -30,6 +30,7 @@ auto-video-transcripts: true
         + [Downloadable product](../site-management/create-downloadable-product.md)
         + [Grouped product](../site-management/create-grouped-product.md)    
         + [Configurable product](../site-management/create-configurable-product.md) 
+        + [Bundle product](../site-management/create-bundle-product.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
