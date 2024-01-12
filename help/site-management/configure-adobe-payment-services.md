@@ -2,6 +2,7 @@
 title: Configure Adobe Commerce Payment Services
 description: Learn how to configure Adobe Commerce Payment Services.
 doc-type: video
+kt: 14748
 audience: all
 activity: use
 last-substantial-update: 2024-01-09
