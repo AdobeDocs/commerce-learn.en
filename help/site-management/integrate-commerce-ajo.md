@@ -14,8 +14,7 @@ thumbnail: 3426855.jpeg
 
 # Learn how to integrate Adobe Commerce and Adobe Journey Optimizer
 
-Learn how you can use the Adobe Commerce AEP Connector to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer
-
+Learn how you can use [Data Connection](https://experienceleague-review.corp.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
 
 ## Who is this video for?
 
@@ -25,7 +24,7 @@ Learn how you can use the Adobe Commerce AEP Connector to unlock Commerce data a
 
 ## Video content
 
-- Address siloed data challenges by seamlessly streaming data between Adobe Commerce and the Adobe Experience Platform, including Journey Optimizer, with the AEP Connector
+- Address siloed data challenges by seamlessly streaming data between Adobe Commerce and the Adobe Experience Platform, including Journey Optimizer, with the Data Connection
 - Take data delivered from Commerce in real time to activate and personalize customer journeys in Journey Optimizer
 - Combine Commerce data with data from additional sources. Build audiences and target them with unique messages, experiences, or offers
 - Implement this integration in just one hour with the AEP Connector, compared to the typical 20 days it takes for a custom implementation
