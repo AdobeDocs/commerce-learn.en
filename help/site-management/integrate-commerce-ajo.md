@@ -27,8 +27,8 @@ Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/
 - Address siloed data challenges by seamlessly streaming data between Adobe Commerce and the Adobe Experience Platform, including Journey Optimizer, with the Data Connection
 - Take data delivered from Commerce in real time to activate and personalize customer journeys in Journey Optimizer
 - Combine Commerce data with data from additional sources. Build audiences and target them with unique messages, experiences, or offers
-- Implement this integration in just one hour with the AEP Connector, compared to the typical 20 days it takes for a custom implementation
-- In Adobe Journey Optimizer, easily build and activate 1:1 customer journeys, using out-of-the-box events that are available with the AEP Connector
+- Implement this integration in just one hour with the Data Connection, compared to the typical 20 days it takes for a custom implementation
+- In Adobe Journey Optimizer, easily build and activate 1:1 customer journeys, using out-of-the-box events that are available with the Data Connection
 - Engage with shoppers across all channels in real-time using Adobe Journey Optimizer's native messaging capabilities
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
