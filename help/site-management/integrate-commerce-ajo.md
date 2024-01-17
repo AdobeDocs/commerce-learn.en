@@ -14,7 +14,6 @@ thumbnail: 3426855.jpeg
 
 # Learn how to integrate Adobe Commerce and Adobe Journey Optimizer
 
-What to expect from this video:
 Learn how you can use the Adobe Commerce AEP Connector to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer
 
 
