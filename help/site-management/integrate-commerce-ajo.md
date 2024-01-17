@@ -14,7 +14,7 @@ thumbnail: 3426855.jpeg
 
 # Learn how to integrate Adobe Commerce and Adobe Journey Optimizer
 
-Learn how you can use [Data Connection](https://experienceleague-review.corp.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
+Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
 
 ## Who is this video for?
 
