@@ -107,7 +107,7 @@ auto-video-transcripts: true
     + [Set Up Product Recommendations](../site-management/product-recommendations.md)
     + [Introduction to Live Search](../site-management/live-search.md)
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
-    
+    + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
 + Orders and Fulfillment {#orders}
     + [Store Fulfillment Overview](../site-management/store-fulfillment.md)
     + [Manage Order Status](../site-management/order-status.md)
