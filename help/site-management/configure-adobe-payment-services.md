@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 ---
 # Configure Payment Services for Adobe Commerce
 
-To get started using Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps, watch the How to Configure Payment Services for Adobe Commerce video for examples of how to get started.
+To get started using Payment Services for Adobe Commerce and Magento Open Source, you must complete a few onboarding steps. Watch the _Configure Payment Services for Adobe Commerce_ video for examples of how to get started.
 
 ## Who is this video for?
 
