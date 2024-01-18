@@ -10,6 +10,7 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
 ---
 # Configure the Adobe Commerce Services Connector
 

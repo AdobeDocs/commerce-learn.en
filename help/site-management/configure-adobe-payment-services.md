@@ -10,6 +10,7 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
 ---
 # Configure Payment Services for Adobe Commerce
 

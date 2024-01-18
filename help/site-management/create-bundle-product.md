@@ -10,8 +10,8 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
 ---
-
 # Create a bundle product
 
 A bundle product is a way to group several products under a parent product. These child products can be a defined set of products or offer a few variations that provide flexible configuration options for customers. Bundle product types do take a little longer to set up, and you must do some planning before you configure them. However, offering bundle products improves the shopping experience by making it easier for customers to customize their product selections.

@@ -10,8 +10,8 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
 ---
-
 # Create a configurable product
 
 A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
