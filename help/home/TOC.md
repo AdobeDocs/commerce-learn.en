@@ -74,6 +74,7 @@ auto-video-transcripts: true
     + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
     + [Change a Store URL](../site-management/change-store-url.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
     + Adobe Commerce Services {#adobe-commerce-services}
         + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
         + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
