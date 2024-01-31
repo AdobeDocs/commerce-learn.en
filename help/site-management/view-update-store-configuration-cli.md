@@ -1,6 +1,6 @@
 ---
 title: - Learn how to view and set admin configurations using command line
-description: A demo for how to view and set config values using the command line $ php bin/magento config:set admin/security/password_is_forced 0Value was saved.$ php bin/magento cache:flush
+description: A demo for how to view and set config values using the command line
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
