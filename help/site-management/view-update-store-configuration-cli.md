@@ -1,5 +1,5 @@
 ---
-title: - Learn how to view and set admin configurations using command line
+title: Learn how to view and set admin configurations using command line
 description: A demo for how to view and set config values using the command line
 feature: Configuration,Console,System
 topic: Administration,Commerce
