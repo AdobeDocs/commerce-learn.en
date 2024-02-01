@@ -10,6 +10,7 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
+duration: 579
 ---
 # Create a gift card product
 
