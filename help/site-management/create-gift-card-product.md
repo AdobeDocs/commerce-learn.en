@@ -28,7 +28,7 @@ Learn how to create a gift card product using the REST API and the Adobe Commerc
 
 ## Create a gift card with a simple payload
 
-Create the gift card by using the API to send the following POST request using cURL. 
+This example comes directly from the video tutorial. This is somewhat smaller as compared to the other example where it shows all the available options. If this code sample is used, the gift card created will be exactly like the one demonstrated in the video with the subsequent fields and options.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -138,7 +138,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Create a gift card with a full payload using curl
 
-In case you wanted to know how many attributes you can configure, this is a full payload with default values. This shows how specific the API can be, or use the default values and processes.
+The following example shows the POST request to create a gift card with a full payload that includes all configurable attributes with default values. It shows how many attributes you can customize if you do not want to use the default values and processes.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
