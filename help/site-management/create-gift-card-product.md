@@ -317,6 +317,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 ```
 
 ## Additional resources
+
 - [Create a gift card product from the Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 
 - [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
