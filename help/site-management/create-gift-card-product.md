@@ -26,7 +26,9 @@ Learn how to create a gift card product using the REST API and the Adobe Commerc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
-## Create a gift card with a simple payload using curl
+## Create a gift card with a simple payload
+
+Create the gift card by using the API to send the following POST request using cURL. 
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -315,6 +317,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 ```
 
 ## Additional resources
+- [Create a gift card product from the Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 
 - [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
