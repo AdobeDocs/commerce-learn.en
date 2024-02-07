@@ -31,6 +31,7 @@ auto-video-transcripts: true
         + [Grouped product](../site-management/create-grouped-product.md)    
         + [Configurable product](../site-management/create-configurable-product.md) 
         + [Bundle product](../site-management/create-bundle-product.md)
+        + [Gift Card product](../site-management/create-gift-card-product.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
