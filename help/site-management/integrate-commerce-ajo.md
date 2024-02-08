@@ -1,6 +1,6 @@
 ---
-title: Learn how to integrate Adobe Commerce and Adobe Journey Optimizer
-description: Learn why and how an integration between Adobe Commerce and Adobe Journey Optimizer can be implemented
+title: Integrate Adobe Commerce and Adobe Journey Optimizer
+description: Learn why and how an integration between Adobe Commerce and Adobe Journey Optimizer can be implemented.
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
@@ -12,9 +12,9 @@ jira: KT-14793
 thumbnail: 3426855.jpeg
 exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
 ---
-# Learn how to integrate Adobe Commerce and Adobe Journey Optimizer
+# Integrate Adobe Commerce and Adobe Journey Optimizer
 
-Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
+Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
 
 ## Who is this video for?
 
