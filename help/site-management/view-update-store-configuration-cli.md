@@ -1,6 +1,6 @@
 ---
-title: Learn how to view and set admin configurations using command line
-description: A demo for how to view and set config values using the command line
+title: View and set admin configurations using the command line
+description: Learn how to view and set admin configurations using command line.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -12,7 +12,7 @@ jira: KT-14877
 thumbnail: KT-14877.jpeg
 ---
 
-# Learn how to view and set admin configurations using the command line
+# View and set admin configurations using the command line
 
 A demonstration for how to view, set, and find config values with the Commerce CLI. Understand where the values are saved and also where the default values come from.
 
