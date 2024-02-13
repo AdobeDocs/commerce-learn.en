@@ -149,6 +149,7 @@ auto-video-transcripts: true
     + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
     + [MySQL query cache](../backend-development/mysql-query-cache.md)
     + [PT Query Digest](../backend-development/pt-query-digest.md)
+    + [Connecting to and downloading the Adobe Commerce Database](../backend-development/remote-db-connection-execute-queries.md)
 + Native Front-end Luma Development {#frontend-development}
     + Page Builder for Developers {#page-builder}
         + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
