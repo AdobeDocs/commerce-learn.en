@@ -283,15 +283,15 @@ Accessing the MariaDB database directly requires you to use an SSH to log in to 
    ],
    ```
 
- Then use the configuration values to enter into your Mysql GUI, in this screenshot it is using Mysql Workbench, but any GUI that is meant for Mysql connections will have similar input fields.
+ Then use the configuration values in your MySQL GUI. The following example uses MySQL Workbench, but any app that supports MySQL connections will have similar fields.
 
 ![logo - Mysql GUI example using Mysql Workbench](./assets/mysqlworkbench-screenshot.png " Mysql GUI example using Mysql Workbench")
 
-AFter everything is setup, it is possible to use a Mysql GUI to run queries on a remote Adobe Commerce Cloud project.
+After everything is set up, it is possible to use a MySQL GUI to run queries on a remote Adobe Commerce Cloud project.
  
 ## Connecting directly to the cloud project database to run SQL
 
-This approach will allow the direct connection to the mysql database, and run SQL. This uses the `magento-cloud` cli. The main benefit for this is quick access to query the database. If you need a copy of this database, please follow one of the other methods to creating the db dump found earlier in this tutorial.
+The following method uses the `magento-cloud` cli to directly connect to the mysql database and run SQL, which allows for faster database querying. If you need to copy this database, refer to one of the alternative methods to [create a database dump]().
 
 ```bash
 magento-cloud db:sql    
@@ -317,7 +317,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-For example you can find all the records from the `core_config_data` table that contain the word `secure` as part of the column `path`:
+For example, you can find all the records from the `core_config_data` table that contain the word `secure` as part of the column `path`:
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
