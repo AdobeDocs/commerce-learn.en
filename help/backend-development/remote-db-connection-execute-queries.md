@@ -19,13 +19,13 @@ Learn several methods for connecting to an Adobe Commerce on cloud project. Lear
  
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 
-* Using a DB dump to use locally
+* Using a local DB dump
 * A remote DB connection to your cloud instance
 * Connecting directly to the cloud instance with the magento-cloud cli and running commands directly on the project
  
-The preferred method is to do a db dump, scrub it to remove any real customer information. Remove the customer data entirely if the data is not needed.  
+The preferred method is to do a database dump and scrub it to remove any customer information. Remove the customer data entirely if the data is not needed.  
 
-## Using the Adobe Commerce Cloud cli
+## Using the Adobe Commerce Cloud CLI tool
 
 For creating a db dump, if you have the Adobe Commerce Cloud cli installed it is an easy task. On your local laptop, go to a directory and run a similar command. Be sure to swap out "your-project-id" with the project ID it looks something like `asasdasd45q` and the environment name is usually "master" or "staging" but could be anything so make sure you verify it ahead of time.
  
