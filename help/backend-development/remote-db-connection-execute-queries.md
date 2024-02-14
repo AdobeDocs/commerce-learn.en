@@ -303,6 +303,8 @@ Accessing the MariaDB database directly requires using SSH to log in to the remo
 
 ![logo - Mysql GUI example using Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Mysql GUI example using Mysql Workbench")
 
+![logo - Mysql GUI example using TablesPlus](./assets/tablesPlus-db-connection.png " Mysql GUI example using TablesPlus")
+
 After everything is set up, it is possible to use a MySQL GUI to run queries on a remote Adobe Commerce Cloud project.
  
 ## Connecting directly to the cloud project database to run SQL
