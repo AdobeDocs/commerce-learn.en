@@ -14,7 +14,7 @@ thumbnail: KT-14910.jpeg
 
 # Learn how to connect and run queries against the Adobe Commerce database
 
-Learn several methods for connecting to an Adobe Commerce on cloud project. Learn how to dump a database for use offsite. Learn methods for masking PII and removing it.
+In this tutorial, you will learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
 
  
 You can access Adobe Commerce data from your cloud project using any of the following methods:
