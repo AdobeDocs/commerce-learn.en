@@ -61,7 +61,7 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 ## Using the Adobe Commerce ECE-tools
 
 If you do not have the CLI tool, you can `ssh` into your project and run the `ece` command `vendor/bin/ece-tools db-dump`:
-The resulting output will look similar to the following:
+Sample response:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -95,9 +95,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Then you have to use SFTP or rsync to pull it down to your local environment.
+Use `SFTP` or `rsync` to pull the database dump to your local environment.
 
-This is an example using rsync to pull down the file to your local folder `~/Downloads/db-tutorial`.
+The following example uses `rsync` to pull the file to the `~/Downloads/db-tutorial` folder.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -108,7 +108,7 @@ sent 38 bytes  received 2691041 bytes  358810.53 bytes/sec
 total size is 2690241  speedup is 1.00
 ```
 
-Viewing the contents to show the file was successfully downloaded.
+View the contents of the file to verify it was successfully downloaded.
 
 ```bash
 ls -lah
@@ -119,11 +119,11 @@ drwx------@ 103 russelljalbin  staff   3.2K Feb 13 12:52 ..
 -rw-r--r--    1 russelljalbin  staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
-Once you have the data, make sure you clean it up by removing or masking the customer data. Here is a sample script to help get started.
+Once you have the data, make sure you clean it up by removing or masking the customer data. The following sample script will help you get started.
  
-In this example, the goal is to turn customer data into random strings but keep all the items. There are a few extra tables in this example. The reasoning behind this is to expose the fact that customer PII can be found in core tables and also 3rd party tables. Extra care should be used when looking for customer data in every table and masking or removing the customer data. 
+This example turns customer data into random strings, but keeps all the items. This example contains a few extra tables to demonstrate that customer PII can be found in third-party tables as well as core tables. Carefully examine data in every table and mask or remove any customer data. 
 
-Typically the architect or lead developer is the only person responsible for making and sanitizing database dumps. This also lowers the amount of exposure of the raw data and as a positive side-effect lower the opportunity for violating compliance rules and regulations.
+Typically the architect or lead developer is the only person responsible for masking and sanitizing database dumps. Having a dedicated sanitizer lowers the exposure of the raw data, which reduces the opportunity for violating compliance rules and regulations.
 
 ```sql 
 SET FOREIGN_KEY_CHECKS=0;
@@ -176,9 +176,7 @@ TRUNCATE cron_schedule;
 SET FOREIGN_KEY_CHECKS=1;
 ```
 
-A good alternative is to delete the records instead of masking the information to make the new DB smaller. This helps with overall size and reduces the overall size.
-
-Once the data is masked or removed, it can safely be provided to a teammate for use on their local environment or perhaps a development environment.
+Alternatively, you can delete the records instead of masking the information, which also make the new DB smaller. Once PII is masked or removed, the data can be safely provided to a teammate for use on their local environment.
 
 ## Remote DB connection to an Adobe Commerce Cloud project
 
@@ -186,7 +184,7 @@ This method does allow for accidental editing and deletion of real data. This ap
 
  Super important! Doing a remote DB connection is convenient and using real live data but comes with risk. I personally and as a Principal Technical Architect for Adobe Commerce do not recommend it. It is too easy to forget you are on the remote DB and delete or modify data accidentally. There is an option to connect to the read-only replica, but that provides some impact to the site depending on how heavy the SQL activities are. However, since it is possible, these are the steps to accomplish it.
 
- Start with establishing an ssh tunnel
+Establish an SSH tunnel:
 
  `magento-cloud tunnel:open`
 
