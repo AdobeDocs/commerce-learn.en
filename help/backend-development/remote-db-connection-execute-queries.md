@@ -210,7 +210,7 @@ SSH tunnel opened to redis at: redis://127.0.0.1:30001
 SSH tunnel opened to opensearch at: http://127.0.0.1:30002
 SSH tunnel opened to rabbitmq at: amqp://guest:guest@127.0.0.1:30003
 
-Logs are written to: /Users/russelljalbin/.magento-cloud/tunnels.log
+Logs are written to: /Users/<user>/.magento-cloud/tunnels.log
 
 List tunnels with: magento-cloud tunnels
 View tunnel details with: magento-cloud tunnel:info
@@ -221,17 +221,17 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
 
 ```
 
-In the previous example output, the section that is useful for using a Mysql Graphical interface connection is:
+Establish a connection using a MySQL graphical interface by using the `SSH tunnel opened to database at` command option.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-Now that we have the right information let's continue to insert these values into our GUI.
+Now that you have the right information, continue to insert these values into the Cloud Console.
 
-For the SSH hostname and username, you get that from the cloud credentials in the Cloud UI
+You can find the SSH hostname and username from the cloud credentials in the Cloud Console.
 
-![logo - Adobe Commerce Cloud UI](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud UI")
+![logo - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Here is one example: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 The SSH hostname, it is everything after the @ sign: `ssh.us-4.magento.cloud`
