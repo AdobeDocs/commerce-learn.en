@@ -234,12 +234,12 @@ You can find the SSH hostname and username from the cloud credentials in the Clo
 ![logo - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Here is one example: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-The SSH hostname, it is everything after the @ sign: `ssh.us-4.magento.cloud`
+The SSH hostname is everything after the @ sign: `ssh.us-4.magento.cloud` in this example.
 The SSH Username is everything before the @ sign:  `abasrpikfw4123-remote-db-ecpefky—mymagento`
  
-## Finding the values to be used when connecting to the database
+## Finding values to connect to the database
 
-Accessing the MariaDB database directly requires you to use an SSH to log in to the remote Cloud environment, and connect to the database.
+Accessing the MariaDB database directly requires using SSH to log in to the remote Cloud environment and connect to the database.
 
 1. Use SSH to log in to the remote environment.
 
