@@ -28,13 +28,12 @@ The preferred method is to do a database dump and scrub it to remove any custome
 ## Using the Adobe Commerce Cloud CLI tool
 
 For creating a db dump, if you have the Adobe Commerce Cloud cli installed it is an easy task. On your local laptop, go to a directory and run a similar command. Be sure to swap out "your-project-id" with the project ID it looks something like `asasdasd45q` and the environment name is usually "master" or "staging" but could be anything so make sure you verify it ahead of time.
- 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
  
- If you are not sure of the project ID or the environment, you can omit these in the command. The command is:
+If you are not sure of the project ID or the environment, you can omit these in the command:
 
- `magento-cloud db:dump` 
- 
+`magento-cloud db:dump`
+
  The application asks a set of questions to pick the correct project and environment.
 
  Here is a sample of that dialog and responses. It is likely there is only one project in the available options, however this example was set up to show it is possible to have several projects assigned to your account.
@@ -56,12 +55,12 @@ Default: master
   [1] remote-db (type: development)
  > 1
 
-Creating SQL dump file: /Users/russelljalbin/Downloads/db-tutorial/abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
 ```
 
-## Using the Adobe Commerce ECE tool
+## Using the Adobe Commerce ECE-tools
 
-If you don't have the cli tool, you can ssh into your project and run the ece command `vendor/bin/ece-tools db-dump`
+If you do not have the CLI tool, you can `ssh` into your project and run the `ece` command `vendor/bin/ece-tools db-dump`:
 The resulting output will look similar to the following:
 
 ```bash
