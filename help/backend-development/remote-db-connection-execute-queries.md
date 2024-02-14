@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-12
+last-substantial-update: 2024-02-14
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 ---
@@ -27,7 +27,7 @@ The preferred method is to do a database dump and scrub it to remove any custome
 
 ## Using the Adobe Commerce Cloud CLI tool
 
-For creating a db dump, if you have the Adobe Commerce Cloud cli installed it is an easy task. On your local laptop, go to a directory and run a similar command. Be sure to swap out "your-project-id" with the project ID it looks something like `asasdasd45q` and the environment name is usually "master" or "staging" but could be anything so make sure you verify it ahead of time.
+For creating a db dump, if you have the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed it is an easy task. On your local laptop, go to a directory and run a similar command. Be sure to swap out "your-project-id" with the project ID it looks something like `asasdasd45q` and the environment name is usually "master" or "staging" but could be anything so make sure you verify it ahead of time.
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
  
 If you are not sure of the project ID or the environment, you can omit these in the command:
@@ -36,11 +36,21 @@ If you are not sure of the project ID or the environment, you can omit these in 
 
 The CLI asks you to specify the correct project and environment. The following example displays that dialogue. This example shows several projects assigned to your account, but you will likely have only one project available.
 
+Change into a directory
+
 ```bash
 cd ~/Downloads/db-tutorial 
+```
 
+Now execute the command to create the database dump
+
+```bash
 magento-cloud db:dump
+```
 
+Because we did not specify a project or environment, the Adobe Commerce CLI will ask a few questions, here is some example dialog
+
+```bash
 Enter a number to choose a project:
   [0] demo-ralbin (ral32nryq4123)
   [1] adobe-commerce-demo (abc123zzkipexnqo)
@@ -58,7 +68,7 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Using the Adobe Commerce ECE-tools
 
-If you do not have the CLI tool, you can `ssh` into your project and run the `ece` command `vendor/bin/ece-tools db-dump`:
+If you do not have the Adobe Commerce CLI tool, you can `ssh` into your project and run the `ece` command `vendor/bin/ece-tools db-dump`:
 Sample response:
 
 ```bash
@@ -96,6 +106,12 @@ Connection to ssh.us-4.magento.cloud closed.
 Use `SFTP` or `rsync` to pull the database dump to your local environment.
 
 The following example uses `rsync` to pull the file to the `~/Downloads/db-tutorial` folder.
+
+```bash
+rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
+```
+
+The terminal window will output some information, here is some example output
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -184,7 +200,9 @@ This method does allow for accidental editing and deletion of real data. This ap
 
 Establish an SSH tunnel:
 
- `magento-cloud tunnel:open`
+ ```bash
+ magento-cloud tunnel:open
+ ```
 
 After the project is chosen and the environment is picked, there is output from the command that is used in the settings for the mysql graphical interface.
 
@@ -289,7 +307,7 @@ After everything is set up, it is possible to use a MySQL GUI to run queries on 
  
 ## Connecting directly to the cloud project database to run SQL
 
-The following method uses the `magento-cloud` cli to directly connect to the mysql database and run SQL, which allows for faster database querying. If you need to copy this database, refer to one of the alternative methods to [create a database dump]().
+The following method uses the `magento-cloud` cli to directly connect to the mysql database and run SQL, which allows for faster database querying. If you need to copy this database, refer to one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -347,8 +365,9 @@ ERROR: No query specified
 MariaDB [main]> 
 ```
 
-## Useful resources
- 
+## Additional resources
+
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
 [Set up MySQL service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Set up a remote MySQL database connection](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
