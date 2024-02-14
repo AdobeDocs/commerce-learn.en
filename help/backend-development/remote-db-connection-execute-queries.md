@@ -34,9 +34,7 @@ If you are not sure of the project ID or the environment, you can omit these in 
 
 `magento-cloud db:dump`
 
- The application asks a set of questions to pick the correct project and environment.
-
- Here is a sample of that dialog and responses. It is likely there is only one project in the available options, however this example was set up to show it is possible to have several projects assigned to your account.
+The CLI asks you to specify the correct project and environment. The following example displays that dialogue. This example shows several projects assigned to your account, but you will likely have only one project available.
 
 ```bash
 cd ~/Downloads/db-tutorial 
