@@ -23,11 +23,12 @@ You can access Adobe Commerce data from your cloud project using any of the foll
 * A DB connection to your remote cloud environment using an application such as Mysql Workbench or Tables Plus
 * Connect directly to the cloud environment using the magento-cloud CLI tool and run commands on the remote server
  
-The preferred method is to do a database dump and scrub it to remove any customer information. Remove the customer data entirely if the data is not needed.  
+The preferred method is to do a database dump and scrub it to remove any customer information. Remove the customer data entirely if the data is not needed.
 
 ## Using the Adobe Commerce Cloud CLI tool
 
-For creating a db dump, if you have the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed it is an easy task. On your local laptop, go to a directory and run a similar command. Be sure to swap out "your-project-id" with the project ID it looks something like `asasdasd45q` and the environment name is usually "master" or "staging" but could be anything so make sure you verify it ahead of time.
+Creating a database dump requires you to have the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed. On your local laptop, go to a directory and run the following command. Be sure to replace `your-project-id` with the project ID, which is similar to `asasdasd45q`. You also need to replace `your-environment-name` with the name of your environment, such as `master` or `staging`.
+
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
  
 If you are not sure of the project ID or the environment, you can omit these in the command:
@@ -299,7 +300,7 @@ Accessing the MariaDB database directly requires using SSH to log in to the remo
    ],
    ```
 
- Then use the configuration values in your MySQL GUI. The following example uses MySQL Workbench, but any app that supports MySQL connections will have similar fields.
+Then use the configuration values in your MySQL GUI. The following example uses MySQL Workbench, but any app that supports MySQL connections will have similar fields.
 
 ![logo - Mysql GUI example using Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Mysql GUI example using Mysql Workbench")
 
