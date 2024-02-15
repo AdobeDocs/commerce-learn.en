@@ -128,10 +128,10 @@ View the contents of the file to verify it was successfully downloaded.
 ```bash
 ls -lah
 total 29840
-drwxr-xr-x    4 russelljalbin  staff   128B Feb 13 13:02 .
-drwx------@ 103 russelljalbin  staff   3.2K Feb 13 12:52 ..
--rw-r--r--    1 russelljalbin  staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
--rw-r--r--    1 russelljalbin  staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
+drwxr-xr-x    4 <ussername>  staff   128B Feb 13 13:02 .
+drwx------@ 103 <ussername>   staff   3.2K Feb 13 12:52 ..
+-rw-r--r--    1 <ussername>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+-rw-r--r--    1 <ussername>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
 Once you have the data, make sure you clean it up by removing or masking the customer data. The following sample script will help you get started.
