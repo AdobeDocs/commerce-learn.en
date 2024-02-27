@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerce Cloud technical onboarding and hardware handoff - Launch Process Timeline
-description: 
-feature: Cloud, 
+description: Learn about the Adobe Commerce Cloud technical onboarding for the launch process timeline.
+feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
