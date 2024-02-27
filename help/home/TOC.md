@@ -9,7 +9,7 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-    + [Technical onboarding and hardware handoff] {#technical-onboarding-hardware-handoff}
+    + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Launch process timeline](../cloud/launch-process-timeline.md)
 + Getting Started {#getting-started}
     + [!DNL Commerce] Cloud{#cloud}
