@@ -12,16 +12,6 @@ exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 
 Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), provides an opportunity to learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
-<div id="whats-new-section">
-
-## What's new
-
-- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
-- [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
-- [Introduction to GraphQL](../graphql-rest/intro-graphql.md)
-- [Locating a malicious IP](../new-relic/malicious-ip.md)
-
- </div>
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
