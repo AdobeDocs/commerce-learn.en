@@ -6,4 +6,4 @@ description: Links to related pages in Adobe Commerce Cloud technical onboarding
 
 ## Additional related tutorials
 
-* [Launch timeline process](../cloud/launch-process-timeline.md)
+- [Launch timeline process](../cloud/launch-process-timeline.md)
