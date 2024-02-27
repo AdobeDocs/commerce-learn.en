@@ -141,7 +141,7 @@ auto-video-transcripts: true
     + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
     + [Prepping for the Future](../business-intelligence/prepare-for-future.md)    
 + Commerce Upgrades {#upgrade}
-    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2.4-upgrade-workshop.md)
+    + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
     + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
     + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
 + Back-end Development {#backend-development}
