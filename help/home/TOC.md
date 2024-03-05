@@ -12,6 +12,7 @@ auto-video-transcripts: true
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Launch process timeline](../cloud/launch-process-timeline.md)
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
+        + [Fastly](../cloud/fastly.md)
 + Getting Started {#getting-started}
     + [!DNL Commerce] Cloud{#cloud}
         + [1 - Overview](../cloud/1-overview.md)
