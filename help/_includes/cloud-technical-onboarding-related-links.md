@@ -9,3 +9,4 @@ description: Links to related pages in Adobe Commerce Cloud technical onboarding
 - [Launch timeline process](../cloud/launch-process-timeline.md)
 - [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
 - [Fastly](../cloud/fastly.md)
+- [Configuration and debugging](../cloud/configuration-and-debugging.md)
