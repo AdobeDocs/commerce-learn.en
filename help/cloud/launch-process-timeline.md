@@ -11,8 +11,8 @@ last-substantial-update: 2024-02-27
 jira: KT-14941
 kt: 14941
 thumbnail: KT-14941.jpeg
+exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
 ---
-
 # Adobe Commerce Cloud technical onboarding and hardware handoff - Launch Process Timeline
 
 Learn about the Adobe Commerce Cloud technical onboarding for the launch process timeline.
