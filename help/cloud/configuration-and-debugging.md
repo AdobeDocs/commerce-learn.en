@@ -12,7 +12,7 @@ jira: KT-15019
 kt: 15019
 ---
 
-# Adobe Commerce Cloud technical onboarding and hardware handoff - configuration and debugging
+# Technical onboarding - Configuration and debugging
 
 Learn how to configure and debug the Adobe Commerce Cloud.
 
