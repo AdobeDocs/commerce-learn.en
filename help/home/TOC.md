@@ -13,6 +13,7 @@ auto-video-transcripts: true
         + [Launch process timeline](../cloud/launch-process-timeline.md)
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
         + [Fastly](../cloud/fastly.md)
+        + [Configuration and debugging](../cloud/configuration-and-debugging.md)
 + Getting Started {#getting-started}
     + [!DNL Commerce] Cloud{#cloud}
         + [1 - Overview](../cloud/1-overview.md)
