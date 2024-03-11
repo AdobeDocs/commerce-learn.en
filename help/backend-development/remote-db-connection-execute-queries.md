@@ -1,5 +1,5 @@
 ---
-title: Learn how to connect and run queries against the Adobe Commerce database
+title: Connect and run queries against the database
 description: Learn several methods for connecting to an Adobe Commerce cloud project. Learn how to pull down a db to use offsite. Learn some methods for masking PII and removing it.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -12,10 +12,9 @@ jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 ---
-# Learn how to connect and run queries against the Adobe Commerce database
+# Connect and run queries against the Adobe Commerce database
 
-In this tutorial, you will learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
-
+In this tutorial, you learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
  
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 
