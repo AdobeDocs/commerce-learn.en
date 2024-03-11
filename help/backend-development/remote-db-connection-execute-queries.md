@@ -1,5 +1,5 @@
 ---
-title: Learn how to connect and run queries against the Adobe Commerce database
+title: Connect and run queries against the database
 description: Learn several methods for connecting to an Adobe Commerce cloud project. Learn how to pull down a db to use offsite. Learn some methods for masking PII and removing it.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,12 +10,11 @@ duration: 0
 last-substantial-update: 2024-02-14
 jira: KT-14910
 thumbnail: KT-14910.jpeg
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 ---
+# Connect and run queries against the Adobe Commerce database
 
-# Learn how to connect and run queries against the Adobe Commerce database
-
-In this tutorial, you will learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
-
+In this tutorial, you learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
  
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 
@@ -374,4 +373,3 @@ MariaDB [main]>
 [Set up MySQL service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Set up a remote MySQL database connection](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
- 
