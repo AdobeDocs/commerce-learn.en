@@ -26,7 +26,7 @@ Learn how to configure and debug the Adobe Commerce Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## Experience League documentation and Fastly Adobe Commerce checker mentioned in the video
+## Experience League documentation mentioned in the video
 
 - [Configure Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Cloud Docker configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
