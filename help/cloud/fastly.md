@@ -12,7 +12,7 @@ jira: KT-15018
 kt: 15018
 exl-id: e5b82073-0905-4e25-8e15-5b66672c3e79
 ---
-# Adobe Commerce Cloud technical onboarding and hardware handoff - Fastly
+# Technical onboarding - Fastly
 
 Learn about the cloud usage of Fastly for Adobe Commerce.
 

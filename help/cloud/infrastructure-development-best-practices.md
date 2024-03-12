@@ -12,7 +12,7 @@ jira: KT-15017
 kt: 15017
 exl-id: 097561c7-5198-4544-985d-255c80a9648b
 ---
-# Adobe Commerce Cloud technical onboarding and hardware handoff - Infrastructure and development best practices
+# Technical onboarding - Infrastructure and development best practices
 
 Learn about the cloud infrastructure and some development best practices for Adobe Commerce.
 
