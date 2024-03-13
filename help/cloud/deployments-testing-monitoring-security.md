@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud Deployment strategies, testing, monitoring and security
-description: Learn about the Adobe Commerce Cloud deployment strategies, testing, monitoring and security.
+title: Adobe Commerce Cloud Deployment strategies, testing, monitoring, and security
+description: Learn about the Adobe Commerce Cloud deployment strategies, testing, monitoring, and security.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -11,9 +11,9 @@ last-substantial-update: 2024-03-08
 jira: KT-15020
 kt: 15020
 ---
-# Technical onboarding - Deployments, testing, monitoring and security
+# Technical onboarding - Deployments, testing, monitoring, and security
 
-Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring and security tools.
+Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring, and security tools.
 
 ## Who is this video for?
 
@@ -27,7 +27,7 @@ Learn about the Adobe Commerce Cloud deployment strategies, testing best practic
 
 ## Experience League documentation mentioned in the video
 
-- [Deployment porocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+- [Deployment process](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
 - [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [ECE tools smart wizard](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Security Scan](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
