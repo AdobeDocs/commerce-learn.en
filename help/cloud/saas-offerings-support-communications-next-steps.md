@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud Deployment SaaS offerings, support and other communications and some next steps
-description: Learn about the Adobe Commerce Cloud SaaS offerings, support and other communications and some next steps.
+title: Adobe Commerce Cloud Deployment SaaS offerings, support, and other communications and some next steps
+description: Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -11,9 +11,9 @@ last-substantial-update: 2024-03-12
 jira: KT-15022
 kt: 15022
 ---
-# Technical onboarding - Deployments, testing, monitoring and security
+# Technical onboarding - Deployments, testing, monitoring, and security
 
-Learn about the Adobe Commerce Cloud SaaS offerings, support and other communications and some next steps.
+Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.
 
 ## Who is this video for?
 

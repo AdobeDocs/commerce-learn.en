@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud Deployment strategies, testing, monitoring and security
-description: Learn about the Adobe Commerce Cloud deployment strategies, testing, monitoring and security.
+title: Adobe Commerce Cloud Deployment strategies, testing, monitoring, and security
+description: Learn about the Adobe Commerce Cloud deployment strategies, testing, monitoring, and security.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -11,9 +11,9 @@ last-substantial-update: 2024-03-08
 jira: KT-15020
 kt: 15020
 ---
-# Technical onboarding - Deployments, testing, monitoring and security
+# Technical onboarding - Deployments, testing, monitoring, and security
 
-Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring and security tools.
+Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring, and security tools.
 
 ## Who is this video for?
 
