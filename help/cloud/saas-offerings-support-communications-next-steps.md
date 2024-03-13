@@ -69,7 +69,7 @@ Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communic
 - [Open Search](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
 - [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
-- [Live Search and Catalog Service][https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html]
+- [Live Search and Catalog Service](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
 - [Catalog Service Price Indexing](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Shared Responsibility](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
