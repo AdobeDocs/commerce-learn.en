@@ -15,6 +15,7 @@ auto-video-transcripts: true
         + [Fastly](../cloud/fastly.md)
         + [Configuration and debugging](../cloud/configuration-and-debugging.md)
         + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
+        + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
 + Getting Started {#getting-started}
     + [!DNL Commerce] Cloud{#cloud}
         + [1 - Overview](../cloud/1-overview.md)

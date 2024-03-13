@@ -27,7 +27,7 @@ Learn about the Adobe Commerce Cloud deployment strategies, testing best practic
 
 ## Experience League documentation mentioned in the video
 
-- [Deployment porocess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+- [Deployment process](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
 - [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [ECE tools smart wizard](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Security Scan](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
