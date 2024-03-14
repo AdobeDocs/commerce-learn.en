@@ -7,10 +7,11 @@ role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-03-12
+last-substantial-update: 2024-03-14
 jira: KT-15022
 kt: 15022
 ---
+
 # Technical onboarding - Deployments, testing, monitoring, and security
 
 Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.

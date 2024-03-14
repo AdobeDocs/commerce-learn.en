@@ -17,13 +17,6 @@ auto-video-transcripts: true
         + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
         + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
 + Getting Started {#getting-started}
-    + [!DNL Commerce] Cloud{#cloud}
-        + [1 - Overview](../cloud/1-overview.md)
-        + [2 - Hosted Accounts](../cloud/2-accounts.md)
-        + [3 - Cloud Projects](../cloud/3-projects.md)
-        + [4 - Deployment](../cloud/4-deployment.md)
-        + [5 - Development](../cloud/5-dev-config.md)
-        + [6 - Services and DNS](../cloud/6-launch.md)
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
