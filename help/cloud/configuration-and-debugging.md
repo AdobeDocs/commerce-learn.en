@@ -10,8 +10,8 @@ duration: 0
 last-substantial-update: 2024-03-06
 jira: KT-15019
 kt: 15019
+exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
 ---
-
 # Technical onboarding - Configuration and debugging
 
 Learn how to configure and debug the Adobe Commerce Cloud.
