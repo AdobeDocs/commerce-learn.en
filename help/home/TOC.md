@@ -16,6 +16,8 @@ auto-video-transcripts: true
         + [Configuration and debugging](../cloud/configuration-and-debugging.md)
         + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
         + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
+    + Best Practices {#commerce-cloud-best-practices}
+        + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
@@ -134,6 +136,7 @@ auto-video-transcripts: true
     + New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
+    + [Getting Started](../business-intelligence/getting-started.md)
     + [Filter Sets](../business-intelligence/filter-sets.md)
     + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
     + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
