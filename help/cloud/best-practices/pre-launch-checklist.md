@@ -21,8 +21,8 @@ kt: 15180
 >
 >[!ENDSHADEBOX]
 
-> [!NOTE]
-> _You_ _accept_ [_responsibility_](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-shared-responsibility-guide.pdf) _for any adverse effects and associated risks to your Production launch schedule and ongoing site_ _stability, if you fail to use and complete this checklist._
+>[!IMPORTANT]
+>_You_ _accept_ [_responsibility_](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-shared-responsibility-guide.pdf) _for any adverse effects and associated risks to your Production launch schedule and ongoing site_ _stability, if you fail to use and complete this checklist._
 
 ## 1. Pre-Go Live
 
@@ -34,7 +34,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 
 1. [ ] Review our documentation about testing and going live ([Site launch documentation](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html))
     >[!NOTE]
-    > Ensure a comprehensive _"go live readiness plan"_ is fully prepared with your Partner/SI, incorporating all necessary action items. Remember, while the pre-launch checklist emphasizes Adobe's best practices, it _**does not**_ replace the need for your own go-live readiness plan.
+    >Ensure a comprehensive _"go live readiness plan"_ is fully prepared with your Partner/SI, incorporating all necessary action items. Remember, while the pre-launch checklist emphasizes Adobe's best practices, it _**does not**_ replace the need for your own go-live readiness plan.
 2. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=en))
 3. [ ] End user/merchant conducted UAT (User Acceptance Testing), including backend operations.
 4. [ ] System integrator team has performed end-to-end UAT on Staging and Production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production.html).
@@ -94,10 +94,10 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 1. [ ] Test Outgoing Emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html).
 2. [ ] Any blockers with Adobe?
 3. [ ] Perform Load and Stress testing on Production instance before going live and share results with your CTA/CSE.
-    > [!NOTE]
+    >[!NOTE]
     > A [load and stress test serves the purpose](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/guidance.html?lang=en#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.) of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
     
-    > [!IMPORTANT]
+    >[!IMPORTANT]
     > **_WARNING:_** _When preparing a load test please_ **_do not_** _send out live transaction emails (even to dummy addresses). Sending emails during testing can cause your project to reach the default send limit (12k) configured for SendGrid prior to launch. 
     > 
     > How to disable email communication:
@@ -112,8 +112,8 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 3. [ ] Confirm that [SEO (Search Engine Optimization) configurations are properly set up](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html?lang=en) to enable indexers/crawlers to scan your website, if relevant.
 4. [ ] Add redirects and routes (see [Configure routes](https://devdocs.magento.com/cloud/project/routes.html))
     
-    > [!NOTE]
-    > Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
+    >[!NOTE]
+    >Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
     
         ```yaml
         "http://{all}/":
@@ -133,7 +133,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 ## 9. Security
 
 1. [ ] Setup your Adobe Commerce Security Scan
-    > [!NOTE]
+    >[!NOTE]
     > [Adobe Commerce Security Scan is a useful tool](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html) that helps discover outdated software versions, incorrect configuration, and potential malware on your site. Sign up, schedule it to run often, and make sure emails are sent to the right technical security contact.
     > 
     > Complete this task during UAT. If you use the periodic scans option, be sure to schedule scans at low demand times. See the [Security Scan](https://account.magento.com/scanner/index/dashboard/) page in your Adobe Commerce Account. You must log in to Adobe Commerce account to access the Security Scan.
