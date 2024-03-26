@@ -24,7 +24,7 @@ kt: 15180
 > [!NOTE]
 > _You_ _accept_ [_responsibility_](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-shared-responsibility-guide.pdf) _for any adverse effects and associated risks to your Production launch schedule and ongoing site_ _stability, if you fail to use and complete this checklist._
 
-# 1. Pre-Go Live
+## 1. Pre-Go Live
 
 At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please contact your CTA/CSE and Account Manager to notify them of your **_intention_** to launch.
 
@@ -41,13 +41,13 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 5. [ ] Confirm code deployment and testing in Staging and Production Environments ([Read more](https://devdocs.magento.com/cloud/live/stage-prod-test.html)).
 6. [ ] Your production cluster has been upsized permanently to the contracted daily baseline. Speak to your CTA/CSE for more details.
 
-# 2. Current Configurations
+## 2. Current Configurations
 
 1. [ ] Upgrade Adobe Commerce and related packages/services to the [latest version](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 2. [ ] Review your current configurations and services with your SI/Partner, and [follow the best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management).
 3. [ ] Review your MySQL/Shared-Files [disk usage](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/storage/manage-disk-space)
 
-# 3. Fastly Configurations
+## 3. Fastly Configurations
 
 1. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Make sure that caching is working ([Full-Page Cache](https://developer.adobe.com/commerce/frontend-core/guide/caching/) or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/)). Read the [Fastly set up guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html).
 2. [ ] Use GET method for GraphQL queries on PWA/Headless websites when applicable. 
@@ -60,7 +60,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
     >[!NOTE] 
     > In the Fastly configuration under _Admin > Stores > Configurations > System > Full Page Cache > Fastly Configuration > Advanced Configuration > Ignored URL Parameters (Global)_, you can find a comma-separated list of parameters that Fastly should disregard when searching for cached pages. Please make sure to re-upload the VCL after modifying this list
 
-# 4. DNS and SSL
+## 4. DNS and SSL
 
 1. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Confirm all required domain names are requested. _(Submit a support ticket in-advance for any added or changed domains)_
 2. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}SSL (TLS) certificate has been applied to your domain(s). Read [this article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq) for more information.
@@ -69,7 +69,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
    >[!NOTE] 
    > Add the SendGrid CNAME records for each domain to your DNS configuration. Read [SendGrid email service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html) to see how to change the sender domains and more.
 
-# 5. Database Configurations
+## 5. Database Configurations
 
 >[!NOTE] Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both your Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, we recommend referring to the following articles.
 > - [MySQL Configurations best practices](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration.html?lang=en)
@@ -83,13 +83,13 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 4. [ ] Review and optimize database tables exceeding 1 GB in size well-in-advance.
 5. [ ] The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement))
 
-# 6. Deployments
+## 6. Deployments
 
 1. [ ] Review minification settings for HTML, Javascript, and CSS. (This does not apply to PWA/Headless websites). [Static Content Deployment (SCD) Strategies](https://devdocs.magento.com/cloud/deploy/static-content-deployment.html)
 2. [ ] Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on Production.
 3. [ ] Confirm that the utilization of the following cloud variables aligns with their intended purposes. [SCD_MATRIX](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en#scd_matrix), [SCD_ON_DEMAND](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global.html?lang=en#scd_on_demand) and [SKIP_SCD](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy.html?lang=en#skip_scd)
 
-# 7. Testing and Troubleshooting
+## 7. Testing and Troubleshooting
 
 1. [ ] Test Outgoing Emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html).
 2. [ ] Any blockers with Adobe?
@@ -105,7 +105,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 
 4. [ ] Conduct security penetration testing on the production instance as part of our [shared responsibility security model](https://magento.com/trust/shared-responsibility). For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
 
-# 8. Other Configurations
+## 8. Other Configurations
 
 1. [ ] Switch indexing to _“update on schedule__”,_ except the **_customer_grid_** which remains on “SAVE” (see [Indexing modes](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html#m2devgde-indexing-modes)).
 2. [ ] Are you using any third-party search engines or extensions?
@@ -130,7 +130,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 7. [ ] Subscribe to the [**Adobe Commerce status page**](https://status.adobe.com/cloud/experience_cloud#/).
 8. [ ] Subscribe to New Relic “[Managed Alerts for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce.html?lang=en)” notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)).  
 
-# 9. Security
+## 9. Security
 
 1. [ ] Setup your Adobe Commerce Security Scan
     > [!NOTE]
@@ -145,7 +145,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 6. [ ] Passwords for administrators configured (see [Admin Password Requirements](https://docs.magento.com/user-guide/stores/security-admin.html#admin-password-requirements)).
 7. [ ] Configure two-factor authentication (see [Two-Factor Authentication](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)).
 
-# 10. Go Live
+## 10. Go Live
 
 When it is time to cutover, please perform the following steps (for more information, see [DNS Configurations](https://devdocs.magento.com/cloud/live/site-launch-checklist.html)):
 
@@ -169,7 +169,7 @@ to launch my store” and calling a hotline support number (see [the list of Ado
 - US Toll Free: (+1) 800 685 3620 (At first menu, press 7 for Adobe Commerce P1 hotline)
 - US Local: (+1) 408 537 8777
 
-# 11. Post Go-Live
+## 11. Post Go-Live
 
 Once your site is live, email your CTA (Customer Technical Advisory) and CSM (Customer Success Manager). The CTA will perform the following tasks as soon as the site
 
