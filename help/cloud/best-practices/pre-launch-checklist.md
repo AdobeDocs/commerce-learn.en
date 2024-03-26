@@ -184,3 +184,4 @@ is verified to be launched with Fastly enabled and caching:
 > understand the importance of completing these for the most successful launch.
 > 
 > **CTA/CSE** – Sign below that you have reviewed this checklist with your Merchant / SI during your onboarding call. Ensuring launch readiness and managing the site launch is the sole responsibility of the client. By signing this document, the CTA is not assuming responsibility for the success of the launch.
+>[!ENDSHADEBOX]
