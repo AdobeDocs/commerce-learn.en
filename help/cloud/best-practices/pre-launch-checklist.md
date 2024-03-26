@@ -21,10 +21,11 @@ kt: 15180
 >
 >[!ENDSHADEBOX]
 
-> [!IMPORTANT]
+> [!NOTE]
 > _You_ _accept_ [_responsibility_](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-shared-responsibility-guide.pdf) _for any adverse effects and associated risks to your Production launch schedule and ongoing site_ _stability, if you fail to use and complete this checklist._
 
 # 1. Pre-Go Live
+
 At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please contact your CTA/CSE and Account Manager to notify them of your **_intention_** to launch.
 
 - Adobe, Developer/SI, Client to review the status of the following checklist.
@@ -41,11 +42,13 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 6. [ ] Your production cluster has been upsized permanently to the contracted daily baseline. Speak to your CTA/CSE for more details.
 
 # 2. Current Configurations
+
 1. [ ] Upgrade Adobe Commerce and related packages/services to the [latest version](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 2. [ ] Review your current configurations and services with your SI/Partner, and [follow the best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management).
 3. [ ] Review your MySQL/Shared-Files [disk usage](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/storage/manage-disk-space)
 
 # 3. Fastly Configurations
+
 1. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Make sure that caching is working ([Full-Page Cache](https://developer.adobe.com/commerce/frontend-core/guide/caching/) or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/)). Read the [Fastly set up guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html).
 2. [ ] Use GET method for GraphQL queries on PWA/Headless websites when applicable. 
     >[!NOTE] 
@@ -58,6 +61,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
     > In the Fastly configuration under _Admin > Stores > Configurations > System > Full Page Cache > Fastly Configuration > Advanced Configuration > Ignored URL Parameters (Global)_, you can find a comma-separated list of parameters that Fastly should disregard when searching for cached pages. Please make sure to re-upload the VCL after modifying this list
 
 # 4. DNS and SSL
+
 1. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Confirm all required domain names are requested. _(Submit a support ticket in-advance for any added or changed domains)_
 2. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}SSL (TLS) certificate has been applied to your domain(s). Read [this article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq) for more information.
 3. [ ] Update DNS [TTL (Time to Live)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist#to-update-dns-configuration-for-site-launch) value to the minimum possible, for the go live.
@@ -66,6 +70,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
    > Add the SendGrid CNAME records for each domain to your DNS configuration. Read [SendGrid email service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html) to see how to change the sender domains and more.
 
 # 5. Database Configurations
+
 >[!NOTE] Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both your Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, we recommend referring to the following articles.
 > - [MySQL Configurations best practices](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration.html?lang=en)
 > - Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts.html?lang=en)
@@ -79,11 +84,13 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 5. [ ] The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement))
 
 # 6. Deployments
+
 1. [ ] Review minification settings for HTML, Javascript, and CSS. (This does not apply to PWA/Headless websites). [Static Content Deployment (SCD) Strategies](https://devdocs.magento.com/cloud/deploy/static-content-deployment.html)
 2. [ ] Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on Production.
 3. [ ] Confirm that the utilization of the following cloud variables aligns with their intended purposes. [SCD_MATRIX](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en#scd_matrix), [SCD_ON_DEMAND](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global.html?lang=en#scd_on_demand) and [SKIP_SCD](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy.html?lang=en#skip_scd)
 
 # 7. Testing and Troubleshooting
+
 1. [ ] Test Outgoing Emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html).
 2. [ ] Any blockers with Adobe?
 3. [ ] Perform Load and Stress testing on Production instance before going live and share results with your CTA/CSE.
