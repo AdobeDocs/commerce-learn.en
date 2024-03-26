@@ -71,11 +71,11 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 
 ## 5. Database Configurations
 
->[!NOTE] Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both your Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, we recommend referring to the following articles.
-> - [MySQL Configurations best practices](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration.html?lang=en)
-> - Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts.html?lang=en)
-> - Best practices for [database configuration](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud.html?lang=en)
-> - Deep analysis to [Galera cluster replications and flow-control.](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=en)  
+Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both your Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, we recommend referring to the following articles.
+- [MySQL Configurations best practices](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration.html?lang=en)
+- Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts.html?lang=en)
+- Best practices for [database configuration](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud.html?lang=en)
+- Deep analysis to [Galera cluster replications and flow-control.](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=en)  
 
 1. [ ] [MYSQL Slave connection](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration.html?lang=en#slave-connections) is recommended for improved performance during high database loads.
 2. [ ] Convert the row format from [COMPACT to DYNAMIC](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/maintenance/commerce-235-upgrade-prerequisites-mariadb.html?lang=en) (Especially for on-prem to cloud migrations).
