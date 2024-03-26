@@ -78,3 +78,102 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 4. [ ] Review and optimize database tables exceeding 1 GB in size well-in-advance.
 5. [ ] The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement))
 
+# 6. Deployments
+1. [ ] Review minification settings for HTML, Javascript, and CSS. (This does not apply to PWA/Headless websites). [Static Content Deployment (SCD) Strategies](https://devdocs.magento.com/cloud/deploy/static-content-deployment.html)
+2. [ ] Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on Production.
+3. [ ] Confirm that the utilization of the following cloud variables aligns with their intended purposes. [SCD_MATRIX](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en#scd_matrix), [SCD_ON_DEMAND](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global.html?lang=en#scd_on_demand) and [SKIP_SCD](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy.html?lang=en#skip_scd)
+
+# 7. Testing and Troubleshooting
+1. [ ] Test Outgoing Emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/sendgrid.html).
+2. [ ] Any blockers with Adobe?
+3. [ ] Perform Load and Stress testing on Production instance before going live and share results with your CTA/CSE.
+    > [!NOTE]
+    > A [load and stress test serves the purpose](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/guidance.html?lang=en#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.) of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
+    
+    > [!IMPORTANT]
+    > **_WARNING:_** _When preparing a load test please_ **_do not_** _send out live transaction emails (even to dummy addresses). Sending emails during testing can cause your project to reach the default send limit (12k) configured for SendGrid prior to launch. 
+    > 
+    > How to disable email communication:
+    > Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
+
+4. [ ] Conduct security penetration testing on the production instance as part of our [shared responsibility security model](https://magento.com/trust/shared-responsibility). For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
+
+# 8. Other Configurations
+
+1. [ ] Switch indexing to _“update on schedule__”,_ except the **_customer_grid_** which remains on “SAVE” (see [Indexing modes](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html#m2devgde-indexing-modes)).
+2. [ ] Are you using any third-party search engines or extensions?
+3. [ ] Confirm that [SEO (Search Engine Optimization) configurations are properly set up](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html?lang=en) to enable indexers/crawlers to scan your website, if relevant.
+4. [ ] Add redirects and routes (see [Configure routes](https://devdocs.magento.com/cloud/project/routes.html))
+    
+    > [!NOTE]
+    > Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
+    
+        ```yaml
+        "http://{all}/":
+            type: upstream
+            upstream: "mymagento:http"
+        
+        "http://{all}/":
+            type: upstream
+            upstream: "mymagento:http"
+        ```
+
+5. [ ] Ensure XDebug is disabled if enabled during development (see [Configure Xdebug](https://devdocs.magento.com/cloud/howtos/howtos/debug.html)).
+6. [ ] Verify that op-cache and other configurations have been accurately updated in the php.ini file ([refer to this sample](https://github.com/magento/magento-cloud/blob/master/php.ini#L41)).
+7. [ ] Subscribe to the [**Adobe Commerce status page**](https://status.adobe.com/cloud/experience_cloud#/).
+8. [ ] Subscribe to New Relic “[Managed Alerts for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce.html?lang=en)” notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)).  
+
+# 9. Security
+
+1. [ ] Setup your Adobe Commerce Security Scan
+    > [!NOTE]
+    > [Adobe Commerce Security Scan is a useful tool](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html) that helps discover outdated software versions, incorrect configuration, and potential malware on your site. Sign up, schedule it to run often, and make sure emails are sent to the right technical security contact.
+    > 
+    > Complete this task during UAT. If you use the periodic scans option, be sure to schedule scans at low demand times. See the [Security Scan](https://account.magento.com/scanner/index/dashboard/) page in your Adobe Commerce Account. You must log in to Adobe Commerce account to access the Security Scan.
+
+2. [ ] Change default settings for the Adobe Commerce admin
+3. [ ] Change the admin password (see [Configuring Admin Security](https://docs.magento.com/user-guide/stores/security-admin.html)).
+4. [ ] Change the admin URL (see [Using a custom Admin URL](https://docs.magento.com/user-guide/stores/store-urls-custom-admin.html)).
+5. [ ] Remove any users no longer on the project (see [Create and manage users](https://devdocs.magento.com/cloud/project/user-admin.html)).
+6. [ ] Passwords for administrators configured (see [Admin Password Requirements](https://docs.magento.com/user-guide/stores/security-admin.html#admin-password-requirements)).
+7. [ ] Configure two-factor authentication (see [Two-Factor Authentication](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)).
+
+# 10. Go Live
+
+When it is time to cutover, please perform the following steps (for more information, see [DNS Configurations](https://devdocs.magento.com/cloud/live/site-launch-checklist.html)):
+
+1. Access your DNS service and update A and CNAME records for each of your domains and hostnames:
+   1. Add CNAME record for <www.yourdomain.com>, pointing at prod.magentocloud.map.fastly.net
+   2. Set four A records for _yourdomain.com_, pointing at:  
+      151.101.1.124  
+      151.101.65.124  
+      151.101.129.124  
+      151.101.193.124
+2. Change Adobe Commerce Base URLs to _<www.yourdomain.com>_
+3. Wait for the TTL time to pass, then restart web browser.
+4. Test your website.
+
+### If you have an issue blocking your go-live:
+
+If you encounter any problems any issues preventing you from launching during your cutover, the fastest method to get proper timely support is to utilize our help desk and open a ticket with the reason “Unable 
+to launch my store” and calling a hotline support number (see [the list of Adobe Commerce P1 (Priority 1) hotline numbers](https://support.magento.com/hc/en-us/articles/360042536151)):
+
+- US Toll Free: (+1) 877 282 7436 (Direct to Adobe Commerce P1 hotline)
+- US Toll Free: (+1) 800 685 3620 (At first menu, press 7 for Adobe Commerce P1 hotline)
+- US Local: (+1) 408 537 8777
+
+# 11. Post Go-Live
+
+Once your site is live, email your CTA (Customer Technical Advisory) and CSM (Customer Success Manager). The CTA will perform the following tasks as soon as the site
+
+is verified to be launched with Fastly enabled and caching:
+
+- Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
+- Activate Pingdom checks for uptime monitoring.
+- Enable Adobe Commerce Business Intelligence (for Commerce Pro Only). For Commerce Starter please follow our documentation on enabling MBI (Magento Business Intelligence) Essentials for [Adobe Commerce Commerce Starter](https://support.magento.com/hc/en-us/articles/360016504752-How-to-setup-MBI-Essentials-for-Magento-Commerce-Starter).
+
+>[!BEGINSHADEBOX]
+> **Merchant / SI (systems integrators)** – Please sign below that you understand that this checklist contains best practices and you 
+> understand the importance of completing these for the most successful launch.
+> 
+> **CTA/CSE** – Sign below that you have reviewed this checklist with your Merchant / SI during your onboarding call. Ensuring launch readiness and managing the site launch is the sole responsibility of the client. By signing this document, the CTA is not assuming responsibility for the success of the launch.
