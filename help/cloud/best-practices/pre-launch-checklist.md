@@ -38,7 +38,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 2. [ ] [!BADGE Blocker]{type=Negative tooltip="Potential Blocker"}Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro))
 3. [ ] End user/merchant conducted UAT (User Acceptance Testing), including backend operations.
 4. [ ] System integrator team has performed end-to-end UAT on Staging and Production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production).
-5. [ ] Confirm code deployment and testing in Staging and Production Environments ([Read more](https://devdocs.magento.com/cloud/live/stage-prod-test.html)).
+5. [ ] Confirm code deployment and testing in Staging and Production Environments ([Read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production)).
 6. [ ] Your production cluster has been upsized permanently to the contracted daily baseline. Speak to your CTA/CSE for more details.
 
 ## 2. Current Configurations
@@ -85,7 +85,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both y
 
 ## 6. Deployments
 
-1. [ ] Review minification settings for HTML, Javascript, and CSS. (This does not apply to PWA/Headless websites). [Static Content Deployment (SCD) Strategies](https://devdocs.magento.com/cloud/deploy/static-content-deployment.html)
+1. [ ] Review minification settings for HTML, Javascript, and CSS. (This does not apply to PWA/Headless websites). [Static Content Deployment (SCD) Strategies](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content)
 2. [ ] Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on Production.
 3. [ ] Confirm that the utilization of the following cloud variables aligns with their intended purposes. [SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix), [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand) and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd)
 
@@ -110,7 +110,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both y
 1. [ ] Switch indexing to _“update on schedule__”,_ except the **_customer_grid_** which remains on “SAVE” (see [Indexing modes](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes)).
 2. [ ] Are you using any third-party search engines or extensions?
 3. [ ] Confirm that [SEO (Search Engine Optimization) configurations are properly set up](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/seo/seo-overview) to enable indexers/crawlers to scan your website, if relevant.
-4. [ ] Add redirects and routes (see [Configure routes](https://devdocs.magento.com/cloud/project/routes.html))
+4. [ ] Add redirects and routes (see [Configure routes](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/routes/routes-yaml))
     
     >[!NOTE]
     >Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
@@ -125,7 +125,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both y
             upstream: "mymagento:http"
         ```
 
-5. [ ] Ensure XDebug is disabled if enabled during development (see [Configure Xdebug](https://devdocs.magento.com/cloud/howtos/howtos/debug.html)).
+5. [ ] Ensure XDebug is disabled if enabled during development (see [Configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)).
 6. [ ] Verify that op-cache and other configurations have been accurately updated in the php.ini file ([refer to this sample](https://github.com/magento/magento-cloud/blob/master/php.ini#L41)).
 7. [ ] Subscribe to the [**Adobe Commerce status page**](https://status.adobe.com/cloud/experience_cloud#/).
 8. [ ] Subscribe to New Relic “[Managed Alerts for Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce)” notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service)).  
@@ -147,7 +147,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both y
 
 ## 10. Go Live
 
-When it is time to cutover, please perform the following steps (for more information, see [DNS Configurations](https://devdocs.magento.com/cloud/live/site-launch-checklist.html)):
+When it is time to cutover, please perform the following steps (for more information, see [DNS Configurations](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist)):
 
 1. Access your DNS service and update A and CNAME records for each of your domains and hostnames:
    1. Add CNAME record for <www.yourdomain.com>, pointing at prod.magentocloud.map.fastly.net
