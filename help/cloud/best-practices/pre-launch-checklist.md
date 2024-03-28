@@ -20,7 +20,7 @@ We provide the following checklist to help you plan and execute a successful Ado
 
 At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please contact your CTA/CSE and Account Manager to notify them of your **_intention_** to launch.
 
-- Some checks are highlighted with [!BADGE Attention]{type=Negative tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
+- Some checks are highlighted with [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
 - Ensure to collaborate with your developer or system integration partner to align with your implementation approach.
 - Launch date and time window to be confirmed.
 - If the launch date or time window changes, please notify your CTA/CSE and Account Manager.
@@ -34,7 +34,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
     >[!NOTE]
     >Ensure a comprehensive _"go live readiness plan"_ is fully prepared with your Partner/SI, incorporating all necessary action items. Remember, while the pre-launch checklist emphasizes Adobe's best practices, it _**does not**_ replace the need for your own go-live readiness plan.
 
-2. [!BADGE Attention]{type=Negative tooltip="Potential Blocker"} Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro))
+2. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro))
 3. End user/merchant conducted UAT (User Acceptance Testing), including backend operations.
 4. System integrator team has performed end-to-end UAT on Staging and Production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production).
 5. Confirm code deployment and testing in Staging and Production Environments ([Read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production)).
