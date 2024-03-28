@@ -20,7 +20,7 @@ We provide the following checklist to help you plan and execute a successful Ado
 
 At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please contact your CTA/CSE and Account Manager to notify them of your **_intention_** to launch.
 
-- Some checks are highlighted with [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
+- Some checks are highlighted with [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
 - Ensure to collaborate with your developer or system integration partner to align with your implementation approach.
 - Launch date and time window to be confirmed.
 - If the launch date or time window changes, please notify your CTA/CSE and Account Manager.
@@ -34,7 +34,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
     >[!NOTE]
     >Ensure a comprehensive _"go live readiness plan"_ is fully prepared with your Partner/SI, incorporating all necessary action items. Remember, while the pre-launch checklist emphasizes Adobe's best practices, it _**does not**_ replace the need for your own go-live readiness plan.
 
-2. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro))
+2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro))
 3. End user/merchant conducted UAT (User Acceptance Testing), including backend operations.
 4. System integrator team has performed end-to-end UAT on Staging and Production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production).
 5. Confirm code deployment and testing in Staging and Production Environments ([Read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production)).
@@ -48,7 +48,7 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 
 ## 3. Fastly Configurations
 
-1. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Make sure that caching is working ([Full-Page Cache](https://developer.adobe.com/commerce/frontend-core/guide/caching/) or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/)). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly).
+1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Make sure that caching is working ([Full-Page Cache](https://developer.adobe.com/commerce/frontend-core/guide/caching/) or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/)). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly).
 2. Use GET method for GraphQL queries on PWA/Headless websites when applicable. 
     >[!NOTE] 
     > Only the queries submitted with an HTTP GET operation can be cached (if applicable). [POST queries cannot be cached](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/).
@@ -61,8 +61,8 @@ At least 4 weeks prior to launching your new Adobe Commerce Cloud site, please c
 
 ## 4. DNS and SSL
 
-1. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Confirm all required domain names are requested. _(Submit a support ticket in-advance for any added or changed domains)_
-2. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} SSL (TLS) certificate has been applied to your domain(s). Read [this article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq) for more information.
+1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Confirm all required domain names are requested. _(Submit a support ticket in-advance for any added or changed domains)_
+2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} SSL (TLS) certificate has been applied to your domain(s). Read [this article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq) for more information.
 3. Update DNS [TTL (Time to Live)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist#to-update-dns-configuration-for-site-launch) value to the minimum possible, for the go live.
 4. Enable Sendgrid SPF and DKIM
    >[!NOTE] 
@@ -91,8 +91,8 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both y
 ## 7. Testing and Troubleshooting
 
 1. Test Outgoing Emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/sendgrid).
-2. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Any blockers with Adobe?
-3. [!BADGE Blocker]{type=Attention tooltip="Potential Blocker"} Perform Load and Stress testing on Production instance before going live and share results with your CTA/CSE.
+2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Any blockers with Adobe?
+3. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Perform Load and Stress testing on Production instance before going live and share results with your CTA/CSE.
     >[!NOTE]
     > A [load and stress test serves the purpose](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.) of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
     
