@@ -10,8 +10,8 @@ duration: 0
 last-substantial-update: 2024-03-08
 jira: KT-15020
 kt: 15020
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
 ---
-
 # Technical onboarding - Deployments, testing, monitoring, and security
 
 Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring, and security tools.
