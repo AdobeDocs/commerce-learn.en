@@ -11,6 +11,7 @@ duration: 518
 last-substantial-update: 2024-04-03
 jira: KT-15213
 kt: 15213
+exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
 ---
 # Adobe Commerce Intelligence integrations and configurations
 
