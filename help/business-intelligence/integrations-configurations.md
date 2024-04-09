@@ -25,6 +25,6 @@ The document also covers the process of syncing tables to the Data Warehouse, ad
 - Business users
 - Data analysts
 
-## An introduction to Adobe Commerce Intelligence
+## Integrations and configurations
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
