@@ -176,3 +176,11 @@ is verified to be launched with Fastly enabled and caching:
 - Enable Adobe Commerce Business Intelligence (for Commerce Pro Only).
 
 
+>[!MORELIKETHIS]
+> 
+> * [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview)
+> * [Launch Checklist - User Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist)
+> * [Prelaunch Checklist - Site Manager/Commerce Admin's Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist)
+> * [Shared responsibility security model](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility)
+
+
