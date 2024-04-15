@@ -137,6 +137,8 @@ auto-video-transcripts: true
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
     + [Getting Started](../business-intelligence/getting-started.md)
+    + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
+    + [Reports and dashboards](../business-intelligence/reports-and-dashboards.md)
     + [Filter Sets](../business-intelligence/filter-sets.md)
     + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
     + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
