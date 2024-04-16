@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce Cloud pre launch checklist
+title: Adobe Commerce Cloud pre-launch checklist
 description: Learn about the Adobe Commerce Cloud pre-launch checklist.
 feature: Cloud
 topic: Commerce, Architecture, Development
@@ -171,7 +171,6 @@ Once your site is live, email your CTA (Customer Technical Advisory) and CSM (Cu
 
 - Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
 - Activate Pingdom checks for uptime monitoring.
-- Enable Adobe Commerce Business Intelligence (for Commerce Pro Only).
 
 
 >[!MORELIKETHIS]
