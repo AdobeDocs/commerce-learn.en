@@ -18,7 +18,7 @@ The following is a synopsis of the Adobe Commerce [Site launch documentation](ht
 
 This checklist aims to assist in planning and executing a successful launch of the Adobe Commerce Cloud site. Collaborate with your system integrator for Adobe Commerce Cloud to ensure all configuration tasks and checklist items are completed and verified. If you encounter difficulties with any checklist items or have questions, please reach out to the designated Customer Technical Advisor or Customer Success Engineer. If your account does not have an assigned CTA/CSE, you may create a support ticket for assistance.
 
-If you have a CTA/CSE assigned, we recommend contacting them and the Account Manager at least 4 weeks prior to launching the new Adobe Commerce Cloud site to notify them of your **intention** to launch.
+If you have a CTA/CSE assigned, contact them and the Account Manager at least 4 weeks prior to launching the new Adobe Commerce Cloud site to notify them of your **intention** to launch.
 
 - Some checks are highlighted with [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
 - Ensure to collaborate with your developer or system integration partner to align with your implementation approach.
@@ -69,7 +69,7 @@ If you have a CTA/CSE assigned, we recommend contacting them and the Account Man
 
 ## 5. Database Configurations
 
-Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both the Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, we recommend referring to the following articles.
+Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both the Staging and Production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, refer to the following articles.
 - [MySQL Configurations best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 - Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 - Best practices for [database configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
@@ -165,12 +165,16 @@ If you encounter any problems any issues preventing you from launching during th
 
 ## 11. Post Go-Live
 
-Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE (Customer Success Engineer) and AM (Account Manager). The CTA/CSE will perform the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
+Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE (Customer Success Engineer) and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live.
+
+
+The CTA/CSE will perform the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
 
 - Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
 - Activate Pingdom checks for uptime monitoring.
 
-However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live.
+
+
 
 
 >[!MORELIKETHIS]
