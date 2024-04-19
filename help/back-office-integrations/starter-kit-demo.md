@@ -10,9 +10,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-
+exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 ---
-
 # Starter kit demo for back office integrations
 
 Learn about the Adobe Commerce back office integration starter kit. This video tutorial shows the entire process for this sample integration.
