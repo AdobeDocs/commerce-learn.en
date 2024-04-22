@@ -34,6 +34,8 @@ auto-video-transcripts: true
         + [Configurable product](../site-management/create-configurable-product.md) 
         + [Bundle product](../site-management/create-bundle-product.md)
         + [Gift Card product](../site-management/create-gift-card-product.md)
+    + Back office integration starter kit {#back-office-integration-starter-kit}
+        + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
