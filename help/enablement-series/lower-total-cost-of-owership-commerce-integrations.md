@@ -1,7 +1,6 @@
 ---
 title: Lowering the TOC for Adobe Commerce integrations
-description: This webinar is discussing strategies to lower the cost of ownership for integrations with Adobe Commerce. 
-​ The speakers highlight the benefits of using extension points and app builder to customize and extend the platform without the need for core product customization. They also showcase real-world use cases involving a lean order management system and a smart pet litter box. The webinar emphasizes the importance of reducing technical debt and provides insights into data connections and seamless data flow between Adobe Commerce and other Adobe products. The webinar focuses on the challenges of integrations and the ability to send and receive data between Adobe Commerce and other Adobe products.
+description: This webinar discusses best practices for lowering the total cost of ownership for integrations with Adobe Commerce. It emphasizes the challenges of traditional integrations and highlights the use of extension points and native integrations with other Experience Cloud products to reduce costs and increase ROI. The goal is to provide flexibility in extending the product without customizing the core, making it easier to maintain and upgrade.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
