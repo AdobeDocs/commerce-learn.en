@@ -10,7 +10,7 @@ duration: 3511
 last-substantial-update: 2024-05-07
 jira: KT-15465
 ---
-# Lowering the TOC for Adobe Commerce integrations
+# Planning the modern Adobe Commerce implementation
 
 This webinar provides a comprehensive overview of various topics related to Adobe Commerce, including catalog service, understanding customer architecture, and Edge Delivery Services. 
 ​Topics include new or existing features and benefits of each service, such as live search and product recommendations in the Adobe Commerce Catalog as a Service, analyzing APIs and data flow in understanding customer architecture, and the high performance and low latency of the Edge Delivery Services. Additionally, the document mentions the importance of having standard documents and a list of questions when interacting with customers, as well as the concept of Global Reference Architecture (GRA) for efficient project building.
