@@ -6,7 +6,7 @@ topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 3558
 last-substantial-update: 2024-04-26
 jira: KT-15393
 auto-video-transcripts: true
