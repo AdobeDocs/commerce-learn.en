@@ -39,6 +39,7 @@ auto-video-transcripts: true
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
+        + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
