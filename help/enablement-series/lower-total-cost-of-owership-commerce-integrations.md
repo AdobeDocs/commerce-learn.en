@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2024-04-26
 jira: KT-15393
+auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
 ---
 # Lowering the TOC for Adobe Commerce integrations
