@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07
 jira: KT-15467
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
 ---
 # Launch, monitoring, and troubleshooting Adobe Commerce Cloud
 
