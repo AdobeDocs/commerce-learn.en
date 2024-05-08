@@ -41,6 +41,7 @@ auto-video-transcripts: true
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
         + [Launch, post launch, monitoring and troubleshooting](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
+        + [Edge Delivery Services with Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
