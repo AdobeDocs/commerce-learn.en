@@ -68,7 +68,7 @@ This example shows how to create a downloadable product using cURL when the file
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
---header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e' \
+--header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01' \
 --data '{
   "product": {
     "sku": "POSTMAN-download-product-1",
