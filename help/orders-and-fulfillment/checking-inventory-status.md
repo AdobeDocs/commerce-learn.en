@@ -19,19 +19,20 @@ There will be projects and instances where real time inventory status checks are
 
 ## Validate if this request is absolutely necessary
 
-Prepare to engage with the conversation with as much information as possible. First and foremost verfify that anything outside of the native functionality is a requirement for this project. Find the reasoning behind this request to validate that all of the native capabilities of Adobe Commerce fail to fulfil this request.
+Prepare to engage with the conversation with as much information as possible. First and foremost verify that anything outside of the native functionality is a requirement for this project. Find the reasoning behind this request to validate that all of the native capabilities of Adobe Commerce fail to fulfil this request.
 
 Another consideration is the cost to develop, test and maintain this feature. Just because some stakeholder thinks it is necessary, does not mean it is a requirement. There will be associated costs to doing inventory validation out side of the core functionality of Adobe Commerce.
 
 ## Determine what is an acceptable inventory update cadence
 
-Try to consider this a 3 tier approach to inventory status checks.  
+Try to consider inventory checks and how it is accomplished in 3 categories. Each one has benefits and limitations. They do also increase in complexity and require more testing and thought for error handling.   Remember when  you decide to go a custom route, the responsibility for a fallback process, monitoring, testing and troubleshooting fall to the development team. There will also need to be new supporting documentation, training and monitoring to ensure this can be supported entirely by the development team, because Adobe support will be unable assist with this level of customization.
 
-1. Using native functionality no changes/customizations needed
-2. Near real time, meaning you have an integration that feeds commerce frequently to update its inventory on a schedule. For example every hour.
-3. Live inventory checks to an external API or data source.
+The first tier is using the native functionality. This is the least amount of risk and has many benefits. Taking this approach means you can rely on all existing documentation and tutorials that Adobe Commerce provides for the use of the feature. There are many aspects to inventory management so using what comes with the application should be the first consideration.  However, there are use cases where the data found in commerce at the time of the order may not be completely accurate.  For example you allow sales outside the application.  This would require some sort of integration to keep the Adobe Commerce information as close to accurate as possible. If over-selling is not acceptable, then adding an out of stock threshold is a good method to stop the sale of items before you get to zero. The native sync functionality for Adobe Commerce is at a maximum of 1 time per day, so this may work for some use 
 
-Work with the request for inventory update checks but validate what is a tolerable timeframe for when Adobe Commerce is updated with the latest inventory status. By doing frequent inventory updates to Adobe Commerce and still leveraging out of the box functionality, you reduce the amount of custom code and overall complexity for the store.
+The second tier would be near real time.  This still uses the native functionality, however this includes some extra work to provide an integration that feeds commerce frequently to update its inventory on a schedule. For example every hour. This option will need some thought for how an integration may work, but using the "bulk api" and having some middleware do the transformation of the data and push it to commerce is a great approach. Look at using Adobe App Builder or similar platforms to do the bulk of the work and push the information to Adobe commerce on a more frequent cadence.
+
+The third option and the most complex with the most amount of risk and responsibility is realtime  Live inventory checks to an external API or data source. 
+
 
 ## Considerations when native inventory management functionality will not work
 
