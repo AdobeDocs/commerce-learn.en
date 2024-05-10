@@ -31,8 +31,13 @@ The first tier is using the native functionality. This is the least amount of ri
 
 The second tier would be near real time.  This still uses the native functionality, however this includes some extra work to provide an integration that feeds commerce frequently to update its inventory on a schedule. For example every hour. This option will need some thought for how an integration may work, but using the "bulk api" and having some middleware do the transformation of the data and push it to commerce is a great approach. Look at using Adobe App Builder or similar platforms to do the bulk of the work and push the information to Adobe commerce on a more frequent cadence.
 
-The third option and the most complex with the most amount of risk and responsibility is realtime  Live inventory checks to an external API or data source. 
+The third option and the most complex with the most amount of risk and responsibility is realtime  Live inventory checks to an external API or data source. Doing a real-time inventory check to an external system is risky and has several other elements that need to be considered.   Here are just a small set of other things that need to be evaluated:
 
+* Can the external system accept REST or GraphQL requests
+* Is there any limits to the endpoint such as X amount of requests per minute that may not coincide with the website traffic
+* What happens to the response time under load
+* What happens when the response times are long, do you terminate this automatically and use a fallback option such as the native inventory.  
+* What type of monitoring is available to ensure API requests are withing the tolerance limits
 
 ## Considerations when native inventory management functionality will not work
 
