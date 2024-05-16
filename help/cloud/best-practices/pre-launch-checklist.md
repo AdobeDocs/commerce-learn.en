@@ -168,7 +168,7 @@ If you encounter any problems any issues preventing you from launching during th
 Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE (Customer Success Engineer) and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live. The CTA/CSE will perform the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
 
 - Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
-- Activate Pingdom checks for uptime monitoring.
+- Activate New Relic Synthetics for uptime monitoring.
 
 
 
