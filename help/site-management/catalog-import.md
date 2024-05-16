@@ -89,7 +89,7 @@ Cons:
 
 - Catalog is any size
 - Updates are frequent, more than 1x a day is acceptable
-- Time to import is important but not 
+- Time to import is important but not critical and a short delay in processing the import data is acceptable
 - The data is not structured in CSV format and you are not capable of transforming it using automation
 
 
@@ -109,8 +109,6 @@ Pros:
 Cons:
 
 - GET request are not supported
-- You are required to use the option attribute IDs, instead of the labels
-
 
 ### When to consider this approach
 
