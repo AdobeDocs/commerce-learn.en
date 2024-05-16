@@ -135,7 +135,6 @@ Pros:
 Cons:
 
 - The images and videos associated must be uploaded separately
-- You are required to use the option attribute IDs not the labels
 - Data is needs to be in a CSV format
 
 ### When to consider this approach
