@@ -69,7 +69,6 @@ Be sure to test the api response times with simple requests as well as with a hi
 
 IF the inventory source is down and monitoring is available, using the native capability of Adobe Commerce is recommended. However, with proper monitoring the customer experience can dynamically change to reflect the loss of real time inventory checks. This may mean that a sale or event is canceled early or removed from display to avoid overselling. The expectation for what to do when the inventory source is down for any reason needs to be considered and discussed with the store owner so everyone is aware of any automatic process that takes over in that unfortunate circumstance.
 
-
 ## Conclusion
 
 The decision to do real-time inventory checks is a significant one. Ensuring that the website owner, development team, and others are fully educated and aware of all gains and potential pitfalls rest on the developer lead or architect. By providing a thoughtful plan that covers reasons and a fallback process is key to success.
