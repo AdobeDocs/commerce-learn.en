@@ -9,6 +9,7 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+    + [Overview](../cloud/overview.md) 
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
         + [Fastly](../cloud/fastly.md)
@@ -34,6 +35,14 @@ auto-video-transcripts: true
         + [Configurable product](../site-management/create-configurable-product.md) 
         + [Bundle product](../site-management/create-bundle-product.md)
         + [Gift Card product](../site-management/create-gift-card-product.md)
+    + Back office integration starter kit {#back-office-integration-starter-kit}
+        + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
++ Webinars and events {#webinars-and-events}
+    + Enablement Series {#enablement-series}
+        + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
+        + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
+        + [Launch, post launch, monitoring and troubleshooting](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
+        + [Edge Delivery Services with Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
