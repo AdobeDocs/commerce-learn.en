@@ -12,7 +12,7 @@ jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
 ---
-# Technical onboarding - Deployments, testing, monitoring, and security
+# Technical onboarding - SaaS offerings
 
 Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.
 
