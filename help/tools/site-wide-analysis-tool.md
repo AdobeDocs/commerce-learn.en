@@ -9,6 +9,8 @@ feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 role: Architect, Developer, Admin
 level: Beginner, Intermediate
+KT: 15599
+duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
 ---
 # The Site-Wide Analysis Tool Dashboard
@@ -22,7 +24,7 @@ The Site-Wide Analysis Tool is a proactive self-service tool and central reposit
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Additional resources
 
