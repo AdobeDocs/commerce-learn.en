@@ -1,6 +1,6 @@
 ---
 title: Enablement Series related links
-description: Links to related pages in the enablement series
+description: Links to related pages in the enablement series for use on all the individual pages
 ---
 # Enablement series related links
 
