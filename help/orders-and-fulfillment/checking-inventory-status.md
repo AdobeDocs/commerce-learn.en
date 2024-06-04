@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-05-09
 jira: KT-15462
+exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
 ---
-
 # Inventory status checks development and performance considerations
 
 Accuracy with inventory is a very important consideration. There are some native features that can help ensure that this risk is as low as possible such as back orders and setting the out of stock threshold. Both of those topics can be read on [Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) for further explanation.
