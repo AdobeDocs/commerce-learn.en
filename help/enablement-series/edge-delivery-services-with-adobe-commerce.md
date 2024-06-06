@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services with Adobe Commerce
+title: Edge Delivery Services
 description: Learn about Adobe Edge Delivery Services, their impact on project bidding, development costs, SEO, ADA, and the potential for personalized experiences.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless, Integrations, Performance
