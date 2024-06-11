@@ -17,6 +17,7 @@ auto-video-transcripts: true
         + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
         + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
     + Best Practices {#commerce-cloud-best-practices}
+        + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
     + Global Reference Architecture{#global-reference-architecture}
