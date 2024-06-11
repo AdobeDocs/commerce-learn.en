@@ -1,5 +1,5 @@
 ---
-title: - Create an effective support request
+title: Create an effective support request
 description: Learn about ways to create a support ticket to maximize the efficiency of the request.
 feature: Best Practices, Customer Service, Support
 topic: Commerce
