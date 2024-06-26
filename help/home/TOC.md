@@ -38,11 +38,11 @@ auto-video-transcripts: true
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
-  + [Overview](../global-reference-architecture/overview.md)
-  + [Split Git](../global-reference-architecture/split-git.md)
-  + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-  + [Separate packages](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)      
+    + [Overview](../global-reference-architecture/overview.md)
+    + [Split Git](../global-reference-architecture/split-git.md)
+    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+    + [Separate packages](../global-reference-architecture/separate-packages.md)
+    + [Monorepo](../global-reference-architecture/monorepo.md)      
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
