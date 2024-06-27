@@ -7,14 +7,23 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14
+last-substantial-update: 2024-06-25
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 ---
 # Connect and run queries against the Adobe Commerce database
 
-In this tutorial, you learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
+Learn how to connect to an Adobe Commerce on cloud project, create a database dump for offsite use, and handle Personally Identifiable Information (PII) by masking or removing it. Learn about accessing Adobe Commerce data using various methods, including local DB dumps, remote DB connections with applications like MySQL Workbench or TablesPlus, and direct connections via the Magento Cloud CLI tool.
+
+## Video Contents
+
+* Learn how to quickly connect to a remote Adobe Commerce Cloud project using a tool such as MysqlWorkbench or TablesPlus. 
+* Learn how to quickly connect to the Adobe Commerce project to run SQL via the command line
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Learn how to connect to an Adobe Commerce on cloud project, dump a database for use offsite, and mask PII and remove it.
  
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 
