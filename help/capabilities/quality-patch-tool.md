@@ -55,3 +55,11 @@ The Quality Patches Tool allows e-commerce platforms to enhance stability and s
 Before applying patches, it's crucial to test them in a staging environment. Ensure compatibility with your specific version of Adobe Commerce or Magento Open Source. Some patches may have dependencies, so review the prerequisites carefully.
 
  Back up your installation before applying patches to prevent data loss. If you've made custom code changes, be aware that patches might conflict. Follow best practices and monitor the impact of each patch.
+
+## Related articles and videos
+
+* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Github for patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
+* [Usage of quality patch tool](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Technical video on QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
