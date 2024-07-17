@@ -10,7 +10,11 @@ duration: 771
 last-substantial-update: 2024-07-17
 jira: KT-15836
 ---
-# What to expect from watching this video
+# Adobe Commerce quality patch tool
+
+Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
+
+## What to expect from watching this video
 
 Learn how to triage an issue, then use some basic techniques to find a quality patch to apply a fix.
 
