@@ -19,7 +19,7 @@ Learn how to triage an issue, then use some basic techniques to find a quality p
 * Developers learning how to find issues and leverage this tool for applying GIT patches for known issues
 
 ## Video content
- 
+
 The Quality Patches Tool is a command-line utility for Adobe Commerce and Magento Open Source. Here's what it allows you to do:
 
 * View general information about the latest quality patches.
