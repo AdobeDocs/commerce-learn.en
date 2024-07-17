@@ -28,6 +28,7 @@ auto-video-transcripts: true
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+        + [Quality Patch tool](../capabilities/quality-patch-tool.md)
     + Create Products {#create-products}
         + [Simple product](../site-management/create-simple-product.md) 
         + [Virtual product](../site-management/create-virtual-product.md)  
