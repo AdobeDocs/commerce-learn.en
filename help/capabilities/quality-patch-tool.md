@@ -12,6 +12,8 @@ jira: KT-15836
 ---
 # What to expect from watching this video
 
+Learn how to triage an issue, then use some basic techniques to find a quality patch to apply a fix.
+
 ## Who is this video for?
 
 * Developers learning how to find issues and leverage this tool for applying GIT patches for known issues
@@ -29,8 +31,8 @@ These patches are developed from Adobe Developers the Magento Open Source comm
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Why use the quality patch tool?
- 
- You might want to use the Quality Patches Tool for Adobe Commerce or Magento Open Source if you're looking to:
+
+You might want to use the Quality Patches Tool for Adobe Commerce or Magento Open Source if you're looking to:
 
 Enhance stability and performance: Quality patches address issues, improve security, and optimize your installation.
 Stay up-to-date: Applying patches ensures that your system is current and protected.
