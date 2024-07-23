@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17
 jira: KT-15836
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
 ---
 # Adobe Commerce quality patch tool
 

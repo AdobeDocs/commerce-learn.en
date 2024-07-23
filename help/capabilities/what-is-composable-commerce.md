@@ -1,6 +1,6 @@
 ---
 title: Learn how Adobe creates composable commerce
-description: Learn about composable commerce, prioritizing an API-first approach and implement a modular and service-oriented architecture. 
+description: Learn about composable commerce, prioritizing an API-first approach and implement a modular and service-oriented architecture.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
 role: Admin, Architect, User
@@ -10,8 +10,8 @@ duration: 0
 last-substantial-update: 2024-06-27
 jira: KT-15730
 thumbnail: KT-15730.jpeg
+exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 ---
-
 # Learn how Adobe creates composable commerce
 
 Learn about Adobe Commerce's investment in composable development tools and AI-powered personalization to enhance the e-commerce experience.
