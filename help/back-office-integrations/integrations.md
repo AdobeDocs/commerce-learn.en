@@ -1,7 +1,7 @@
 ---
 title: Learn about the Adobe Commerce Integration Starter Kit Best Practices and Onboarding Process.
-description: Mastering Commerce Integration: Best Practices, Onboarding Tips, and Development Hacks with Adobe Starter Kit!
-landing-page-description: Learn offering practical insights into the setup, configuration, and deployment processes involved using the starter kit
+description: Mastering Commerce Integrations by learning best practices and onboarding tips with Adobe Starter Kit.
+landing-page-description: Learn offering practical insights into the setup, configuration, and deployment processes involved using the starter kit.
 kt: 15867
 doc-type: video
 audience: all
