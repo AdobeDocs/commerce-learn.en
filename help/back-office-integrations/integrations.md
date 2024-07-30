@@ -30,3 +30,5 @@ Learn how to integrate Adobe Commerce with external systems, offering practical 
 * Updating events in Commerce and App Builder for synchronization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+
+{{$include /help/_includes/starter-kit-related-links.md}}
