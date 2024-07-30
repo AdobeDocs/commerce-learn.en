@@ -40,6 +40,7 @@ auto-video-transcripts: true
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
         + [Integrations](../back-office-integrations/integrations.md)
+        + [Source Code Organization](../back-office-integrations/source-code-organization.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
