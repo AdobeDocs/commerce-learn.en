@@ -12,7 +12,7 @@ topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
 ---
-# Back office Integrations using the Adobe Starter Kit  
+# Source code organization for the Adobe Starter Kit  
 
 Learn a detailed overview of the source code organization within a Commerce Integration starter kit. ​ Explore the structure of the project, highlighting key folders such as `actions` and `scripts` and their respective contents. ​ The 'actions' folder is explored extensively, showcasing subfolders like `ingestion` and `webhook` that contain essential code for event handling and tracking. ​ Additionally, learn the purpose of the `starter-kit-info` folder. Learn about the `scripts` folder.  Uncover how it is focusing on automation scripts like `commerce-event-subscribe` and `onboarding` that streamline event configuration and provider setup within the project.
  ​
