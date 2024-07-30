@@ -1,5 +1,6 @@
 ---
 title: Configuring, deploying, and customizing an ingestion webhook for integrating Commerce with a third-party system 
+description: Learn how to set up and customizing an ingestion webhook to facilitate communication between Commerce and a third-party back office system.
 landing-page-description: Learn how to use the Commerce Integration Starter Kit to integrate Commerce with a third party back office system using an ingestion webhook.
 kt: 15870
 doc-type: video
