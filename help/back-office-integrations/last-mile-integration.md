@@ -31,3 +31,5 @@ Learn about the significance of post-processing activities through the post proc
 * Learn about the significance of the send hook in facilitating the actual data send to the destination system.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+
+{{$include /help/_includes/starter-kit-related-links.md}}

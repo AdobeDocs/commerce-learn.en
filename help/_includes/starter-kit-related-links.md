@@ -8,3 +8,4 @@ description: Links to related pages in Getting Started - Starter kit section
 
 * [Integrations](../back-office-integrations/integrations.md)
 * [Source code organization](../back-office-integrations/source-code-organization.md)
+* [Last mile integration](../back-office-integrations/last-mile-integration.md)
