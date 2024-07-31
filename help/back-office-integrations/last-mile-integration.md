@@ -14,7 +14,7 @@ level: Intermediate
 ---
 # Last mile integration using the Adobe Starter Kit  
 
-Learn about the intricacies of last-mile integration with Adobe Commerce with a focus on using extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
+Learn about items to consider when starting the last-mile integration with Adobe Commerce with a focus on using extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
 
 * Validating incoming data against schemas
 * Transforming data objects between systems
