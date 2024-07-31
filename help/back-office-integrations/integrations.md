@@ -32,3 +32,7 @@ Learn how to integrate Adobe Commerce with external systems, offering practical 
 >[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
+
+## Code Samples
+
+* [Customize registrations and events](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-registrations-and-events)

@@ -35,3 +35,8 @@ Learn how the retry mechanism functions within the context of the 'consumer' run
 >[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
+
+## Related Documentation
+
+* [Webhook unable to handle a event](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
+* [Webhook down and marked as unstable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)

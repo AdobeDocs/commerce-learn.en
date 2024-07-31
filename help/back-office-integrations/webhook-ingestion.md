@@ -4,7 +4,7 @@ description: Learn how to set up and customizing an ingestion webhook to facilit
 landing-page-description: Learn how to use the Commerce Integration Starter Kit to integrate Commerce with a third party back office system using an ingestion webhook.
 kt: 15870
 doc-type: video
-duration: 420
+duration: 593
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -31,14 +31,9 @@ The video covers the steps to modify the webhook code to translate third-party e
 * Authentication Implementation: Businesses are responsible for implementing authentication mechanisms suitable for their needs to prevent unauthorized requests when using the ingestion webhook. This step is essential for maintaining the security and integrity of the integration.
 * Payload Validation and Transformation: Validating and transforming incoming event payloads to match the expected schema is vital for successful processing and integration with the Commerce API. ​ By trimming and mapping fields appropriately, the integration can operate efficiently with the necessary data.
 
-TODO - I think the video is wrong, need to verify 
-TODO - Update the duration with the proper length
-
 >[!VIDEO](https://video.tv.adobe.com/v/3431694?learn=on)
 
-## Additional related tutorials
-
-TODO make snippet to link the related tutorials
+  {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Code Samples
 
