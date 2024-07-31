@@ -20,9 +20,9 @@ The video covers the steps to modify the webhook code to translate third-party e
 
 ## Audience 
 
-* Developers needing to Set up an ingestion webhook
-* Anyone who may need customizing code for event translation
-* Developers and architects who need to understand the importance of authentication and payload management
+* Developers who want to set up an ingestion webhook
+* Anyone who wants to customize code for event translation
+* Developers and architects who want to understand the importance of authentication and payload management
 
 ## Video Content
 
