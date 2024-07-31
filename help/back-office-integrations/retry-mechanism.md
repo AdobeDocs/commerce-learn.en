@@ -14,7 +14,7 @@ level: Intermediate
 ---
 # Leveraging Adobe I/O Events Retry Mechanism for Application Resilience ​
 
-The video outlines a comprehensive guide on leveraging Adobe I/O Events' built-in retry mechanism to enhance application resilience. Learn how specific HTTP response status codes trigger event retries.​ Adobe I/O Events employ exponential and fixed back-off strategies for retries, with intervals increasing from one minute to 15 minutes. ​ The document also details how retry indicators appear in the developer console, with visual cues like warning icons and circular arrows denoting failed and retried events, respectively.
+The video outlines a comprehensive guide on leveraging Adobe I/O Events' built-in retry mechanism to enhance application resilience. Learn how specific HTTP response status codes trigger event retries. Adobe I/O Events employs exponential and fixed back-off strategies for retries, with intervals increasing from one minute to 15 minutes.​ The documentation also details how retry indicators appear in the developer console, with visual cues like warning icons and circular arrows denoting failed and retried events, respectively.
 
 Learn how the retry mechanism functions within the context of the 'consumer' runtime actions, and determine whether an event is retried. ​Successful responses are indicated with a 200 status code, while error responses include an error object with a 'statusCode' attribute. The 'consumer' runtime action determines the HTTP response code to return based on downstream processing outcomes, ensuring efficient event handling and eventual successful activations. ​
  
