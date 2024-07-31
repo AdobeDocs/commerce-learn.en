@@ -43,4 +43,4 @@ TODO make snippet to link the related tutorials
 ## Code Samples
 
 * [Custom ingestion webhook](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
-* [Add ingestion scheduler](https://github.com/adobe/adobe-commerce-samples/starter-kit/add-ingestion-scheduler)
+* [Add ingestion scheduler](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler)
