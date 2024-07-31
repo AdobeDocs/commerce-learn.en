@@ -16,7 +16,7 @@ level: Intermediate
 
 Learn the setup and customization of an ingestion webhook for integrating Commerce with a third-party back office system. ​ The video explains how the webhook can address limitations in event communication between systems by providing a publicly available endpoint to adapt messages from the third party system to the Adobe IO Eventing API. ​ The process involves configuring the webhook in the actions.config.yaml file, enabling it in the app.config.yaml file, and deploying it to ensure proper functionality. 
 
-The video covers the steps to modify the webhook code to translate third-party events into formats compatible with the integration's subscribed event types. ​ It discusses adding an `event-mapping.json` file to facilitate this translation and emphasizes the importance of redeploying the runtime action after making changes. ​ The document also highlights the significance of validating and transforming incoming event payloads to align with the expected schema, ensuring successful processing and integration with the Commerce API for creating customers.
+The video covers the steps to modify the webhook code to translate third-party events into formats compatible with the integration's subscribed event types. It discusses adding an `event-mapping.json` file to facilitate this translation and emphasizes the importance of redeploying the runtime action after making changes.​ The video also highlights the significance of validating and transforming incoming event payloads to align with the expected schema, ensuring successful processing and integration with the Commerce API for creating customers.
 
 ## Audience 
 
