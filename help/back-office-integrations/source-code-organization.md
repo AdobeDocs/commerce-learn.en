@@ -28,7 +28,7 @@ Explore the logic behind the source code structure, detailing how the `commerce`
 
 * Understand that the four main folders: `actions`, `scripts`, `test`, and `utils`, with a focus on the `actions` and `scripts` folders during the session. ​
 * Learn about the `actions` folder and how it contains crucial subfolders like `ingestion` and `webhook`.
-* Explore the 'actions' folder and why there are specific folders for entities like `customer`, `order`, `product`, and `stock`, each containing runtime actions structured into `commerce` and `external` folders to manage events from Commerce and third-party systems effectively. ​
+* Explore the `actions` folder and why there are specific folders for entities like `customer`, `order`, `product`, and `stock`, each containing runtime actions structured into `commerce` and `external` folders to manage events from Commerce and third-party systems effectively. ​
 * Learn the importance of not altering the code in the `starter-kit-info` folder, which contains a runtime action used by Adobe to track project deployments based on the starter kit. ​
 * Understand the `scripts` folder that contains automation scripts like `commerce-event-subscribe` and `onboarding`, which automate event configuration, provider setup, and the configuration of the Adobe I/O Events module in Commerce. ​
 
