@@ -21,7 +21,7 @@ Explore the logic behind the source code structure, detailing how the `commerce`
 ## Audience 
 
 * Developers who want to understand how the source code is organized into key folders such as `actions` and `scripts`.
-* Learn about the 'actions' folder contains subfolders like `ingestion` and` webhook` that contain essential code for handling events and tracking deployments.
+* Learn about the `actions` folder contains subfolders like `ingestion` and` webhook` that contain essential code for handling events and tracking deployments.
 * Developers who want to learn about the `actions` folder that includes folders for entities like `customer`, `order`, `product`, and `stock`.
 
 ## Video Content
@@ -33,3 +33,5 @@ Explore the logic behind the source code structure, detailing how the `commerce`
 * Understand the `scripts` folder that contains automation scripts like `commerce-event-subscribe` and `onboarding`, which automate event configuration, provider setup, and the configuration of the Adobe I/O Events module in Commerce. ​
 
   >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+  
+  {{$include /help/_includes/starter-kit-related-links.md}}
