@@ -20,9 +20,9 @@ Explore the logic behind the source code structure, detailing how the `commerce`
 
 ## Audience 
 
-* Developers needing to understand how the source code is organized into key folders such as `actions` and `scripts`.
+* Developers who want to understand how the source code is organized into key folders such as `actions` and `scripts`.
 * Learn about the 'actions' folder contains subfolders like `ingestion` and` webhook` that contain essential code for handling events and tracking deployments.
-* Developers needing to learn about the `actions` folder that includes folders for entities like `customer`, `order`, `product`, and `stock`.
+* Developers who want to learn about the `actions` folder that includes folders for entities like `customer`, `order`, `product`, and `stock`.
 
 ## Video Content
 
