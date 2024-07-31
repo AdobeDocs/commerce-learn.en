@@ -10,3 +10,4 @@ description: Links to related pages in Getting Started - Starter kit section
 * [Source code organization](../back-office-integrations/source-code-organization.md)
 * [Last mile integration](../back-office-integrations/last-mile-integration.md)
 * [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
+* [Retry mechanism](../back-office-integrations/retry-mechanism.md)
