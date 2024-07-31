@@ -14,18 +14,25 @@ level: Intermediate
 ---
 # Last mile integration using the Adobe Starter Kit  
 
-Learn about the intricacies of last mile integration within Commerce systems, focusing on the utilization of extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing are employed to ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, from validating incoming data against schemas to transforming data objects between systems, and from performing calculations before sending relevant information to executing the actual data send to the destination system. The document emphasizes the importance of maintaining separate JavaScript files for each block to uphold business logic integrity and facilitate future framework upgrades, ensuring a robust and adaptable integration setup.
+Learn about the intricacies of last-mile integration with Adobe Commerce with a focus on using extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
 
-Learn about the significance of post-processing activities through the post process hook, enabling users to conduct additional actions after data synchronization, such as adding comments to orders or storing external IDs. ​ It also advocates for best practices like encapsulating API requests within specific libraries to streamline connections with third-party systems. Learn a few typical use cases for each hook and offering guidance on handling various scenarios.   
+* Validating incoming data against schemas
+* Transforming data objects between systems
+* Performing calculations before sending relevant information
+* Executing the actual data send to the destination system
+
+It is important to maintain separate JavaScript files for each block to uphold business logic integrity and facilitate future framework upgrades, ensuring a robust and adaptable integration setup.
+
+Learn about the significance of post-processing activities through the post process hook, which enables users to perform additional actions after data synchronization, such as adding comments to orders or storing external IDs. The video includes best practices like encapsulating API requests within specific libraries to streamline connections with third-party systems. You will also learn typical use cases for each hook and guidance on handling different scenarios.
 
 ## Audience 
 
-* Developers who need to learn the structure and functionality of extensibility hooks, and how these hooks can be used to enhance connectivity with third-party systems.
-* Developers needing to learn typical use cases and best practices associated with each extensibility hook, such as validation, transformation, preprocessing, sending, and post-processing, to facilitate seamless data flow, system synchronization, and efficient integration setup maintenance. ​
+* Developers who want to learn the structure and functionality of extensibility hooks, and how these hooks can enhance connectivity with third-party systems.
+* Developers who want to learn typical use cases and best practices associated with each extensibility hook, such as validation, transformation, preprocessing, sending, and post-processing, to facilitate seamless data flow, system synchronization, and efficient integration setup maintenance. ​
   
 ## Video Content
 
-* Learn about the structure of the invoked actions in last mile integration.
+* Learn about the structure of the invoked actions in last-mile integration.
 * Understand typical use cases within the validation hook, including validating incoming data against schemas and skipping specific events based on certain criteria. ​
 * Learn the role of the transform hook in transforming data objects between the origin and destination systems.
 * Learn about the significance of the send hook in facilitating the actual data send to the destination system.

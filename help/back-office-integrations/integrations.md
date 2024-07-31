@@ -24,8 +24,8 @@ Learn how to integrate Adobe Commerce with external systems, offering practical 
 ## Video Content
 
 * Best practices for commerce integration from cloning to live deployment.
-* Steps required for onboarding, including validation of successful deployment
-* Configuration files are used to tailor the onboarding process.
+* Steps required for onboarding, including validation of successful deployment.
+* Configuration files customize the onboarding process.
 * Running scripts to create and configure event providers and subscriptions.
 * Updating events in Commerce and App Builder for synchronization.
 
