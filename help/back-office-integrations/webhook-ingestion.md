@@ -26,7 +26,7 @@ The video covers the steps to modify the webhook code to translate third-party e
 
 ## Video Content
 
-* Configuration and Deployment: The document emphasizes the importance of configuring the ingestion webhook in the `actions.config.yaml` file and enabling it in the `app.config.yaml` file. It also highlights the need to redeploy the project after making changes to ensure the webhook functions correctly.
+* Configuration and Deployment: The video emphasizes the importance of configuring the ingestion webhook in the `actions.config.yaml` file and enabling it in the `app.config.yaml` file. It also highlights the need to redeploy the project after making changes to ensure the webhook functions correctly.
 * Customization for Compatibility: It is crucial to customize the webhook code to translate third-party events into formats that align with the integration's subscribed event types. ​ This customization ensures seamless communication between systems and successful event processing.
 * Authentication Implementation: Businesses are responsible for implementing authentication mechanisms suitable for their needs to prevent unauthorized requests when using the ingestion webhook. This step is essential for maintaining the security and integrity of the integration.
 * Payload Validation and Transformation: Validating and transforming incoming event payloads to match the expected schema is vital for successful processing and integration with the Commerce API. ​ By trimming and mapping fields appropriately, the integration can operate efficiently with the necessary data.

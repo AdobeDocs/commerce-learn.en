@@ -19,7 +19,7 @@ Learn about items to consider when starting the last-mile integration with Adobe
 * Validating incoming data against schemas
 * Transforming data objects between systems
 * Performing calculations before sending relevant information
-* Executing the actual data send to the destination system
+* Sending the data to the destination system
 
 It is important to maintain separate JavaScript files for each block to uphold business logic integrity and facilitate future framework upgrades, ensuring a robust and adaptable integration setup.
 
