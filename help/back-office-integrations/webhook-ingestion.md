@@ -33,7 +33,7 @@ The video covers the steps to modify the webhook code to translate third-party e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431694?learn=on)
 
-  {{$include /help/_includes/starter-kit-related-links.md}}
+{{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Code Samples
 
