@@ -1,5 +1,5 @@
 ---
-title: Configuring, deploying, and customizing an ingestion webhook for integrating Commerce with a third-party system 
+title: Configure, Deploying, and Customize an Ingestion Webhook 
 description: Learn how to set up and customizing an ingestion webhook to facilitate communication between Commerce and a third-party back office system.
 landing-page-description: Learn how to use the Commerce Integration Starter Kit to integrate Commerce with a third party back office system using an ingestion webhook.
 kt: 15870
@@ -12,7 +12,7 @@ topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
 ---
-# Configuring, deploying, and customizing an ingestion webhook
+# Configure, deploy, and customize an ingestion webhook
 
 Learn about the setup and customization of an ingestion webhook for integrating Commerce with a third-party back office system.​ This video explains how the webhook can address limitations in event communication between systems by providing a publicly available endpoint to adapt messages from the third party system to the Adobe IO Eventing API. The process involves configuring the webhook in the `actions.config.yaml` file, enabling it in the `app.config.yaml` file, and deploying it to ensure proper functionality. 
 
