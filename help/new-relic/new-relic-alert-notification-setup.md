@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 ---
 # New Relic alert notification setup
 
-Learn how to find alerts, what is policy and destinations in New Relic. Observer how easy it is to add an email to an existing policy.
+Learn how to find alerts, policy, workflows, and destinations in New Relic. Observer how easy it is to add an email to an existing policy.
 
 ## Who is this video for?
 
