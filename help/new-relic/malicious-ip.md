@@ -14,7 +14,7 @@ role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
 ---
-# Identify an IP that may be malicious and should be blocked
+# Blocking a malicious IP address
 
 In this video:
 
