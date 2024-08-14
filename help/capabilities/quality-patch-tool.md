@@ -1,6 +1,6 @@
 ---
-title: Learn about the quality patch tool
-description: Enhance your e-commerce platform's stability and security by applying quality patches. Stay up-to-date, address issues, and optimize performance with this essential tool.
+title: Quality Patch Tool
+description: Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -11,7 +11,7 @@ last-substantial-update: 2024-07-17
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
 ---
-# Adobe Commerce quality patch tool
+# Quality patch tool
 
 Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
 
@@ -19,7 +19,7 @@ Learn how to use the quality patch tool when diagnosing a problem, finding a sol
 
 Learn how to triage an issue, then use some basic techniques to find a quality patch to apply a fix.
 
-## Who is this video for?
+## Audience
 
 * Developers learning how to find issues and leverage this tool for applying GIT patches for known issues
 
@@ -35,7 +35,7 @@ These patches are developed from Adobe Developers the Magento Open Source comm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## Why use the quality patch tool?
+## Why use the quality patch tool
 
 You might want to use the Quality Patches Tool for Adobe Commerce or Magento Open Source if you're looking to:
 
