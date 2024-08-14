@@ -150,3 +150,228 @@ Summarizing:
 - **Third-party modules fallback option**: stored in the gra-split-3rdparty Git repository.
 - **GRA foundation code**: stored in the gra-split-gra Git repository.
 - **Local code**: stored in the gra-split-brand-x Git repository.
+
+## Connect package storage to Composer
+
+Composer can treat the packages directory as a composer repository. Inform Composer about the location of packages inside the packages directory.
+
+```json
+"repositories": [
+  {"type": "path", "url": "packages/local/*/*"},
+  {"type": "path", "url": "packages/gra/*/*"},
+  {"type": "path", "url": "packages/3rdparty/*/*"},
+  {"type": "composer", "url": "https://repo.magento.com"}
+]
+```
+
+Composer looks for composer.json files two levels deep in the three storage directories. Create subdirectories inside the three code storage directories exactly like they would appear in the `vendor/` directory.
+
+For instance: If a package is normally installed in `vendor/example-corp/module-example/`, then you store it in `packages/3rdparty/example-corp/module-example/`. Composer symlinks the package to `vendor/example-corp/module-example/` when you require it.
+
+Use the composer package namespace and name as the directory structure. For instance: a module that traditionally exists in `app/code/MyCorp/MyCustomization/` has the name `my-corp/module-my-customization` in composer.json. Store this package in `packages/gra/my-corp/module-my-customization`.
+
+## Include new packages in the instance repositories
+
+Merge packages from the third-party and GRA remotes into the gra-split-brand-x repository.
+
+```bash
+cd gra-split-brand-x
+git fetch - all
+git merge gra/main 3rdparty/main
+git push origin main
+```
+
+The result is the following directory structure:
+
+```text
+.
+├── composer.json
+└── packages/
+    ├── 3rdparty/
+    ├── gra/
+    └── local/
+```
+
+Changes in the third-party and GRA foundation repository are merged into the brand repositories. This way third-party and GRA code are only maintained in one place. Move the changes to the brands with a Git merge.
+
+Adobe Commerce does not automatically recognize new modules. Run composer require to add a new package after a merge. Run composer update every time you update one of your packages after a merge.
+
+## Install example modules
+
+As a proof of concept, install example modules to see how the GRA pattern works.
+
+Run `composer install` and `bin/magento install` before moving on.
+
+There are 3 test modules for on GitHub:
+
+1. [module-example-local](https://github.com/AntonEvers/module-example-local)
+2. [module-example-gra](https://github.com/AntonEvers/module-example-gra)
+3. [module-example-3rdparty](https://github.com/AntonEvers/module-example-3rdparty)
+
+### Install a local module
+
+Adding a module to the local code pool is simple. Download and extract the module. Require it with Composer. Enable it with `bin/magento` and commit the files in the brand repository.
+
+```bash
+cd gra-split-brand-x
+cd packages/local
+mkdir antonevers
+cd antonevers
+curl -OL https://github.com/AntonEvers/module-example-local/archive/refs/heads/main.zip
+unzip main.zip
+rm main.zip
+mv module-example-local-main module-local
+git add module-local
+cd ../../..
+composer require antonevers/module-local:@dev
+bin/magento module:enable AntonEvers_Local
+bin/magento test:local
+```
+
+That last command should result in the following output to prove that the module is installed and working:
+
+```bash
+Local module is installed successfully and working!
+```
+
+If you see the output above, then you can safely commit it to the brand repository.
+
+```bash
+git add packages/local/antonevers/module-local app/etc/config.php composer.json composer.lock 
+git commit -m 'add local module'
+git push origin main
+```
+
+## Install and develop a GRA foundation module
+
+Adding a module to the GRA repository is different from installing local modules. By default, commits are added to origin/main, which is the gra-split-brand-x repository. Changes to GRA modules should be pushed to the gra-split-gra repository and merged into the gra-split-brand-x repository afterwards.
+
+### Create a development environment
+
+Create a development environment with a combination of all code pools in one place. You can push code to the local, GRA and third-party repository individually through symlinks. Start by creating a new development directory next to your brand, GRA and third-party repo directories.
+
+```text
+.
+├── gra-development    # <---
+├── gra-split-3rdparty
+├── gra-split-brand-x
+└── gra-split-gra
+```
+
+```bash
+cd ..
+mkdir gra-development
+cd gra-development
+cp ../gra-split-brand-x/composer.json ../gra-split-brand-x/composer.lock .
+mkdir packages
+ln -s ../../gra-split-brand-x/packages/local/ packages/
+ln -s ../../gra-split-3rdparty/packages/3rdparty/ packages/
+ln -s ../../gra-split-gra/packages/gra/ packages/
+```
+
+The result is the following directory structure:
+
+```text
+.
+├── packages/
+│ ├── 3rdparty -> ../../gra-split-3rdparty/packages/3rdparty/
+│ ├── gra -> ../../gra-split-gra/packages/gra/
+│ └── local -> ../../gra-split-brand-x/packages/local/
+├── composer.lock
+└── composer.json
+```
+
+Run `composer install` and `bin/magento install` in the gra-development directory.
+
+It is now possible to commit changes directly from the `packages/3rdparty`, `packages/gra` and `package/local` directories. Git commits the changes to the Git repository that the directories symlink to. It is important that the git commit command is issued inside the `packages/3rdparty`, `packages/gra` or `package/local` directory. Do not run git commit at the project root.
+
+### Install example modules
+
+Install the third-party and GRA example modules in the packages directories.
+
+```bash
+cd packages/gra
+mkdir antonevers
+cd antonevers
+curl -OL https://github.com/AntonEvers/module-example-gra/archive/refs/heads/main.zip
+unzip main.zip
+rm main.zip
+mv module-example-gra-main module-gra
+git add module-gra
+ 
+cd ../../3rdparty
+mkdir antonevers
+cd antonevers
+curl -OL https://github.com/AntonEvers/module-example-3rdparty/archive/refs/heads/main.zip
+unzip main.zip
+rm main.zip
+mv module-example-3rdparty-main module-3rdparty
+git add module-3rdparty
+ 
+cd ../../..
+composer require antonevers/module-gra:@dev antonevers/module-3rdparty:@dev
+bin/magento module:enable AntonEvers_Gra AntonEvers_ThirdParty
+bin/magento test:gra
+bin/magento test:3rdparty
+```
+
+That last command should result in the following output to prove that the module is installed and working:
+
+```bash
+GRA module is installed successfully and working!
+3rd party module is installed successfully and working!
+```
+
+If you see the output above, then you can safely commit it to the brand repository. Run `git remote -v` to verify that you are committing to the right remote.
+
+```bash
+cd packages/gra
+git remote -v 
+origin git@github.com:AntonEvers/gra-split-gra.git (fetch)
+origin git@github.com:AntonEvers/gra-split-gra.git (push)
+git add antonevers/module-gra
+git commit -m 'add GRA module'
+git push origin main
+ 
+cd ../3rdparty
+git remote -v 
+origin git@github.com:AntonEvers/gra-split-3rdparty.git (fetch)
+origin git@github.com:AntonEvers/gra-split-3rdparty.git (push)
+git add antonevers/module-3rdparty
+git commit -m 'add third-party module'
+git push origin main
+```
+
+## Deliver code to the instances
+
+Merge the GRA and third-party repositories to the gra-split-brand-x repository to deliver the code to an Adobe Commerce instance. Run `composer require`, `bin/magento module:enable` and commit the result.
+
+```bash
+cd gra-split-brand-x
+git fetch - all
+git merge gra/main 3rdparty/main
+composer require antonevers/module-gra:@dev antonevers/module-3rdparty:@dev
+bin/magento module:enable AntonEvers_Gra AntonEvers_ThirdParty
+git add app/etc/config.php composer.lock composer.json
+git commit -m 'install GRA and third-party modules'
+git push origin main
+```
+
+## Branching strategy
+
+This GRA pattern works with all branching strategies, if you mirror the branching strategy of the store repositories in your third-party and GRA repositories. For releases, create a release branch with the same name in all three repositories. Merge the release branches together on the store repository during release preparation.
+
+Sometimes you have a ticket branch that requires both local code and third-party code or GRA code to be altered. In this case, the ticket branches need to be created in all related repositories.
+
+Never merge third-party and GRA commits into the brand repository inside ticket branches. Instead, check out the right branches in your development environment for each code pool. Merging into the brand repository is only done when composing the release, or when composing a QA branch.
+
+## Code examples
+
+The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
+
+- An example production store: https://github.com/AntonEvers/gra-split-brand-x
+- The third-party code repository: https://github.com/AntonEvers/gra-split-3rdparty
+- The GRA code repository: https://github.com/AntonEvers/gra-split-gra
+- An example local module: https://github.com/AntonEvers/module-example-local
+- An example GRA module: https://github.com/AntonEvers/module-example-gra
+- An example third-party module: https://github.com/AntonEvers/module-example-3rdparty
