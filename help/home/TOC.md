@@ -151,6 +151,7 @@ auto-video-transcripts: true
     + [Quality Patch Tool](../tools/quality-patch-tool.md)
     + New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
+        + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
 + Commerce Intelligence {#mbi}
     + [Getting Started](../business-intelligence/getting-started.md)
     + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
