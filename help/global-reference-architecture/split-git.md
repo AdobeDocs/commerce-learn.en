@@ -369,9 +369,9 @@ Never merge third-party and GRA commits into the brand repository inside ticket 
 
 The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-- An example production store: https://github.com/AntonEvers/gra-split-brand-x
-- The third-party code repository: https://github.com/AntonEvers/gra-split-3rdparty
-- The GRA code repository: https://github.com/AntonEvers/gra-split-gra
-- An example local module: https://github.com/AntonEvers/module-example-local
-- An example GRA module: https://github.com/AntonEvers/module-example-gra
-- An example third-party module: https://github.com/AntonEvers/module-example-3rdparty
+- An example production store: <https://github.com/AntonEvers/gra-split-brand-x>
+- The third-party code repository: <https://github.com/AntonEvers/gra-split-3rdparty>
+- The GRA code repository: <https://github.com/AntonEvers/gra-split-gra>
+- An example local module: <https://github.com/AntonEvers/module-example-local>
+- An example GRA module: <https://github.com/AntonEvers/module-example-gra>
+- An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
