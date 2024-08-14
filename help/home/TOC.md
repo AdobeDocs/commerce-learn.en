@@ -24,9 +24,17 @@ auto-video-transcripts: true
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
         + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+    + Global Reference Architecture Patterns {#global-reference-architecture-implementation-techniques}
+        + [Overview](../global-reference-architecture/overview.md)
+        + [Split Git](../global-reference-architecture/split-git.md)
+        + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+        + [Separate packages](../global-reference-architecture/separate-packages.md)
+        + [Monorepo](../global-reference-architecture/monorepo.md)    
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
+        + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+        + [Quality Patch tool](../capabilities/quality-patch-tool.md)
     + Create Products {#create-products}
         + [Simple product](../site-management/create-simple-product.md) 
         + [Virtual product](../site-management/create-virtual-product.md)  
@@ -37,12 +45,11 @@ auto-video-transcripts: true
         + [Gift Card product](../site-management/create-gift-card-product.md)
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
-+ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
-    + [Overview](../global-reference-architecture/overview.md)
-    + [Split Git](../global-reference-architecture/split-git.md)
-    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-    + [Separate packages](../global-reference-architecture/separate-packages.md)
-    + [Monorepo](../global-reference-architecture/monorepo.md)      
+        + [Integrations](../back-office-integrations/integrations.md)
+        + [Source Code Organization](../back-office-integrations/source-code-organization.md)
+        + [Last mile integration](../back-office-integrations/last-mile-integration.md)
+        + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
+        + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
