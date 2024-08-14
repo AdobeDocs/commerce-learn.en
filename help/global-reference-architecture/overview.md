@@ -3,7 +3,7 @@ title: How do you leverage Global Reference Architecture
 description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14040
-doc-type: video
+doc-type: tutorial
 audience: all
 last-substantial-update: 2023-6-25
 feature: Best Practices, Configuration, Install
@@ -47,7 +47,7 @@ When a GRA pattern is not used, each Adobe Commerce instance is a unique applica
 
 ![An icon depicting the "split" GRA pattern](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-This pattern consists of a single Git repository, with 3 remotes named; core, third-party and customization. Each file in the project repository is maintained in one of the 3 remotes. They come together as a braid forming the whole GRA. Each line of code only exists in a single development repository and is installed to the instances using the braiding technique, leading to code reuse.
+This pattern consists of Git repositories for development and one Git repository per instance. Each file in the instance is maintained in one of the development repositories. They come together as a braid forming the whole GRA. Each line of code only exists in a single development repository and is installed to the instances using the braiding technique, leading to code reuse.
 
 ![A diagram showing where code is stored in a split GRA pattern](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -77,7 +77,7 @@ All development takes place in a single code repository. Automation generates pa
 
 ## Choosing a GRA pattern
 
-The choice for a GRA pattern is made by assessing the project complexity, the need for flexibility, and the development team's ability to adapt. 
+The choice for a GRA pattern is made by assessing the project complexity, the need for flexibility, and the development team's ability to adapt.
 
 Teams with little Adobe Commerce experience best start simple. However, if the project demands a more complex GRA pattern due to its characteristics, do not compromise.
 
