@@ -1,5 +1,5 @@
 ---
-title: Using Experience League to create a support ticket
+title: Create a support ticket
 description: Learn how to create a support ticket for Adobe Commerce in Experience League
 feature: Customer Service, Support
 topic: Commerce

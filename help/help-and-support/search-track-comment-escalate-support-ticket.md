@@ -1,12 +1,12 @@
 ---
-title: Using Experience League to search, review, comment and escalate a support ticket
+title: Search, review, comment and escalate a support ticket
 description: Using Experience League to search, review, comment and escalate a support ticket
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 337
+duration: 186
 last-substantial-update: 2024-08-23
 jira: KT-16049
 ---
