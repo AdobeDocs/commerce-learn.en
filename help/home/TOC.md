@@ -28,6 +28,8 @@ auto-video-transcripts: true
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
+        + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+        + [Quality Patch tool](../capabilities/quality-patch-tool.md)
     + Create Products {#create-products}
         + [Simple product](../site-management/create-simple-product.md) 
         + [Virtual product](../site-management/create-virtual-product.md)  
@@ -38,6 +40,11 @@ auto-video-transcripts: true
         + [Gift Card product](../site-management/create-gift-card-product.md)
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
+        + [Integrations](../back-office-integrations/integrations.md)
+        + [Source Code Organization](../back-office-integrations/source-code-organization.md)
+        + [Last mile integration](../back-office-integrations/last-mile-integration.md)
+        + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
+        + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -145,6 +152,7 @@ auto-video-transcripts: true
     + [Quality Patch Tool](../tools/quality-patch-tool.md)
     + New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
+        + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
 + Commerce Intelligence {#mbi}
     + [Getting Started](../business-intelligence/getting-started.md)
     + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
