@@ -2,7 +2,7 @@
 title: Using Experience League to create a support ticket
 description: Learn how to create a support ticket for Adobe Commerce in Experience League
 feature: Customer Service, Support
-topic: Commerce, 
+topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
