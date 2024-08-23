@@ -1,5 +1,5 @@
 ---
-title: - Using Experience League to create a support ticket
+title: Using Experience League to create a support ticket
 description: Learn how to create a support ticket for Adobe Commerce in Experience League
 feature: Customer Service, Support
 topic: Commerce, 
@@ -13,7 +13,7 @@ jira: KT-15165
 
 # Using Experience League to create a support ticket
 
-Learn how to create a support ticket in Experience League for Adobe Commerce.
+Learn how to create a support ticket within Experience League for Adobe Commerce.
 
 ## Who is this video for?
 
@@ -23,8 +23,8 @@ Learn how to create a support ticket in Experience League for Adobe Commerce.
 
 * Learn how to log in to Experience League
 * Learn about the dynamic form elements when creating a new support ticket
-* Lean the recommended articles change depending on what information was used in the form
-* Understanding how the placeholder text in the form fields help with understanding the type of information needed for a good support request
+* Lean how the recommended articles change depending on what information was used in the form
+* Understanding how the placeholder text found in the form fields helps with understanding the type of information needed for a good support request
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
