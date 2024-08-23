@@ -47,6 +47,7 @@ auto-video-transcripts: true
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
     + Help and support {#help-and-support}
         + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+        + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
