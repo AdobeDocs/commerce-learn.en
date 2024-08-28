@@ -1,7 +1,7 @@
 ---
-title: Last mile integration in the Commerce integration starter kit. 
+title: Last mile integration in the Commerce integration starter kit.
 description: Last mile integration in Commerce, highlighting extensibility hooks like validation, transformation, preprocessing, sending, and post-processing.​
-landing-page-description: Learn the structure and functions of extensibility hooks in last mile integration for Commerce systems.   
+landing-page-description: Learn the structure and functions of extensibility hooks in last mile integration for Commerce systems.
 kt: 15869
 doc-type: video
 duration: 465
@@ -11,6 +11,7 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 ---
 # Last mile integration using the Adobe Starter Kit  
 

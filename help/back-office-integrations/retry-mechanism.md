@@ -11,6 +11,7 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
+exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 ---
 # Leverage Adobe I/O Events retry mechanism for application resilience
 
