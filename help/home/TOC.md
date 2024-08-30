@@ -17,6 +17,7 @@ auto-video-transcripts: true
         + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
         + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
     + Best Practices {#commerce-cloud-best-practices}
+        + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
     + Global Reference Architecture{#global-reference-architecture}
@@ -44,6 +45,10 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
+    + Help and support {#help-and-support}
+        + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+        + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+        + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
