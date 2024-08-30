@@ -11,6 +11,7 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
+exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
 ---
 # New Relic alert notification setup
 
