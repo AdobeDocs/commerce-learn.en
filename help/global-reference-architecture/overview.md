@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 
 # Global Reference Architecture Implementation Techniques
 
-There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages.
+There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages. The examples in this article are ordered from simple to more complex. Pick the strategy that best fits your project and future roadmap. A migration from one strategy to another can be time consuming.
 
 ## When to use Global Reference Architecture
 
@@ -39,7 +39,7 @@ Next to "no GRA pattern" there are four styles of GRA patterns.
 
 ![An icon that depicts "no GRA"](/help/assets/global-reference-architecture/no-gra.png){align="center"}
 
-When a GRA pattern is not used, each Adobe Commerce instance is a unique application. There is no code reuse, except by manually moving code from one instance to another. These copies can diverge. In this scenario, three instances need three times the maintenance effort of one instance.
+When a GRA pattern is not used, each Adobe Commerce instance is a unique application. There is no code reuse, except by manually moving code from one instance to another. These copies always diverge. The amount of effort to ensure that each instance has the same changes but still works as expected can become overwhelming. In this scenario, three instances need three times the maintenance effort of one instance.
 
 ![A diagram depicting 3 stores, where each is a copy from the former, with unique development happening in all 3 copies.](/help/assets/global-reference-architecture/no-gra-pattern-diagram.png){align="center"}
 
