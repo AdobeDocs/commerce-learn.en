@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 131
 last-substantial-update: 2024-08-23
 jira: KT-16050
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
 ---
-
 # Add and remove watchers Close and reopen tickets
 
 Learn how to add and remove watchers as well as close and reopen a support ticket within Experience League for Adobe Commerce.

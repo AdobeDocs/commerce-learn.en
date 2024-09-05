@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-08-23
 jira: KT-15165
+exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
 ---
-
 # Effective Support Requests
 
 When creating a support ticket, it is important to submit it through the appropriate channels, provide accurate and detailed information about the issue, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles for potential solutions, double-check all the information before submitting, track the ticket's progress and engage in a conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if further assistance is needed. ​ Remember to submit the ticket through the appropriate channels, provide accurate and detailed information, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles, double-check all information before submitting, track the ticket's progress, engage in conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if needed. ​

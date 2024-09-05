@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 337
 last-substantial-update: 2024-08-23
 jira: KT-15165
+exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
 ---
-
 # Using Experience League to create a support ticket
 
 Learn how to create a support ticket within Experience League for Adobe Commerce.
