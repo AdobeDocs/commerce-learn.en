@@ -3,7 +3,7 @@ title: How do you leverage Global Reference Architecture
 description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14040
-doc-type: video
+doc-type: tutorial
 audience: all
 last-substantial-update: 2024-6-25
 feature: Best Practices, Configuration, Install
