@@ -9,6 +9,7 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+    + [Marketecture](../cloud/marketecture.md)
     + [Migrate from a self-hosted solution](../cloud/overview.md) 
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
