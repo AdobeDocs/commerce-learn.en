@@ -24,8 +24,8 @@ Extensibility tools such as API Mesh and unified event management streamline dev
 
 ## Video Content
  
- - Scalable and Managed hosting solution. Fully managed on AWS and Azure with over 200 modules and robust SLAs.
- - Adobe Commerce offers Composable Services such as live search, AI recommendations, and flexible payment solutions.
- - Advanced Integration including API Mesh, unified event management, and seamless Adobe Experience Platform integration.
+- Scalable and Managed hosting solution. Fully managed on AWS and Azure with over 200 modules and robust SLAs.
+- Adobe Commerce offers Composable Services such as live search, AI recommendations, and flexible payment solutions.
+- Advanced Integration including API Mesh, unified event management, and seamless Adobe Experience Platform integration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
