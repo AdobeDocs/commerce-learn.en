@@ -19,12 +19,12 @@ Adobe Commerce is a hybrid cloud eCommerce platform available on AWS and Azure, 
 
 - Businesses of all sizes looking to establish or enhance their eCommerce presence would benefit from Adobe Commerce.
 - Retailers, wholesalers, and enterprises seeking a scalable, secure, and customizable platform with advanced AI-driven features for optimizing customer experiences and operational efficiency.
-- Developers and IT teams that need a robust set of cloud-native tools and APIs for building and managing commerce applications.
+- Developers and IT teams investigating commerce options that offer a robust set of cloud-native tools and APIs for building and managing commerce applications.
 
 ## Video Content
  
 - Scalable and Secure Infrastructure.  Learn about the fully redundant multi-cloud infrastructure on AWS and Azure, ensuring optimized performance, resilience, and elastic scalability with high security and compliance standards.
 - Advanced AI-Driven Services. You will gain an understanding for the intelligent, API-first services like live search, AI-fueled product recommendations, and catalog services to enhance customer experience and operational efficiency. ​
-- Comprehensive Developer Tools. Learn how Adobe Commerce provides a suite of cloud-native, serverless developer tools such as API Mesh and App Builder, enabling seamless integration and customization to extend commerce functionalities. ​
+- Comprehensive Developer Tools. Learn about the suite of cloud-native, serverless developer tools such as API Mesh and App Builder, enabling seamless integration and customization to extend commerce functionalities. ​
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
