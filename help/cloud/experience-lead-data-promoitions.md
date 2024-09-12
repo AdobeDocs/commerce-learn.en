@@ -13,14 +13,14 @@ jira: KT-16201
 
 # Experience lead data and promotions  
 
-Learn about Adobe Commerce's advanced search capabilities, powered by Adobe Sensei, and its robust catalog management features. Get to know some of the highlights for AI-driven search optimization, faceting, and merchandising tools for enhancing user experience. ​ Additionally, you will learn about product bundling, promotions management, and seamless integration with third-party systems, offering a comprehensive solution for both B2B and B2C e-commerce needs. ​   
+Learn about Adobe Commerce's advanced search capabilities, powered by Adobe Sensei, and its robust catalog management features. Get to know some of the highlights for AI-driven search optimization, faceting, and merchandising tools for enhancing user experience. ​ Additionally, you learn about product bundling, promotions management, and seamless integration with third-party systems, offering a comprehensive solution for both B2B and B2C e-commerce needs. ​   
 
-## Who are these video for  
+## Who are these video for?
  
 - E-commerce managers
 - Commerce merchandisers
 - Website marketers
-- Softare Developers
+- Software Developers
 
 ## Catalog Management 
 
