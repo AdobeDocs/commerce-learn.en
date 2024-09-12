@@ -17,6 +17,7 @@ auto-video-transcripts: true
     + [Data Sharing](../cloud/data-sharing.md)
     + [Multiple Websites](../cloud/multiple-websites.md)
     + [Migrate from a self-hosted solution](../cloud/overview.md) 
+    + [Experience Lead Data and Promoitions](../cloud/experience-lead-data-promoitions.md)
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
         + [Fastly](../cloud/fastly.md)
