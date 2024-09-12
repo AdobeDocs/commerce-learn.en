@@ -8,7 +8,7 @@ level: Beginner
 doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-10-09
-jira: KT-1688
+jira: KT-16188
 ---
 
 # Adobe Commerce Marketing Flows
