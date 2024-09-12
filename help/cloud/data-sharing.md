@@ -11,7 +11,7 @@ last-substantial-update: 2024-11-09
 jira: KT-16194
 ---
 
-# Adobe Commerce Storefront Options
+# Adobe Commerce Data Sharing
 
 Discover the power of Adobe Commerce's native data sharing capabilities to enhance customer loyalty and drive sales.
 Seamlessly integrate with Adobe Experience Cloud products to create personalized shopping journeys, leveraging real-time customer profiles and behavioral data. From targeted email campaigns to dynamic on-site content, Adobe Commerce enables a unified view of your customers, ensuring relevant and engaging experiences that boost conversions and average order value. Experience the future of e-commerce personalization with Adobe Commerce.
