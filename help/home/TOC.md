@@ -15,6 +15,7 @@ auto-video-transcripts: true
     + [Marketing Flows](../cloud/marketing-flows.md)
     + [Storefront Options](../cloud/storefront-options.md)
     + [Data Sharing](../cloud/data-sharing.md)
+    + [Multiple Websites](../cloud/multiple-websites.md)
     + [Migrate from a self-hosted solution](../cloud/overview.md) 
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
