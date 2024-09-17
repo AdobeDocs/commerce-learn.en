@@ -9,7 +9,6 @@ doc-type: Technical Video
 duration: 462
 last-substantial-update: 2024-01-31
 jira: KT-14877
-thumbnail: KT-14877.jpeg
 exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
 ---
 # View and set admin configurations using the command line
