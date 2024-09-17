@@ -9,7 +9,6 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2024-06-25
 jira: KT-14910
-thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 ---
 # Connect and run queries against the Adobe Commerce database

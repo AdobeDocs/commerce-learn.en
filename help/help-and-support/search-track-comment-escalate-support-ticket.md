@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 186
 last-substantial-update: 2024-08-23
 jira: KT-16049
+exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
 ---
-
 # Search, review, comment, and escalate a support ticket
 
 Learn how to create a search, review, commend and escalate a support ticket within Experience League for Adobe Commerce.
