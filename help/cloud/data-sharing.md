@@ -23,7 +23,7 @@ Seamlessly integrate with Adobe Experience Cloud products to create personalized
 
 ## Video Content
  
-- Enhanced Personalization through the Adobe Commerce's native data sharing capabilities 
+- Enhanced personalization through the Adobe Commerce's native data sharing capabilities 
 - Increased Customer Engagement and Loyalty
 - Seamless Integration and Unified Customer View
 
