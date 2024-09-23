@@ -27,5 +27,4 @@ Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID
 - Get a good understanding of the role creation and management
 - Understand the user assignment and access levels. ​
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
