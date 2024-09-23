@@ -20,7 +20,7 @@ It integrates seamlessly with Adobe's digital experience tools, enabling busines
 
 - Businesses and e-commerce leaders looking to enhance their online storefronts.
 - IT leaders, developers, and marketers.
-- Companies aiming to improve site performance, increase organic traffic, and provide personalized shopping experiences.
+- Companies aiming to improve site performance, increase organic traffic, as well as provide personalized shopping experiences.
 
 ## Video Content
  
