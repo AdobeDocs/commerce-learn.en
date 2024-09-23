@@ -26,5 +26,4 @@ Adobe Commerce empowers businesses to manage multiple stores, brands, or website
 - Localization and Customization
 - Scalability and Flexibility
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
