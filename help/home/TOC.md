@@ -9,6 +9,15 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+    + [Marketecture](../cloud/marketecture.md)
+    + [Global Delivery Model](../cloud/global-delivery-model.md)
+    + [Admin Roles](../cloud/admin-roles.md)
+    + [Marketing Flows](../cloud/marketing-flows.md)
+    + [Storefront Options](../cloud/storefront-options.md)
+    + [Data Sharing](../cloud/data-sharing.md)
+    + [Multiple Websites](../cloud/multiple-websites.md)
+    + [Experience Lead Data and Promotions](../cloud/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud/aem-assets.md)
     + [Migrate from a self-hosted solution](../cloud/overview.md) 
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
