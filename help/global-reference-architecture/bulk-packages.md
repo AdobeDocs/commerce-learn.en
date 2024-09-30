@@ -33,12 +33,12 @@ Advantages:
 - No special tooling, complex infrastructure or special branching strategy required
 - The combination of packages in a release is always developed and tested together
 
-Disadvantage:
+Disadvantages:
 
 - Only possible to upgrade the full GRA, including all packages contained in it.
 - No support in the GRA bulk package for composer packages other than Adobe Commerce modules, language packs and themes, so no metapackages, magento2-component packages, Composer plugins and patches
 
-## Setting up Adobe Commerce with the Split Git GRA pattern
+## Set up Adobe Commerce with the Split Git GRA pattern
 
 ### The directory structure
 
@@ -59,7 +59,7 @@ The final directory structure of a full Adobe Commerce installation with the Bul
 
 The `app/code`, `app/i18n` and `app/design` directories are omitted on purpose, because Composer does not evaluate code in these directories. As a result, dependencies that are declared in the packages are not automatically installed. The Bulk Packages GRA pattern resolves this issue by installing some custom code in `packages/` and treating that directory as a composer repository. Composer symlinks packages inside `packages/` to `vendor/`.
 
-## Preparing the Git repositories
+### Prepare the Git repositories
 
 Create two Git repositories for the shared GRA code and for the first store. Start with the GRA repository, which has the following file structure:
 
@@ -141,7 +141,7 @@ The registration.php file looks for other registration.php files inside the Adob
 
 Create the two sample modules using the code in <https://github.com/AntonEvers/gra-bulk-foundation>. Composer does not evaluate the composer.json files in the sample modules. They are there as a habit. If you decide to move the modules to another place, the composer.json files become necessary again.
 
-## Setting up the store repository
+### Set up the store repository
 
 The deployment repository contains the entire Adobe Commerce installation including the GRA code. Create the deployment repository:
 
@@ -178,7 +178,7 @@ GRA Two module is installed successfully and working!
 
 You can create multiple bulk packages to organize code. For instance, a third-party bulk package for third-party code that is not available through Composer. Everything that you would traditionally install in `app/code` should now be in the `src/` directory of the bulk package. An exception to that rule is code that is only used in a single instance. These packages are called local packages.
 
-## Installing local packages
+### Install local packages
 
 The deployment repository hosts local packages. They do not live in the GRA bulk package. The location of the local packages is not `app/code` but `packages/local`. Instruct Composer to treat this directory as a repository:
 
@@ -231,7 +231,7 @@ Only if the third-party does not offer installation through a Composer repositor
 - **GRA foundation code**: stored in `src/` of the foundation bulk package.
 - **Local code**: stored in the `packages/local` directory of the deployment repository.
 
-## Developing a GRA module
+## Develop a GRA module
 
 Install the bulk package from source to enable Git in the bulk package directory:
 
@@ -244,11 +244,11 @@ The bulk package has been checked out using Git. When you enter the `vendor/anto
 
 Add Composer dependencies to the composer.json file at the root of the GRA bulk package, which is the only file in the bulk package that Composer evaluates.
 
-## Including third-party modules to the GRA bulk package
+## Include third-party modules to the GRA bulk package
 
 Add third-party packages in the require section of the composer.json at the root of the GRA foundation to add them to your GRA. That way, the packages are always installed in all your instances through composer.
 
-## Delivering your code
+## Deliver your code
 
 To deliver code to the main branch, there are 2 paths. First the local modules, which are merged to the main branch. Run Composer update for those modules. Do not allow developers to update composer.lock in their ticket branches to reduce conflicts. Only update the composer.lock file in staging and production branches, which reduces the risk of conflicts.
 

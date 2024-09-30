@@ -1,5 +1,5 @@
 ---
-title: How do you leverage Global Reference Architecture
+title: The Split Git global reference architecture pattern
 description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14040
@@ -38,7 +38,7 @@ Disadvantages:
 - Not possible to upgrade or downgrade individual modules per instance, always upgrade or downgrade the GRA as a whole
 - In most cases, the bulk packages pattern is a better fit as it is equally simple, but more conventional
 
-## Setting up Adobe Commerce with the Split Git GRA pattern
+## Set up Adobe Commerce with the Split Git GRA pattern
 
 ### The directory structure
 
@@ -62,7 +62,7 @@ The final directory structure of a full Adobe Commerce installation with the Spl
 
 The `app/code`, `app/i18n` and `app/design` directories are omitted on purpose, because Composer does not evaluate code in these directories. As a result, dependencies that are declared in the packages are not automatically installed. The Split Git GRA pattern resolves this issue by installing all custom code in `packages/` and treating that directory as a composer repository. Composer symlinks packages inside `packages/` to `vendor/`.
 
-## Preparing the Git repositories
+### Prepare the Git repositories
 
 Create 3 Git repositories for:
 
@@ -139,7 +139,7 @@ git commit -m 'initialize local package storage'
 git push origin main
 ```
 
-## Where to store different types of code
+### Where to store different types of code
 
 Adobe Commerce is a Composer application. The preferred way to install is always through Composer repositories. Only if a module vendor does not offer installation through a Composer repository, you can store third-party modules in the third-party repository. The preferred place for custom code is in the GRA repository. When a module is only used by one specific instance, it becomes local code.
 
@@ -151,7 +151,7 @@ Summarizing:
 - **GRA foundation code**: stored in the gra-split-gra Git repository.
 - **Local code**: stored in the gra-split-brand-x Git repository.
 
-## Connect package storage to Composer
+### Connect package storage to Composer
 
 Composer can treat the packages directory as a composer repository. Inform Composer about the location of packages inside the packages directory.
 
@@ -170,7 +170,7 @@ For instance: If a package is normally installed in `vendor/example-corp/module-
 
 Use the composer package namespace and name as the directory structure. For instance: a module that traditionally exists in `app/code/MyCorp/MyCustomization/` has the name `my-corp/module-my-customization` in composer.json. Store this package in `packages/gra/my-corp/module-my-customization`.
 
-## Include new packages in the instance repositories
+### Include new packages in the instance repositories
 
 Merge packages from the third-party and GRA remotes into the gra-split-brand-x repository.
 
@@ -196,7 +196,7 @@ Changes in the third-party and GRA foundation repository are merged into the bra
 
 Adobe Commerce does not automatically recognize new modules. Run composer require to add a new package after a merge. Run composer update every time you update one of your packages after a merge.
 
-## Install example modules
+### Install example modules
 
 As a proof of concept, install example modules to see how the GRA pattern works.
 
@@ -242,7 +242,7 @@ git commit -m 'add local module'
 git push origin main
 ```
 
-## Install and develop a GRA foundation module
+### Install and develop a GRA foundation module
 
 Adding a module to the GRA repository is different from installing local modules. By default, commits are added to origin/main, which is the gra-split-brand-x repository. Changes to GRA modules should be pushed to the gra-split-gra repository and merged into the gra-split-brand-x repository afterwards.
 
@@ -342,7 +342,7 @@ git commit -m 'add third-party module'
 git push origin main
 ```
 
-## Deliver code to the instances
+### Deliver code to the instances
 
 Merge the GRA and third-party repositories to the gra-split-brand-x repository to deliver the code to an Adobe Commerce instance. Run `composer require`, `bin/magento module:enable` and commit the result.
 
