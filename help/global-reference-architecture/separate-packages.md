@@ -148,3 +148,48 @@ This package has the type magento2-component and it contains a src directory tha
 
 This way you can make files outside of the vendor directory part of your GRA foundation too.
 
+### Develop a GRA foundation module
+
+Development happens inside the vendor directory. Ask Composer to install your foundation packages from source. Doing so, checks out packages from Git instead of installing them from a downloaded archive.
+
+```bash
+rm -r vendor/antonevers/*
+composer install --prefer-source
+```
+
+With this command, packages in the antonevers namespace have been checked out using Git. When you enter the vendor/antonevers/module-gra directory, you are also entering the module-gra Git repository. You can now create, checkout and merge branches in place and develop in this way, straight from the vendor directory.
+
+### Include third-party modules to the GRA foundation
+
+Add third-party packages to the GRA metapackage. If third-party code is not available to be installed from a Composer repository, then create a package for it. Create a Git repo, add the packages contents (everything that would be in app/code/Vendor/Package) and make sure that there is a valid composer.json file at the root of the repository. You can now install this package through Composer.
+
+## Set up a private Composer repository
+
+A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduce repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored inside your private repository instead of with your installation, on developers' machines.
+
+Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
+
+The slowness issue is what occurs when you have multiple VCS repositories in composer.json. Each Composer repository needs to be read when doing upgrades and having 50 repositories for 50 packages has at least 50 times the overhead of just a single Composer repository.
+
+![A diagram showing where slowness occurs when a composer repository is missing](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
+
+Include a Composer mirror in the form of a private Composer repository. The mirror contains a copy of all packages from other Composer repositories as well as all Git hosted packages. With a private Composer repository, you additionally get fine grained access control.
+
+With Git synchronization, a private Composer repository automatically detects new packages in your Git repositories as well as new versions of existing packages.
+
+You can host your own private repository with Satis: <https://composer.github.io/satis/>. See an example public repository at <https://antonevers.github.io/gra-composer-repository/>. This repo is used as the composer repository in the code examples. Additional measures are necessary to make a Satis repository private.
+
+There are solutions that you can configure and forget about: Private Packagist <https://packagist.com/>, which is made by the same people that wrote Composer or JFrog Artifactory <https://jfrog.com/artifactory/>.
+
+## Deliver code
+
+With metapackages, there are 3 steps to deliver code.
+
+1. Merge changes into packages and version the changed packages.
+2. (Optional, only if new packages are added) Require the new packages in metapackages and version the metapackages.
+3. (Optional, only if new packages are added) Require the new metapackages in Adobe Commerce and deploy.
+
+Deployment scope is controlled with package versions. Creation of a stable version of a package means that this package is ready for production deployment.
+
+To build a new release, run composer update in the main Composer project, which contains the full store installation. All latest versions of packages are installed.
+
