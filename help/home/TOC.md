@@ -33,6 +33,8 @@ auto-video-transcripts: true
         + [Overview](../migrating-to-adobe-commerce/overview.md)
         + Customizations{#customizations}
             + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+        + QA{#qa}
+            + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
