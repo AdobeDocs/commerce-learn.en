@@ -29,6 +29,8 @@ auto-video-transcripts: true
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
+    + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
+        + [Overview](../migrating-to-adobe-commerce/overview.md)
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
