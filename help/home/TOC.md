@@ -31,6 +31,8 @@ auto-video-transcripts: true
 + Getting Started {#getting-started}
     + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
         + [Overview](../migrating-to-adobe-commerce/overview.md)
+            + Customizations{#customizations}
+                + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
