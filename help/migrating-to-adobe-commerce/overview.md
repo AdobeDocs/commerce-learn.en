@@ -5,7 +5,7 @@ feature: Best Practices
 topic: Commerce, Migration
 role: Architect, Developer
 level: Intermediate, Experienced
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02
 jira: KT-11767
