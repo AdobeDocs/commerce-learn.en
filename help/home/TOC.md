@@ -112,6 +112,7 @@ auto-video-transcripts: true
     + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
     + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
     + [Change a Store URL](../site-management/change-store-url.md)
+    + [Reset the admin URI](../site-management/reset-admin-uri)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
     + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
     + Adobe Commerce Services {#adobe-commerce-services}
