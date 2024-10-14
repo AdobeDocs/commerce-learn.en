@@ -21,7 +21,7 @@ The Separate Packages GRA pattern involves one Git repository for each common pa
 
 This global reference architecture pattern is completely Composer based and it is designed to get the maximum benefit from all Composer features.
 
-![A diagram showing where code is stored in a separate packages GRA pattern](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
+![A diagram showing where code is stored in a Separate Packages GRA pattern](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
 ## Advantages and disadvantages of this pattern
 
@@ -103,7 +103,7 @@ Metapackages control the scope of the GRA common codebase in this GRA pattern. T
 
 The snippet above is the composer.json of a metapackage. Because metapackages only contain a composer.json file and no other code. The code above is also the full metapackage. Host it in a Git repository and you have an installable metapackage composer repository. It requires one example GRA module and a third-party module, as well as the Adobe Commerce core. It also requires the gra-component-foundation, which will be explained in the next chapter.
 
-Metapackages are a way to bundle packages without creating dependencies between the packages. So, even when there is no technical dependency between packages, with a metapackage you can cause them to be installed together. If you require this metapackage in your project, then any package or metapackage that the metapackage requires is installed. So, if you create a blank composer project and you only require this package, then Composer installs Adobe Commerce and the GRA and third-party module.
+Metapackages are a way to bundle packages without creating dependencies between the packages. So, even when there is no technical dependency between packages, with a metapackage you can cause them to be installed together. If you require this metapackage in your project, then any package or metapackage that the metapackage requires gets installed. So, if you create a blank composer project and you only require this package, then Composer installs Adobe Commerce and the GRA and third-party module.
 
 This way you can ensure that each store contains the same set of foundational packages.
 
@@ -165,7 +165,7 @@ Add third-party packages to the GRA metapackage. If third-party code is not avai
 
 ## Set up a private Composer repository
 
-A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduce repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored inside your private repository instead of with your installation, on developers' machines.
+A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduces repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored in your private repository. No more sensitive credentials bundled with the code or on developers' machines.
 
 Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
 
@@ -193,3 +193,99 @@ Deployment scope is controlled with package versions. Creation of a stable versi
 
 To build a new release, run composer update in the main Composer project, which contains the full store installation. All latest versions of packages are installed.
 
+## Versioning
+
+Versioning in a Separate Packages GRA is a synonym to tagging modules in Git. Git tags create numbered versions of your packages that Composer installs.
+The right versioning approach lets your packages flow automatically, while also remaining safe.
+
+Two examples:
+
+```json
+{
+    "name": "antonevers/gra-meta-foundation",
+    "type": "metapackage",
+    "require": {
+        "antonevers/gra-component-foundation": "1.1.4",
+        "antonevers/module-gra": "1.0.0",
+        "antonevers/module-3rdparty": "1.3.89"
+    }
+}
+```
+
+This example shows a strict definition of dependencies. 3 packages are required in exact versions. Composer update with this metapackage in your installation does nothing. It always installs these 3 packages in these exact versions, even if a newer version is available.
+
+```json
+{
+    "name": "antonevers/gra-meta-foundation",
+    "type": "metapackage",
+    "require": {
+        "antonevers/gra-component-foundation": "~1.0",
+        "antonevers/module-gra": "~1.0",
+        "antonevers/module-3rdparty": "~1.0"
+    }
+}
+```
+
+This example shows a loose definition of dependencies. With `~1.0` any version of these packages can be installed if they are greater than or equal to `1.0.0` and lower than `2.0.0`, with a preference for the highest available version. You can learn more about how to define version dependencies at <https://getcomposer.org/doc/articles/versions.md>:
+
+> The ~ operator is best explained by example: `~1.2` is equivalent to `>=1.2 <2.0.0`, while `~1.2.3` is equivalent to `>=1.2.3 <1.3.0`.
+
+As soon as you release a new version of any of the packages mentioned, it is automatically installed with Composer update.
+
+Apply semantic versioning. You can learn everything about semantic versioning at <https://semver.org/>. Especially, the FAQ is a must read. With semantic versioning, the numbers in "1.0.0" are called MAJOR.MINOR.PATCH. Minor and patch releases of a package should be safe to introduce without breaking the application.
+You can automatically include patches and manually choose minor upgrades. Be aware that doing so costs you extra overhead by picking each minor change manually:
+
+```json
+{
+    "name": "antonevers/gra-meta-foundation",
+    "type": "metapackage",
+    "require": {
+        "antonevers/gra-component-foundation": "~1.1.0",
+        "antonevers/module-gra": "~1.0.0",
+        "antonevers/module-3rdparty": "~1.3.0"
+    }
+}
+```
+
+Of course, all this only works if you apply semantic versioning consistently, always. And not only in metapackages, but the requirements of your regular packages should define dependencies loosely too. If you have one strict dependency in your system, that package is limited to the strict definition.
+
+Find these strict dependencies by typing composer depends \<package name\>. See <https://getcomposer.org/doc/03-cli.md#depends-why> for more information.
+
+## Branching strategy
+
+You can use various branching strategies to support this global reference strategy pattern, provided that the main branch is the only branch where you version your packages. If you version across several branches, it introduces the risk of randomly losing functionality between versions. Only create stable versions on the main branch.
+
+Only create feature branches in your package repositories. Not on your store installation repositories. Remain able to introduce any change to your store just by using Composer. Avoid the necessity of Git merges on the deployment repository.
+
+Branch types that are common in branching strategies and repositories they should exist in:
+
+**Feature branches**: exist in your package repositories, nowhere else.
+
+**Release branches**: are created in any repository: packages, metapackages, store installation repositories. When you plan a release, group changes in release branches of packages before versioning them. Suppose you are preparing a release with the code name "Unicorn". You can create a release-unicorn branch in packages with changes. Merge anything in there and then require "dev-release-unicorn as 1.4.0" in your metapackage. Learn more about aliases to see what is happening there: <https://getcomposer.org/doc/articles/aliases.md>.
+
+**QA/Dev branches**: similar to release branches.
+
+**Main branch**: must exist in every repository and should always be the branch that represents production or a production-ready state. The main branch is where you tag code to release versions.
+Make sure you choose a branching strategy with little maintenance overhead. For example, merging the main branch back into QA, UAT, release, or dev branches after a hotfix release is an overhead maintenance task. The more packages, the more repositories and the more repetitive overhead tasks.
+
+Use a tool like mixu/gr to perform routine operations on multiple Git repositories in a batch: <https://github.com/mixu/gr>
+
+## Naming conventions
+
+With the Separate Packages GRA pattern, packages are part of the GRA foundation if the foundation metapackage requires them. Add or remove packages from the metapackage to move them in and out of the foundation.
+
+Metapackages give flexibility to the installation scope of packages. It is extra important that the names of packages do not contain any words that relate to the intended use of the package. The name antonevers/module-gra-store-locator may become confusing when you decide to take that package out of the GRA foundation. Avoid scope (GRA, foundation, local). Avoid region (EMEA, Spain, Global). Most definitely avoid the name of the store that a package is built for. Choose names that only relate to the functionality that is added in the package. That way you can reuse them everywhere you please, also in unforeseen future scenarios. The name antonevers/module-store-locator would be excellent.
+
+Make sure that related packages show up together in overviews. Build names from generic to specific. So, antonevers/module-b2b-tax-exempt instead of antonevers/tax-exempt-module-b2b.
+
+## Code examples
+
+The code examples of this blog post have been combined in a set of Git repositories, which you can use to play around with the proof of concept.
+
+- An example production store: <https://github.com/AntonEvers/gra-separate-brand-x>
+- An example foundation module: <https://github.com/AntonEvers/module-example-gra>
+- An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
+- An example local module: <https://github.com/AntonEvers/module-example-local>
+- An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
+- An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
+- An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>
