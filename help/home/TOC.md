@@ -31,6 +31,8 @@ auto-video-transcripts: true
 + Getting Started {#getting-started}
     + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
         + [Overview](../migrating-to-adobe-commerce/overview.md)
+        + Preparation{#preparation}
+            + [Evaluate the team and project](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
         + Customizations{#customizations}
             + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
         + QA{#qa}
