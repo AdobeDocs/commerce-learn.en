@@ -1,8 +1,8 @@
 ---
 title: Evaluate the team and project
 description: Evaluate your team and project for Adobe Commerce, focusing on roles, technical strengths, frontend, and backend considerations for a successful migration.
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Backend Development, Saas. Storefront, Tools and External Services
+topic: Architecture, Collaboration, Development, Migration, Upgrade
 role: Architect, Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
@@ -31,7 +31,7 @@ On the frontend, experience with headless implementations can simplify the proce
 * Learn some frontend and backend Considerations.
 * Plan for a smooth migration by evaluating existing modules, upgrading core applications, and integrating with other Adobe solutions.
  
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## Related documentation
 
