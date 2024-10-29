@@ -9,6 +9,8 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+    + Troubleshooting {#troubleshooting}
+        + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
     + [Admin Roles](../cloud/admin-roles.md)
