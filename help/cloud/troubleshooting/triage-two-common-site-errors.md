@@ -1,6 +1,6 @@
 ---
-title: Diagnose and fix service a few common Commerce Cloud errors
-description: Resolve two common Adobe cloud project errors that prevent the site from loading.
+title: Diagnose and fix a few common Commerce Cloud errors
+description: Resolve two common Adobe Cloud project errors that prevent the site from loading.
 feature: Cloud, Site Management
 topic: Commerce, Development
 role: Architect, Developer
@@ -32,7 +32,7 @@ Learn how to triage and resolve two common errors seen on Adobe Commerce Cloud p
 
 ## Commands used in the video
 
-last 5 lines of the exception log mentioned in the response message.
+Find the last 5 lines of the exception log mentioned in the response message.
 
 ```SHELL
  tail -n 5 ~/var/log/exception.log
@@ -56,7 +56,7 @@ Display the status of maintenance mode
 php bin/magento maintenance:status
 ```
 
-Disable that we run the command 
+Disable the maintenance mode
 
 ```SHELL
 php bin/magento maintenance:disable 
