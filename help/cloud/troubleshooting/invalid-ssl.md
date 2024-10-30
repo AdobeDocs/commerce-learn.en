@@ -12,7 +12,7 @@ jira: KT-16406
 
 ---
 
-# -Expired SSL Certificate
+# Expired SSL Certificate
 
 Learn how to identify an expired ssl certificate, then how to re-generate one for the Adobe Commerce Cloud integration or other dev environments.
 
