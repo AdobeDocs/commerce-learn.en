@@ -11,6 +11,7 @@ auto-video-transcripts: true
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
     + Troubleshooting {#troubleshooting}
         + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
+        + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
     + [Admin Roles](../cloud/admin-roles.md)
