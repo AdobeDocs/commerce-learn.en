@@ -4,7 +4,7 @@ description: Overview of in-process coding standards for Adobe Commerce migratio
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02
