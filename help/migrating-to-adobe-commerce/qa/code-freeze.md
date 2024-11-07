@@ -4,7 +4,7 @@ description: Learn the importance of implementing a code freeze during your Adob
 feature: Best Practices
 topic: Commerce, Development
 role: Architect
-level: Intermediate
+level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02
