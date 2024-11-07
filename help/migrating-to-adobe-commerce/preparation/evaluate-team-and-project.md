@@ -4,7 +4,7 @@ description: Evaluate your team and project for Adobe Commerce, focusing on role
 feature: Backend Development, Saas, Storefront, Tools and External Services
 topic: Architecture, Collaboration, Development, Migration, Upgrade
 role: Architect, Developer
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 270
 last-substantial-update: 2024-10-24
