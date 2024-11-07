@@ -4,7 +4,7 @@ description: An overview covering preparation, custom code, QA, performance, and
 feature: Best Practices
 topic: Commerce, Migration
 role: Architect, Developer
-level: Intermediate, Experienced
+level: Beginner
 doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02
