@@ -13,7 +13,7 @@ jira: KT-16429
 
 # Learn where config values are located
 
-This guide provides a comprehensive overview of how to locate, validate, and manage configuration values in Adobe Commerce. It covers basic methods like querying the core_config_data table and using Magento CLI commands, as well as advanced techniques involving XML files and environment-specific configurations. You'll also learn best practices for maintaining consistency across different environments and how to use tools like the Adobe Commerce Cloud admin UI and .magento.app.yaml for setting environment variables. This knowledge is essential for developers and administrators to efficiently manage their Adobe Commerce configurations.
+This guide provides a comprehensive overview of how to locate, validate, and manage configuration values in Adobe Commerce. It covers basic methods like querying the core_config_data table and using CLI commands, as well as advanced techniques involving XML files and environment-specific configurations. Learn best practices for maintaining consistency across different environments and how to use tools like the Adobe Commerce Cloud admin UI and .magento.app.yaml for setting environment variables.
 
 ## Who is this video for
 
@@ -22,7 +22,7 @@ This guide provides a comprehensive overview of how to locate, validate, and man
 
 ## Video Content
  
-- Learn how to find configuration values in Adobe Commerce using the core_config_data table, XML files, and Magento CLI commands.
+- Learn how to find configuration values in Adobe Commerce using the core_config_data table, XML files, and CLI commands.
 - Understand how to edit and override configuration values through the admin panel, code repository, and environment-specific files.
 - Discover best practices for maintaining consistent configuration settings across different environments using tools like app:config:dump and Adobe Commerce Cloud's admin UI.
 
