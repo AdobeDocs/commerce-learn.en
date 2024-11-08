@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02
 jira: KT-15994
+exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
 ---
-
 # Migrating to Adobe Commerce - In-Process coding standards
 
 Learn some essential coding standards and best practices for PHP, JavaScript, and customizations. Whether you're a developer or a business, this set of tutorials help you navigate the complexities of migrating to Adobe Commerce, ensuring a smooth and successful transition.

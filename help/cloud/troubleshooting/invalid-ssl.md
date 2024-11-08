@@ -9,9 +9,8 @@ doc-type: Technical Video
 duration: 118
 last-substantial-update: 2024-10-29
 jira: KT-16406
-
+exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
 ---
-
 # Expired SSL Certificate
 
 Learn how to identify an expired ssl certificate, then how to re-generate one for the Adobe Commerce Cloud integration or other dev environments.

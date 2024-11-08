@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02
 jira: KT-15993
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
 ---
-
 # Migrating to Adobe Commerce - Code Freeze
 
 Implementing a code freeze during your Adobe Commerce migration is crucial for ensuring a stable and successful launch. By halting new code deployments, you allow the QA team, developers, and stakeholders to work with a static codebase, increasing confidence and reducing the risk of defects. This process involves thorough testing and validation, addressing high-priority bugs, and ensuring all aspects of the site function as expected. A well-executed code freeze benefits the entire project, preventing last-minute issues and ensuring a smooth transition to Adobe Commerce.

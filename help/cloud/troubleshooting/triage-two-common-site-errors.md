@@ -9,9 +9,8 @@ doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30
 jira: KT-16419
-
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
 ---
-
 # Diagnose and fix service unavailable and an error occurred
 
 Learn how to triage and resolve two common errors seen on Adobe Commerce Cloud projects.  Understand how and why these errors happen and what are the recommended steps to resolve them.

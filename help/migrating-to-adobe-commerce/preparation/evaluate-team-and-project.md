@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 270
 last-substantial-update: 2024-10-24
 jira: KT-16275
+exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
 ---
-
 # Migrating to Adobe Commerce - valuating the team and project
 
 When moving to Adobe Commerce, it's crucial to evaluate your team and project thoroughly. Your team should include key roles such as project managers, QA testers, developers, business stakeholders, and technical leads. Assess the technical strengths of your team to ensure they align with your project goals. For instance, a strong background in JavaScript and backend integrations is ideal for leveraging Adobe Commerce and App Builder. If your team is more experienced with Java or PHP, consider partnering with Adobe Consulting Services for the App Builder portion.

@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-10-09
 jira: KT-16188
+exl-id: b5a9a043-0420-4096-b915-565eaf37a288
 ---
-
 # Adobe Commerce Marketing Flows
 
 Explore Adobe Commerce's Edge delivery storefront, focusing on content management. Learn how to enhance the conversion rate by creating and managing content using familiar tools like Word and SharePoint. Learn some new authoring aspects for creating new articles, banners, and conducting A/B testing to optimize customer engagement. Additionally, learn the use of Adobe Experience Manager and generative AI tools to further refine content and ensure effective promotions.
