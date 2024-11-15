@@ -25,4 +25,4 @@ Learn some essential coding standards and best practices for PHP, JavaScript, an
 * Learn best practices for PHP, JavaScript, and customizations to ensure a smooth migration.
 * Gain insights from Adobe experts on preparation, performance, and security for successful Adobe Commerce projects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
