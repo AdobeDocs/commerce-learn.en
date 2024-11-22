@@ -9,9 +9,8 @@ doc-type: Technical Video
 duration: 195
 last-substantial-update: 2024-11-22
 jira: KT-16565
-
+exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
 ---
-
 # Admin Grid Filters
 
 Learn how to find and adjust filters for use in the Adobe Commerce admin. Learn how to enable and disable a filter and how they impact other admin users.
