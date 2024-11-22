@@ -14,7 +14,7 @@ jira: KT-16565
 
 # Admin Grid Filters
 
-Learn how to find and adjust filters for use in the Adobe Commerce admin. Learn how to enable and disable a filter and hwo they impact other admin users.
+Learn how to find and adjust filters for use in the Adobe Commerce admin. Learn how to enable and disable a filter and how they impact other admin users.
 
 ## Who is this video for?
 
