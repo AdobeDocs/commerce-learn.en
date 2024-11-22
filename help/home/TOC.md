@@ -120,6 +120,7 @@ auto-video-transcripts: true
     + [Change a Store URL](../site-management/change-store-url.md)
     + [Reset the admin URI](../site-management/reset-admin-uri.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+    + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
     + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
     + Adobe Commerce Services {#adobe-commerce-services}
         + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
