@@ -180,6 +180,7 @@ auto-video-transcripts: true
     + New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
         + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
+        + [Custom alerts](../new-relic/custom-alerts.md)
 + Commerce Intelligence {#mbi}
     + [Getting Started](../business-intelligence/getting-started.md)
     + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
