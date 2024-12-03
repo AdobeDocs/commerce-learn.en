@@ -9,9 +9,8 @@ doc-type: Technical Video
 duration: 183
 last-substantial-update: 2024-12-02
 jira: KT-16606
-
+exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
 ---
-
 # Create Custom New Relic alerts
 
 Learn how to create custom alerts in New Relic for monitoring website traffic and setting thresholds for alert notifications.
