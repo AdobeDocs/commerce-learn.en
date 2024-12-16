@@ -7,11 +7,11 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 453
-last-substantial-update: 2024-05-08
+last-substantial-update: 2024-12-16
 jira: KT-16685
 
 ---
-# Adobe Commerce Data Connection full demonstration
+# Adjust transactional flow for checkout
 
 Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.
 
