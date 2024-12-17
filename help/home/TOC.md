@@ -73,6 +73,7 @@ auto-video-transcripts: true
 + Edge Delivery Services {#edge-delivery-services}
     + Getting Started {#getting-started}
         + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
+        + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
