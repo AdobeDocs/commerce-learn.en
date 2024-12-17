@@ -13,7 +13,7 @@ exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
 ---
 # Use product attributes for cart items
 
-In the transcript, a developer named Ali from Acme brand demonstrates how to customize and extend the Adobe Commerce shopping cart. Ali addresses three project requirements: displaying delivery timelines for back-order products, showing returnable and final sale notices, and applying a 25% discount for carts with a subtotal of $75 or more. By leveraging product attributes and slots, Ali successfully integrates these features into the shopping cart, enhancing the overall user experience and meeting all project requirements.
+Learn how to customize and extend the Adobe Commerce shopping cart. In this demonstration, there are three updates.  The demo begins by displaying delivery timelines for back-order products, showing returnable and final sale notices, and applying a 25% discount for carts with a subtotal of $75 or more. By leveraging product attributes and slots, adding these features into the shopping cart enhances the overall user experience.
 
 ## What to expect from watching this video
 
