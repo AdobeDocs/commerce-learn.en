@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16
 jira: KT-16685
-
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
 ---
 # Adjust transactional flow for checkout
 

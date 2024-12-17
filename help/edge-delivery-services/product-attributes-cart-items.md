@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16
 jira: KT-16686
-
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
 ---
 # Use product attributes for cart items
 
