@@ -70,6 +70,9 @@ auto-video-transcripts: true
         + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
         + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Edge Delivery Services {#edge-delivery-services}
+    + Getting Started {#getting-started}
+        + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
