@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services order summary
 description: Learn about Adobe Edge Delivery Services and how to update the order summary section of the Commerce drop-in.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -31,3 +31,7 @@ Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  Th
 * Understand how to merge lines in the cart summary into one collapsible section.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+
+## Additional Documentation
+
+* [Order Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

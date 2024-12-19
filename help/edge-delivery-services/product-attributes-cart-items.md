@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services cart items
 description: Learn about Adobe Edge Delivery Services and how to use product attributes to display new information for cart items.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -33,3 +33,8 @@ Learn how to use Adobe Commerce cart drop in and adjust the transactional flow t
 * Using product attributes and Slots to extend and customize the shopping cart functionality, ensuring that all project requirements are met.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Additional Documentation
+
+* [Add Product lines to cart](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

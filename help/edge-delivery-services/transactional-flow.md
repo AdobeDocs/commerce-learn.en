@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services transactional flow
 description: Learn about Adobe Edge Delivery Services and how to change the transactional flow.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -32,3 +32,7 @@ Gain an understanding on how to use Adobe Commerce cart drop in and adjust the t
 * Enhanced Marketing Control. Easily manage and test configurations, improving user experience and marketing effectiveness.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+
+## Additional Documentation
+
+* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
