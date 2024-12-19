@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services cart items
 description: Learn about Adobe Edge Delivery Services and how to use product attributes to display new information for cart items.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless

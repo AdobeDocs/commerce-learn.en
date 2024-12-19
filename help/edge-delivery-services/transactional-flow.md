@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services transactional flow
 description: Learn about Adobe Edge Delivery Services and how to change the transactional flow.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless

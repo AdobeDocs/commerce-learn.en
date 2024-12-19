@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services order summary
 description: Learn about Adobe Edge Delivery Services and how to update the order summary section of the Commerce drop-in.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
