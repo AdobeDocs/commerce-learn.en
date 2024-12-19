@@ -31,3 +31,7 @@ Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  Th
 * Understand how to merge lines in the cart summary into one collapsible section.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+
+## Additional Documentation
+
+* [Order Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

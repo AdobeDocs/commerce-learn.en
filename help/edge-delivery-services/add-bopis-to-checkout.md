@@ -30,4 +30,8 @@ Learn how to use Adobe Commerce cart from Edge Delivery Services to provide BOPI
 * Toggle between delivery and in-store pickup
 * Fetching pickup locations
 
->[!VIDEO](https://video.tv.adobe.com/v/3441698?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+
+## Additional Documentation
+
+* [Buy Online Pickup in store](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
