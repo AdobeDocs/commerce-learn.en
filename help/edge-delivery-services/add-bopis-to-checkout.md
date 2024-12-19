@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 331
 last-substantial-update: 2024-12-19
 jira: KT-16699
+exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
 ---
 # Add BOPIS to check out
 
