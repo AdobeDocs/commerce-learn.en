@@ -31,7 +31,7 @@ Gain an understanding on how to use Adobe Commerce cart drop in and adjust the t
 * A/B Testing Flexibility. Enabled configurations through SharePoint, empowering marketers to control and test these features.
 * Enhanced Marketing Control. Easily manage and test configurations, improving user experience and marketing effectiveness.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Additional Documentation
 
