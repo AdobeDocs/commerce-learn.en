@@ -74,7 +74,7 @@ auto-video-transcripts: true
     + Getting Started {#getting-started}
         + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
         + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Update the order summary](../edge-delivery-services/update-order-summary.md)
+        + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
         + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
