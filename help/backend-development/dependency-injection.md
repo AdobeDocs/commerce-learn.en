@@ -1,6 +1,6 @@
 ---
 title: Dependency injection example
-description: View an example of dependency injection.
+description: Dependency injection allows an object to declare its dependencies, which are provided by an external object, promoting flexibility and modularity.
 kt: 5621
 doc-type: video
 activity: use

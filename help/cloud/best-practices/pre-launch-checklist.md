@@ -180,7 +180,7 @@ Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE
 
 >[!MORELIKETHIS]
 > 
-> - [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Launch Checklist - User Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Prelaunch Checklist - Site Manager/Commerce Admin's Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Shared responsibility security model](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
