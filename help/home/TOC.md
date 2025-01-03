@@ -47,7 +47,6 @@ auto-video-transcripts: true
         + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
     + Global Reference Architecture Patterns {#global-reference-architecture-implementation-techniques}
-        + [Overview](../global-reference-architecture/overview.md)
         + [Split Git](../global-reference-architecture/split-git.md)
         + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
         + [Separate packages](../global-reference-architecture/separate-packages.md)
