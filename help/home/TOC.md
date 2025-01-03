@@ -46,11 +46,6 @@ auto-video-transcripts: true
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
         + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-    + Global Reference Architecture Patterns {#global-reference-architecture-implementation-techniques}
-        + [Split Git](../global-reference-architecture/split-git.md)
-        + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-        + [Separate packages](../global-reference-architecture/separate-packages.md)
-        + [Monorepo](../global-reference-architecture/monorepo.md)    
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
