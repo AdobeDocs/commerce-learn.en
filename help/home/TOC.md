@@ -66,7 +66,8 @@ auto-video-transcripts: true
   + [Split Git](../global-reference-architecture/split-git.md)
   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
   + [Separate packages](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)      
+  + Monorepo {#global-reference-architecture-monorepo}
+        + [Monorepo](../global-reference-architecture/monorepo.md)      
         + [Integrations](../back-office-integrations/integrations.md)
         + [Source Code Organization](../back-office-integrations/source-code-organization.md)
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
