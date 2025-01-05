@@ -62,10 +62,10 @@ auto-video-transcripts: true
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
-  + [Overview](../global-reference-architecture/overview.md)
-  + [Split Git](../global-reference-architecture/split-git.md)
-  + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-  + [Separate packages](../global-reference-architecture/separate-packages.md)
+    + [Overview](../global-reference-architecture/overview.md)
+    + [Split Git](../global-reference-architecture/split-git.md)
+    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+    + [Separate packages](../global-reference-architecture/separate-packages.md)
     + Monorepo {#global-reference-architecture-monorepo}
         + [Monorepo](../global-reference-architecture/monorepo.md)      
         + [Integrations](../back-office-integrations/integrations.md)
