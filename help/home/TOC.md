@@ -66,17 +66,17 @@ auto-video-transcripts: true
   + [Split Git](../global-reference-architecture/split-git.md)
   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
   + [Separate packages](../global-reference-architecture/separate-packages.md)
-  + Monorepo {#global-reference-architecture-monorepo}
+    + Monorepo {#global-reference-architecture-monorepo}
         + [Monorepo](../global-reference-architecture/monorepo.md)      
         + [Integrations](../back-office-integrations/integrations.md)
         + [Source Code Organization](../back-office-integrations/source-code-organization.md)
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
-    + Help and support {#help-and-support}
-        + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-        + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-        + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Help and support {#help-and-support}
+  + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+  + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+  + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
     + Getting Started {#getting-started}
         + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
