@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services order summary
-description: Learn about Adobe Edge Delivery Services and how to update the order summary section of the Commerce drop-in.
+title: Edge Delivery Services order summary in checkout
+description: Learn about Adobe Edge Delivery Services and how to update the order summary section of the Commerce drop-in at checkout.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -11,7 +11,7 @@ last-substantial-update: 2024-12-17
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
 ---
-# Update the cart summary
+# Update the cart summary in checkout
 
 Learn how to make changes to the order summary of the Adobe Commerce cart drop in for Edge Delivery Services.  There are several examples for how to quickly improve the layout or information provided to a customer at checkout.
 

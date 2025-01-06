@@ -66,15 +66,20 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
-    + Help and support {#help-and-support}
-        + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-        + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-        + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
+    + [Overview](../global-reference-architecture/overview.md)
+    + [Split Git](../global-reference-architecture/split-git.md)
+    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+    + [Separate packages](../global-reference-architecture/separate-packages.md)     
++ Help and support {#help-and-support}
+  + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+  + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+  + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
     + Getting Started {#getting-started}
         + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
         + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Update the order summary](../edge-delivery-services/update-order-summary.md)
+        + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
         + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
         + [Customize checkout](../edge-delivery-services/customize-checkout.md)
 + Webinars and events {#webinars-and-events}
