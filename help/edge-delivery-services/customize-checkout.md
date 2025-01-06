@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
 ---
 # Customize checkout experience
 
