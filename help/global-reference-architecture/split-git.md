@@ -9,9 +9,8 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
 ---
-
 # The Split Git global reference architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Split Git Global Reference Architecture (GRA) Pattern.

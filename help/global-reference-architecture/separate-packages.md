@@ -9,9 +9,8 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
 ---
-
 # The Separate Packages global reference architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Separate Packages Global Reference Architecture (GRA) Pattern.

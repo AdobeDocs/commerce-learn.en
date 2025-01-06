@@ -9,9 +9,8 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 ---
-
 # Global Reference Architecture Implementation Techniques
 
 There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages. The examples in this article are ordered from simple to more complex. Pick the strategy that best fits your project and future roadmap. A migration from one strategy to another can be time consuming.

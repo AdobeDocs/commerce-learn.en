@@ -9,9 +9,8 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 ---
-
 # The Bulk Packages global reference architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.
