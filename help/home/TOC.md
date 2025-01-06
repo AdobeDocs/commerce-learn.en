@@ -81,6 +81,7 @@ auto-video-transcripts: true
         + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
         + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
         + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
+        + [Customize checkout](../edge-delivery-services/customize-checkout.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
