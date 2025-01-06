@@ -1,11 +1,10 @@
 ---
-title: The Separate Packages global reference architecture pattern
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14040
+title: Separate Packages Global Reference Architecture
+description: Optimize Adobe Commerce with Separate Packages GRA. Learn setup, benefits, and best practices for flexible, versioned package management.
+kt: 16727
 doc-type: tutorial
 audience: all
-last-substantial-update: 2024-6-25
+last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
