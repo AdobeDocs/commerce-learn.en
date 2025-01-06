@@ -61,18 +61,17 @@ auto-video-transcripts: true
         + [Gift Card product](../site-management/create-gift-card-product.md)
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
-+ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
-    + [Overview](../global-reference-architecture/overview.md)
-    + [Split Git](../global-reference-architecture/split-git.md)
-    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-    + [Separate packages](../global-reference-architecture/separate-packages.md)
-    + Monorepo {#global-reference-architecture-monorepo}
-        + [Monorepo](../global-reference-architecture/monorepo.md)      
         + [Integrations](../back-office-integrations/integrations.md)
         + [Source Code Organization](../back-office-integrations/source-code-organization.md)
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
+    + [Overview](../global-reference-architecture/overview.md)
+    + [Split Git](../global-reference-architecture/split-git.md)
+    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+    + [Separate packages](../global-reference-architecture/separate-packages.md)
+    + [Monorepo](../global-reference-architecture/monorepo.md)      
 + Help and support {#help-and-support}
   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
