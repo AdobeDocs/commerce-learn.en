@@ -1,18 +1,16 @@
 ---
-title: The Split Git global reference architecture pattern
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14040
+title: Setting Up Adobe Commerce with the Split Git Global Reference Architecture
+description: Learn how to set up Adobe Commerce using the Split Git Global Reference Architecture for efficient code management and streamlined deployment. ​
+kt: 16725
 doc-type: tutorial
 audience: all
-last-substantial-update: 2024-6-25
+last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
 ---
-
 # The Split Git global reference architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Split Git Global Reference Architecture (GRA) Pattern.

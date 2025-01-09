@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-09-09
 jira: KT-16061
+exl-id: 3044550b-12ad-41d5-ad2f-cc3759867e40
 ---
-
 # Adobe Commerce Marketecture
 
 Adobe Commerce is an experience-led platform that combines technical flexibility with ease of use to drive exceptional business results. Available on AWS and Azure, it features over 200 modules, strong SLAs, and scalable architecture. The platform supports REST and GraphQL APIs, enhanced for faster performance, and offers intelligent, composable services like live search, AI product recommendations, and payment solutions.

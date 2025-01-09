@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09
 jira: KT-16185
+exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
 ---
-
 # Adobe Commerce Global Delivery Model
 
 Adobe Commerce is a hybrid cloud eCommerce platform available on AWS and Azure, offering core functionalities like cart, checkout, and inventory management. It features AI-driven services such as live search and product recommendations, and provides a secure, scalable infrastructure with extensive API support. The platform includes developer tools like API Mesh and App Builder, and offers two hosting options: Commerce on Cloud and Adobe Commerce Managed Services, both ensuring high security and compliance standards.

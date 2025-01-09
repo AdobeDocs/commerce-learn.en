@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 256
 last-substantial-update: 2024-10-09
 jira: KT-16186
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
 ---
-
 # Adobe Commerce admin roles
 
 Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID or Federated ID and details how store admins can create and manage role-based access. Understand the steps to create a new role with specific permissions, such as a "Seller" role responsible for managing customer quotes and templates. Understand how to assign users to these roles, ensuring they have the appropriate access levels, and includes a demonstration of assigning a user to a newly created role and verifying the assignment.

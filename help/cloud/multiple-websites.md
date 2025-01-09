@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 353
 last-substantial-update: 2024-09-12
 jira: KT-16199
+exl-id: c041bd9a-9955-4053-a147-570ae1d88692
 ---
 # Adobe Commerce Multiple Website Management
 

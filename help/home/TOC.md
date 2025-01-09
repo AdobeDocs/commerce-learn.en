@@ -9,6 +9,10 @@ auto-video-transcripts: true
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+    + Troubleshooting {#troubleshooting}
+        + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
+        + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
+        + [Configuration Values](../cloud/troubleshooting/config-values.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
     + [Admin Roles](../cloud/admin-roles.md)
@@ -29,17 +33,19 @@ auto-video-transcripts: true
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
+    + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
+        + [Overview](../migrating-to-adobe-commerce/overview.md)
+        + Preparation{#preparation}
+            + [Evaluate the team and project](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+        + Customizations{#customizations}
+            + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+        + QA{#qa}
+            + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
     + Global Reference Architecture{#global-reference-architecture}
         + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
         + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
         + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
         + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-    + Global Reference Architecture Patterns {#global-reference-architecture-implementation-techniques}
-        + [Overview](../global-reference-architecture/overview.md)
-        + [Split Git](../global-reference-architecture/split-git.md)
-        + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-        + [Separate packages](../global-reference-architecture/separate-packages.md)
-        + [Monorepo](../global-reference-architecture/monorepo.md)    
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
@@ -60,10 +66,22 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
-    + Help and support {#help-and-support}
-        + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-        + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-        + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
+    + [Overview](../global-reference-architecture/overview.md)
+    + [Split Git](../global-reference-architecture/split-git.md)
+    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+    + [Separate packages](../global-reference-architecture/separate-packages.md)     
++ Help and support {#help-and-support}
+  + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+  + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+  + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Edge Delivery Services {#edge-delivery-services}
+    + Getting Started {#getting-started}
+        + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
+        + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
+        + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
+        + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
+        + [Customize checkout](../edge-delivery-services/customize-checkout.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -112,7 +130,9 @@ auto-video-transcripts: true
     + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
     + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
     + [Change a Store URL](../site-management/change-store-url.md)
+    + [Reset the admin URI](../site-management/reset-admin-uri.md)
     + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+    + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
     + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
     + Adobe Commerce Services {#adobe-commerce-services}
         + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
@@ -172,6 +192,7 @@ auto-video-transcripts: true
     + New Relic {#new-relic}
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
         + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
+        + [Custom alerts](../new-relic/custom-alerts.md)
 + Commerce Intelligence {#mbi}
     + [Getting Started](../business-intelligence/getting-started.md)
     + [Integrations and configurations](../business-intelligence/integrations-configurations.md)

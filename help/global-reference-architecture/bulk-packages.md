@@ -1,18 +1,16 @@
 ---
-title: How do you leverage Global Reference Architecture
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14040
+title: Optimizing Adobe Commerce with Bulk Packages Global Reference Architecture
+description: Learn how to set up Adobe Commerce using the Bulk Packages Global Reference Architecture for efficient code management and version control.
+kt: 16726
 doc-type: tutorial
 audience: all
-last-substantial-update: 2024-6-25
+last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 ---
-
 # The Bulk Packages global reference architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.

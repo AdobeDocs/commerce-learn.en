@@ -79,7 +79,7 @@ Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communic
 - [Commerce learning courses](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce Community Forum](https://community.magento.com/)
 -= [Configure Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [Performance Testing](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [Performance Testing](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [Site Wide Analysis tool - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [new Relic Observation for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
 [Security Patches](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)

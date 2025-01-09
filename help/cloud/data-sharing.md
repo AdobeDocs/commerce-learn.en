@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 540
 last-substantial-update: 2024-11-09
 jira: KT-16194
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
 ---
-
 # Adobe Commerce Data Sharing
 
 Discover the power of Adobe Commerce's native data sharing capabilities to enhance customer loyalty and drive sales.

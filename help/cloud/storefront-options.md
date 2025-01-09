@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-11-09
 jira: KT-16193
+exl-id: 1c4c2a64-f610-4079-8491-a61b2b8a1a92
 ---
-
 # Adobe Commerce Storefront Options
 
 Adobe Commerce's Edge Delivery Services provides a fast, efficient, and highly customizable e-commerce storefront solution.

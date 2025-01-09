@@ -1,18 +1,16 @@
 ---
-title: How do you leverage Global Reference Architecture
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14040
+title: Optimizing Code Reuse with Adobe Commerce
+description: Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns, enhancing performance and compliance across multiple instances.
+kt: 15773
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-6-25
+last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-
+exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 ---
-
 # Global Reference Architecture Implementation Techniques
 
 There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages. The examples in this article are ordered from simple to more complex. Pick the strategy that best fits your project and future roadmap. A migration from one strategy to another can be time consuming.
