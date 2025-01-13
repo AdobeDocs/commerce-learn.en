@@ -8,8 +8,8 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
 ---
-
 # UpdateEnhancing E-commerce Checkout: Custom Address Form Layout and Google Address Lookup Integration
 
 Learn how to customize the address form layout at checkout to ensure that all fields are 50% width, with the exception for the text area. Learn an approach to using an integrated third-party API, specifically the Google Address API, to enable auto address lookup and validation in the address form. ​ Learn how to add a new sidebar menu item to the user account dashboard, linking to a custom page for a store locator.
