@@ -70,7 +70,8 @@ auto-video-transcripts: true
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
     + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-    + [Separate packages](../global-reference-architecture/separate-packages.md)     
+    + [Separate packages](../global-reference-architecture/separate-packages.md)
+    + [Monorepo](../global-reference-architecture/monorepo.md)
 + Help and support {#help-and-support}
   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
