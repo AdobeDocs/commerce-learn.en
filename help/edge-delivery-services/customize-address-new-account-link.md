@@ -10,7 +10,6 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-last-substantial-update: 2025-1-15
 ---
 
 # Custom Address Form Layout and Google Address Lookup Integration
