@@ -9,7 +9,7 @@ feature: Best Practices, Configuration, Install
 badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
-level: Intermediate, Advanced
+level: Experienced
 
 ---
 
