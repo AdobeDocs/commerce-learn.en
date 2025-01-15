@@ -10,9 +10,8 @@ badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="I
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Experienced
-
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
 ---
-
 # Monorepo Global Reference Architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.
