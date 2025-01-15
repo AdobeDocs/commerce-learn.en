@@ -7,10 +7,11 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
+jira: KT-16729
+last-substantial-update: 2025-1-15
 ---
 
-# UpdateEnhancing E-commerce Checkout: Custom Address Form Layout and Google Address Lookup Integration
+# Custom Address Form Layout and Google Address Lookup Integration
 
 Learn how to customize the address form layout at checkout to ensure that all fields are 50% width, with the exception for the text area. Learn an approach to using an integrated third-party API, specifically the Google Address API, to enable auto address lookup and validation in the address form. ​ Learn how to add a new sidebar menu item to the user account dashboard, linking to a custom page for a store locator.
 
@@ -30,7 +31,7 @@ Project Managers who need to track the progress of development tasks and underst
 * Consistent Field Widths in Checkout Forms to customize the address form at checkout to ensure all fields.
 * Integration of Google Address API to enable auto address lookup and completion, reducing user input errors and streamlining the checkout process.
 * Validation and Error Handling for the address input fields, ensuring that users receive immediate feedback on incorrect or incomplete entries, enhancing the user experience.
-* Extension of User Account Dashboard that adds a new sidebar menu item to the user account dashboard
+* Extension of User Account Dashboard that adds a new sidebar menu item to the user account dashboard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
