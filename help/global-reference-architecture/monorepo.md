@@ -1,7 +1,6 @@
 ---
-title: How do you leverage Global Reference Architecture
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
+title: Global Reference Architecture Monorepo
+description: Learn how to use the monorepo approach for global reference architecture to establish a scalable and resilient commerce experience
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -14,7 +13,7 @@ level: Intermediate, Advanced
 
 ---
 
-# The Monorepo global reference architecture pattern
+# Monorepo Global Reference Architecture pattern
 
 This guide explains how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.
 
