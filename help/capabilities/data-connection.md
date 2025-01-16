@@ -15,7 +15,7 @@ exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
 
 A full demonstration of Adobe Commerce Data Connection.  
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn how to use Adobe Commerce Data Connection along with some basic configurations and settings. This demonstration shows how a full 360-degree view of a customer can be achieved using Adobe Commerce and connecting other Adobe services.
 

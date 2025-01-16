@@ -15,7 +15,7 @@ exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
 
 Learn how to customize and extend the Adobe Commerce shopping cart. In this demonstration, there are three updates.  The demo begins by displaying delivery timelines for back-order products, showing returnable and final sale notices, and applying a 25% discount for carts with a subtotal of $75 or more. By leveraging product attributes and slots, adding these features into the shopping cart enhances the overall user experience.
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
 

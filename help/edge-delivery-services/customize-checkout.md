@@ -15,7 +15,7 @@ exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
 
 Learn how to customize the checkout experience in Adobe Commerce from the Edge Delivery Services cart drop in component, focusing on modifying shipping options and implementing a multi-step checkout process.
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn examples for customization of the Edge Delivery Services cart drop in checkout experience by removing and re-adding elements like shipping options and estimated costs, and implementing a multi-step checkout process, all while reusing existing code and following best practices. ​
 

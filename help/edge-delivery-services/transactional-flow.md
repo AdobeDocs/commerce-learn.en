@@ -15,7 +15,7 @@ exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
 
 Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.
 
-## What to expect from watching this video
+## What you'll learn
 
 Gain an understanding on how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
 
