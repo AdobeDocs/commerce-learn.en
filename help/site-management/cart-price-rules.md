@@ -8,7 +8,9 @@ last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: Admin, Leader, User
-level: Beginner, Intermediate
+level: Beginner
+duration: 171
+jira: KT-17148calc
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 
 ---
