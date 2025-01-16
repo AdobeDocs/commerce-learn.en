@@ -15,7 +15,7 @@ exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 
 High-level overview of the history of Adobe Commerce and how things have been moving to fully support headless.  Benefits of headless architecture include parity across touch points, separation of development activities, improved scalability and so much more.
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn what is headless and how does Adobe Commerce support fully headless architecture.
 

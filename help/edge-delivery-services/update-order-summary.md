@@ -15,7 +15,7 @@ exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
 
 Learn how to make changes to the order summary of the Adobe Commerce cart drop in for Edge Delivery Services.  There are several examples for how to quickly improve the layout or information provided to a customer at checkout.
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  There are several ways to enhance the cart by making some minor changes or updates to the code.
 

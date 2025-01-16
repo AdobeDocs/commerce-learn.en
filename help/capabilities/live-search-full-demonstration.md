@@ -15,7 +15,7 @@ exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
 
 A full demonstration of Adobe Live Search.  
 
-## What to expect from watching this video
+## What you'll learn
 
 Learn how to use Adobe Live Search configurations and settings. Get a better understanding of facets, reporting, and synonyms.
 
