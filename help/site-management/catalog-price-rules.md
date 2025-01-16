@@ -8,7 +8,9 @@ last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Personalization, Shopping Cart, Price Rules
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
+jira: KT-17149
+duration: 124
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
 
 ---
