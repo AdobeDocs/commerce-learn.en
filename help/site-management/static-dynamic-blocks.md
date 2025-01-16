@@ -10,7 +10,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17150
-duration:374
+duration: 374
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
 ---
 # Create Static and Dynamic Blocks
