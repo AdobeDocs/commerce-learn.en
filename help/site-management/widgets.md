@@ -1,7 +1,7 @@
 ---
 title: Create Widgets
 description: Learn how to create widgets, and modify existing ones, to automatically update content across your store.
-kt: null
+jira: KT-17155
 doc-type: feature video
 audience: all
 activity: use
@@ -10,6 +10,7 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+duration: 216
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
 ---
 # Create Widgets
