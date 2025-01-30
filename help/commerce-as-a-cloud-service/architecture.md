@@ -17,7 +17,7 @@ Adobe Commerce as a cloud service offers a secure, automated hosting platform wi
 
 ## What you'll learn
 
-Learn about the architecture and key features of Adobe Commerce as a cloud service, including its secure hosting, API coverage, headless architecture, and integration capabilities
+Learn about the architecture and key features of Adobe Commerce as a cloud service. Elements including secure hosting, API coverage, headless architecture, and integration capabilities
 
 ## Who is this video for?
 
