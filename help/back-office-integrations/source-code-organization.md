@@ -33,6 +33,6 @@ Explore the logic behind the source code structure, detailing how the `commerce`
 * Learn the importance of not altering the code in the `starter-kit-info` folder, which contains a runtime action used by Adobe to track project deployments based on the starter kit. ​
 * Understand the `scripts` folder that contains automation scripts like `commerce-event-subscribe` and `onboarding`, which automate event configuration, provider setup, and the configuration of the Adobe I/O Events module in Commerce. ​
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
