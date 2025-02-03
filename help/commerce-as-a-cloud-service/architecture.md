@@ -2,7 +2,7 @@
 title: Commerce as a Cloud Service architecture
 description: Discover Adobe Commerce as a cloud service architecture and key features for scalable, secure, and flexible e-commerce solutions.
 kt: 17220
-doc-type: tutorial
+doc-type: Technical Video
 audience: all
 last-substantial-update: 2025-1-30
 feature: Catalog Management, Catalog Service, Services
