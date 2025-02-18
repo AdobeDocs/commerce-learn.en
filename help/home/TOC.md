@@ -83,7 +83,7 @@ auto-video-transcripts: true
         + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
         + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
         + [Customize checkout](../edge-delivery-services/customize-checkout.md)
-        + [Custom an address layout](../edge-delivery-services/customize-address-new-account-link.md)
+        + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinars and events {#webinars-and-events}
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
