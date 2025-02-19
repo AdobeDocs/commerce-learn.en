@@ -39,7 +39,7 @@ First create the folders, xml and PHP files that necessary:
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -59,7 +59,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.
+>If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.  
+>PLEASE NOTE: for this example code to work, you do need to include the setup_version otherwise the InstallData.php does not execute.
+
 
 
 ```xml
@@ -71,6 +73,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>Be sure to use the attribute set ID that is in your project, in this example it is the number 9. 
 
 ```php
 <?php
@@ -157,7 +163,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -201,7 +207,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -225,7 +231,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## Useful resources
-
-[Create a product attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
