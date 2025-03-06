@@ -1,8 +1,8 @@
 ---
 title: Transform Your Storefront with Adobe Commerce Optimizer
 description: Learn how Adobe Commerce Optimizer can Enhance your storefront with high performance, increased traffic, and seamless integration.
-feature: Services, SaaS
-topic: Commerce
+feature: SaaS, Storefront
+topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
