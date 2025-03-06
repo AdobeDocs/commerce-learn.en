@@ -66,6 +66,8 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+    + [Overview](../adobe-commerce-optimizer/overview.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
