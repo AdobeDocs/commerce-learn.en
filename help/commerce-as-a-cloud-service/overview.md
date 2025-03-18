@@ -9,7 +9,7 @@ feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
-
+exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 ---
 # Adobe Commerce as a Service overview
 

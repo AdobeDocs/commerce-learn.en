@@ -9,7 +9,7 @@ feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
-
+exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
 ---
 # Adobe Commerce as a Service architecture
 
