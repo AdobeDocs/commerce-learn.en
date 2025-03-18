@@ -34,6 +34,7 @@ auto-video-transcripts: true
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
     + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+        + [Overview](../commerce-as-a-cloud-service/overview.md)
         + [Architecture](../commerce-as-a-cloud-service/architecture.md)
     + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
         + [Overview](../migrating-to-adobe-commerce/overview.md)
