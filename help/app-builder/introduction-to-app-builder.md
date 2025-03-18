@@ -58,18 +58,6 @@ The following diagram illustrates how a standard application built on App Builde
 
 For more details about the App Builder architecture, see the [Architecture Overview](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
-## Amazon Sales Channel extension {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->The Amazon Sales Channel extension is still under development and has not been officially released.  These videos and tutorials are meant to show you how to use Adobe Developer App Builder for a practical use case.
-
-The following tutorials demonstrate how to connect Adobe Commerce to Amazon Sales Channel using an App Builder extension. 
-
-* [technical overview App Builder](../app-builder/app-builder-technical-overview.md)
-* [extensibility framework](../app-builder/extensibility-framework-commerce-eventing.md)
-* [functional demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
-
 ## Get Started with App Builder {#additional-resources}
 
 A n overview of composable commerce strategy, that includes the initial set-up can be found by reading the following blog post:
