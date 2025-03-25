@@ -9,6 +9,7 @@ doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
 ---
 # Truncate logs
 
