@@ -1,5 +1,5 @@
 ---
-title: - Detect IP addresses
+title: Detect IP addresses
 description: Learn how to detect IP addresses for Adobe Commerce Cloud environments to enhance security and streamline server communication
 feature: Cloud, Configuration
 topic: Commerce, Development, Integrations
