@@ -1,15 +1,14 @@
 ---
 title: - Detect IP addresses
 description: Learn how to detect IP addresses for Adobe Commerce Cloud environments to enhance security and streamline server communication
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Cloud, Configuration
+topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2025-04-04
+last-substantial-update: 2025-04-07
 jira: KT-17553
-thumbnail: KT-17553.jpeg
 ---
 
 # Learn how to detect IP addresses for all the types of environments in your Commerce Cloud project
