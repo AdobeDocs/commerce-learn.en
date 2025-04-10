@@ -100,6 +100,7 @@ auto-video-transcripts: true
         + [Edge Delivery Services with Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
     + Commerce Conversations {#commerce-conversations}
         + [What is expert success](../commerce-conversations/what-is-expert-success.md)
+        + [Commerce support add-ons](../commerce-conversations/commerce-support-add-ons.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
