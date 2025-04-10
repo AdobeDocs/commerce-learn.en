@@ -1,0 +1,36 @@
+---
+title: HIPAA ready hosting for Adobe Commerce
+description: Adobe Commerce's HIPAA-ready solution ensures secure, compliant e-commerce for healthcare businesses.
+feature: Cloud, Compliance, System
+topic: Commerce, Security
+role: Admin, Architect, Leader, User
+level: Beginner, Intermediate
+doc-type: Tutorial
+duration: 300
+last-substantial-update: 2025-04-10
+jira: KT-14593
+---
+
+# HIPAA ready hosting for Adobe Commerce
+
+Adobe Commerce offers a HIPAA-ready solution designed to help healthcare businesses comply with HIPAA regulations. This solution includes built-in security and privacy controls, enhanced logging mechanisms for PHI, and integration capabilities with both internal and external services. Additionally, Adobe Commerce provides a dedicated staging environment for support and troubleshooting, ensuring that sensitive data is protected. The HIPAA-ready hosting differs from traditional hosting. A few key differences are disabling a few core features and provisioning customers in a HIPAA-ready region. This setup is ideal for businesses dealing with medical supplies, equipment requests, and insurance payments.
+
+## Who is this video for?
+
+* Website managers
+* Commerce architects
+* Owners of e-commerce website
+
+## Video content
+
+* Adobe Commerce provides a HIPAA-ready infrastructure with built-in security and privacy controls to help healthcare businesses comply with HIPAA regulations.
+* The solution includes enhanced logging mechanisms for PHI and offers integration capabilities with both internal Adobe products and external third-party services.
+* Adobe Commerce offers a special staging environment for support and troubleshooting, ensuring sensitive data is protected and the environment closely mirrors production.
+
+>[!VIDEO](https://video.tv.adobe.com/v/xxxxxx/?learn=on&enablevpops)
+
+## Additional Documentation
+
+* [HIPAA Readiness - Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA Readiness - Compliance](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Install Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
