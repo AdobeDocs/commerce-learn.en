@@ -17,9 +17,9 @@ Adobe Commerce offers a HIPAA-ready solution designed to help healthcare busines
 
 ## Who is this video for?
 
-* Website managers
-* Commerce architects
-* Owners of e-commerce website
+* Medical supply companies: Ensuring secure transactions and compliance when selling directly to consumers.
+* Healthcare service providers: Managing requests for equipment or servicing while safeguarding patient information.
+* Insurance companies: Facilitating secure payments for copays and premiums.
 
 ## Video content
 
