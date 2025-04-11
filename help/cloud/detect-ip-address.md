@@ -11,7 +11,7 @@ last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
 ---
-# Learn how to detect IP addresses for all the types of environments in your Commerce Cloud project
+# Detect IP addresses for different environments
 
 Learn how to detect IP addresses for different environments in an Adobe Commerce Cloud project. By using a series of commands including Adobe Commerce CLI, sed, xargs, dig, grep, and sort -u, users can identify IP addresses for development, staging, and production environments.
 
