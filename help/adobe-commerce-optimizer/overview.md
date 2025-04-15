@@ -11,7 +11,7 @@ last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 ---
-# Overview Adobe Commerce Optimizer
+# Overview of Adobe Commerce Optimizer
 
 Adobe Commerce Optimizer enhances existing commerce platforms by providing a high-performance, headless storefront that boosts organic traffic and supports merchandiser tools like A/B testing. It focuses on increasing storefront traffic and conversion rates, boosting merchandiser productivity, scaling digital operations, and simplifying management for lower costs and faster innovation. This solution integrates seamlessly with existing systems, offering storefront migration services, plug-and-play catalog integrations, and unified catalog orchestration, making it ideal for businesses looking to grow revenue and optimize shopping experiences without re-platforming..
 
