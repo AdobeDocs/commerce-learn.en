@@ -102,6 +102,7 @@ auto-video-transcripts: true
         + [What is expert success](../commerce-conversations/what-is-expert-success.md)
         + [Commerce support add-ons](../commerce-conversations/commerce-support-add-ons.md)
         + [What is ultimate success](../commerce-conversations/what-is-ultimate-success.md)
+        + [Success Accelerators technical readiness](../commerce-conversations/success-accelerators-technical-readiness.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
