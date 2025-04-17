@@ -25,7 +25,7 @@ Adobe Commerce Success Accelerators for adoption and enablement include three ke
 ## Video content {#video-content}
 
 * Guidance for developing use cases and KPIs to create effective road-maps and strategic plans.
-* *Multi-session desk side coaching to close skill gaps and align with strategic priorities.
-* * Creation of access, permissions, and design governance to ensure proper product adoption and best practices.
+* Multi-session desk side coaching to close skill gaps and align with strategic priorities.
+* Creation of access, permissions, and design governance to ensure proper product adoption and best practices.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
