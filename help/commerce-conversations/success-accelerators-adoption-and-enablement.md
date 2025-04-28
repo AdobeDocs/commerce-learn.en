@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16
 jira: KT-17808
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
 ---
-
 # Success Accelerators Adoption and Enablement
 
 Adobe Commerce Success Accelerators for adoption and enablement include three key services: use case and KPI development, desk side coaching, and tool and feature governance strategy. These services provide guidance for developing strategic plans and road-maps, multi-session enablement to close skill gaps, and governance strategies to ensure proper product adoption. The aim is to enhance the usage and effectiveness of Adobe Commerce products through best practices and focused support.

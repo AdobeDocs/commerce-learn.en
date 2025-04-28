@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 189
 last-substantial-update: 2025-04-08
 jira: KT-17714
+exl-id: 5863babd-bab2-4ccd-8978-c9bb379500b7
 ---
-
 # What is Expert Success
 
 Learn about the Adobe Commerce expert success plan. Learn more about the details including the three support channels and service level targets.
