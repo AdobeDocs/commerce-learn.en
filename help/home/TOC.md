@@ -98,6 +98,12 @@ auto-video-transcripts: true
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
         + [Launch, post launch, monitoring and troubleshooting](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
         + [Edge Delivery Services with Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+    + Commerce Conversations {#commerce-conversations}
+        + [What is expert success](../commerce-conversations/what-is-expert-success.md)
+        + [Commerce support add-ons](../commerce-conversations/commerce-support-add-ons.md)
+        + [What is ultimate success](../commerce-conversations/what-is-ultimate-success.md)
+        + [Success Accelerators technical readiness](../commerce-conversations/success-accelerators-technical-readiness.md)
+        + [Success Accelerators adoption and enablement](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
