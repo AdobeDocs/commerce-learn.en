@@ -13,7 +13,7 @@ jira: KT-17904
 
 # Success Accelerators organizational readiness
 
-Lear about Adobe's success accelerators for organizational readiness. These include strategic cycle planning and roadmap development to align operations with business strategy, workflow and operating model optimization for adopting Adobe solutions, change management and communication strategies for digital transformation, and digital review and benchmarking to assess and improve digital experiences against industry standards. 
+Lear about Adobe's success accelerators for organizational readiness. A few examples include strategic cycle planning and roadmap development to align operations with business strategy, workflow and operating model optimization for adopting Adobe solutions. Additionally, there is Change Management and Communication Strategies for digital transformation, and digital review and benchmarking to assess and improve digital experiences against industry standards. 
 
 ## Who is this video for?
 
