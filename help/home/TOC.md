@@ -104,6 +104,7 @@ auto-video-transcripts: true
         + [What is ultimate success](../commerce-conversations/what-is-ultimate-success.md)
         + [Success Accelerators technical readiness](../commerce-conversations/success-accelerators-technical-readiness.md)
         + [Success Accelerators adoption and enablement](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
+        + [Success Accelerators organization readiness](../commerce-conversations/success-accelerators-organizational-readiness.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
