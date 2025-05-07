@@ -1,6 +1,6 @@
 ---
-title: What is Ultimate Success
-description: Adobe Commerce Ultimate Success proactive support and strategic guidance for high-performing digital experiences.
+title: What is Ultimate Success?
+description: Learn about Adobe Commerce Ultimate Success proactive support and strategic guidance for high-performing digital experiences.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
