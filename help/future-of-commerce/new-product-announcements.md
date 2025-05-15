@@ -31,7 +31,6 @@ In the first of a four-part webinar series, Adobe Commerce introduces two ground
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484/?learn=on&enablevpops)
 
-## Additional Videos
+## Additional Videos in this series
 
- 
-
+[Drastically cut costs](./drastically-cut-costs.md) 

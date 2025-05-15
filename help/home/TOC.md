@@ -95,6 +95,7 @@ auto-video-transcripts: true
 + Webinars and events {#webinars-and-events}
     + The Future of Commerce {#future-of-commerce}
         + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
+        + [Drastically cut costs](../future-of-commerce/drastically-cut-costs.md)
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
