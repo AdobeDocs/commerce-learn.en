@@ -93,7 +93,7 @@ auto-video-transcripts: true
         + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
         + [Shopper-experience](../edge-delivery-services/shopper-experience.md)
 + Webinars and events {#webinars-and-events}
-    + The Future of Commerce (#future-of-commerce)
+    + The Future of Commerce {#future-of-commerce}
         + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
