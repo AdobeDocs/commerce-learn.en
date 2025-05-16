@@ -36,3 +36,4 @@ Discover how Adobe Commerce is transforming digital storefronts with cutting-edg
 
 [New Product Announcements](./new-product-announcements.md)
 [Drastically cut costs](./drastically-cut-costs.md) 
+[Fast track expansion](fast-track-expansion.md)

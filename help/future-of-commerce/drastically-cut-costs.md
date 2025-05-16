@@ -33,3 +33,5 @@ Adobe Commerce's cloud-native platform empowers businesses to reduce operational
 ## Additional Videos in this series
 
 [New Product Announcements](./new-product-announcements.md)
+[Supercharge conversion rates](./supercharge-conversion-rates.md)
+[Fast track expansion](fast-track-expansion.md)

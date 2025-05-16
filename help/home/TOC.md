@@ -97,6 +97,7 @@ auto-video-transcripts: true
         + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
         + [Drastically cut costs](../future-of-commerce/drastically-cut-costs.md)
         + [Supercharge conversion rates](../future-of-commerce/supercharge-conversion-rates.md)
+        + [Fast Track expansion](../future-of-commerce/fast-track-expansion.md)
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)

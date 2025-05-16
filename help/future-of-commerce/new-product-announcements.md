@@ -34,3 +34,5 @@ In the first of a four-part webinar series, Adobe Commerce introduces two ground
 ## Additional Videos in this series
 
 [Drastically cut costs](./drastically-cut-costs.md) 
+[Supercharge conversion rates](./supercharge-conversion-rates.md)
+[Fast track expansion](fast-track-expansion.md)
