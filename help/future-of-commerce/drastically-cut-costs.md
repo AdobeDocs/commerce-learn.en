@@ -1,6 +1,6 @@
 ---
 title: Drastically cut cost
-description: Video 2 of 4
+description: Learn how Adobe Commerce as a Cloud service can drastically reduce costs.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
@@ -13,7 +13,7 @@ jira: KT-18110
 
 # Drastically cut cost
 
-Adobe Commerce's cloud-native platform empowers businesses to reduce operational costs and accelerate time to market with fully managed infrastructure, automatic updates, and seamless scalability. With self-service provisioning, preconfigured services, and developer-friendly tools, teams can launch and innovate faster than ever. The integrated app marketplace and API-first extensibility make it easy to customize and expand, while AI-powered performance tools ensure your storefront stays optimized. Whether you're integrating with ERP, CRM, or third-party services, Adobe Commerce delivers the flexibility and efficiency modern digital commerce demands.
+Adobe Commerce's cloud-native platform empowers businesses to reduce operational costs and accelerate time to market with fully managed infrastructure, automatic updates, and seamless scalability. With self-service provisioning, pre-configured services, and developer-friendly tools, teams can launch and innovate faster than ever. The integrated app marketplace and API-first extensibility make it easy to customize and expand, while AI-powered performance tools ensure that your storefront stays optimized. Whether you're integrating with ERP, CRM, or third-party services, Adobe Commerce delivers the flexibility and efficiency modern digital commerce demands.
 
 ## Who is this video for?
 
