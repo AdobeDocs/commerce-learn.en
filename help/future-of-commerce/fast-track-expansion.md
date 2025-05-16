@@ -1,6 +1,6 @@
 ---
 title: Fast track expansion
-description: video 4 of 4
+description: Fast-track digital growth with Adobe Commerce's scalable catalog, B2B tools, and multi-channel expansion features.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
