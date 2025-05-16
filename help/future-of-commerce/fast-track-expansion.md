@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 847
 last-substantial-update: 2025-05-16
 jira: KT-18122
+exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
 ---
-
 # Fast track expansion
 
 Discover how Adobe Commerce empowers businesses to fast-track their digital expansion with powerful new capabilities in catalog management, B2B commerce, and multi-channel scalability. This session highlights flexible data modeling that supports up to 250 million SKUs, dynamic pricing across regions, and seamless integration of first- and third-party assortments. With enhanced B2B features like parent-child account structures, quote templates, and storefront context switching, Adobe Commerce enables faster go-to-market strategies and personalized customer experiences—all while reducing operational complexity and cost.

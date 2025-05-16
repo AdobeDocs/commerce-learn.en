@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 783
 last-substantial-update: 2025-05-15
 jira: KT-18109
+exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
 ---
-
 # New Product Announcements
 
 In the first of a four-part webinar series, Adobe Commerce introduces two groundbreaking products designed to transform digital retail. Adobe Commerce as a Cloud Service, a scalable SaaS solution offering seamless updates and integrated AI-powered tools.  Adobe Commerce Optimizer, which modernizes customer experiences without requiring a full platform migration. These innovations aim to reduce operational costs, boost conversion rates, and accelerate market expansion—empowering businesses to evolve at their own pace with flexible, incremental adoption paths.

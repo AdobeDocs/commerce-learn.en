@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 781
 last-substantial-update: 2025-05-16
 jira: KT-18121
+exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
 ---
-
 # Supercharge conversion rates
 
 Discover how Adobe Commerce is transforming digital storefronts with cutting-edge tools designed to supercharge conversion rates by up to 8%. Leveraging edge delivery technology, AI-powered content creation, and intuitive no-code authoring, businesses can achieve lightning-fast site performance, enhanced SEO, and seamless A/B testing. With integrated asset management and visual editing from Adobe Express and Firefly, teams can rapidly create, test, and optimize personalized shopping experiences—driving growth and engagement like never before.
