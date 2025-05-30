@@ -6,8 +6,8 @@ topic: Commerce, Security
 role: Admin, Architect, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 300
-last-substantial-update: 2025-04-10
+duration: 268
+last-substantial-update: 2025-05-30
 jira: KT-14593
 ---
 
@@ -19,7 +19,7 @@ Adobe Commerce offers a HIPAA-ready solution designed to help healthcare busines
 
 * Medical supply companies: Ensuring secure transactions and compliance when selling directly to consumers.
 * Healthcare service providers: Managing requests for equipment or servicing while safeguarding patient information.
-* Insurance companies: Facilitating secure payments for copays and premiums.
+* Insurance companies: Facilitating secure payments for co-pays and premiums.
 
 ## Video content
 
@@ -27,7 +27,7 @@ Adobe Commerce offers a HIPAA-ready solution designed to help healthcare busines
 * The solution includes enhanced logging mechanisms for PHI and offers integration capabilities with both internal Adobe products and external third-party services.
 * Adobe Commerce offers a special staging environment for support and troubleshooting, ensuring sensitive data is protected and the environment closely mirrors production.
 
->[!VIDEO](https://video.tv.adobe.com/v/xxxxxx/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## Additional Documentation
 
