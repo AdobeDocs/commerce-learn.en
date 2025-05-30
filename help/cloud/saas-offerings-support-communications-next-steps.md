@@ -24,7 +24,7 @@ Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communic
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
 
 ## Acronyms
 
