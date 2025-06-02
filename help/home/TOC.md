@@ -14,6 +14,7 @@ auto-video-transcripts: true
         + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
         + [Configuration Values](../cloud/troubleshooting/config-values.md)
         + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
+    + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
@@ -259,3 +260,4 @@ auto-video-transcripts: true
         + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
     + [PWA Docker Development](../pwa/pwa-docker-development.md)
     + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
+
