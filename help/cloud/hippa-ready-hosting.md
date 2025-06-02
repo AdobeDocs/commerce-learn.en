@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30
 jira: KT-14593
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
 ---
-
 # HIPAA-ready hosting in Adobe Commerce
 
 Adobe Commerce offers a HIPAA-ready solution designed to help healthcare businesses comply with HIPAA regulations. This solution includes built-in security and privacy controls, enhanced logging mechanisms for PHI, and integration capabilities with both internal and external services. Additionally, Adobe Commerce provides a dedicated staging environment for support and troubleshooting, ensuring that sensitive data is protected. The HIPAA-ready hosting differs from traditional hosting. A few key differences are disabling a few core features and provisioning customers in a HIPAA-ready region. This setup is ideal for businesses dealing with medical supplies, equipment requests, and insurance payments.
@@ -34,4 +34,3 @@ Adobe Commerce offers a HIPAA-ready solution designed to help healthcare busines
 * [HIPAA Readiness - Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
 * [HIPAA Readiness - Compliance](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
 * [Install Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
-
