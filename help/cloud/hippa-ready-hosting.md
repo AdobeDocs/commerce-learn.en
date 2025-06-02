@@ -34,3 +34,4 @@ Adobe Commerce offers a HIPAA-ready solution designed to help healthcare busines
 * [HIPAA Readiness - Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
 * [HIPAA Readiness - Compliance](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
 * [Install Data Connection](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+
