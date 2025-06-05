@@ -14,6 +14,7 @@ auto-video-transcripts: true
         + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
         + [Configuration Values](../cloud/troubleshooting/config-values.md)
         + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
+    + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
@@ -93,6 +94,11 @@ auto-video-transcripts: true
         + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
         + [Shopper-experience](../edge-delivery-services/shopper-experience.md)
 + Webinars and events {#webinars-and-events}
+    + The Future of Commerce {#future-of-commerce}
+        + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
+        + [Drastically cut costs](../future-of-commerce/drastically-cut-costs.md)
+        + [Supercharge conversion rates](../future-of-commerce/supercharge-conversion-rates.md)
+        + [Fast Track expansion](../future-of-commerce/fast-track-expansion.md)
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
@@ -105,6 +111,7 @@ auto-video-transcripts: true
         + [Success Accelerators technical readiness](../commerce-conversations/success-accelerators-technical-readiness.md)
         + [Success Accelerators adoption and enablement](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
         + [Success Accelerators organization readiness](../commerce-conversations/success-accelerators-organizational-readiness.md)
+        + [Shared Responsibility](../commerce-conversations/shared-responsibility.md)
 + GraphQL and REST {#graphql-rest}
     + [GraphQL basics](../graphql-rest/intro-graphql.md)
     + [Queries](../graphql-rest/graphql-queries.md)
@@ -115,7 +122,6 @@ auto-video-transcripts: true
     + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
     + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
     + [Technical overview for App Builder](../app-builder/app-builder-technical-overview.md) 
-    + [Submit app to the Marketplace](../app-builder/submit-app-process.md)
     + Build your first App builder App {#first-app}
         + [Overview](../app-builder/first-app/overview.md)
         + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
@@ -253,3 +259,4 @@ auto-video-transcripts: true
         + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
     + [PWA Docker Development](../pwa/pwa-docker-development.md)
     + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
+
