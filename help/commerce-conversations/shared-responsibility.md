@@ -28,3 +28,10 @@ Learn how Adobe and merchants share the responsibility for keeping Adobe Commerc
 * Best Practices: Adobe recommends best practices for merchants, including enabling two-factor authentication, setting up secure admin access, and following the principle of least privilege.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+
+## Additional Documentation
+
+* [Security patch release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Notification channels](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe Security bulletins](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Secure your commerce site and infrastructure](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
