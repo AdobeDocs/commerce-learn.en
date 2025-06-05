@@ -14,6 +14,7 @@ auto-video-transcripts: true
         + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
         + [Configuration Values](../cloud/troubleshooting/config-values.md)
         + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
+    + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
     + [Marketecture](../cloud/marketecture.md)
     + [Global Delivery Model](../cloud/global-delivery-model.md)
@@ -93,6 +94,11 @@ auto-video-transcripts: true
         + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
         + [Shopper-experience](../edge-delivery-services/shopper-experience.md)
 + Webinars and events {#webinars-and-events}
+    + The Future of Commerce {#future-of-commerce}
+        + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
+        + [Drastically cut costs](../future-of-commerce/drastically-cut-costs.md)
+        + [Supercharge conversion rates](../future-of-commerce/supercharge-conversion-rates.md)
+        + [Fast Track expansion](../future-of-commerce/fast-track-expansion.md)
     + Enablement Series {#enablement-series}
         + [Lower the TOC for Commerce integrations](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
         + [Planning the modern Adobe Commerce implementation](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
@@ -254,3 +260,4 @@ auto-video-transcripts: true
         + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
     + [PWA Docker Development](../pwa/pwa-docker-development.md)
     + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
+

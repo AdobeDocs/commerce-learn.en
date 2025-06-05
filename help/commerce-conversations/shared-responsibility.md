@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 152
 last-substantial-update: 2025-05-12
 jira: KT-18082
+exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
 ---
-
 # Shared Responsibility
 
 Learn how Adobe and merchants share the responsibility for keeping Adobe Commerce Cloud secure. Adobe takes care of the core security aspects, like maintaining the platform's code, ensuring compliance with important standards, and protecting the servers. You will learn what Adobe and a merchant need to be aware of for running your Adobe Commerce Cloud project.
