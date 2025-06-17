@@ -142,7 +142,7 @@ auto-video-transcripts: true
         + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
         + [Adobe Commerce conditional events](../io-events/conditional-events.md)
 + API Mesh {#api-mesh}
-    + [API Mesh starter kit using GitHub codespaces](../api-mesh/starter-kit-github-codespaces.md)
+    + [API Mesh starter kit using GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
     + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
     + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
     + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
