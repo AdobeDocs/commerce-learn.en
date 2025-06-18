@@ -9,8 +9,8 @@ feature: API Mesh, Tools and External Services, Backend Development, GraphQL, St
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
+exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
 ---
-
 # API Mesh starter kit using GitHub Codespaces
 
 This session introduces the Adobe Commerce API Mesh Starter Kit, designed to help developers quickly explore API Mesh using GitHub Codespaces without local setup. It walks through setting up a repository, configuring endpoints, and using built-in tools like GraphQL Yoga for testing.
