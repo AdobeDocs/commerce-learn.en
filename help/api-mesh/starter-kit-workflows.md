@@ -13,7 +13,7 @@ level: Beginner
 ---
 # API Mesh starter kit using workflows
 
-learn about the GitHub workflows included in the API Mesh starter kit for deploying your mesh and performing load tests.
+Learn about the GitHub workflows included in the API Mesh starter kit for deploying your mesh and performing load tests.
 
 ## Who is this video for?
 
@@ -31,5 +31,5 @@ learn about the GitHub workflows included in the API Mesh starter kit for deploy
 ## Related documentation
 
 * [API mesh starter kit GitHub repo](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [Adobe Developer OAuth server to server implementation guide](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
+* [Adobe Developer OAuth server to server implementation guide](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
 * [Playlist of API Mesh videos](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
