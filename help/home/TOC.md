@@ -26,6 +26,7 @@ auto-video-transcripts: true
     + [Experience Lead Data and Promotions](../cloud/experience-lead-data-promoitions.md)
     + [AEM Assets](../cloud/aem-assets.md)
     + [Migrate from a self-hosted solution](../cloud/overview.md) 
+    + [Limit access using Fastly](../cloud/limit-website-access-using-fastly.md)
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
         + [Fastly](../cloud/fastly.md)
