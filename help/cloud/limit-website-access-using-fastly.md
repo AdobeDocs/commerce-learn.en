@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 200
 last-substantial-update: 2025-07-11
 jira: KT-18494
+exl-id: 121e7a2f-f9fd-4cd1-b2be-48a12b538008
 ---
-
 # Use Fastly to deny access for an entire website
 
 Learn how to restrict access to your Adobe Commerce Cloud site using Fastly Edge ACLs and custom VCL snippets. This step-by-step guide helps you secure your pre-launch environment by allowing only specific IP addresses, ensuring your development site stays private. 
