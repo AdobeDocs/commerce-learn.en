@@ -34,3 +34,7 @@ Adobe Commerce as a Cloud Service provides a flexible, scalable, and efficient s
 * Composable architecture for independent deployment, scaling, and updating of services with API-first extensibility.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+
+## Related documentation
+
+* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
