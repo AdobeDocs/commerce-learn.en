@@ -75,6 +75,7 @@ auto-video-transcripts: true
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 + Adobe Commerce Optimizer {#adobe-commerce-optimizer}
     + [Overview](../adobe-commerce-optimizer/overview.md)
+    + [Create your first instance of Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
