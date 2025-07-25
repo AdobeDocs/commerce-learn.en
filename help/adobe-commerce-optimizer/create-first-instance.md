@@ -13,7 +13,7 @@ jira: KT-18610
 
 # Create your first instance of Adobe Commerce Optimizer
 
-Learn how to create your first Adobe Commerce Optimizer instance from start to finish. A few topics we cover are verifying your organization and entitlements, checking available credits, and selecting the right instance type and environment. This beginner-friendly walkthrough is designed to help you get up and running quickly, with clear steps and helpful tips to ensure a smooth experience.
+Learn how to create your first Adobe Commerce Optimizer instance from start to finish. A few topics that are covered include verifying your organization and entitlements, checking available credits, and selecting the right instance type and environment. This beginner-friendly walkthrough is designed to help you get up and running quickly, with clear steps and helpful tips to ensure a smooth experience.
 
 ## Who is this video for?
 
