@@ -13,7 +13,7 @@ jira: KT-18638
 
 # Managing instances of Adobe Commerce Optimizer
 
-Learn how to manage your Adobe Commerce Optimizer instances by accessing the correct organization in Experience Cloud, updating instance details, and locating key endpoints like GraphQL and catalog URLs.
+Learn how to manage an Adobe Commerce Optimizer instance to update the name and description.  Learn how to locate key endpoints like GraphQL and catalog URLs and the instance ID.
 
 ## Who is this video for?
 
