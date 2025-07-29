@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 139
 last-substantial-update: 2025-07-29
 jira: KT-18638
+exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
 ---
-
 # Managing instances of Adobe Commerce Optimizer
 
 Learn how to manage an Adobe Commerce Optimizer instance to update the name and description.  Learn how to locate key endpoints like GraphQL and catalog URLs and the instance ID.
