@@ -77,6 +77,7 @@ auto-video-transcripts: true
     + [Overview](../adobe-commerce-optimizer/overview.md)
     + [Create your first instance of Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
     + [Manage Adobe Commerce Optimizer instances](../adobe-commerce-optimizer/managing-instances.md)
+    + [Ingest sample data](../adobe-commerce-optimizer/ingest-sample-data.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
