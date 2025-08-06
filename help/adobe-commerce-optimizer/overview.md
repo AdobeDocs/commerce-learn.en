@@ -28,3 +28,7 @@ Adobe Commerce Optimizer enhances existing commerce platforms by providing a hig
 * Scales digital operations
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+
+## Additional resources
+
+[[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)
