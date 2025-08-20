@@ -28,7 +28,7 @@ Learn how to query data using GraphQL on an Adobe Commerce Optimizer instance.
 
 ## Code Samples
 
-Be sure to exchange values like`{{insert-your-graphql-endpoint-url}}`, `{{insert-your-ac-source-locale}}` and `{{your-search-query-string}}` with the values needed on your query. 
+Be sure to exchange values like`{{insert-your-graphql-endpoint-url}}`, `{{insert-your-ac-view-id}}` and `{{your-search-query-string}}` with the values needed on your query. 
 
 Basic sample query
 
