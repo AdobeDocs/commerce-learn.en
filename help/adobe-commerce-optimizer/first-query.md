@@ -35,7 +35,7 @@ Basic sample query
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
 -H 'Content-Type: application/json' \
--H 'AC-Source-Locale: {{insert-your-ac-source-locale}}' \
+-H 'AC-View-ID: {{insert-your-ac-view-id}}' \
 -d '{"query": "query ProductSearch($search: String!) { productSearch( phrase: $search, page_size: 10, current_page: 2) { items { productView { sku name description shortDescription images { url } ... on SimpleProductView { attributes { label name value } price { regular { amount { value currency } } roles } } } } } }", "variables": { "search": "{{your-search-query-string}}"}}'
 ```
 
@@ -44,7 +44,7 @@ Basic sample query using `jq` to pretty-print the output
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
 -H 'Content-Type: application/json' \
--H 'AC-Source-Locale: {{insert-your-ac-source-locale}}' \
+-H 'AC-View-ID: {{insert-your-ac-view-id}}' \
 -d '{"query": "query ProductSearch($search: String!) { productSearch( phrase: $search, page_size: 10, current_page: 2) { items { productView { sku name description shortDescription images { url } ... on SimpleProductView { attributes { label name value } price { regular { amount { value currency } } roles } } } } } }", "variables": { "search": "{{your-search-query-string}}"}}' | jq .
 ```
 
