@@ -123,6 +123,7 @@ auto-video-transcripts: true
     + [Mutations](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
+    + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
     + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
     + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
