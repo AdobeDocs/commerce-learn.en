@@ -200,7 +200,6 @@ auto-video-transcripts: true
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
     + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
 + Orders and Fulfillment {#orders}
-    + [Store Fulfillment Overview](../orders-and-fulfillment/store-fulfillment.md)
     + [Manage Order Status](../orders-and-fulfillment/order-status.md)
     + [Checking Inventory Status](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B for Adobe Commerce {#b2b}
