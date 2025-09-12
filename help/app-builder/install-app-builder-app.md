@@ -11,7 +11,7 @@ last-substantial-update: 2025-08-29
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
 ---
-# Learn how to Install App Builder Apps from Adobe Exchange
+# Install App Builder apps from Adobe Exchange
 
 Learn how to find, install, and validate Adobe Commerce App Builder apps using Adobe Exchange. You are guided through filtering for relevant apps, acquiring and approving them, setting up deployment environments, and verifying successful installation—all using a real-world example with the Feed Generator app. Whether you're new to App Builder or looking to streamline your workflow, this tutorial provides a practical, step-by-step overview to get you started.
 
