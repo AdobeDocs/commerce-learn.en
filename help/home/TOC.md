@@ -14,6 +14,7 @@ auto-video-transcripts: true
         + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
         + [Configuration Values](../cloud/troubleshooting/config-values.md)
         + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
+    + [Project and environment management](../cloud/project-environment-management.md)
     + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
     + [Marketecture](../cloud/marketecture.md)
@@ -123,6 +124,7 @@ auto-video-transcripts: true
     + [Mutations](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
+    + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
     + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
     + [Functional Demonstration for App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -199,7 +201,6 @@ auto-video-transcripts: true
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
     + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
 + Orders and Fulfillment {#orders}
-    + [Store Fulfillment Overview](../orders-and-fulfillment/store-fulfillment.md)
     + [Manage Order Status](../orders-and-fulfillment/order-status.md)
     + [Checking Inventory Status](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B for Adobe Commerce {#b2b}
