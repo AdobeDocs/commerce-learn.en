@@ -114,4 +114,4 @@ These lower level environments are multi-tenant and share underlying servers wit
 
 ## Related Documentation
 
-* [Regional IP Addresses](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Regional IP Addresses](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
