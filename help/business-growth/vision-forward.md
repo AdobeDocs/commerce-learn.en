@@ -6,10 +6,9 @@ topic: Administration, Artificial Intelligence, Collaboration, Commerce, Content
 role: Data Engineer, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 976
 last-substantial-update: 2025-10-10
 jira: KT-19377
-thumbnail: KT-19377.jpeg
 ---
 
 # Business Growth with Adobe's Vision forward roadmap
