@@ -1,5 +1,5 @@
 ---
-title: - Business Growth with AI Innovation
+title: Business Growth with AI Innovation
 description: Explore AI-powered eCommerce growth with Adobe Commerce—boost discoverability, optimize storefronts, and expand globally.
 feature: App Builder, Attributes, Auto Scaling, B2B, Catalog Management, Catalog Service, Categories, Commerce Intelligence, Configuration, Customer Service, Customers, Data Import/Export, Deploy, Extensibility, GraphQL, Identity Management, Integration, Inventory, Marketing Tools, Merchandising, Observability, Page Content, Personalization, Products, Recommendations, Reporting, Saas, Sales Channels, Search, Site Management, Storefront, Support, Upgrade
 topic: Architecture, Artificial Intelligence, Collaboration, Commerce, Content Management, Development, Headless, Integrations, Localization, Migration, Performance, Personalization, Security, Upgrade
