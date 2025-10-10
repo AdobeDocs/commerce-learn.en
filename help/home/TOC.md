@@ -102,6 +102,7 @@ auto-video-transcripts: true
 + Webinars and events {#webinars-and-events}
     + Business Growth {#business-growth}
         + [AI Innovation](../business-growth/ai-innovation.md)
+        + [Vision forward](../business-growth/vision-forward.md)
     + The Future of Commerce {#future-of-commerce}
         + [New Product Announcements](../future-of-commerce/new-product-announcements.md)
         + [Drastically cut costs](../future-of-commerce/drastically-cut-costs.md)
