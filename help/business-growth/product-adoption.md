@@ -6,7 +6,7 @@ topic: Artificial Intelligence, Migration, Commerce
 role: Data Engineer, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 1025
+duration: 694
 last-substantial-update: 2025-10-13
 jira: KT-19378
 ---
