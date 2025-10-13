@@ -17,6 +17,7 @@ Adobe Commerce is making it easier for businesses to grow by helping them move t
 
 ## Who is this video for?
 
+* Transformational ecommerce leader
 * Commerce Solution Architect
 * Technical Product Manager
 * Lead Developer

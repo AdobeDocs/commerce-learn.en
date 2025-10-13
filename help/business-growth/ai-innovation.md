@@ -13,7 +13,7 @@ jira: KT-19376
 
 # Business Growth with AI Innovation
 
-Discover how Adobe Commerce is revolutionizing eCommerce with cutting-edge AI solutions and SaaS-first strategies. In this session, explore the future of agentic commerce, highlighting how businesses can optimize product discoverability in LLMs and other channels.  Other topics include streamline catalog management, and automate localization to expand into new markets faster using AI-driven tools. You learn how new MCP servers enable you to build your own AI agents that access Commerce objects, documentation, APIs, and code samples.
+Discover how Adobe Commerce is revolutionizing eCommerce with cutting-edge AI solutions and SaaS-first strategies. In this session, explore the future of agentic commerce, highlighting how businesses can optimize product discoverability in LLMs and other channels, streamline catalog management, and automate localization to expand into new markets faster using AI-driven tools. You learn how new MCP servers enable you to build your own AI agents that access Commerce objects, documentation, APIs, and code samples.
 
 ## Who is this video for?
 
