@@ -28,4 +28,4 @@ Adobe Commerce is making it easier for businesses to grow by helping them move t
 * App Builder extensibility allows custom logic to be decoupled into serverless functions for easier maintenance.
 * Storefront enhancements improve performance and content creation with drop-in components and edge delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/347573/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
