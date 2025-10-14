@@ -23,8 +23,10 @@ Adobe Commerce’s roadmap for 2026 outlines a comprehensive strategy to enhance
 
 ## Video content
 
-* Optimizing Product Discoverability in AI-Driven Channels
-* Accelerating Global Expansion with Catalog Innovation
-* Enhancing Storefront Experience Through Conversational Commerce
+* Real-Time Data Integration for Personalization
+* Native Campaign Orchestration
+* Enhanced B2B Storefront Capabilities
+* Merchant Center & Admin Experience Overhaul
+* Developer Experience & Observability Improvements
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
