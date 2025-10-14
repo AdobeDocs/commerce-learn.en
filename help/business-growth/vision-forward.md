@@ -26,7 +26,7 @@ Adobe Commerce’s roadmap for 2026 outlines a comprehensive strategy to enhance
 * Real-Time Data Integration for Personalization
 * Native Campaign Orchestration
 * Enhanced B2B Storefront Capabilities
-* Merchant Center & Admin Experience Overhaul
+* Merchant Center & Admin Experience
 * Developer Experience & Observability Improvements
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
