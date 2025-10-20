@@ -82,6 +82,7 @@ auto-video-transcripts: true
     + [First Query using GraphQL](../adobe-commerce-optimizer/first-query.md)
     + SalesForce Commerce cloud starter kit {#sfcc-starter-kit}
         + [Overview](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+        + [Architecture Overview](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
