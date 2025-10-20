@@ -7,7 +7,7 @@ role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
-last-substantial-update: 2025-10-17
+last-substantial-update: 2025-10-20
 jira: KT-18990
 ---
 
@@ -26,4 +26,4 @@ Learn about the Commerce Optimizer SalesForce Commerce Cloud Connector, a tool d
 * learn about the purpose for the SalesForce Commerce Cloud integration starter kit.
 * Understand where to install the starter kit
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
