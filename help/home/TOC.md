@@ -80,6 +80,8 @@ auto-video-transcripts: true
     + [Manage Adobe Commerce Optimizer instances](../adobe-commerce-optimizer/managing-instances.md)
     + [Ingest sample data](../adobe-commerce-optimizer/ingest-sample-data.md)
     + [First Query using GraphQL](../adobe-commerce-optimizer/first-query.md)
+    + SalesForce Commerce cloud starter kit {#sfcc-starter-kit}
+        + [Overview](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
