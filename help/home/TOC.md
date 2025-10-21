@@ -83,6 +83,9 @@ auto-video-transcripts: true
     + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
         + [Overview](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
         + [Architecture Overview](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+        + [Installation of the SFCC cartridge](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+        + [App builder starter kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+        + [End to end demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)

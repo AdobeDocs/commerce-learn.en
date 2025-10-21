@@ -28,3 +28,4 @@ Welcome to the [!DNL Commerce] videos and tutorials collection. Using these reso
 - [Merchant documentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 - [Developer documentation](https://developer.adobe.com/commerce)
 - [Adobe Digital Learning Services - Adobe Commerce course catalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+
