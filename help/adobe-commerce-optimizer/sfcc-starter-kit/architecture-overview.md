@@ -13,7 +13,7 @@ jira: KT-19014
 
 # Learn about the Salesforce Commerce cloud starter kit architecture
 
-Learn about the architecture and functionality of the Commerce Optimizer Connector Starter Kit, which integrates Salesforce Commerce Cloud (SFCC), Adobe App Builder. The starter kit is used by Adobe Commerce Optimizer to streamline catalog synchronization for Edge Delivery storefronts. It explains how a custom cartridge in SFCC detects catalog changes via delta export files and exposes them through custom APIs. These changes are consumed by App Builder runtime actions—both synchronous and asynchronous—to perform full and delta syncs, metadata updates, and product-specific synchronizations. The system also includes validation tools to ensure storefront accuracy and uses App Builder’s state management to track sync status and prevent conflicts.
+Learn about the architecture and functionality of the Commerce Optimizer Connector Starter Kit, which integrates Salesforce Commerce Cloud (SFCC) and Adobe App Builder. The starter kit is used by Adobe Commerce Optimizer to streamline catalog synchronization for Edge Delivery storefronts. It explains how a custom cartridge in SFCC detects catalog changes via delta export files and exposes them through custom APIs. These changes are consumed by App Builder runtime actions—both synchronous and asynchronous—to perform full and delta syncs, metadata updates, and product-specific synchronizations. The system also includes validation tools to ensure storefront accuracy and uses App Builder’s state management to track sync status and prevent conflicts.
 
 ## Who is this video for?
 
