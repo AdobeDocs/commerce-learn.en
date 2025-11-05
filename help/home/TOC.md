@@ -228,6 +228,7 @@ auto-video-transcripts: true
         + [Quote line item discount REST API](../b2b/quote-rest-api-line-item-notes.md)
 + Tools and External services {#tools}
     + [Site-Wide Analysis Tool Dashboard](../tools/site-wide-analysis-tool.md)
+    + [Cloud Automation Patching Service](../tools/cloud-automation-patching-service.md)
     + [Observation for Adobe Commerce](../tools/observation-tool.md)
     + [Quality Patch Tool](../tools/quality-patch-tool.md)
     + New Relic {#new-relic}
