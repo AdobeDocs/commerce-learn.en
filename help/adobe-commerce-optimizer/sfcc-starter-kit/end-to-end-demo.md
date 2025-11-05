@@ -25,7 +25,7 @@ Watch an end-to-end demonstration showing the successful setup and execution of 
 
 * Setup and execution of a full synchronization between Salesforce Commerce Cloud and Commerce Optimizer using the App Builder and Starter Kit.
 * Initiates a full sync, and confirms success through runtime logs and event tracing.
-* Changes to product details and pricing in the SFC catalog are automatically detected and updated in Commerce Optimizer via the Delta Sync process.
+* Changes to product details and pricing in the Salesforce Commerce Cloud catalog are automatically detected and updated in Commerce Optimizer via the Delta Sync process.
 * Real time updates and demonstrating seamless data flow and synchronization between systems.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
