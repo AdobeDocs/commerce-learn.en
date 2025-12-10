@@ -136,6 +136,7 @@ auto-video-transcripts: true
 + Adobe Developer App Builder {#adobe-developer-app-builder}
     + Observability {#observability}
         + [Why observability was needed](../app-builder/observability/why-it-was-needed.md)
+        + [Open Telemetry](../app-builder/observability/open-telemetry.md)
     + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
     + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
