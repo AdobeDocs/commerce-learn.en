@@ -11,7 +11,7 @@ last-substantial-update: 2025-12-10
 jira: KT-19965
 ---
 
-# Why Observability Was Needed
+# Why observability was needed
 
 Learn why Adobe Commerce needed observability and extensibility to improve performance and integration. The Adobe team will discuss how observability signals help identify issues like delays or errors across different modules and apps, making it easier to find and fix problems quickly. The team also uncovers how new tools and architecture support flexible extensions without embedding code, giving merchants more control and visibility.
 
