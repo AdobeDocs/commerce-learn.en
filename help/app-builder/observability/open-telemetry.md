@@ -13,7 +13,7 @@ jira: KT-19975
 
 # Why open telemetry
 
-learn how Adobe Commerce uses OpenTelemetry to make it easier to see what’s happening inside its system. As businesses add more apps and extensions, problems like delays or errors can occur. OpenTelemetry collects signals from different parts of Adobe Commerce and its connected apps, so teams can quickly find where issues start. This helps keep everything running smoothly and improves the experience for developers and merchants.
+Learn how Adobe Commerce uses OpenTelemetry to make it easier to see what’s happening inside its system. As businesses add more apps and extensions, problems like delays or errors can occur. OpenTelemetry collects signals from different parts of Adobe Commerce and its connected apps, so teams can quickly find where issues start. This helps keep everything running smoothly and improves the experience for developers and merchants.
 
 ## Who is this video for?
 
