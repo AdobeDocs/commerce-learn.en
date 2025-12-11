@@ -3,7 +3,8 @@ title: Adobe Commerce Cloud Infrastructure and development best practices
 description: Learn about the Adobe Commerce Cloud technical onboarding infrastructure and development best practices.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 0

@@ -3,7 +3,8 @@ title: An overview for migrating to Adobe Commerce
 description: An overview covering preparation, custom code, QA, performance, and security when migrating to Adobe Commerce.
 feature: Best Practices
 topic: Commerce, Migration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 167

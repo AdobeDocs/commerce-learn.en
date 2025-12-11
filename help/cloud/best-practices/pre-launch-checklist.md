@@ -3,7 +3,8 @@ title: Adobe Commerce Cloud pre-launch checklist
 description: Learn about the Adobe Commerce Cloud pre-launch checklist.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 0

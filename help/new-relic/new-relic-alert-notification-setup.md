@@ -9,7 +9,8 @@ audience: all
 last-substantial-update: 2024-08-14
 feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
 ---

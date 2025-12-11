@@ -3,7 +3,8 @@ title: Diagnose and fix a few common Commerce Cloud errors
 description: Resolve two common Adobe Cloud project errors that prevent the site from loading.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260

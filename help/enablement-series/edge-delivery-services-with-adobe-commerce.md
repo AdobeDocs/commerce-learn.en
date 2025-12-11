@@ -3,7 +3,8 @@ title: Edge Delivery Services
 description: Learn about Adobe Edge Delivery Services, their impact on project bidding, development costs, SEO, ADA, and the potential for personalized experiences.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3654

@@ -3,7 +3,8 @@ title: Adobe Commerce Cloud configuration and debugging
 description: Learn about Adobe Commerce Cloud's configuration files, debugging tools, and log management, essential for DevOps, system admins, and backend developers.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 500
