@@ -10,7 +10,8 @@ last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 ---

@@ -3,7 +3,8 @@ title: Lowering the TOC for Adobe Commerce integrations
 description: Learn the best practices for lowering the total cost of ownership for integrations with Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3558

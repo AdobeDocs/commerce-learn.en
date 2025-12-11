@@ -9,7 +9,8 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 ---

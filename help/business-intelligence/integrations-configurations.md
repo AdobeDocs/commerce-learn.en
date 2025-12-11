@@ -4,7 +4,8 @@ description: Learn about Adobe Commerce Intelligence integrations and some confi
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 518

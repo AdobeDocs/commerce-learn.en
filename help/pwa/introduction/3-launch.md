@@ -7,7 +7,8 @@ activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
 ---

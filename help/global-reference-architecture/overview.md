@@ -8,7 +8,8 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 ---

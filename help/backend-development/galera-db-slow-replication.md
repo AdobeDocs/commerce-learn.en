@@ -7,7 +7,8 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
 ---

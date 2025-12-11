@@ -3,7 +3,8 @@ title: Adobe Commerce Cloud Deployment SaaS offerings, support, and other commun
 description: Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 0

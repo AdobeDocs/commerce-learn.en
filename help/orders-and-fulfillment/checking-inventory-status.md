@@ -3,7 +3,8 @@ title: Inventory status checks development and performance considerations
 description: Learn some ideas and considerations for doing inventory status checks for Adobe Commerce.
 feature: Best Practices, Inventory
 topic: Development, Performance
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 0

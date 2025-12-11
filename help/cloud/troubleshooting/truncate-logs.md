@@ -3,7 +3,8 @@ title: Truncate logs
 description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206

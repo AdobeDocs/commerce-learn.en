@@ -3,7 +3,7 @@ title: HIPAA-ready hosting
 description: Learn about HIPPA-ready hosting. The HIPAA-ready solution in Adobe Commerce ensures secure, compliant e-commerce for healthcare businesses.
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268

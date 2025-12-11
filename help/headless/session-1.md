@@ -7,7 +7,8 @@ audience: all
 last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 ---

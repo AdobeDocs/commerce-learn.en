@@ -3,7 +3,8 @@ title: Business Growth with AI Innovation
 description: Explore AI-powered eCommerce growth with Adobe Commerce—boost discoverability, optimize storefronts, and expand globally.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1419
