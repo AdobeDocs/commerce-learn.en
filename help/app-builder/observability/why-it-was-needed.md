@@ -28,3 +28,9 @@ Learn why Adobe Commerce needed observability and extensibility to improve perfo
 * Identify and resolve performance issues quickly.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477607?learn=on&enablevpops)
+
+{{$include /help/_includes/app-builder-observability-related-links.md}}
+
+## Related documentation
+
+* [Observability overview](https://developer.adobe.com/commerce/extensibility/observability/){target="_blank"}

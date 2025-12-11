@@ -28,3 +28,9 @@ Learn how Adobe Commerce uses OpenTelemetry to make it easier to see what’s ha
 * Correlate signals to quickly find which system or extension causes problems.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477625?learn=on&enablevpops)
+
+{{$include /help/_includes/app-builder-observability-related-links.md}}
+
+## Related documentation
+
+* [Observability overview](https://developer.adobe.com/commerce/extensibility/observability/){target="_blank"}
