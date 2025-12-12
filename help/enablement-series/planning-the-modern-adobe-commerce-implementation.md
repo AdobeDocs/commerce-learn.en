@@ -3,7 +3,8 @@ title: Planning the modern Adobe Commerce implementation
 description: This webinar is about planning the implementation of a modern commerce system, specifically Adobe Commerce, and includes discussions on the discovery phase, services, global reference architecture, front-end development practices, and best practices.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3511

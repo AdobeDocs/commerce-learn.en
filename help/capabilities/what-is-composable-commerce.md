@@ -3,7 +3,7 @@ title: How Adobe Creates Composable Commerce
 description: Learn about composable commerce, prioritizing an API-first approach and implement a modular and service-oriented architecture.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0

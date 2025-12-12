@@ -10,7 +10,8 @@ activity: use
 last-substantial-update: 2022-12-9
 feature: Tools and External Services, Security
 topic: Security
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
 ---

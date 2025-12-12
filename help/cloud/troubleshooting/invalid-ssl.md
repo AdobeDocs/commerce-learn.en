@@ -3,7 +3,8 @@ title: Expired SSL Certificate
 description: Resolve expired SSL certificate on Adobe Commerce Cloud integration environments.
 feature: Cloud, Deploy, Security, Storefront
 topic: Commerce, Security
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 118

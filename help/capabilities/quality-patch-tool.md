@@ -3,7 +3,7 @@ title: Quality Patch Tool
 description: Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771

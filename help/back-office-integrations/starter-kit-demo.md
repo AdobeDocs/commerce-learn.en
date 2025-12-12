@@ -8,7 +8,8 @@ audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 ---

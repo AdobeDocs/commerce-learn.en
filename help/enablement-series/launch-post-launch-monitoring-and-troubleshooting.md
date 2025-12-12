@@ -3,7 +3,8 @@ title: Adobe Commerce launch, post launch and ongoing monitoring and troubleshoo
 description: Learn the best practices and tips for preparing and launching a website. Learn about choosing the right staging environment, providing relevant details in support tickets, and using the same monitoring tool as the support team for better communication.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3483

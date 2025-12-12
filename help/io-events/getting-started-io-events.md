@@ -9,7 +9,8 @@ audience: all
 last-substantial-update: 2023-11-27
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
 ---

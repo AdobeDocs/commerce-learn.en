@@ -3,7 +3,8 @@ title: Configuration values
 description: Learn how to locate, validate, and manage configuration values in Adobe Commerce using core_config_data, XML files, and admin settings.
 feature: Cloud, Configuration, System, Variables
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 659

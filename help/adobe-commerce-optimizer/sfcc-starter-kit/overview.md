@@ -3,7 +3,8 @@ title: Introduction to Salesforce Commerce cloud
 description: Lean about the Salesforce Commerce Cloud with Adobe Commerce Optimizer Using the SFC Connector.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194

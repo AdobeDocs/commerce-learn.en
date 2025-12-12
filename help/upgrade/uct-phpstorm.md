@@ -10,7 +10,8 @@ activity: use
 last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 ---

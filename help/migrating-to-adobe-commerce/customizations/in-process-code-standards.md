@@ -3,7 +3,8 @@ title: In-Process PHP coding standards
 description: Overview of in-process coding standards for Adobe Commerce migration, covering PHP, JavaScript, and best practices for customizations.
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 323

@@ -3,7 +3,8 @@ title: Overview of App Builder Starter Kit for Salesforce Commerce Cloud
 description: Lean about the Adobe App Builder starter kit for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 598
