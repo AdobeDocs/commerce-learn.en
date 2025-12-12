@@ -5,13 +5,17 @@ kt: 5766
 doc-type: video
 activity: use
 last-substantial-update: 2022-12-28
-feature: Configuration, System, Catalogs, Customers
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 ---
 # [!DNL Commerce] for business users - Landing pages
+
+<!--
+validation failure (if published)
+feature: Configuration, System, Catalogs, Customers
+-->
 
 In this video:
 

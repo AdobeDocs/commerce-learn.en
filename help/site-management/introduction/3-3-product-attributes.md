@@ -5,13 +5,17 @@ kt: 5769
 doc-type: video
 activity: use
 last-substantial-update: 2022-12-28
-feature: Configuration, System, Catalogs
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 17dca70a-bd71-4f52-b034-8f8f31b71fec
 ---
 # [!DNL Commerce] for business users - Attributes
+
+<!--
+validation failure (if published)
+feature: Configuration, System, Catalogs
+-->
 
 In this video:
 
