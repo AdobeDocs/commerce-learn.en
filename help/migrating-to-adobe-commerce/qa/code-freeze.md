@@ -3,7 +3,7 @@ title: Code Freeze
 description: Learn the importance of implementing a code freeze during your Adobe Commerce migration. Ensure stability, confidence, and successful launch by following best practices for QA, testing, and validation.
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
