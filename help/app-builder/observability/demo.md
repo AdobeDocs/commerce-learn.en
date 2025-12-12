@@ -13,7 +13,7 @@ jira: KT-20000
 
 # Observability demo
 
-Watch a live demo for observability in Adobe Commerce. This demo will focus on how webhooks and event workflows enable correlation across services for seamless order tracking and debugging. Watch as a user is placing orders, handling failures, and validating processes while explaining synchronous and asynchronous flows. It highlights how traces and logs can be viewed in Grafana and New Relic for troubleshooting, emphasizing the power of correlation for identifying performance bottlenecks and ensuring smooth integrations between commerce and builder applications.
+Watch a live demo of observability in Adobe Commerce. This demo shows how webhooks and event workflows connect different services to make order tracking and problem-solving easier. You’ll see how orders are placed, errors are fixed, and processes are checked while learning about synchronous and asynchronous flows. It also explains how traces and logs appear in Grafana and New Relic for troubleshooting, and why correlation is important for finding slow spots and keeping systems working smoothly.
 
 ## Who is this video for?
 
