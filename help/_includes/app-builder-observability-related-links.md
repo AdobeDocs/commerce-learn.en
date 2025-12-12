@@ -9,3 +9,4 @@ description: Links to related pages in Appp Builder Observability section
 * [Why observability was needed](../app-builder/observability/why-it-was-needed.md)
 * [Open Telemetry](../app-builder/observability/open-telemetry.md)
 * [Demo Setup and details](../app-builder/observability/demo-setup-details.md)
+* [Demo](../app-builder/observability/demo.md)
