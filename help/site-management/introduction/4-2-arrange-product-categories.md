@@ -5,13 +5,17 @@ kt: 5776
 doc-type: video
 activity: use
 last-substantial-update: 2022-12-28
-feature: Configuration, System, Catalogs, Search, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
 ---
 # [!DNL Commerce] for business users - Category positioning
+
+<!--
+validation failure (if published)
+feature: Configuration, System, Catalogs, Search, Site Navigation
+-->
 
 In this video:
 
