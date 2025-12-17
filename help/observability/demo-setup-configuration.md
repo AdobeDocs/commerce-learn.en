@@ -11,7 +11,7 @@ last-substantial-update: 2025-12-11
 jira: KT-19992
 ---
 
-# Why observability was needed
+# Setup and Configuration
 
 Learn how this demo was created to demonstrate Adobe Commerce and App builder observability, and to track and understand system behavior. This video shows how an App Builder project was set up with webhooks and events to manage shipping options and order validation. The example includes adding shipping carriers based on country and using random checks to show success or failure in orders. Topics such as signals, logs, and traces and how they are exported to tools like Grafana and New Relic for monitoring. The goal is to help developers see how different parts of the system work together and how observability improves troubleshooting and performance.
 

@@ -86,6 +86,11 @@ auto-video-transcripts: true
         + [Installation of the SFCC cartridge](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
         + [App builder starter kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
         + [End to end demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
++ Observability {#observability}
+    + [Observability overview](../observability/overview.md)
+    + [Open Telemetry](../observability/open-telemetry.md)
+    + [Demo setup and configuration](../app-builder/observability/demo-setup-configuration.md)
+    + [Demo](../app-builder/observability/demo.md)        
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
@@ -134,11 +139,6 @@ auto-video-transcripts: true
     + [Mutations](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + Observability {#observability}
-        + [Why observability was needed](../app-builder/observability/why-it-was-needed.md)
-        + [Open Telemetry](../app-builder/observability/open-telemetry.md)
-        + [Demo setup and details](../app-builder/observability/demo-setup-details.md)
-        + [Demo](../app-builder/observability/demo.md)
     + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
     + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
     + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
