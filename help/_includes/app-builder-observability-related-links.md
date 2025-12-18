@@ -1,6 +1,6 @@
 ---
 title: App Builder Observability related pages
-description: Links to related pages in Appp Builder Observability section
+description: Links to related pages in the Appp Builder Observability section
 ---
 # App Builder Ovservability related links
 
