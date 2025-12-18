@@ -1,19 +1,19 @@
 ---
-title: Why Open Telemetry
-description: Discover why Adobe Commerce uses OpenTelemetry for centralized observability and better extensibility insights.
+title: Open Telemetry
+description: Unify observability with OpenTelemetry—logs, traces, and metrics for seamless monitoring and root cause analysis.
 feature: Observability,Extensibility,App Builder
 topic: Performance
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 333
-last-substantial-update: 2025-12-10
+duration: 137
+last-substantial-update: 2025-12-18
 jira: KT-19975
 ---
 
-# Why open telemetry
+# Open telemetry
 
-Learn how Adobe Commerce uses OpenTelemetry to make it easier to see what’s happening inside its system. As businesses add more apps and extensions, problems like delays or errors can occur. OpenTelemetry collects signals from different parts of Adobe Commerce and its connected apps, so teams can quickly find where issues start. This helps keep everything running smoothly and improves the experience for developers and merchants.
+Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. This video explains why adopting an open, industry-wide standard enables seamless correlation of signal. Learn how Open Telemetry supports existing stacks, and delivers end-to-end operational insights for a unified monitoring strategy.
 
 ## Who is this video for?
 
@@ -23,11 +23,11 @@ Learn how Adobe Commerce uses OpenTelemetry to make it easier to see what’s ha
 
 ## Video content
 
-* Export observability signals from Adobe Commerce for better system visibility.
-* Centralized observability helps detect delays, timeouts, and integration issues.
-* Correlate signals to quickly find which system or extension causes problems.
+* Standardize observability with OpenTelemetry across all signals
+* Correlate logs, traces, and metrics for faster root cause analysis
+* Maintain existing monitoring tools while unifying data streams
 
->[!VIDEO](https://video.tv.adobe.com/v/3477625?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

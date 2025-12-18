@@ -1,19 +1,19 @@
 ---
 title: Understanding Observability
-description: Enhancing Adobe Commerce with Extensibility and Centralized Observability
+description: Why Centralized Observability Is Critical for Scalable Adobe Commerce Extensibility
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 125
-last-substantial-update: 2025-12-17
+duration: 165
+last-substantial-update: 2025-12-18
 jira: KT-19965
 ---
 
 # Observability overview
 
-Discover how Adobe Commerce’s unified extensibility model empowers businesses with scalable, composable architecture. Learn why centralized observability is now an architectural requirement for modern commerce experiences. From webhooks and UI extensions to asynchronous workflows, see how correlated logs, traces, and metrics enable proactive optimization, faster checkouts, and improved conversion rates. Perfect for developers, architects, and merchants looking to streamline integrations and boost performance.
+Learn why centralized observability is essential for modern Adobe Commerce architectures. As extensibility evolves into a composable model with independent apps, webhooks, and UI extensions, merchants face the challenge of tracking complex execution flows. Learn how a unified observability layer correlates signals across services, enabling proactive optimization and ensuring fast, reliable checkout experiences.
 
 ## Who is this video for?
 
@@ -23,11 +23,11 @@ Discover how Adobe Commerce’s unified extensibility model empowers businesses 
 
 ## Video content
 
-* Composable architecture for scalable Adobe Commerce extensibility
-* Centralized observability ensures seamless multi-app execution flows
-* Proactive optimization improves checkout speed and conversion rates
+* Composable Model Adds Complexity: Independent apps and webhooks lack a single context.
+* Centralized Observability Is Key: Correlate logs and metrics across all components.
+* Boost Checkout Performance: Identify bottlenecks fast to keep shopping smooth.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478093?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
