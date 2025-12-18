@@ -89,8 +89,8 @@ auto-video-transcripts: true
 + Observability {#observability}
     + [Observability overview](../observability/overview.md)
     + [Open Telemetry](../observability/open-telemetry.md)
-    + [Demo setup and configuration](../app-builder/observability/demo-setup-configuration.md)
-    + [Demo](../app-builder/observability/demo.md)        
+    + [Demo setup and configuration](../observability/demo-setup-configuration.md)
+    + [Demo](../observability/demo.md)        
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
