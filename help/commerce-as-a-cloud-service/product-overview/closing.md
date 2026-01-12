@@ -11,7 +11,7 @@ last-substantial-update: 2026-01-12
 jira: KT-20095
 ---
 
-# Adobe Commerce Cloud Service Overview
+# Adobe Commerce Cloud Service Closing
 
 Learn some of the key benefits for Adobe Commerce as a Cloud Service. Learn how ACCS simplifies setup, enhances performance, and empowers teams to deliver exceptional digital commerce experiences.
 
