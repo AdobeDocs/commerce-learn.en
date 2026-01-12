@@ -4,7 +4,7 @@ description: Learn how Adobe Commerce’s Edge Delivery architecture delivers fa
 feature: Cache, Storefront, Best Practices
 topic: Performance, Architecture
 role: Developer, User
-level: Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2026-01-12

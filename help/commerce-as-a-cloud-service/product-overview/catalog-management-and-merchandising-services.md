@@ -4,7 +4,7 @@ description: Manage product data, pricing, and merchandising rules from a single
 feature: Catalog Management, Attributes, Recommendations
 topic: Commerce, Personalization
 role: Developer, User
-level: Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 305
 last-substantial-update: 2026-01-12

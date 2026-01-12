@@ -4,7 +4,7 @@ description: Learn how Adobe Commerce’s extensibility framework enables custom
 feature: App Builder, API Mesh, Extensibility
 topic: Development, Architecture
 role: Developer, User
-level: Advanced
+level: Beginner
 doc-type: Technical Video
 duration: 296
 last-substantial-update: 2026-01-12

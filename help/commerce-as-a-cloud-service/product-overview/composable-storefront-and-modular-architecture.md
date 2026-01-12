@@ -4,7 +4,7 @@ description: Learn how Adobe Commerce’s composable architecture enables modula
 feature: Extensibility, Admin Workspace, Integration
 topic: Architecture, Development
 role: Developer, User
-level: Advanced
+level: Beginner
 doc-type: Technical Video
 duration: 279
 last-substantial-update: 2026-01-12

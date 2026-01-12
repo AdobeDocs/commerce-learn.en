@@ -4,7 +4,7 @@ description: Learn how Adobe Commerce offers flexible migration pathways, toolin
 feature: App Builder, Storefront, Extensibility
 topic: Migration, Architecture
 role: Developer, User
-level: Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 339
 last-substantial-update: 2026-01-12

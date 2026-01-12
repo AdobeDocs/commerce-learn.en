@@ -4,7 +4,7 @@ description: Explore how Adobe Commerce provides a complete shopping experience 
 feature: Search, Recommendations, Shopping Cart
 topic: Commerce, Personalization
 role: Developer, User
-level: Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 301
 last-substantial-update: 2026-01-12

@@ -4,7 +4,7 @@ description: Test and optimize storefront content using Adobe Commerce’s nativ
 feature: Recommendations, Admin Workspace, Extensions
 topic: Personalization, Artificial Intelligence
 role: Developer, User
-level: Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 288
 last-substantial-update: 2026-01-12
