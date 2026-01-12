@@ -14,7 +14,7 @@ jira: KT-20095
 
 # Introduction to Adobe Commerce as a Cloud Service
 
-Learn how Adobe Commerce as a Cloud Service streamlines operations with a centralized admin and modular architecture. You’ll also discover how AI-driven personalization enhances shopping experiences across channels.
+Learn how Adobe Commerce as a Cloud Service streamlines operations with a centralized admin and modular architecture. Discover how AI-driven personalization enhances shopping experiences across channels.
 
 ## Who is this video for?
 

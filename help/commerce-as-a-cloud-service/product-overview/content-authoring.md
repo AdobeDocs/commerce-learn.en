@@ -13,7 +13,7 @@ jira: KT-20085
 
 # Content Authoring
 
-Learn how Adobe Commerce enables marketers to manage content independently with tools like Visual Editor and Document Author. You’ll also see how AI-driven features streamline content optimization and campaign execution.
+Learn how Adobe Commerce enables marketers to manage content independently with tools like Visual Editor and Document Author. Discover how AI-driven features streamline content optimization and campaign execution.
 
 ## Who is this video for?
 

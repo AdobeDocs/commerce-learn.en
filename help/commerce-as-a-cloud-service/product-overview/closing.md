@@ -12,8 +12,7 @@ jira: KT-20095
 ---
 
 # Adobe Commerce Cloud Service Overview
-
-This video provides a summary of Adobe Commerce as a Cloud Service and its key benefits. Learn how ACCS simplifies setup, enhances performance, and empowers teams to deliver exceptional digital commerce experiences.
+Learn some of the key benefits for Adobe Commerce as a Cloud Service. Learn how ACCS simplifies setup, enhances performance, and empowers teams to deliver exceptional digital commerce experiences.
 
 ## Who is this video for?
 

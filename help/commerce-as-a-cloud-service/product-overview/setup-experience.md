@@ -14,7 +14,7 @@ jira: KT-20084
 
 # Setup Experience
 
-Learn how Adobe Commerce as a Cloud Service empowers teams to launch storefronts quickly with self-service setup and secure endpoints. You’ll also see how its edge-based architecture delivers lightning-fast performance and scalability.
+Learn how Adobe Commerce as a Cloud Service empowers teams to launch storefronts quickly with self-service setup and secure endpoints. Learn how its edge-based architecture delivers lightning-fast performance and scalability.
 
 ## Who is this video for?
 
