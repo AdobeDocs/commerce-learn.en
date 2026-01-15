@@ -11,7 +11,7 @@ role: Admin, Leader, User
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
 ---
-# Adobe Commerce as a Service architecture
+# Adobe Commerce as a Cloud Service architecture
 
 Adobe Commerce as a cloud service offers a secure, automated hosting platform with self-service features for managing commerce applications. Key features include asset management through Adobe Experience Manager, comprehensive API coverage with GraphQL and REST APIs, and intelligent merchandising services. The platform supports a fully headless architecture, allowing developers to use various front-end frameworks like React and Angular. It also provides a modern headless storefront with document-based authoring and native A/B testing. Additionally, Adobe Commerce integrates with Adobe Experience Cloud for personalized commerce experiences and offers extensive tools for developers, including the Adobe Developer App Builder and API mesh. 
 
