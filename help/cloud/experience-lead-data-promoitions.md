@@ -36,7 +36,7 @@ Discover Adobe Commerce's powerful catalog management tools designed for e-comme
 
 ## Live Search
 
-Discover the advanced search capabilities of Adobe Commerce, powered by Adobe AI's AI-driven Live Search. ​ This robust SaaS solution enhances the e-commerce experience by delivering highly relevant search results quickly and efficiently. ​ Merchandisers and marketers can optimize site search results using tools like advanced search rules, synonyms, and facets. Live Search offers real-time suggestions, intelligent ranking, and customizable search experiences, ensuring customers find what they need. ​ It also supports B2B models with shared catalogs and specific pricing, making it a versatile solution for all business needs.
+Discover the advanced search capabilities of Adobe Commerce Live Search, powered by Adobe AI. ​ This robust SaaS solution enhances the e-commerce experience by delivering highly relevant search results quickly and efficiently. ​ Merchandisers and marketers can optimize site search results using tools like advanced search rules, synonyms, and facets. Live Search offers real-time suggestions, intelligent ranking, and customizable search experiences, ensuring customers find what they need. ​ It also supports B2B models with shared catalogs and specific pricing, making it a versatile solution for all business needs.
 
 ## Live Search Video Content
 
