@@ -13,7 +13,7 @@ exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 ---
 # Introduction to [!DNL Live Search]
 
-This is a brief introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Live Search] powered by Adobe Sensei uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data.
+This is a brief introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Live Search] powered by Adobe AI uses artificial intelligence and machine-learning algorithms to perform a deep analysis of aggregated visitor data.
 
 {{ee-feature}}
 

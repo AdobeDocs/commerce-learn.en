@@ -13,7 +13,7 @@ exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
 ---
 # Experience lead data and promotions  
 
-Learn about Adobe Commerce's advanced search capabilities, powered by Adobe Sensei, and its robust catalog management features. Get to know some of the highlights for AI-driven search optimization, faceting, and merchandising tools for enhancing user experience. ​ Additionally, you learn about product bundling, promotions management, and seamless integration with third-party systems, offering a comprehensive solution for both B2B and B2C e-commerce needs.
+Learn about Adobe Commerce's advanced search capabilities, powered by Adobe AI, and its robust catalog management features. Get to know some of the highlights for AI-driven search optimization, faceting, and merchandising tools for enhancing user experience. ​ Additionally, you learn about product bundling, promotions management, and seamless integration with third-party systems, offering a comprehensive solution for both B2B and B2C e-commerce needs.
 
 ## Who are these video for?
  
@@ -36,7 +36,7 @@ Discover Adobe Commerce's powerful catalog management tools designed for e-comme
 
 ## Live Search
 
-Discover the advanced search capabilities of Adobe Commerce, powered by Adobe Sensei's AI-driven Live Search. ​ This robust SaaS solution enhances the e-commerce experience by delivering highly relevant search results quickly and efficiently. ​ Merchandisers and marketers can optimize site search results using tools like advanced search rules, synonyms, and facets. Live Search offers real-time suggestions, intelligent ranking, and customizable search experiences, ensuring customers find what they need. ​ It also supports B2B models with shared catalogs and specific pricing, making it a versatile solution for all business needs.
+Discover the advanced search capabilities of Adobe Commerce Live Search, powered by Adobe AI. ​ This robust SaaS solution enhances the e-commerce experience by delivering highly relevant search results quickly and efficiently. ​ Merchandisers and marketers can optimize site search results using tools like advanced search rules, synonyms, and facets. Live Search offers real-time suggestions, intelligent ranking, and customizable search experiences, ensuring customers find what they need. ​ It also supports B2B models with shared catalogs and specific pricing, making it a versatile solution for all business needs.
 
 ## Live Search Video Content
 
