@@ -56,7 +56,7 @@ The Developer Console is where you manage your API credentials, including client
 
 ## Step 1: Get Access Token (Server-to-Server Authentication)
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
 > The variables shown in this sample are not valid. Use the <client_id> and <client_secret> from your project credentials.
 
