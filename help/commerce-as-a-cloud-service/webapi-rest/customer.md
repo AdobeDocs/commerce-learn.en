@@ -78,7 +78,7 @@ curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
 
 ## Step 2: Create a Customer
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
 > The URL provided in this sample is not valid. Use your REST base url. Exchange '<rest_endpoint>' with your URL. It looks  similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 >
@@ -124,7 +124,7 @@ curl -X POST \
 
 ## Step 3: Update a Customer
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
 > The URL provided in this sample is not valid. Use your REST base url. Exchange '<rest_endpoint>' with your URL. It looks  similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 
@@ -167,7 +167,7 @@ curl -X PUT \
 
 ## Complete Script (All-in-One)
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
 > The variables shown in this sample are not valid. Use the client ID and client secret from your project credentials. Use your REST base url. Exchange '<rest_endpoint>' with your REST endpoint URL from experience.adobe.com. It looks similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
 
@@ -231,7 +231,7 @@ curl -s -X PUT \
 
 ## Important Notes about this tutorial
 
-1. **URL Path**: Use `/V1/customers` — **NOT** `/rest/V1/customers`
+1. **URL Path**: Use `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
 1. **Authentication**: This tutorial used Server-to-Server (`client_credentials` grant type)
 1. **Required Scope**: `commerce.accs`
 1. **Token Expiry**: 86400 seconds (24 hours)
