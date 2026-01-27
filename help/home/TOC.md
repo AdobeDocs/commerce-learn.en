@@ -41,6 +41,8 @@ auto-video-transcripts: true
     + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
         + [Overview](../commerce-as-a-cloud-service/overview.md)
         + [Architecture](../commerce-as-a-cloud-service/architecture.md)
+        + Webapi-rest{#webapi-rest}
+            + [Customers](../commerce-as-a-cloud-service/webapi-rest/customer.md)
         + Product Overview{#product-overview}
             + [Inroduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
             + [Setup experiece](../commerce-as-a-cloud-service/product-overview/setup-experience.md)   
