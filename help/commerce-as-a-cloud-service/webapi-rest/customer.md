@@ -13,7 +13,7 @@ jira: KT-20160
 
 # ACCS – New Customer REST APIs
 
-Learn to use new customer REST APIs in Adobe Commerce Cloud Service. This tutorial is perfect for architects and developers looking to integrate and optimize API solutions effectively.
+Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This tutorial is perfect for architects and developers looking to integrate and optimize API solutions effectively.
 
 ## Who is this video for?
 
@@ -23,7 +23,7 @@ Learn to use new customer REST APIs in Adobe Commerce Cloud Service. This tutori
 ## Video content
 
 * Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
-* Use the correct REST API endpoint format for Commerce as a Cloud Service (`/V1/customers` without the `/rest/` prefix)
+* Use the correct REST API endpoint format for Commerce as a Cloud Service
 * Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
@@ -47,7 +47,7 @@ The Developer Console is where you manage your API credentials, including client
 ## Prerequisites
 
 | Item | Value | Where is this value |
-|------|-------|
+|--- |--- |--- |
 | Instance ID | `<instance_id>` | experience.adobe.com |
 | REST Endpoint | `<rest_endpoint>` | experience.adobe.com |
 | Client ID | `<client_id>` | developer.adobe.com/console |
@@ -112,8 +112,8 @@ curl -X POST \
   "created_at": "2026-01-23 20:40:15",
   "updated_at": "2026-01-23 20:40:15",
   "created_in": "Default Store View",
-  "email": "jane.doe@example.com",
-  "firstname": "Jane",
+  "email": "john.doe@example.com",
+  "firstname": "John",
   "lastname": "Doe",
   "store_id": 1,
   "website_id": 1,
@@ -140,8 +140,8 @@ curl -X PUT \
   -d '{
     "customer": {
       "id": 5,
-      "email": "jane.doe@example.com",
-      "firstname": "Jane",
+      "email": "john.doe@example.com",
+      "firstname": "John",
       "lastname": "Doe-Updated"
     }
   }'
@@ -156,8 +156,8 @@ curl -X PUT \
   "created_at": "2026-01-23 20:40:15",
   "updated_at": "2026-01-23 20:40:30",
   "created_in": "Default Store View",
-  "email": "jane.doe@example.com",
-  "firstname": "Jane",
+  "email": "john.doe@example.com",
+  "firstname": "John",
   "lastname": "Doe-Updated",
   "store_id": 1,
   "website_id": 1,
@@ -196,8 +196,8 @@ CREATE_RESPONSE=$(curl -s -X POST \
   -H "Authorization: Bearer ${ACCESS_TOKEN}" \
   -d '{
     "customer": {
-      "email": "jane.doe@example.com",
-      "firstname": "Jane",
+      "email": "john.doe@example.com",
+      "firstname": "John",
       "lastname": "Doe",
       "store_id": 1,
       "website_id": 1
@@ -222,8 +222,8 @@ curl -s -X PUT \
   -d "{
     \"customer\": {
       \"id\": ${CUSTOMER_ID},
-      \"email\": \"jane.doe@example.com\",
-      \"firstname\": \"Jane\",
+      \"email\": \"john.doe@example.com\",
+      \"firstname\": \"john\",
       \"lastname\": \"Doe-Updated\"
     }
   }" | jq .
