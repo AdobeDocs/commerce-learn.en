@@ -2,10 +2,6 @@
 user-guide-title: Adobe Commerce Optimizer Videos and Tutorials
 user-guide-description: Learn about Adobe Commerce Optimizer through videos and tutorials.
 breadcrumb-title: Adobe Commerce Optimizer
-feature-set: commerce
-role: Developer
-level: Intermediate
-auto-video-transcripts: true
 ---
 
 # Adobe Commerce Optimizer {#adobe-commerce-optimizer}
