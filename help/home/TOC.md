@@ -90,18 +90,6 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-    + [Overview](../adobe-commerce-optimizer/overview.md)
-    + [Create your first instance of Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
-    + [Manage Adobe Commerce Optimizer instances](../adobe-commerce-optimizer/managing-instances.md)
-    + [Ingest sample data](../adobe-commerce-optimizer/ingest-sample-data.md)
-    + [First Query using GraphQL](../adobe-commerce-optimizer/first-query.md)
-    + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
-        + [Overview](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-        + [Architecture Overview](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-        + [Installation of the SFCC cartridge](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-        + [App builder starter kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-        + [End to end demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Observability {#observability}
     + [Observability overview](../observability/overview.md)
     + [Open Telemetry](../observability/open-telemetry.md)
