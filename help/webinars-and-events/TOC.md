@@ -6,6 +6,7 @@ breadcrumb-title: Adobe Commerce Webinars and Events
 
 # Webinars and events {#webinars-and-events}
 
+
 + Business Growth {#business-growth}
     + [AI Innovation](./business-growth/ai-innovation.md)
     + [Vision forward](./business-growth/vision-forward.md)
