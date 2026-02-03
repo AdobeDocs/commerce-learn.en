@@ -13,10 +13,9 @@ role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 ---
+# Leveraging Global Reference Architecture
 
 {{only-for-on-prem-commerce-cloud}}
-
-# Leveraging Global Reference Architecture
 
 Learn how to leverage Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and how they are a valuable resource to a GRA implementation.
 

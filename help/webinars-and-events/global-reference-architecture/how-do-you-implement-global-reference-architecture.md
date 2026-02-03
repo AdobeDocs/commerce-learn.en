@@ -13,10 +13,9 @@ role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 ---
+# Implementing Global Reference Architecture
 
 {{only-for-on-prem-commerce-cloud}}
-
-# Implementing Global Reference Architecture
 
 Learn how to implement Global Reference Architecture or GRA for short. Learn about early decisions that help setup a successful GRA. Gain ideas for how to separate your websites, keys to success and some concepts for developing features in an organized manner.
 
