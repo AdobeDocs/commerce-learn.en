@@ -27,4 +27,4 @@ description: Reused visual elements to note feature or pages applying to a speci
 
 | On-Prem | Adobe Commerce Cloud | Adobe Commerce as a Cloud Service | Aobe Commerce Optimizer |
 | --- | --- | --- | --- |
-| [!BADGE Yes]{type=Informative url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."} | [!BADGE Yes]{type=Informative url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."} | >[!BEGINSHADEBOX]No>[!ENDSHADEBOX] | >[!BEGINSHADEBOX]No>[!ENDSHADEBOX] |
+| Yes | Yes | >[!BEGINSHADEBOX]No>[!ENDSHADEBOX] | >[!BEGINSHADEBOX]No>[!ENDSHADEBOX] |
