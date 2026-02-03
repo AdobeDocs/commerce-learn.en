@@ -9,4 +9,4 @@ description: Links to related pages in GRA
 * [What is Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
 * [How do you leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
 * [How do you architect Global Reference Architecture](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-* [How do you implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+* [How do you implement Global Reference Architecture](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
