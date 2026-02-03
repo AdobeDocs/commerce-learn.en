@@ -13,6 +13,7 @@ role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
 ---
+
 # Global Reference Architecture
 
 {{only-for-on-prem-commerce-cloud}}
