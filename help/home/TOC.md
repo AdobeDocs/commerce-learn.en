@@ -65,11 +65,7 @@ auto-video-transcripts: true
             + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
         + QA{#qa}
             + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
-    + Global Reference Architecture{#global-reference-architecture}
-        + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
-        + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-        + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-        + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+            
     + Commerce Capabilities {#capabilities} 
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
