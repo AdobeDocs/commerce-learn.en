@@ -27,4 +27,4 @@ description: Reused visual elements to note feature or pages applying to a speci
 
 | On-Prem | Adobe Commerce Cloud | Adobe Commerce as a Cloud Service | Aobe Commerce Optimizer |
 | --- | --- | --- | --- |
-| Yes | Yes | >[!BEGINSHADEBOX] No >[!ENDSHADEBOX] | >[!BEGINSHADEBOX] No >[!ENDSHADEBOX] |
+| Yes | Yes | No | No |
