@@ -165,7 +165,7 @@ curl -X PUT \
 }
 ```
 
-## Complete Script (All-in-One)
+## Complete script (all-in-one)
 
 >[!IMPORTANT]
 >
@@ -229,7 +229,7 @@ curl -s -X PUT \
   }" | jq .
 ```
 
-## Important Notes about this tutorial
+## Important notes about this tutorial
 
 1. **URL Path**: Use `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
 1. **Authentication**: This tutorial used Server-to-Server (`client_credentials` grant type)
