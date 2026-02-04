@@ -15,6 +15,8 @@ exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
 ---
 # The Separate Packages global reference architecture pattern
 
+{{only-for-on-prem-commerce-cloud}}
+
 This guide explains how to set up Adobe Commerce with the Separate Packages Global Reference Architecture (GRA) Pattern.
 
 The Separate Packages GRA pattern involves one Git repository for each common package and a Git repository for each Adobe Commerce instance. Common packages are exposed through Composer with a private composer repository.

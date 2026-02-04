@@ -13,6 +13,8 @@ badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.ad
 ---
 # Page Builder for developers - Templates and styles
 
+{{only-for-on-prem-commerce-cloud}}
+
 In this video:
 
 - [!DNL Admin] and stage theming tasks

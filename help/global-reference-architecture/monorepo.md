@@ -15,6 +15,8 @@ exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
 ---
 # Monorepo Global Reference Architecture pattern
 
+{{only-for-on-prem-commerce-cloud}}
+
 This guide explains how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.
 
 The Monorepo GRA pattern involves a single Git repository to host all common customizations. This single Git repository is exposed through Composer as a separate composer packages.

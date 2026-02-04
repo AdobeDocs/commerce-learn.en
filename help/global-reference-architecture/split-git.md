@@ -15,6 +15,8 @@ exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
 ---
 # The Split Git global reference architecture pattern
 
+{{only-for-on-prem-commerce-cloud}}
+
 This guide explains how to set up Adobe Commerce with the Split Git Global Reference Architecture (GRA) Pattern.
 
 The split Git GRA pattern involves two Git repositories for development and one Git repository per Adobe Commerce instance. In the examples, it is assumed that each instance represents a unique brand.
