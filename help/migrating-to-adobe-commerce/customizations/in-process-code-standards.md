@@ -14,6 +14,8 @@ exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
 ---
 # Migrating to Adobe Commerce - In-Process coding standards
 
+{{only-for-on-prem-commerce-cloud}}
+
 Learn some essential coding standards and best practices for PHP, JavaScript, and customizations. Whether you're a developer or a business, this set of tutorials help you navigate the complexities of migrating to Adobe Commerce, ensuring a smooth and successful transition.
 
 ## Who is this video for?

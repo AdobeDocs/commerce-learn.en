@@ -12,6 +12,8 @@ exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 ---
 # Add a JavaScript module
 
+{{only-for-on-prem-commerce-cloud}}
+
 This video provides a walk-through for developing a simple JS module that provides the greeting "Hello World".
 
 ## Who is this video for?

@@ -15,6 +15,8 @@ exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 ---
 # The Bulk Packages global reference architecture pattern
 
+{{only-for-on-prem-commerce-cloud}}
+
 This guide explains how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.
 
 The Bulk Packages GRA pattern involves a single Git repository to host all common customizations. This single Git repository is exposed through Composer as a single composer package, which contains multiple Adobe Commerce modules.

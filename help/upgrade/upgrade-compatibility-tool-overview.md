@@ -17,6 +17,8 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 ---
 # Upgrade Compatibility Tool Overview
 
+{{only-for-on-prem-commerce-cloud}}
+
 The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. Using this tool makes the upgrade process faster and easier to execute.
 
 In this video:

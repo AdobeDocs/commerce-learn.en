@@ -15,6 +15,8 @@ badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.ad
 ---
 # Page Builder for developers - Introduction
 
+{{only-for-on-prem-commerce-cloud}}
+
 In this video:
 
 - Page Builder introduction

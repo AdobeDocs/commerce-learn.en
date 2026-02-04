@@ -17,6 +17,8 @@ exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 ---
 # Using the Upgrade Compatibility Tool on PHP Storm
 
+{{only-for-on-prem-commerce-cloud}}
+
 The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. The PHP Storm plugin makes this tool even easier to use.
  
 In this video:
