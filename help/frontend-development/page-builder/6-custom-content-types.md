@@ -13,6 +13,8 @@ badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.ad
 ---
 # Page Builder for developers - Custom content types
 
+{{only-for-on-prem-commerce-cloud}}
+
 In this video:
 
 - Customize and create additional content types

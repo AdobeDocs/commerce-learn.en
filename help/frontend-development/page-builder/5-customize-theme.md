@@ -13,6 +13,8 @@ badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.ad
 ---
 # Page Builder for developers - Theme customization
 
+{{only-for-on-prem-commerce-cloud}}
+
 In this video:
 
 - Customize the Page Builder theme

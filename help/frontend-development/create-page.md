@@ -12,6 +12,8 @@ exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 ---
 # Create a New Page
 
+{{only-for-on-prem-commerce-cloud}}
+
 Create a page that returns json with one parameter. 
 
 ## Who is this video for?

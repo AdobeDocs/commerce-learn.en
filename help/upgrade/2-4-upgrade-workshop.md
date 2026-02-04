@@ -17,6 +17,8 @@ exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
 ---
 # Adobe Commerce 2.4 Upgrade Workshop
 
+{{only-for-on-prem-commerce-cloud}}
+
 Watch this recorded webinar to learn the steps and best practices to follow when preparing for your next upgrade to 2.4.4 or higher.
 
 In this workshop, Adobe Commerce partnered with Merkle to share:
