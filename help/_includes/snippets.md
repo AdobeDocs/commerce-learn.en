@@ -25,6 +25,9 @@ description: Reused visual elements to note feature or pages applying to a speci
 
 ## PaaS and Commere Cloud only {#only-for-on-prem-commerce-cloud}
 
+
+**This information applies to:**
+
 | On-Prem | Adobe Commerce Cloud | Adobe Commerce as a Cloud Service | Aobe Commerce Optimizer |
 | --- | --- | --- | --- |
 | Yes | Yes | No | No |
