@@ -28,3 +28,8 @@ breadcrumb-title: Adobe Commerce Webinars and Events
     + [Success Accelerators adoption and enablement](./commerce-conversations/success-accelerators-adoption-and-enablement.md)
     + [Success Accelerators organization readiness](./commerce-conversations/success-accelerators-organizational-readiness.md)
     + [Shared Responsibility](./commerce-conversations/shared-responsibility.md)
++ Global Reference Architecture{#global-reference-architecture}
+    + [Global Reference Architecture](../global-reference-architecture/what-is-global-reference-architecture.md)
+    + [Leverage Global Reference Architecture](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+    + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+    + [Implement Global Reference Architecture](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
