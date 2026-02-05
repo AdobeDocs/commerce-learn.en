@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 172
 last-substantial-update: 2025-10-24
 jira: KT-19485
+exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 ---
-
 # Cloud Automation Patching Service
 
 Adobe's Cloud Automation Patching Service (CAPS), a feature within the Adobe Commerce Site Wide Analysis Tool (SWAT) that streamlines the process of discovering and applying security patches. Users access CAPS via the Commerce Admin under the SWAT dashboard, select their project and environment, and view available patches. 

@@ -10,8 +10,8 @@ doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13
 jira: KT-19378
+exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
 ---
-
 # Business growth by simplifying new product adoption
 
 Adobe Commerce is making it easier for businesses to grow by helping them move to Adobe Commerce as a Cloud Service and Adobe Commerce Optimizer in a phased approach. With smart tools powered by AI, companies can achieve a faster time to value, with less manual effort, and a better customer experience. These tools help with planning, updating storefronts, moving custom features, and keeping data safe. Businesses can choose what to upgrade first and go at their own pace. Adobe also offers new apps and services to make the process faster and simpler. In doing so, teams can save time and focus on what matters most.

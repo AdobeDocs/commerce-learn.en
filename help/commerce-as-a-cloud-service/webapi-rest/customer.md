@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 225
 last-substantial-update: 2026-01-27
 jira: KT-20160
+exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 ---
-
 # Customer REST API
 
 Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This tutorial is perfect for architects and developers looking to integrate and optimize API solutions effectively.

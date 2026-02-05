@@ -10,8 +10,8 @@ doc-type: Technical Video
 duration: 598
 last-substantial-update: 2025-10-21
 jira: KT-19016
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
 ---
-
 # Learn about the Salesforce Commerce cloud starter kit architecture
 
 Learn about setting up and deploying the App Builder Starter Kit for Salesforce Commerce Cloud using Adobe Commerce Optimizer. Learn about creating a new project in the Adobe Developer Console, adding necessary APIs, and downloading the workspace JSON file. Learn about the process for cloning the starter kit repo, sets up configuration files, and installs the Adobe IO CLI to link the local codebase with the dev console project. Understand the process of filling in environment variables and syncing site details, and verfiying the app is built and deployed successfully. learn some of the onboarding steps such as register actions, and the deployment is confirmed in the dev console workspace.

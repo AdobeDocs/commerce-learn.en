@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 165
 last-substantial-update: 2025-12-18
 jira: KT-19965
+exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
 ---
-
 # Observability overview
 
 Learn why centralized observability is essential for modern Adobe Commerce architectures. As extensibility evolves into a composable model with independent apps, webhooks, and UI extensions, merchants face the challenge of tracking complex execution flows. Learn how a unified observability layer correlates signals across services, enabling proactive optimization and ensuring fast, reliable checkout experiences.

@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 344
 last-substantial-update: 2026-01-12
 jira: KT-20086
+exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
 ---
-
 # Localize and Schedule Content
 
 Discover how to use Adobe ACCS and effectively localize and schedule your content. Doing so ensures that you reach your audience timely and globally, enhancing communication and engagement. Watch the video to gain insights and practical tips.

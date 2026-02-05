@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 305
 last-substantial-update: 2026-01-12
 jira: KT-20088
+exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
 ---
-
 # Simplify Catalog Management & Merchandising
 
 Discover how Adobe Commerce as a Cloud Service streamlines catalog management and merchandising. Learn how to update product data, pricing, and visibility rules in near real time, and use intelligent recommendations to personalize shopping experiences.

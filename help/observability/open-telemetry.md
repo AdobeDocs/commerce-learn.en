@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 137
 last-substantial-update: 2025-12-18
 jira: KT-19975
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
 ---
-
 # Open telemetry
 
 Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. This video explains why adopting an open, industry-wide standard enables seamless correlation of signal. Learn how Open Telemetry supports existing stacks, and delivers end-to-end operational insights for a unified monitoring strategy.

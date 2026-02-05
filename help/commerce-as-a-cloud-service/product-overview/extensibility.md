@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 296
 last-substantial-update: 2026-01-12
 jira: KT-20093
+exl-id: c30da63a-f161-4195-a3b4-bc16930bc147
 ---
-
 # Extend Adobe Commerce with App Builder & API Mesh
 
 Discover how Adobe Commerce as a Cloud Service supports extensibility through App Builder and API Mesh. Learn how to integrate backend systems, automate workflows, and build custom apps without disrupting the storefront experience.

@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 170
 last-substantial-update: 2025-12-18
 jira: KT-19992
+exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
 ---
-
 # Setup and Configuration
 
 Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. This video explains why correlation and standardization matter, introduces the Commerce Observability Module and IO Live Telemetry Library. Learn how these tools enable unified monitoring, logging, and tracing for a seamless operational flow.

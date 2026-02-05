@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 463
 last-substantial-update: 2025-12-12
 jira: KT-20000
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
 ---
-
 # Observability demo
 
 Watch a live demo of observability in Adobe Commerce. This demo shows how webhooks and event workflows connect different services to make order tracking and problem-solving easier. See how orders are placed, errors are fixed, and processes are checked.  Learn about synchronous and asynchronous flows. It also explains how traces and logs appear in Grafana and New Relic for troubleshooting. Learn why correlation is important for finding slow spots and keeping systems working smoothly.

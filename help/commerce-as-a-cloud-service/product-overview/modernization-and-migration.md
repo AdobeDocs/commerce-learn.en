@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 339
 last-substantial-update: 2026-01-12
 jira: KT-20094
+exl-id: 45687736-d1be-4d9a-9355-024cfafbf08c
 ---
-
 # Migrate to Adobe Commerce as a Cloud Service
 
 Discover how Adobe Commerce provides flexible migration strategies for businesses moving to Adobe Commerce as a Cloud Service. Learn about full migrations, incremental adoption, and companion solutions like Adobe Commerce Optimizer—all designed to reduce disruption and accelerate time-to-value.

@@ -9,8 +9,8 @@ doc-type: Technical Video
 duration: 323
 last-substantial-update: 2026-01-12
 jira: KT-20090
+exl-id: 4e8e3760-d42c-46cd-adda-b298e6f487b9
 ---
-
 # Boost Storefront Performance with Edge Delivery
 
 Discover how Adobe Commerce storefronts powered by Edge Delivery Services achieve exceptional speed and resilience. Learn how intelligent page rendering, persistent caching, and CDN architecture improve Lighthouse scores, Core Web Vitals, and SEO out of the box.
