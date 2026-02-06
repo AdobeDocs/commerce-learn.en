@@ -11,7 +11,7 @@ last-substantial-update: 2026-01-12
 jira: KT-20092
 exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
 ---
-# Build Flexible Commerce Experiences with Composability
+# Build flexible commerce experiences with composability
 
 Discover how Adobe Commerce as a Cloud Service empowers businesses with a composable architecture for agility and scalability. Learn how modular services, API-first integrations, and admin UI extensibility enable tailored commerce experiences without compromising performance.
 
