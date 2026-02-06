@@ -11,7 +11,7 @@ last-substantial-update: 2026-01-12
 jira: KT-20084
 exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
 ---
-# Setup Experience
+# Setup experience
 
 Learn how Adobe Commerce as a Cloud Service empowers teams to launch storefronts quickly with self-service setup and secure endpoints. Learn how its edge-based architecture delivers lightning-fast performance and scalability.
 
