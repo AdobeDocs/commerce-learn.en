@@ -8,8 +8,8 @@ feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
+exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
 ---
-
 # Adobe Commerce Data Connection full demonstration
 
 Learn about Adobe's commerce options. Understand what some of the main features include, how it’s hosted, and who each model is best suited for. You learn the differences between running everything themselves (on-prem), using Adobe-managed cloud infrastructure (PaaS), adopting a fully managed SaaS approach, or modernizing only the storefront layer with Commerce Optimizer while keeping an existing backend. 
