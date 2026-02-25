@@ -38,6 +38,7 @@ auto-video-transcripts: true
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
+    + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
     + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
         + [Overview](../commerce-as-a-cloud-service/overview.md)
         + [Architecture](../commerce-as-a-cloud-service/architecture.md)
