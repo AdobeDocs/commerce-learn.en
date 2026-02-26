@@ -16,7 +16,7 @@ Learn about Adobe's commerce options. Understand what some of the main features 
 
 ## Who is this video for?
 
-* VP/Director of commerce
+* VP/Director of Commerce
 * Technical leadership
 * DevOps/Platform engineers
 * Marketing Technology Manager
