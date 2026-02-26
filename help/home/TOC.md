@@ -38,7 +38,6 @@ auto-video-transcripts: true
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
-    + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
     + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
         + [Overview](../commerce-as-a-cloud-service/overview.md)
         + [Architecture](../commerce-as-a-cloud-service/architecture.md)
@@ -68,6 +67,7 @@ auto-video-transcripts: true
             + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
             
     + Commerce Capabilities {#capabilities} 
+        + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
@@ -87,7 +87,7 @@ auto-video-transcripts: true
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
-        
+
 + Extensibility {#extensibility}
     + Back-end Development {#backend-development}
         + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
