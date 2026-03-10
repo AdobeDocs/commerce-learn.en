@@ -142,6 +142,8 @@ auto-video-transcripts: true
         + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+        + Create custom shipping rates with AI Tools {#custom-shipping-rates-ai-tools}
+            + [Provide Feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
         + Build your first App builder App {#first-app}
             + [Overview](../app-builder/first-app/overview.md)
             + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
