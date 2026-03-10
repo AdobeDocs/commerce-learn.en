@@ -9,9 +9,8 @@ doc-type: Tutorial
 duration: 76
 last-substantial-update: 2026-03-10
 jira: KT-20518
-
+exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
 ---
-
 # Create custom shipping rates with AI tools
 
 Discover how to create custom shipping rates using AI tools. This tutorial guides you through the feedback process, helping streamline workflows and enhance efficiency. Learn how to input feedback and compress conversations effectively, ensuring a smooth experience with the MCP tool.
