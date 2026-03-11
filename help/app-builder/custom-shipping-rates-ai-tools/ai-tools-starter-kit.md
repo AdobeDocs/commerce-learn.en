@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11
 jira: KT-20516
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
 ---
-
 # Create custom shipping rates with AI tools
 
 Discover how to utilize Adobe's AI-powered tools to streamline the development workflow and extend checkout functionalities. This tutorial covers the integration of custom shipping rates from external systems, using a mock API secured with an API key. Learn how to configure service URLs, manage security, and enable advanced checkout features. This comprehensive guide demonstrates how AI accelerates software development, from requirements gathering to implementation planning. Watch the embedded video for a detailed walkthrough.
