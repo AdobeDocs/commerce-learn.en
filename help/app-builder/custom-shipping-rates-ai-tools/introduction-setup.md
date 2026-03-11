@@ -6,7 +6,7 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 0
+duration: 178
 last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
@@ -27,6 +27,6 @@ Discover how to set up AI tools to create custom shipping rates. This tutorial c
 * Walks through setting up the development environment, including checking out the repository, reviewing the starter‑kit structure, and installing the required tools.
 * Prepares the system for AI‑assisted development by logging in, configuring access, and ensuring all dependencies and prerequisites are in place.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
