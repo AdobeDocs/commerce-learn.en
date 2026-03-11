@@ -6,5 +6,6 @@ description: Links to related pages in ai tools shipping rates
 
 ## Related tutorials
 
-* [introduction and setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [Introduction and setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [AI Tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
 * [Feedback](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
