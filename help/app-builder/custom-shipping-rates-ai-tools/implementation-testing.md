@@ -10,8 +10,8 @@ duration: 585
 last-substantial-update: 2026-03-11
 jira: KT-20517
 thumbnail: KT-20517.jpeg
+exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
 ---
-
 # Custom shipping rates with AI tools
 
 Learn how to implement and test AI-driven custom shipping rates. This tutorial guides you through environment setup, code cleanup, and extension deployment. You will also explore testing processes, including carrier registration, configuration updates, and storefront verification to ensure accurate shipping rate integration.
