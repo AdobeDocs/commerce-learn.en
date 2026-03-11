@@ -27,3 +27,5 @@ Discover how to create custom shipping rates using AI tools. This tutorial guide
 * Understand how its possible to provide feedback to Adobe from the IDE
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+
+{{$include /help/_includes/ai-shipping-rates-related-links.md}}
