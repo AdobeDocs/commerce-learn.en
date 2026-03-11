@@ -9,8 +9,8 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2026-03-11
 jira: KT-20428
+exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
 ---
-
 # Create custom shipping rates with AI tools
 
 Discover how to set up AI tools to create custom shipping rates. This tutorial covers cloning the checkout starter kit, reviewing its structure, and preparing the local environment. This foundation ensures a seamless integration of external shipping rates into your workflow. Watch the video below to get started.
