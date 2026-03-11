@@ -143,6 +143,7 @@ auto-video-transcripts: true
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
         + Create custom shipping rates with AI Tools {#custom-shipping-rates-ai-tools}
+            + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
             + [Provide Feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
         + Build your first App builder App {#first-app}
             + [Overview](../app-builder/first-app/overview.md)
