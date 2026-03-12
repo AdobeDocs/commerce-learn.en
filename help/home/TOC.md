@@ -144,9 +144,9 @@ auto-video-transcripts: true
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
         + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
             + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-            + [AI Tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+            + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
             + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-            + [Provide Feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+            + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
         + Build your first App builder App {#first-app}
             + [Overview](../app-builder/first-app/overview.md)
             + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
