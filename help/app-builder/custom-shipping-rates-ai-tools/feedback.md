@@ -1,5 +1,5 @@
 ---
-title: Custom Shipping Rates with AI Tools
+title: Custom Shipping Rates using AI Tools | Provide Feedback
 description: Discover how to create custom shipping rates using AI tools. Learn about the feedback process and streamline your workflow with this beginner-friendly tutorial.
 feature: Tools and External Services
 topic: Artificial Intelligence
@@ -11,7 +11,7 @@ last-substantial-update: 2026-03-10
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
 ---
-# Create custom shipping rates with AI tools
+# Create custom shipping rates with AI tools - provide feedback
 
 Discover how to create custom shipping rates using AI tools. This tutorial guides you through the feedback process, helping streamline workflows and enhance efficiency. Learn how to input feedback and compress conversations effectively, ensuring a smooth experience with the MCP tool.
 
