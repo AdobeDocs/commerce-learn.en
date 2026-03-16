@@ -1,5 +1,5 @@
 ---
-title: Custom Shipping Rates with AI Tools
+title: Custom Shipping Rates using AI Tools | Implementation and Testing
 description: Learn to implement and test AI-driven custom shipping rates, configure environments, and verify integrations for enhanced checkout experiences.
 feature: Deploy
 topic: Development
@@ -11,7 +11,7 @@ last-substantial-update: 2026-03-11
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
 ---
-# Custom shipping rates with AI tools
+# Custom shipping rates with AI tools - Implementation and testing
 
 Learn how to implement and test AI-driven custom shipping rates. This tutorial guides you through environment setup, code cleanup, and extension deployment. You will also explore testing processes, including carrier registration, configuration updates, and storefront verification to ensure accurate shipping rate integration.
 
