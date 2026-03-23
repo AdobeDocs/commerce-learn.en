@@ -6,7 +6,7 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 191
 last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
