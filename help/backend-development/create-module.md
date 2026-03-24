@@ -1,6 +1,6 @@
 ---
 title: Create a module
-description: Learn how to create and register a module in Adobe Commerce, run setup, and add plugins that log to the PSR logger in the admin area, storefront, and REST API contexts.
+description: Create and register a module in Adobe Commerce, run setup, and add plugins that log to the PSR logger in the admin area, storefront, and REST API contexts.
 jira: KT-5614
 doc-type: Technical Video
 duration: 1113
@@ -14,7 +14,7 @@ exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 ---
 # Create a module
 
-A module is a structural element of [!DNL Commerce] – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.
+A module is a structural element of [!DNL Commerce]—modules form the backbone of the system. You typically start a customization by building a module.
 
 ## Who is this video for?
 
@@ -59,22 +59,22 @@ ComponentRegistrar::register(
 
 ### Add a plugin and provide some functionality
 
-The next step is to add some functionality to our basic module. A Plugin is an essential tool that all Adobe Commerce developers use. This video and tutorial help you create a plugin.
+Next, you add functionality to your basic module. You use plugins as essential tools in Adobe Commerce development. This video and tutorial show you how to create a plugin.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
 ### Things to remember for plugins
 
-* All plugins are declared in `di.xml`.
-* The plugin requires a unique name.
-* The `disabled` and `sortOrder` attributes are optional.
-* Scope of the plugin is set by the folder that it is inside.
-* Plugins can be executed before, after, or both (around) the method is called.
-* Avoid using `around` plugins. They are tempting to use but often are the wrong choice and will lead to performance issues.
+* You declare all plugins in `di.xml`.
+* You give each plugin a unique name.
+* You can optionally set the `disabled` and `sortOrder` attributes.
+* You set the plugin scope by choosing which folder contains the `di.xml` file.
+* You run plugins before, after, or around the target method call.
+* Avoid `around` plugins. They tempt you, but they often represent the wrong choice and cause performance issues.
 
 ### Plugin code samples
 
-The following XML and PHP classes are used in the tutorial to add a plugin to your first module.
+The tutorial uses the following XML and PHP classes to add a plugin to your first module.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
