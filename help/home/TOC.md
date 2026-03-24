@@ -120,7 +120,7 @@ auto-video-transcripts: true
                 + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
                 + [Customize checkout](../edge-delivery-services/customize-checkout.md)
                 + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
-                + [Shopper-experience](../edge-delivery-services/shopper-experience.md)
+                + [Shopper experience](../edge-delivery-services/shopper-experience.md)
         + Headless Architecture {#headless-architecture}    
             + Introduction to headless {#introduction-to-headless}
                 + [Headless Architecture - Session 1](../headless/session-1.md) 
