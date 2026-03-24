@@ -97,7 +97,7 @@ auto-video-transcripts: true
         + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
         + [MySQL query cache](../backend-development/mysql-query-cache.md)
         + [PT Query Digest](../backend-development/pt-query-digest.md)
-        + [Connecting to and downloading the Adobe Commerce Database](../backend-development/remote-db-connection-execute-queries.md)
+        + [Connect and run queries against the Adobe Commerce database](../backend-development/remote-db-connection-execute-queries.md)
         + Commerce Upgrades {#upgrade}
             + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
             + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
