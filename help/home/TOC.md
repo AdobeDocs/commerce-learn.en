@@ -101,7 +101,7 @@ auto-video-transcripts: true
         + Commerce Upgrades {#upgrade}
             + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
             + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
-            + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
+            + [Use the Upgrade Compatibility Tool in PhpStorm](../upgrade/uct-phpstorm.md)
     + Front-end Luma Development {#frontend-development}
         + PaaS/SaaS Page Builder for Developers {#page-builder}
             + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
