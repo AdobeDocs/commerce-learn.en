@@ -13,7 +13,7 @@ exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 ---
 # Pre-Launch checklist
 
-The following is a synopsis of the Adobe Commerce [Site launch documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
+This page summarizes the Adobe Commerce [Site launch documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
 
 This checklist aims to assist in planning and executing a successful launch of the Adobe Commerce Cloud site. Collaborate with your system integrator for Adobe Commerce Cloud to ensure that all configuration tasks and checklist items are completed and verified. If you encounter difficulties with any checklist items or have questions, please reach out to the designated Customer Technical Advisor or Customer Success Engineer. If your account does not have an assigned CTA/CSE, you may create a support ticket for assistance.
 
@@ -33,10 +33,10 @@ If you have a CTA/CSE assigned to the account, contact them and the Account Mana
     >Ensure a comprehensive _"go live readiness plan"_ is fully prepared with your partner or system integrator, incorporating all necessary action items. Remember, while the pre-launch checklist emphasizes Adobe's best practices, it _**does not**_ replace the need for your own go-live readiness plan.
 
 2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Review the Support Insights (SWAT) Recommendations and Information ([User Guide](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
-3. End user/merchant conducted UAT (User Acceptance Testing), including backend operations.
-4. The system integrator team has performed end-to-end UAT on staging and production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}.
+3. Confirm end users and merchants have completed UAT (User Acceptance Testing), including backend operations.
+4. Confirm the system integrator team has performed end-to-end UAT on staging and production. Refer to the [Experience League Documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Confirm code deployment and testing in staging and production environments ([Read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}).
-6. The production cluster has been up-sized permanently to the contracted daily baseline. Speak to the assigned CTA/CSE for more details, or raise a support ticket.
+6. Confirm the production cluster has been up-sized permanently to the contracted daily baseline. Speak to the assigned CTA/CSE for more details, or raise a support ticket.
 
 ## 2. Current Configurations
 
@@ -54,18 +54,18 @@ If you have a CTA/CSE assigned to the account, contact them and the Account Mana
 
 3. Ensure that Fastly Image Optimization is enabled ([See Fastly Image Optimization](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Verify that the correct shield location is configured ([Configure cache, backends and origin shielding](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Web Application Firewall (**WAF**) is working. (See [Troubleshooting blocked requests](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, if any, and limitations)
+5. Confirm the Web Application Firewall (**WAF**) is working. (See [Troubleshooting blocked requests](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, if any, and limitations.)
 6. Update the Fastly ["Ignored URL Parameters"](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} list in the admin panel to enhance cache performance.
 
     >[!NOTE] 
-    > In the Fastly configuration under _Admin > Stores > Configurations > System > Full Page Cache > Fastly Configuration > Advanced Configuration > Ignored URL Parameters (Global)_, you can find a comma-separated list of parameters that Fastly should disregard when searching for cached pages. Please make sure to re-upload the VCL after modifying this list
+    > In the Fastly configuration under _Admin > Stores > Configurations > System > Full Page Cache > Fastly Configuration > Advanced Configuration > Ignored URL Parameters (Global)_, you can find a comma-separated list of parameters that Fastly should disregard when searching for cached pages. Re-upload the VCL after you modify this list.
 
 ## 4. DNS and SSL
 
-1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Confirm all required domain names are requested. _(Submit a support ticket in-advance for any added or changed domains)_
+1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Confirm all required domain names are requested. _(Submit a support ticket in advance for any added or changed domains.)_
 2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} SSL (TLS) certificate has been applied to the domain(s). Read [this article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"} for more information.
 3. Update DNS [TTL (Time to Live)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist#to-update-dns-configuration-for-site-launch){target="_blank"} value to the minimum possible, for the go live.
-4. Enable Sendgrid SPF and DKIM
+4. Enable SendGrid SPF and DKIM.
 
    >[!NOTE] 
    > Add the SendGrid CNAME records for each domain to the DNS configuration. Read [SendGrid email service](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/sendgrid){target="_blank"} to see how to change the sender domains and more.
@@ -77,12 +77,12 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
 * [MySQL Configurations best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Best practices for [database configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* Deep analysis to [Galera cluster replications and flow-control.](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}
+* [Galera cluster replication and flow control](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"} (deeper analysis)
 
-1. [MYSQL Slave connection](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} is recommended for improved performance during high database loads.
+1. [MySQL slave connection](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} is recommended for improved performance during high database loads.
 2. Ensure that the row format for all database tables is set to [DYNAMIC instead of COMPACT](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (This is especially true for on-prem to cloud migrations).
 3. Change the database storage engine from [MyISAM to InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} for all the tables.
-4. Review and optimize database tables exceeding 1 GB in size well-in-advance.
+4. Review and optimize database tables exceeding 1 GB in size well in advance.
 5. The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
 
 ## 6. Deployments
@@ -94,14 +94,14 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
 ## 7. Testing and Troubleshooting
 
 1. Test the outgoing transactional emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/sendgrid){target="_blank"}.
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Any blockers with Adobe?
+2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Confirm there are no Adobe-related blockers to launch.
 3. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Perform load and stress testing on the Production instance before going live and share results with the assigned CTA/CSE.
 
     >[!NOTE]
     > A [load and stress test serves the purpose](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
     
     >[!IMPORTANT]
-    > **_WARNING:_** When preparing a load test please_ **_do not_** send out live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch. 
+    > **_WARNING:_** When preparing a load test, **do not** send live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch. 
     > 
     > * How to disable email communication:
     >   Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
@@ -111,29 +111,33 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
 ## 8. Other Configurations
 
 1. Switch indexing to _"update on schedule_", except the **_customer_grid_** which remains on "SAVE" (see [Indexing modes](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
-2. Are you using any third-party search engines or extensions?
+2. Document any third-party search engines or extensions in use.
 3. Confirm that [SEO (Search Engine Optimization) configurations are properly set up](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"} to enable indexers/crawlers to scan the website, if relevant.
 4. Add redirects and routes (see [Configure routes](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/routes/routes-yaml){target="_blank"})
 
     >[!NOTE]
-    >Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
-   
-        "http://{all}/":
-            type: upstream
-            upstream: "mymagento:http"
-        
-        "http://{all}/":
-            type: upstream
-            upstream: "mymagento:http"
+    > Add redirects and routes to the routes.yaml file in the Integration environment and verify the configuration in this environment before deploying to Staging and Production.
 
-5. Ensure XDebug is disabled if enabled during development (see [Configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
-6. Verify that op-cache and other configurations have been accurately updated in the php.ini file ([refer to this sample](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
+    Example `routes.yaml` fragment:
+
+    ```yaml
+            "http://{all}/":
+                type: upstream
+                upstream: "mymagento:http"
+
+            "http://{all}/":
+                type: upstream
+                upstream: "mymagento:http"
+    ```
+
+5. Ensure Xdebug is disabled if it was enabled during development (see [Configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
+6. Verify that OPcache and other configurations have been accurately updated in the php.ini file ([refer to this sample](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. Subscribe to the [**Adobe Commerce status page**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
 8. Subscribe to New Relic "[Managed Alerts for Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).  
 
 ## 9. Security
 
-1. Setup the Adobe Commerce Security Scan
+1. Set up the Adobe Commerce Security Scan.
 
     >[!NOTE]
     > [Adobe Commerce Security Scan is a useful tool](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-scan){target="_blank"} that helps discover outdated software versions, incorrect configuration, and potential malware on the site. Sign up, schedule it to run often, and make sure that emails are sent to the right technical security contact.
@@ -144,7 +148,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
 3. Change the admin password (see [Configuring Admin Security](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
 4. Change the admin URL (see [Using a custom Admin URL](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url){target="_blank"}).
 5. Remove any users no longer on the project (see [Create and manage users](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access){target="_blank"}).
-6. Passwords for administrators are configured (see [Admin Password Requirements](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
+6. Confirm administrator passwords meet requirements (see [Admin Password Requirements](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
 7. Configure two-factor authentication (see [Two-Factor Authentication](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/){target="_blank"}).
 
 ## 10. Go Live
@@ -172,7 +176,7 @@ If you encounter any problems preventing you from launching during the cutover, 
 
 ## 11. Post Go-Live
 
-Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE (Customer Success Engineer) and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live. The CTA/CSE performs the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
+Once the site is live, email the assigned CTA (Customer Technical Advisor), CSE (Customer Success Engineer), and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live. The CTA/CSE performs the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
 
 * Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
 * Activate New Relic Synthetics for uptime monitoring.
