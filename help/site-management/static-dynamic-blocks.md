@@ -20,14 +20,14 @@ A block is a modular unit of content that can be positioned most anywhere on the
 
 ## Who is this video for?
 
-- Website managers
-- Content designers
+* Website managers
+* Content designers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
 
 ## Additional resources
 
-- [Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Dynamic Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+* [Dynamic Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

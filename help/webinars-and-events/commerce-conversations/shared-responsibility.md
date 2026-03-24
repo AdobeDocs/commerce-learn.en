@@ -27,7 +27,7 @@ Learn how Adobe and merchants share the responsibility for keeping Adobe Commerc
 * Incident Response: Merchants need to respond promptly to security alerts, which can come through various channels like emails and admin notifications.
 * Best Practices: Adobe recommends best practices for merchants, including enabling two-factor authentication, setting up secure admin access, and following the principle of least privilege.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Additional Documentation
 

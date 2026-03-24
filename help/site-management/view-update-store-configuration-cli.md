@@ -17,11 +17,11 @@ A demonstration for how to view, set, and find config values with the Commerce C
 
 ## Who is this video for?
 
-- Adobe Commerce developers
+* Adobe Commerce developers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Some commands used in the tutorial
 
@@ -56,5 +56,5 @@ To view a page in terminal and show line numbers `cat -n vendor/magento/module-e
 
 ## Additional resources
 
-- [Command Line Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Configure Admin security](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+* [Command Line Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configure Admin security](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

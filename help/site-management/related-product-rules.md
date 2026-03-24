@@ -20,12 +20,12 @@ Related product rules give you the ability to target the selection of products t
 
 ## Who is this video for?
 
-- eCommerce marketers
-- Website managers
+* eCommerce marketers
+* Website managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## Additional resources
 

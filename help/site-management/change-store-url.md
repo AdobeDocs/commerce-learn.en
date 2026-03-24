@@ -19,8 +19,8 @@ Each website in an Adobe Commerce or Magento Open Source installation has a base
 
 ## Who is this video for?
 
-- Store administrators
-- Web site managers
+* Store administrators
+* Web site managers
 
 ## Video content
 
@@ -28,9 +28,9 @@ Each website in an Adobe Commerce or Magento Open Source installation has a base
 >
 >The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Additional resources
 
-- [Store URLs - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Use a custom Admin URL - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+* [Store URLs - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+* [Use a custom Admin URL - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

@@ -20,8 +20,8 @@ To get started using Payment Services for Adobe Commerce and Magento Open Source
 
 ## Who is this video for?
 
-- Operational engineers
-- eCommerce managers and points of contact
+* Operational engineers
+* eCommerce managers and points of contact
 
 ## Video content
 
@@ -29,6 +29,6 @@ To get started using Payment Services for Adobe Commerce and Magento Open Source
 
 ## Additional resources
 
-- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+* [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+* [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

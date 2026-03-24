@@ -17,14 +17,14 @@ Explore Adobe Commerce's Edge delivery storefront, focusing on content managemen
 
 ## Who is this video for
 
-- Marketers, content managers, and e-commerce professionals.
+* Marketers, content managers, and e-commerce professionals.
 _ New and existing customers exploring Adobe Commerce's Edge delivery storefront.
-- Adobe Commerce projects looking for effective content management and optimization, particularly for promoting new products. 
+* Adobe Commerce projects looking for effective content management and optimization, particularly for promoting new products. 
 
 ## Video Content
  
-- Learn about the latest Content Creation and Management options for Edge Delivery Services.
-- Gain an understanding for optimization through A/B Testing.
-- Learn a few advanced tools and AI integration to refine content, generate variations, and enhance the overall promotional strategy.
+* Learn about the latest Content Creation and Management options for Edge Delivery Services.
+* Gain an understanding for optimization through A/B Testing.
+* Learn a few advanced tools and AI integration to refine content, generate variations, and enhance the overall promotional strategy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

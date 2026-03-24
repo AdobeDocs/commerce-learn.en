@@ -22,8 +22,8 @@ Watch the _Configure the Adobe Commerce Services Connector_ video to help you se
 
 ## Who is this video for?
 
-- Operational engineers
-- eCommerce managers and points of contact
+* Operational engineers
+* eCommerce managers and points of contact
 
 ## Video content
 
@@ -33,16 +33,16 @@ Watch the _Configure the Adobe Commerce Services Connector_ video to help you se
 
 The Commerce Services Connector is a configuration developed by Adobe that unlocks various SaaS functionalities. These are some of the most frequently asked questions regarding configuration:
 
-- Fix invalid or public keys.
-- Rotate your store's API key.
-- Navigate the SaaS Identifier step of setting up the Commerce Service Connector.
-- Troubleshoot the sandbox button when onboarding Payment Services.
-- Commerce Service Connector is not loading in the UI.
+* Fix invalid or public keys.
+* Rotate your store's API key.
+* Navigate the SaaS Identifier step of setting up the Commerce Service Connector.
+* Troubleshoot the sandbox button when onboarding Payment Services.
+* Commerce Service Connector is not loading in the UI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Additional resources
 
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-- [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

@@ -30,7 +30,7 @@ Discover how Adobe Commerce is transforming digital storefronts with cutting-edg
 * Developer-Ready Components & SDK
 * Integrated Visual Editing Tools
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
 ## Additional Videos in this series
 

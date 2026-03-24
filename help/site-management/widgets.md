@@ -25,7 +25,7 @@ Widgets are reusable components that you can create and modify to automatically 
 * Understand what widgets are and where they appear.
 * Create and manage widgets in the Admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
 
 ## Additional resources
 

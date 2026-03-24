@@ -19,14 +19,14 @@ Customers sometimes need assistance to complete a purchase. Some customers like 
 
 ## Who is this video for?
 
-- Sales managers
-- Customer Service Representatives 
+* Sales managers
+* Customer Service Representatives 
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Additional resources
 
-- [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+* [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

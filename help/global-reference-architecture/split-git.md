@@ -28,18 +28,18 @@ The split Git GRA pattern involves two Git repositories for development and one 
 
 Advantages:
 
-- Code reuse through a shared code repository
-- Simple GRA pattern, suitable even for teams with limited Composer knowledge
-- In addition to Adobe Commerce modules, themes and language packs, it is possible to install any type of Composer package through this model, including composer-plugin, composer-metapackage, magento2-component and patches
-- Possible to release in phases, planning releases to regions in their own maintenance windows
-- Support for Git tags for administration purposes, not for deployment control
-- Guarantee that the combination of packages in a production deployment is developed and tested in this exact configuration
+* Code reuse through a shared code repository
+* Simple GRA pattern, suitable even for teams with limited Composer knowledge
+* In addition to Adobe Commerce modules, themes and language packs, it is possible to install any type of Composer package through this model, including composer-plugin, composer-metapackage, magento2-component and patches
+* Possible to release in phases, planning releases to regions in their own maintenance windows
+* Support for Git tags for administration purposes, not for deployment control
+* Guarantee that the combination of packages in a production deployment is developed and tested in this exact configuration
 
 Disadvantages:
 
-- No added flexibility compared to other GRA patterns
-- Not possible to upgrade or downgrade individual modules per instance, always upgrade or downgrade the GRA as a whole
-- In most cases, the bulk packages pattern is a better fit as it is equally simple, but more conventional
+* No added flexibility compared to other GRA patterns
+* Not possible to upgrade or downgrade individual modules per instance, always upgrade or downgrade the GRA as a whole
+* In most cases, the bulk packages pattern is a better fit as it is equally simple, but more conventional
 
 ## Set up Adobe Commerce with the Split Git GRA pattern
 
@@ -148,11 +148,11 @@ Adobe Commerce is a Composer application. The preferred way to install is always
 
 Summarizing:
 
-- **Adobe Commerce**: stored in a Composer repository.
-- **Third-party modules**: stored in a Composer repository.
-- **Third-party modules fallback option**: stored in the gra-split-3rdparty Git repository.
-- **GRA foundation code**: stored in the gra-split-gra Git repository.
-- **Local code**: stored in the gra-split-brand-x Git repository.
+* **Adobe Commerce**: stored in a Composer repository.
+* **Third-party modules**: stored in a Composer repository.
+* **Third-party modules fallback option**: stored in the gra-split-3rdparty Git repository.
+* **GRA foundation code**: stored in the gra-split-gra Git repository.
+* **Local code**: stored in the gra-split-brand-x Git repository.
 
 ### Connect package storage to Composer
 
@@ -372,9 +372,9 @@ Never merge third-party and GRA commits into the brand repository inside ticket 
 
 The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-- An example production store: <https://github.com/AntonEvers/gra-split-brand-x>
-- The third-party code repository: <https://github.com/AntonEvers/gra-split-3rdparty>
-- The GRA code repository: <https://github.com/AntonEvers/gra-split-gra>
-- An example local module: <https://github.com/AntonEvers/module-example-local>
-- An example GRA module: <https://github.com/AntonEvers/module-example-gra>
-- An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
+* An example production store: <https://github.com/AntonEvers/gra-split-brand-x>
+* The third-party code repository: <https://github.com/AntonEvers/gra-split-3rdparty>
+* The GRA code repository: <https://github.com/AntonEvers/gra-split-gra>
+* An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example GRA module: <https://github.com/AntonEvers/module-example-gra>
+* An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>

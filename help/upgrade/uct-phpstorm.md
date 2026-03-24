@@ -32,7 +32,7 @@ In this video:
 * Install and run UCT from PhpStorm.
 * Review HTML reports and prioritize fixes.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## Additional resources
 

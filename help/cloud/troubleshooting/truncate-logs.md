@@ -20,14 +20,14 @@ If you think you might need these log files, you can `rsync` them or use other m
 
 ## Who is this video for
 
-- Developers and IT Professionals
-- System Administrators
+* Developers and IT Professionals
+* System Administrators
 
 ## Video Content
 
-- Diagnose and Resolve a failed deployment
-- Where some common large log files are found
-- Quick method to truncate a log file
+* Diagnose and Resolve a failed deployment
+* Where some common large log files are found
+* Quick method to truncate a log file
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
@@ -85,4 +85,4 @@ After you ssh into the right project and environment, change into the `var/log` 
 
 ## Related documentation
 
-- [Health notifications](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Health notifications](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

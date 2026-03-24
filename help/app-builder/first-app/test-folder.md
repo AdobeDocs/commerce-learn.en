@@ -30,7 +30,7 @@ This is a simple example and can be expanded to create comprehensive tests for y
 * A brief explanation of the unit test file and its components
 * Introduction to end-to-end testing
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Code Samples
 

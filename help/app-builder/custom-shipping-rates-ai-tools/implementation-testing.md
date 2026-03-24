@@ -27,6 +27,6 @@ Agent finalizes implementation, cleans unused code, and prepares the project for
 Credentials and environment are configured to deploy and register the new shipping extension.
 Storefront testing confirms the external shipping rates appear and function as expected.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

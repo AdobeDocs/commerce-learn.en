@@ -26,4 +26,4 @@ Discover how Adobe Commerce as a Cloud Service streamlines catalog management an
 * Learn how to manage product data, attributes, and pricing from a centralized admin panel.
 * Discover how merchandising services personalize storefronts using dynamic recommendations and visibility rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478794/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478794?learn=on)

@@ -21,9 +21,9 @@ Learn how to use the line item discount and see the values using the Adobe Comme
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- Developers
+* Website managers
+* eCommerce merchandisers
+* Developers
 
 ## Video content
 

@@ -19,8 +19,8 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 
 ## Who is this video for?
 
-- Store administrators
-- Web site managers
+* Store administrators
+* Web site managers
 
 ## Video content
 
@@ -28,9 +28,9 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 >
 >The content in the video reflects the 2.4.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## Additional resources
 
-- [Two-factor authentication (2FA) - Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
-- [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+* [Two-factor authentication (2FA) - Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+* [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

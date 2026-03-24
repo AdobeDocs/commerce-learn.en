@@ -16,11 +16,11 @@ exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 
 In this video:
 
-- Enable layered navigation
+* Enable layered navigation
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
@@ -28,7 +28,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36186?learn=on)
 
 ## Additional resources
 

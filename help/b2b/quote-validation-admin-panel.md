@@ -20,8 +20,8 @@ Learn the validation steps and areas that Adobe Commerce B2B Quote functionality
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
+* Website managers
+* eCommerce merchandisers
 
 ## Video content
 

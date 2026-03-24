@@ -17,14 +17,14 @@ Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID
 
 ## Who is this video for
 
-- Store administrators and business users responsible for managing access and permissions.
-- New store owners who need instructions on creating roles with specific permissions and assigning users to these roles
-- Adobe Commerce projects interested in ensuring secure and efficient management of administrative tasks performed in the Adobe Commerce admin.
+* Store administrators and business users responsible for managing access and permissions.
+* New store owners who need instructions on creating roles with specific permissions and assigning users to these roles
+* Adobe Commerce projects interested in ensuring secure and efficient management of administrative tasks performed in the Adobe Commerce admin.
 
 ## Video Content
  
-- Learn the latest login methods. 
-- Get a good understanding of the role creation and management
-- Understand the user assignment and access levels. ​
+* Learn the latest login methods. 
+* Get a good understanding of the role creation and management
+* Understand the user assignment and access levels. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

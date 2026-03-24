@@ -19,13 +19,13 @@ Your store is loaded with places where you can enter keyword-rich metadata to im
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- eCommerce marketers
+* Website managers
+* eCommerce merchandisers
+* eCommerce marketers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
 
 ## Additional resources
 

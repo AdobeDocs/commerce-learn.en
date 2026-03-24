@@ -19,14 +19,14 @@ Customer groups determine which discounts are available and the tax class that i
 
 ## Who is this video for?
 
-- Store administrators
-- eCommerce marketers
+* Store administrators
+* eCommerce marketers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
 
 ## Additional resources
 
-- [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

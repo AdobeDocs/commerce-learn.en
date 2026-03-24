@@ -35,7 +35,7 @@ Learn how to develop a simple JavaScript module that shows the greeting "Hello W
 * Wire the script through a layout update and template.
 * Verify the greeting on the page.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
 
 ## Useful resources
 

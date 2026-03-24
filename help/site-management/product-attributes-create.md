@@ -19,12 +19,12 @@ Adobe Commerce uses attributes to manage the information associated with product
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
+* Website managers
+* eCommerce merchandisers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## Additional resources
 

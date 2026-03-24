@@ -29,11 +29,11 @@ If you have a limited catalog and updates are infrequent, creating them manually
 
 ### When to consider this approach
 
-- Very small catalog, for example fewer than 50 products
-- Updates are infrequent 
-- You have all the product details, images, videos, and you do not want to take the time to learn how to convert the data to CSV
-- You want to include adding images and videos when creating the products
-- Your team is `not` familiar with APIs and how OAUTH works
+* Very small catalog, for example fewer than 50 products
+* Updates are infrequent 
+* You have all the product details, images, videos, and you do not want to take the time to learn how to convert the data to CSV
+* You want to include adding images and videos when creating the products
+* Your team is `not` familiar with APIs and how OAUTH works
 
 >[!TAB Admin CSV]
 
@@ -47,18 +47,18 @@ Uploading a CSV from the admin is a straight forward approach to catalog managem
 
 Cons:
 
-- Slow
-- Maximum upload file sized defined on server and may not be easily adjusted by a store owner.
-- Requires admin access and someone to perform the action, automation is limited 
-- Schedule imports are limited to 1x a day max
-- The images and videos associated must be uploaded separately
+* Slow
+* Maximum upload file sized defined on server and may not be easily adjusted by a store owner.
+* Requires admin access and someone to perform the action, automation is limited 
+* Schedule imports are limited to 1x a day max
+* The images and videos associated must be uploaded separately
 
 ### When to consider this approach
 
-- Catalog size is moderate 
-- Updates are not more than once a day
-- you have some access to server configurations in case that you must increase max file upload size
-- Your team is `not` familiar with APIs and how OAUTH works
+* Catalog size is moderate 
+* Updates are not more than once a day
+* you have some access to server configurations in case that you must increase max file upload size
+* Your team is `not` familiar with APIs and how OAUTH works
 
 >[!TAB Bulk REST API]
 
@@ -72,15 +72,15 @@ The ability to import large data sets that are not in CSV format.
 
 Cons:
 
-- The images and videos associated must be uploaded separately
-- Can be limited by bandwidth constraints on the hosting provider
+* The images and videos associated must be uploaded separately
+* Can be limited by bandwidth constraints on the hosting provider
 
 ### When to consider this approach
 
-- Catalog is any size
-- Updates are frequent, more than 1x a day is acceptable
-- Time to import is important but not critical and a short delay in processing the import data is acceptable
-- The data is not structured in CSV format and you are not capable of transforming it using automation
+* Catalog is any size
+* Updates are frequent, more than 1x a day is acceptable
+* Time to import is important but not critical and a short delay in processing the import data is acceptable
+* The data is not structured in CSV format and you are not capable of transforming it using automation
 
 >[!TAB ASYNC REST API]
 
@@ -91,17 +91,17 @@ An asynchronous web endpoint intercepts messages to a Web API and writes them to
 
 Pros:
 
-- Fast to import data
-- Store scope is supported or you can specify `all` to perform operation on all existing stores
+* Fast to import data
+* Store scope is supported or you can specify `all` to perform operation on all existing stores
 
 Cons:
 
-- GET request are not supported
+* GET request are not supported
 
 ### When to consider this approach
 
-- Imports are frequent
-- No issue with a small delay from the time they are submitted via API and then processed from the message queue.
+* Imports are frequent
+* No issue with a small delay from the time they are submitted via API and then processed from the message queue.
 
 
 >[!TAB CSV REST API]
@@ -113,27 +113,27 @@ This API option allows for extremely fast imports as compared to all other nativ
 [Import data REST CSV api](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Pros:
 
-- Fastest method to process the incoming data
-- Can be performed multiple times per day
-- Data can be compressed using gzip for large requests to avoid HTTP request size limits.
+* Fastest method to process the incoming data
+* Can be performed multiple times per day
+* Data can be compressed using gzip for large requests to avoid HTTP request size limits.
 
 Cons:
 
-- The images and videos associated must be uploaded separately
-- Data is needs to be in a CSV format
+* The images and videos associated must be uploaded separately
+* Data is needs to be in a CSV format
 
 ### When to consider this approach
 
-- Catalog is any size
-- Updates are frequent, more than 1x a day is acceptable
-- Overall time to import is important
-- The data is already in CSV format or can easily be transformed using automation
+* Catalog is any size
+* Updates are frequent, more than 1x a day is acceptable
+* Overall time to import is important
+* The data is already in CSV format or can easily be transformed using automation
 
 >[!ENDTABS]
 
 ## Additional resources
 
-- [Import data using new REST CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [Import data main documentation](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce version 2.4.6 release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
-- [Users, roles, and permissions](../site-management/users-roles-permissions.md){target="_blank"}
+* [Import data using new REST CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+* [Import data main documentation](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+* [Adobe Commerce version 2.4.6 release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+* [Users, roles, and permissions](../site-management/users-roles-permissions.md){target="_blank"}

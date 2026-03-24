@@ -29,4 +29,4 @@ Adobe Commerce Success Accelerators include services like technical readiness, w
 * Product usage, performance, and overall adoption.
 * Guidance and 24/7 support for critical campaigns and product launches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457655/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)

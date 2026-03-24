@@ -28,18 +28,18 @@ The Bulk Packages GRA pattern involves a single Git repository to host all commo
 
 Advantages:
 
-- Code reuse through a shared code repository
-- Flexibility to install different historical versions of the GRA on different instances, enabling phased releases
-- Flexibility to backport and maintain multiple major versions of the GRA
-- Support for semantic versioning of the GRA
-- Simplicity, developers do not need more skills than in regular single store development patterns
-- No special tooling, complex infrastructure or special branching strategy required
-- The combination of packages in a release is always developed and tested together
+* Code reuse through a shared code repository
+* Flexibility to install different historical versions of the GRA on different instances, enabling phased releases
+* Flexibility to backport and maintain multiple major versions of the GRA
+* Support for semantic versioning of the GRA
+* Simplicity, developers do not need more skills than in regular single store development patterns
+* No special tooling, complex infrastructure or special branching strategy required
+* The combination of packages in a release is always developed and tested together
 
 Disadvantages:
 
-- Only possible to upgrade the full GRA, including all packages contained in it.
-- No support in the GRA bulk package for composer packages other than Adobe Commerce modules, language packs and themes, so no metapackages, magento2-component packages, Composer plugins and patches
+* Only possible to upgrade the full GRA, including all packages contained in it.
+* No support in the GRA bulk package for composer packages other than Adobe Commerce modules, language packs and themes, so no metapackages, magento2-component packages, Composer plugins and patches
 
 ## Set up Adobe Commerce with the Split Git GRA pattern
 
@@ -228,11 +228,11 @@ git push origin main
 
 Only if the third-party does not offer installation through a Composer repository, you can store third-party modules in the `src/` directory of your foundation repository or a dedicated third-party bulk package.
 
-- **Adobe Commerce core**: available through repo.magento.com.
-- **Third-party modules**: available through the Marketplace or a vendor's own Composer repository.
-- **Third-party modules fallback option**: stored in `src/` of a bulk package.
-- **GRA foundation code**: stored in `src/` of the foundation bulk package.
-- **Local code**: stored in the `packages/local` directory of the deployment repository.
+* **Adobe Commerce core**: available through repo.magento.com.
+* **Third-party modules**: available through the Marketplace or a vendor's own Composer repository.
+* **Third-party modules fallback option**: stored in `src/` of a bulk package.
+* **GRA foundation code**: stored in `src/` of the foundation bulk package.
+* **Local code**: stored in the `packages/local` directory of the deployment repository.
 
 ## Develop a GRA module
 
@@ -267,6 +267,6 @@ In ticket branches, you should almost never have to update the composer.lock fil
 
 The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-- An example production store: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- The GRA code repository: <https://github.com/AntonEvers/gra-bulk-foundation>
-- An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example production store: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* The GRA code repository: <https://github.com/AntonEvers/gra-bulk-foundation>
+* An example local module: <https://github.com/AntonEvers/module-example-local>

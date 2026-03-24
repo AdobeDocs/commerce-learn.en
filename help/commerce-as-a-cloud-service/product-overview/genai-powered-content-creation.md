@@ -26,4 +26,4 @@ Discover how Adobe Commerce integrates generative AI tools like Firefly and Expr
 * Learn how to generate image and text variations using built-in GenAI tools for faster content creation.
 * Discover how AI-driven workflows enable rapid testing and optimization without design or engineering support.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478793/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478793?learn=on)

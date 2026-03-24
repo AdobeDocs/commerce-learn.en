@@ -30,17 +30,17 @@ Watch this series of videos to clarify your understanding of the unprecedented c
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## Part 1: Surge in Digital Commerce Traffic
 
->[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342498?learn=on)
 
 ## Part 2: Segmenting Traffic Surge by Industry
 
->[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342499?learn=on)
 
 ## Part 3: Impacts on Customer Buying Behavior
 
->[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342500?learn=on)

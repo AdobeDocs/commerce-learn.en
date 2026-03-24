@@ -22,23 +22,23 @@ Starting with the 2.4.3 release, [!DNL Page Builder] is available by default in 
 
 In this video, learn how to:
 
-- Edit an existing page
-- Edit a new page
-- Add products to an existing page
-- Add and format rows and columns
-- Add media and elements to your columns and rows
-- Add and format a slider
+* Edit an existing page
+* Edit a new page
+* Add products to an existing page
+* Add and format rows and columns
+* Add media and elements to your columns and rows
+* Add and format a slider
   
 ## Who is this video for?
 
-- Web site designers
-- Store merchandisers
+* Web site designers
+* Store merchandisers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
 
 ## Additional resources
 
-- [Page Builder User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
-- [Page Builder Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+* [Page Builder User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+* [Page Builder Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/)

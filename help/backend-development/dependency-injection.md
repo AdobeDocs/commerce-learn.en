@@ -18,13 +18,13 @@ Dependency injection is a design pattern that allows an object A to declare its 
 
 ## Who is this video for?
 
-- Developers
+* Developers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
 
 ## Useful resources
 
-- [Dependency injection](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
-- [PHP developer guide](https://developer.adobe.com/commerce/php/development/)
+* [Dependency injection](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+* [PHP developer guide](https://developer.adobe.com/commerce/php/development/)

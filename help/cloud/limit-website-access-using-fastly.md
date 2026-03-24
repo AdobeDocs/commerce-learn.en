@@ -25,7 +25,7 @@ Restrict Adobe Commerce Site Access with Fastly Edge ACLs & Custom VCL | Secure 
 * Adobe Commerce Developer
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
 
 ## Code Sample
 

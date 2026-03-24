@@ -20,8 +20,8 @@ The Site-Wide Analysis Tool is a proactive self-service tool and central reposit
 
 ## Who is this video for?
 
-- Website managers
-- Developers
+* Website managers
+* Developers
 
 ## Video content
 
@@ -29,5 +29,5 @@ The Site-Wide Analysis Tool is a proactive self-service tool and central reposit
 
 ## Additional resources
 
-- [Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [View and manage logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+* [Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [View and manage logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

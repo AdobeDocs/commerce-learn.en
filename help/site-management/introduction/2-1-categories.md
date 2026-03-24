@@ -20,15 +20,15 @@ feature: Configuration, System, Catalogs, Site Navigation
 
 In this video:
 
-- Creating categories for your product catalog
+* Creating categories for your product catalog
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35950?learn=on)
 
 ## Additional resources
 

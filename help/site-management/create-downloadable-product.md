@@ -19,9 +19,9 @@ Learn how to create a downloadable product using the REST API and the Adobe Comm
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API
+* Website managers
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API
 
 ## Video content
 
@@ -114,18 +114,18 @@ This example demonstrates how to use cURL to create a downloadable product from 
 
 In this use case, when the administrator managing the catalog chooses `upload file`, the file is transferred to the `pub/media/downloadable/files/links/` directory.  Automation creates and moves the files to their respective locations based on the following pattern:
 
-- Each uploaded file is stored in a folder based on the first two characters of the file name.
-- When the upload is initiated, the Commerce application creates or uses existing folders to transfer the file. 
-- When downloading the file, the `link_file` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
+* Each uploaded file is stored in a folder based on the first two characters of the file name.
+* When the upload is initiated, the Commerce application creates or uses existing folders to transfer the file. 
+* When downloading the file, the `link_file` section of the path uses the portion of the path appended to the `pub/media/downloadable/files/links/` directory.
 
 For example, if the uploaded file is named `download-example.zip`:
 
-- The file is uploaded to the path `pub/media/downloadable/files/links/d/o/`.
+* The file is uploaded to the path `pub/media/downloadable/files/links/d/o/`.
    The subdirectories `/d` and `/d/o` are created if they do not exist.
 
-- The final path to the file is `/pub/media/downloadable/files/links/d/o/download-example.zip`. 
+* The final path to the file is `/pub/media/downloadable/files/links/d/o/download-example.zip`. 
 
-- The `link_url` value for this example is `d/o/download-example.zip`
+* The `link_url` value for this example is `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -232,7 +232,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Additional resources
 
-- [Downloadable Product Type](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Downloadable Product Type](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -19,14 +19,14 @@ Using templates saves you time and effort when creating content (or replacing ol
 
 ## Who is this video for?
 
-- Website managers
-- Content designers
+* Website managers
+* Content designers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## Additional resources
 
-- [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
-- [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

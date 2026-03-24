@@ -28,6 +28,6 @@ Discover how to utilize Adobe's AI-powered tools to streamline the development w
 * MCP tools expose commands and data the agent uses to plan and generate code.
 * AI automates requirements, architecture, and implementation decision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

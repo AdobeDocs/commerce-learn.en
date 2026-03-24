@@ -22,10 +22,10 @@ Do you want to analyze only certain pieces of your business data? Tired of doing
 
 In this video:
 
-- Create a filter set
-- Use filter operators
-- Apply a filter set to a metric
-- Apply a filter set to a calculated data dimension
+* Create a filter set
+* Use filter operators
+* Apply a filter set to a metric
+* Apply a filter set to a calculated data dimension
 
 >[!TIP]
 >
@@ -33,12 +33,12 @@ In this video:
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342408?learn=on)
 
 ## Useful resources
 

@@ -21,17 +21,17 @@ exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
 
 ## Who is this video for?
 
-- Website managers
-- Web merchandisers
+* Website managers
+* Web merchandisers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## Additional resources
 
-- [Introduction to [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [Introduction to Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [Introduction to [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+* [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Introduction to Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

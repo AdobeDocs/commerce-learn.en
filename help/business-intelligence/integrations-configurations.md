@@ -23,8 +23,8 @@ The document also covers the process of syncing tables to the Data Warehouse, ad
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## Integrations and configurations
 

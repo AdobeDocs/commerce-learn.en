@@ -26,4 +26,4 @@ Discover how to use Adobe ACCS and effectively localize and schedule your conten
 * Learn how to localize content and manage multiple storefronts using DA.live without developer support.
 * Discover how built-in scheduling and GenAI tools streamline campaign launches and content updates.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478792/?learn)
+>[!VIDEO](https://video.tv.adobe.com/v/3478792?learn=on)

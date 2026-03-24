@@ -22,11 +22,11 @@ feature: Configuration, System, Catalogs, Shopping Cart
 
 In this video:
 
-- Gift cards
+* Gift cards
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
@@ -34,7 +34,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35959?learn=on)
 
 ## Additional resources
 

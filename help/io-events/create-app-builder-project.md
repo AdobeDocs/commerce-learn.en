@@ -29,7 +29,7 @@ Learn how to create an Adobe Developer App Builder project to consume events fro
 * Using Adobe Developer Console
 * Using Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
 
 ## Useful commands {#useful-commands}
 

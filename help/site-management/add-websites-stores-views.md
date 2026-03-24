@@ -19,8 +19,8 @@ Every Adobe Commerce and Magento Open Source installation supports a hierarchy o
 
 ## Who is this video for?
 
-- Store administrators
-- Web site managers
+* Store administrators
+* Web site managers
 
 ## Video content
 
@@ -28,9 +28,9 @@ Every Adobe Commerce and Magento Open Source installation supports a hierarchy o
 >
 >The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Additional resources
 
-- [Websites, Stores, and Views - [!DNL Commerce] Getting Started Guide](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-- [Root category and hierarchy - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+* [Websites, Stores, and Views - [!DNL Commerce] Getting Started Guide](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+* [Root category and hierarchy - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

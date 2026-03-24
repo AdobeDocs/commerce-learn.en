@@ -20,12 +20,12 @@ feature: Configuration, System, Catalogs
 
 In this video:
 
-- System attributes
-- Custom attributes
+* System attributes
+* Custom attributes
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
@@ -33,7 +33,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35954?learn=on)
 
 ## Additional resources
 

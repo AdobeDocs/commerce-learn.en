@@ -21,9 +21,9 @@ Learn how the sales representative can initiate the quote from the Adobe Commerc
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- Developers
+* Website managers
+* eCommerce merchandisers
+* Developers
 
 ## Video content
 

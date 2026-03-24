@@ -19,24 +19,24 @@ For companies that have _[!UICONTROL Payment on Account]_ enabled and have compa
 
 You can set the following credit-related parameters for each company profile:
 
-- Credit Currency
-- Credit Limit
-- Allow to Exceed Credit Limit
-- Reason for Change
+* Credit Currency
+* Credit Limit
+* Allow to Exceed Credit Limit
+* Reason for Change
 
 {{b2b-feature}}
 
 ## Who is this video for?
 
-- Website managers
-- Sales representatives
-- Customer service representatives
+* Website managers
+* Sales representatives
+* Customer service representatives
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Additional resources
 
-- [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+* [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+* [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

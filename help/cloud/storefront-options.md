@@ -18,15 +18,15 @@ It integrates seamlessly with Adobe's digital experience tools, enabling busines
 
 ## Who is this video for
 
-- Businesses and e-commerce leaders looking to enhance their online storefronts.
-- IT leaders, developers, and marketers.
-- Companies aiming to improve site performance, increase organic traffic, as well as provide personalized shopping experiences.
+* Businesses and e-commerce leaders looking to enhance their online storefronts.
+* IT leaders, developers, and marketers.
+* Companies aiming to improve site performance, increase organic traffic, as well as provide personalized shopping experiences.
 
 ## Video Content
  
-- Rapid Deployment and Optimization using Edge Delivery Services for Adobe Commerce
-- Seamless Integration and Personalization that integrates natively with other Adobe solutions
-- Enabling real-time personalization and efficient management of digital assets
-- Empowerment of Non-Technical Users
+* Rapid Deployment and Optimization using Edge Delivery Services for Adobe Commerce
+* Seamless Integration and Personalization that integrates natively with other Adobe solutions
+* Enabling real-time personalization and efficient management of digital assets
+* Empowerment of Non-Technical Users
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)

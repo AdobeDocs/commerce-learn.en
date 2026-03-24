@@ -20,13 +20,13 @@ feature: Configuration, System, Catalogs, Price Rules
 
 In this video:
 
-- Create products
-- Complete product settings
-- Set product attributes
+* Create products
+* Complete product settings
+* Set product attributes
 
 ## Who is this video for?
 
-- Business Users
+* Business Users
 
 ## Video content
 
@@ -34,7 +34,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35953?learn=on)
 
 ## Additional resources
 

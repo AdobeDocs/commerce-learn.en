@@ -23,14 +23,14 @@ In this video, learn how to set up product recommendations.
 
 ## Who is this video for?
 
-- eCommerce marketers
-- Website managers
+* eCommerce marketers
+* Website managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## Additional resources
 
-- [Product Recommendations  Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Product Recommendations  Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

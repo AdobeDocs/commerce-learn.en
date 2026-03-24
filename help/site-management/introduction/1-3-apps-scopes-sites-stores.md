@@ -16,13 +16,13 @@ exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
 
 In this video:
 
-- Basics of the [!DNL Commerce] architecture, including the differences between websites, stores, and store views
-- Concept of application scopes
-- Overview of what indexing and caching, and how [!DNL Commerce] handles them
+* Basics of the [!DNL Commerce] architecture, including the differences between websites, stores, and store views
+* Concept of application scopes
+* Overview of what indexing and caching, and how [!DNL Commerce] handles them
 
 ## Who is this video for?
 
-- Business Users
+* Business Users
 
 ## Video content
 
@@ -30,7 +30,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35945?learn=on)
 
 ## Additional resources
 

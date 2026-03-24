@@ -19,14 +19,14 @@ Customer attributes provide the information that is required to support the orde
 
 ## Who is this video for?
 
-- Store administrators
-- eCommerce marketers
+* Store administrators
+* eCommerce marketers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## Additional resources
 
-- [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+* [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

@@ -20,8 +20,8 @@ This is a brief introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Li
 
 ## Who is this video for?
 
-- Website managers
-- Web merchandisers
+* Website managers
+* Web merchandisers
 
 ## Video content
 
@@ -30,7 +30,7 @@ This is a brief introduction to [!DNL Live Search] from Adobe Commerce. [!DNL Li
 
 ## Additional resources
 
-- [Live Search full demonstration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
-- [[!DNL Live Search] for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
-- [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Live Search full demonstration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
+* [[!DNL Live Search] for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+* [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
