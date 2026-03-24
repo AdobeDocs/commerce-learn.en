@@ -2,6 +2,7 @@
 title: Create Content Templates
 description: Learn how templates can save time and effort when creating content or replacing older content.
 doc-type: feature video
+duration: 182
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Users and roles"
 description: Learn the basics about [!DNL Admin] user accounts and user roles that determine permissions.
 kt: 5762
 doc-type: video
+duration: 199
 activity: use
 last-substantial-update: 2022-12-28
 feature: Configuration, System, Security, Roles/Permissions

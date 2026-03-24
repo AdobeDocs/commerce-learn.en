@@ -6,7 +6,7 @@ topic: Architecture, Performance
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12
 jira: KT-20000
 exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4

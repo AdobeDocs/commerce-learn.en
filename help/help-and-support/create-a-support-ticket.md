@@ -6,7 +6,7 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 337
+duration: 355
 last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be

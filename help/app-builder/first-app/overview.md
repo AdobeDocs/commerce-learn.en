@@ -4,6 +4,7 @@ description: Learn about Adobe Developer App Builder using Adobe Commerce and cr
 landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and create your first app.
 kt: 12421
 doc-type: tutorial
+duration: 197
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

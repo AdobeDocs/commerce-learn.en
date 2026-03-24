@@ -6,7 +6,7 @@ topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 305
+duration: 326
 last-substantial-update: 2026-01-12
 jira: KT-20088
 exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038

@@ -3,6 +3,7 @@ title: Create a grouped product
 description: Learn how to create a grouped product using the REST API and the Commerce Admin.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30

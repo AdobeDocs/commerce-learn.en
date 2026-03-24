@@ -3,6 +3,7 @@ title: '[!DNL Page Builder] overview'
 description: Learn how to build pages [!DNL Commerce] store pages in the Admin using [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
+duration: 317
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

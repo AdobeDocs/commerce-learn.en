@@ -3,6 +3,7 @@ title: Global Reference Architecture Monorepo
 description: Learn how to use the monorepo approach for global reference architecture to establish a scalable and resilient commerce experience
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install

@@ -2,6 +2,7 @@
 title: Sales Rep initiates the quote
 description: Learn how the sales representative can initiate the quote from the Adobe Commerce admin
 doc-type: feature video
+duration: 283
 audience: all
 activity: use
 kt: 13794

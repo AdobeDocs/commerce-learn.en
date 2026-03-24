@@ -3,6 +3,7 @@ title: Data Connection full demonstration
 description: Watch a full demonstration on the capabilities of Adobe Commerce Data Connection
 kt: 14364
 doc-type: tutorial
+duration: 783
 audience: all
 last-substantial-update: 2023-11-08
 feature: Configuration, System, Personalization

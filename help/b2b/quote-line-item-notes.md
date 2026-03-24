@@ -2,6 +2,7 @@
 title: Using Adobe Commerce show a line item notes for a quote
 description: Learn about line item notes on a B2B quote in Adobe Commerce
 doc-type: feature video
+duration: 227
 audience: all
 activity: use
 kt: 13799

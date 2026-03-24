@@ -4,6 +4,7 @@ description: Learn how to architect a global reference architecture. Learn techn
 landing-page-description: Learn how to architect a Global Reference Architecture with Adobe Commerce
 kt: 14041
 doc-type: video
+duration: 3124
 audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install

@@ -6,7 +6,7 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff

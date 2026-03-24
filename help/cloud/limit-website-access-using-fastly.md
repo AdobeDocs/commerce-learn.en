@@ -6,7 +6,7 @@ topic: Administration,Commerce,Development, Security
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 200
+duration: 231
 last-substantial-update: 2025-07-11
 jira: KT-18494
 exl-id: 121e7a2f-f9fd-4cd1-b2be-48a12b538008

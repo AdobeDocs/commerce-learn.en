@@ -5,6 +5,7 @@ landing-page-description: Watch this video series to get started with the basics
 short-description: Watch this video series to get started with the basics of Adobe Commerce and working in the Admin.
 kt: 5758
 doc-type: video
+duration: 52
 activity: use
 last-substantial-update: 2023-5-28
 feature: Configuration, System

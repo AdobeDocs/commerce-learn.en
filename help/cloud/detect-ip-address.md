@@ -6,7 +6,7 @@ topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 624
 last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2

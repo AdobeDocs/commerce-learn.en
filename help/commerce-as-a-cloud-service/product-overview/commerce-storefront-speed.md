@@ -6,7 +6,7 @@ topic: Performance, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 323
+duration: 227
 last-substantial-update: 2026-01-12
 jira: KT-20090
 exl-id: 4e8e3760-d42c-46cd-adda-b298e6f487b9

@@ -2,6 +2,7 @@
 title: Manage Company Credit
 description: Learn how to B2B company account users can make purchases on their account up to the credit limit that is granted.
 doc-type: feature video
+duration: 230
 audience: all
 activity: use
 kt: 13910

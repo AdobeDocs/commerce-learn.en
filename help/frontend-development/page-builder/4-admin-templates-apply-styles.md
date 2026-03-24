@@ -3,6 +3,7 @@ title: Page Builder for developers - Templates and styles
 description: "[!DNL Admin] and stage theming tasks. Create [!DNL Admin] templates​. Apply styles to content types on the stage (live preview)."
 kt: 5653
 doc-type: video
+duration: 267
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development

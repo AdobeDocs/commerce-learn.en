@@ -2,6 +2,7 @@
 title: Purchase Orders and Approvals
 description: Learn how to enable purchase orders and approval rules for your B2B company accounts.
 doc-type: feature video
+duration: 258
 audience: all
 activity: use
 last-substantial-update: 2023-2-16

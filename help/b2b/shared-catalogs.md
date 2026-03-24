@@ -2,6 +2,7 @@
 title: Manage Shared Catalogs
 description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
 doc-type: feature video
+duration: 456
 audience: all
 activity: use
 last-substantial-update: 2023-5-10

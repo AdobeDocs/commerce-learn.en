@@ -3,6 +3,7 @@ title: Seller-Assisted Shopping
 description: Learn how to add you can offer immediate assistance to both guests and customers who have registered for an account with your store.
 kt: 10548
 doc-type: feature video
+duration: 205
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

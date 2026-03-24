@@ -3,6 +3,7 @@ title: API Mesh starter kit using workflows
 description: Get started with Adobe Commerce API Mesh using workflows for deploying your mesh and load tests.
 kt: 18388
 doc-type: tutorial
+duration: 351
 audience: all
 last-substantial-update: 2025-6-27
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront

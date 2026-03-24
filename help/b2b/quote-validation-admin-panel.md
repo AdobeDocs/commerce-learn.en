@@ -2,6 +2,7 @@
 title: Learn about the validation levels for the B2B quote process from the admin panel
 description: Learn how the Adobe Commerce application has strict validation processes.  This video tutorial demonstrates the validation process from the Adobe Commerce admin panel to ensure the quoting procedure is valid and consistent
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-6-13

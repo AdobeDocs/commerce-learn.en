@@ -5,6 +5,7 @@ landing-page-description: Discover how to use Adobe App Builder and install the 
 short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
 kt: 11801
 doc-type: tutorial
+duration: 433
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

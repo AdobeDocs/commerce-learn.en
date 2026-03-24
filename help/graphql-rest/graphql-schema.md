@@ -5,6 +5,7 @@ landing-page-description: This is an introduction to GraphQL. Understanding the 
 short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 kt: 13939
 doc-type: video
+duration: 363
 audience: all
 last-substantial-update: 2023-10-12
 feature: GraphQL

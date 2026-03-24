@@ -7,7 +7,7 @@ old-role: Architect, Data Architect, Leader
 role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 3511
+duration: 3624
 last-substantial-update: 2024-05-07
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f

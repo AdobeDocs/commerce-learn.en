@@ -5,6 +5,7 @@ landing-page-description: Get an introduction about performing a mutation using 
 short-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
 kt: 13938
 doc-type: video
+duration: 268
 audience: all
 last-substantial-update: 2023-10-12
 feature: GraphQL

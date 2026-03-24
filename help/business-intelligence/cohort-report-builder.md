@@ -5,6 +5,7 @@ landing-page-description: Watch this video to learn how use the Commerce Intelli
 short-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 kt: 10288
 doc-type: feature video
+duration: 103
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use

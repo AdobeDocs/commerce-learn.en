@@ -3,6 +3,7 @@ title: Headless Architecture Session 1
 description: Learn what is headless architecture, composable commerce, and personalized experiences
 kt: 13144
 doc-type: tutorial
+duration: 1952
 audience: all
 last-substantial-update: 2023-04-25
 feature: GraphQL, REST

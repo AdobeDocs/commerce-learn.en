@@ -2,6 +2,7 @@
 title: Using GraphQL show a line item discount
 description: Learn the quote for a B2B order offers line item discount using GraphQL
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 kt: 13800

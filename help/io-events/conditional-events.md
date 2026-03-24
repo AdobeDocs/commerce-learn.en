@@ -5,6 +5,7 @@ landing-page-description: Learn how to use Adobe Commerce conditional events.
 short-description: Learn how to use Adobe Commerce conditional events.
 kt: 11890
 doc-type: tutorial
+duration: 421
 audience: all
 last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development

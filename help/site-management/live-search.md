@@ -2,6 +2,7 @@
 title: "Introduction to [!DNL Live Search]"
 description: "Learn how to add [!DNL Live Search] to your store and produce highly engaging, relevant, and personalized shopping experiences."
 doc-type: feature video
+duration: 543
 audience: all
 last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search

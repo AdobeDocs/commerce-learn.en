@@ -6,7 +6,7 @@ topic: Migration, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 339
+duration: 363
 last-substantial-update: 2026-01-12
 jira: KT-20094
 exl-id: 45687736-d1be-4d9a-9355-024cfafbf08c

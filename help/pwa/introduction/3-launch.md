@@ -3,6 +3,7 @@ title: PWA Studio for developers - Launch and load
 description: Learn about the required steps before the launch of your PWA​, baseline for load time​, and how performance improves conversions.
 kt: 5646
 doc-type: video
+duration: 645
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services

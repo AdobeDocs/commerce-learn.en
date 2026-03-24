@@ -3,6 +3,7 @@ title: Create a product attribute
 description: Create a page that returns json with one parameter.
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10 
 feature: Configuration, System, Backend Development

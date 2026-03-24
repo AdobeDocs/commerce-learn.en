@@ -7,7 +7,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 451
 last-substantial-update: 2024-04-17
 jira: KT-15180
 kt: 15180

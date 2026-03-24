@@ -5,6 +5,7 @@ landing-page-description: Watch this video series to learn about Page Builder an
 short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
 kt: 5650
 doc-type: video
+duration: 391
 activity: use
 feature: Page Content, Native Luma Frontend Development
 topic: Commerce, Development

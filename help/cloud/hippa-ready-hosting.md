@@ -6,7 +6,7 @@ topic: Commerce, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 268
+duration: 324
 last-substantial-update: 2025-05-30
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2

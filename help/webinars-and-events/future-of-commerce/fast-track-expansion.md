@@ -6,7 +6,7 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 847
+duration: 887
 last-substantial-update: 2025-05-16
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f

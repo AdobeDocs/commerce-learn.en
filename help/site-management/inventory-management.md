@@ -3,6 +3,7 @@ title: Inventory Management
 description: Learn about the Inventory Management features and how you can use them to work from a single warehouse or complex shipping network.
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

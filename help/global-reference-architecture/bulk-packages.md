@@ -3,6 +3,7 @@ title: Optimizing Adobe Commerce with Bulk Packages Global Reference Architectur
 description: Learn how to set up Adobe Commerce using the Bulk Packages Global Reference Architecture for efficient code management and version control.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install

@@ -3,6 +3,7 @@ title: Optimizing Code Reuse with Adobe Commerce
 description: Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns, enhancing performance and compliance across multiple instances.
 kt: 15773
 doc-type: tutorial
+duration: 287
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install

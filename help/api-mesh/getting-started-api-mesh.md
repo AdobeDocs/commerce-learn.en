@@ -5,6 +5,7 @@ landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!D
 short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
 kt: 11802
 doc-type: tutorial
+duration: 442
 audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

@@ -3,6 +3,7 @@ title: Create a New Page
 description: Create a page that returns json with one parameter.
 kt: 5602
 doc-type: video
+duration: 259
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development

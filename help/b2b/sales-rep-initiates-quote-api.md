@@ -2,6 +2,7 @@
 title: Sales Rep initiates the B2B quote using the REST API
 description: Learn how the sales representative can initiate the quote from the Adobe Commerce REST API.
 doc-type: feature video
+duration: 250
 audience: all
 activity: use
 kt: 13797

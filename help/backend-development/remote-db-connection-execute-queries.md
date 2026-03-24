@@ -6,7 +6,7 @@ topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 0
+duration: 1024
 last-substantial-update: 2024-06-25
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149

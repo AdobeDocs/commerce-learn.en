@@ -3,6 +3,7 @@ title: Manage Products in a Category
 description: Learn about creating a product in a category, visual merchandizing, and using the automated category sort functionality.
 kt: 10550
 doc-type: feature videos
+duration: 142
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

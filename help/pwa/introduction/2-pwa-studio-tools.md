@@ -3,6 +3,7 @@ title: PWA Studio for developers - PWA tools
 description: Learn about PWA Studio, and the ease of use for PWA Studio tools.
 kt: 5645
 doc-type: video
+duration: 355
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services

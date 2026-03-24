@@ -352,3 +352,6 @@ MigrationBackup/
 
 # Ignore mac files
 .DS_Store
+
+# Local video duration cache (scripts/update_markdown_durations.py)
+scripts/.video_duration_cache.json

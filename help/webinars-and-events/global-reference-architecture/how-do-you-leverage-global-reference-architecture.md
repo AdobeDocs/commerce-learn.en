@@ -4,6 +4,7 @@ description: Learn how to leverage a global reference architecture to establish 
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14040
 doc-type: video
+duration: 1833
 audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install

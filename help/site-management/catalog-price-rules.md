@@ -10,7 +10,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 jira: KT-17149
-duration: 124
+duration: 153
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
 
 ---

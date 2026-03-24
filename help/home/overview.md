@@ -8,6 +8,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+duration: 29
 ---
 # Commerce tutorials {#videos}
 

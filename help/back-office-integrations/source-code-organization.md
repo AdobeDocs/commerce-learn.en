@@ -4,7 +4,7 @@ description: Learn about the organization of source code in the Commerce Integra
 landing-page-description: Exploring Source Code Organization in a Commerce Integration Starter Kit
 kt: 15868
 doc-type: video
-duration: 420
+duration: 534
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration

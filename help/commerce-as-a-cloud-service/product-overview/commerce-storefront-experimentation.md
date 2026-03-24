@@ -6,7 +6,7 @@ topic: Personalization, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 288
+duration: 292
 last-substantial-update: 2026-01-12
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca

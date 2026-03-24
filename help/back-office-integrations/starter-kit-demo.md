@@ -4,6 +4,7 @@ description: Learn about the Adobe Commerce Starter kit for back office integrat
 landing-page-description: Learn about the Adobe Commerce starter kit for back office integrations
 kt: 15341
 doc-type: video
+duration: 502
 audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration

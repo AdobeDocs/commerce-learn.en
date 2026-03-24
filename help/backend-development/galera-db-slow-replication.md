@@ -3,6 +3,7 @@ title: Learn how to find slow queries in mysql slow query logs and why the Galer
 description: Galera DB has a design method that makes the replication of data to secondary databases take longer than the primary. Learn how to find these events in mysql slow query log, and the underlying reason why you see entries in the slow query logs and perhaps how to prevent them in the future.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services

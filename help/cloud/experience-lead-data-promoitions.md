@@ -6,7 +6,7 @@ topic: Administration, Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 1227
+duration: 1345
 last-substantial-update: 2024-09-09
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117

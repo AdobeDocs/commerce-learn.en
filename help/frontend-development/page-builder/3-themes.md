@@ -3,6 +3,7 @@ title: Page Builder for developers - Themes
 description: Learn about theming practices and conventions​, including the location for each part of the Page Builder theme.
 kt: 5652
 doc-type: video
+duration: 204
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development

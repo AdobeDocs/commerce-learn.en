@@ -6,7 +6,7 @@ topic: Content Management, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 442
 last-substantial-update: 2026-01-12
 jira: KT-20085
 exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74

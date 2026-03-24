@@ -3,6 +3,7 @@ title: Manage URL Rewrites for SEO
 description: Learn about using the URL Rewrite tool to change any URL that is associated with a product, category, or CMS page.
 kt: 10554
 doc-type: feature video
+duration: 150
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

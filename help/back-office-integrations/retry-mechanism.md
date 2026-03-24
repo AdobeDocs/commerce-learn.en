@@ -4,7 +4,7 @@ description: Leverage Adobe I/O Events' retry mechanism for resilient applicatio
 landing-page-description: Understand and utilize Adobe I/O Events' built-in retry mechanism to enhance application resilience and manage event activations effectively.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration

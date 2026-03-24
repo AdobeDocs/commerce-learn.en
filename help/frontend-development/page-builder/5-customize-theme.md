@@ -3,6 +3,7 @@ title: Page Builder for developers - Theme customization
 description: Learn how to customize the Page Builder theme.
 kt: 5654
 doc-type: video
+duration: 523
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development

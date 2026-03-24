@@ -5,6 +5,7 @@ landing-page-description: Watch this series of videos to clarify your understand
 short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
 kt: 10411
 doc-type: feature video
+duration: 1516
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use

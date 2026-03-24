@@ -5,6 +5,7 @@ landing-page-description: Learn what is App Builder and how it can help with Ado
 short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
+duration: 322
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

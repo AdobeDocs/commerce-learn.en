@@ -4,6 +4,7 @@ description: Mastering Commerce Integrations by learning best practices and onbo
 landing-page-description: Learn offering practical insights into the setup, configuration, and deployment processes involved using the starter kit.
 kt: 15867
 doc-type: video
+duration: 602
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration

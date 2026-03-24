@@ -5,6 +5,7 @@ landing-page-description: Watch this recorded webinar to learn about Adobe Comme
 short-description: Watch this recorded webinar to learn about Adobe Commerce 2.4 upgrade steps and best practices.
 kt: 9620
 doc-type: technical video
+duration: 4306
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

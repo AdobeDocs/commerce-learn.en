@@ -6,7 +6,7 @@ topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
-duration: 250
+duration: 273
 last-substantial-update: 2025-08-29
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d

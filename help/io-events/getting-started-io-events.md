@@ -5,6 +5,7 @@ landing-page-description: Learn how to use App Builder runtime action for Adobe 
 short-description: Creating an App Builder runtime action for Adobe Commerce events.
 kt: 14583
 doc-type: tutorial
+duration: 750
 audience: all
 last-substantial-update: 2023-11-27
 feature: App Builder, Eventing, Backend Development

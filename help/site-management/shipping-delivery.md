@@ -3,6 +3,7 @@ title: Manage Shipping and Delivery Methods
 description: Learn how to configure shipping origin, multi-shipping, delivery fee, and carrier settings for your Commerce store.
 kt: 10543
 doc-type: feature video
+duration: 155
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

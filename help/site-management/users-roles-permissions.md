@@ -3,6 +3,7 @@ title: Manage User Roles and Permissions
 description: Learn about user accounts and permissions used to control access to [!DNL Commerce] website and store data in the Admin.
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

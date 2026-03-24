@@ -3,6 +3,7 @@ title: Create a module
 description: Learn how to create a module in Adobe Commerce that sends information to the PSR logger. This adds functionality to your first module in Adobe Commerce.
 kt: 5614
 doc-type: video
+duration: 1113
 activity: use
 last-substantial-update: 2023-6-2
 feature: Configuration, System, Backend Development

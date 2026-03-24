@@ -3,6 +3,7 @@ title: PWA Docker Development
 description: Learn about PWA development on Docker for frontend developers to work with Adobe Commerce for development tasks.
 kt: 5564
 doc-type: video
+duration: 1122
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services

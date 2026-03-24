@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Gift cards"
 description: Learn how to include gift cards in your [!DNL Commerce] store.
 kt: 5774
 doc-type: video
+duration: 448
 activity: use
 badge1: "Adobe Commerce 2.3.1"
 badge2: label="Only on Adobe Commerce" type="Positive"

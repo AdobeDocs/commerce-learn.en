@@ -6,7 +6,7 @@ topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
-duration: 97
+duration: 131
 last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
