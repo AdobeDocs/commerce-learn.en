@@ -280,5 +280,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Useful resources
 
-- [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
