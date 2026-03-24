@@ -1,34 +1,23 @@
 ---
-title: Commerce Intelligence: SQL Report Builder
-description: Learn how to use the Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and turn them into charts quickly.
-landing-page-description: Learn how to use the Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and turn them into charts quickly.
-short-description: Use the Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and build charts.
-jira: KT-10288
-doc-type: Technical Video
-duration: 262
-solution: Commerce,Commerce Intelligence
-audience: all
-activity: use
-last-substantial-update: 2023-02-10
+title: Commerce Intelligence - SQL Report Builder
+description: Learn how to use Adobe Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and build charts without waiting on report update cycles.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+doc-type: Technical Video
+duration: 259
+solution: Commerce,Commerce Intelligence
+last-substantial-update: 2023-02-10
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 ---
 # SQL Report Builder
 
-The SQL Report Builder in Commerce Intelligence lets you query your data warehouse, review results, and turn them into charts. When you build reports with SQL, you do not wait on update cycles to refine the columns you create. If something looks off, edit and rerun the query until the output matches what you expect.
+Adobe Commerce Intelligence SQL Report Builder lets you query your data warehouse, review results, and turn them into charts. When you build reports with SQL, you do not wait on update cycles to refine the columns you create. If something looks off, edit and rerun the query until the output matches what you expect.
 
 >[!IMPORTANT]
 >
-> You need Admin permissions to access the SQL Report Builder.
-
-## Video contents
-
-* Run a SQL query.
-* Visualize your results.
-* Save the report to a dashboard.
+> You need Admin permissions to use SQL Report Builder.
 
 >[!TIP]
 >
