@@ -11,6 +11,7 @@ last-substantial-update: 2024-04-17
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 ---
+
 # Pre-Launch checklist
 
 This page summarizes the Adobe Commerce [Site launch documentation](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}.
