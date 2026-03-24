@@ -18,10 +18,10 @@ Learn how to find, install, and validate Adobe Commerce App Builder apps using A
 
 ## Who is this video for?
 
-- Adobe Commerce Developers
-- Technical Architects
-- System Administrators
+* Adobe Commerce Developers
+* Technical Architects
+* System Administrators
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)

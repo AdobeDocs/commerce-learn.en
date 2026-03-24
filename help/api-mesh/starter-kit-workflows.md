@@ -27,7 +27,7 @@ Learn about the GitHub workflows included in the API Mesh starter kit for deploy
 * The deployMesh workflow that automatically deploys or updates a mesh 
 * Load testing with the K6 load test workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Related documentation
 

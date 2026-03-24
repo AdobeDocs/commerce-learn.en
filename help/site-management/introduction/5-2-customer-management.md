@@ -16,18 +16,18 @@ exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 
 In this video:
 
-- Recommended permissions for a CSR (Customer Service Representative)
-- Creating a customer in the [!DNL Admin]
-- Managing customer information
-- Creating customer groups
+* Recommended permissions for a CSR (Customer Service Representative)
+* Creating a customer in the [!DNL Admin]
+* Managing customer information
+* Creating customer groups
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/36189?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
 
 ## Additional resources
 

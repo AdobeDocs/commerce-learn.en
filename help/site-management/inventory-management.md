@@ -19,14 +19,14 @@ Merchants with a single store to multiple warehouses, stores, pickup locations, 
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
+* Website managers
+* eCommerce merchandisers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## Additional resources
 
-- [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
-- [Inventory Management - Developer REST documentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory Management - Developer REST documentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)

@@ -32,9 +32,9 @@ When creating grouped products from the Adobe Commerce Admin, create the simple 
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create grouped products in Adobe Commerce using the REST API.
+* Website managers
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create grouped products in Adobe Commerce using the REST API.
 
 ## Video content
 
@@ -219,7 +219,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Additional resources
 
-- [Create and manage grouped products](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Grouped Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
-- [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Create and manage grouped products](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Grouped Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

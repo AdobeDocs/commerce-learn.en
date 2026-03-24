@@ -18,16 +18,16 @@ badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.ad
 
 In this video:
 
-- Configure and setup Page Builder​
-- Understand the Page Builder workspace​
-- Understand and use content types - Layout, Elements, Media, and other content​
-- Add catalog content with Page Builder
-- Overview of content type customization
+* Configure and setup Page Builder​
+* Understand the Page Builder workspace​
+* Understand and use content types - Layout, Elements, Media, and other content​
+* Add catalog content with Page Builder
+* Overview of content type customization
 
 ## Who is this video for?
 
-- Content creators
-- Frontend developers
+* Content creators
+* Frontend developers
 
 ## Video content
 
@@ -35,7 +35,7 @@ In this video:
 >
 >This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35710?learn=on)
 
 ## Useful resources
 

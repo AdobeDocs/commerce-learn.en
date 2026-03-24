@@ -27,4 +27,4 @@ Learn about the Adobe Commerce expert success plan. Learn more about the details
 * Three support channels.
 * Service level targets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)

@@ -31,7 +31,7 @@ This video helps developers understand how to create a mesh with a single source
 * Creating a mesh from a JSON configuration file
 * Accessing the newly created GraphQL endpoint
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## Create the json configuration file
 

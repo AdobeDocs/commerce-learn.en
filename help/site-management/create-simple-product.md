@@ -19,9 +19,9 @@ Learn how to create a simple product using the REST API and the Adobe Commerce A
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
+* Website managers
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
 
 ## Video content
 
@@ -55,5 +55,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## Additional resources
 
-- [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -18,14 +18,14 @@ With Adobe Commerce or Magento Open Source 2.4, merchants can use the new enhanc
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
+* Website managers
+* eCommerce merchandisers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343785?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
 
 ## Additional resources
 
-- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Alternate Media Storage - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+* [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+* [Alternate Media Storage - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

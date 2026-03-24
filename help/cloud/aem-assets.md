@@ -17,14 +17,14 @@ Integrating AI with Adobe Commerce centralizes asset management, enhancing custo
 
 ## Who is this video for
 
-- E-commerce merchants and digital marketers using Adobe Commerce
-- IT administrators
-- Content managers looking to optimize their content lifecycle
+* E-commerce merchants and digital marketers using Adobe Commerce
+* IT administrators
+* Content managers looking to optimize their content lifecycle
 
 ## Video Content   
 
-- Enhanced Efficiency and Speed.
-- Seamless Synchronization between products and assets.
-- Complete Lifecycle Control including approval, removal, and expiration.
+* Enhanced Efficiency and Speed.
+* Seamless Synchronization between products and assets.
+* Complete Lifecycle Control including approval, removal, and expiration.
   
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

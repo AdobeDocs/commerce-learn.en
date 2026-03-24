@@ -28,7 +28,7 @@ Adobe Commerce's cloud-native platform empowers businesses to reduce operational
 * Fast deployment – Launch pre-configured environments in minutes with self-service tools.
 * Flexible integrations – Easily connect with ERP, CRM, and more using APIs and accelerators.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458485/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
 
 ## Additional Videos in this series
 

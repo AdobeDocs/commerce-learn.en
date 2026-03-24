@@ -30,16 +30,16 @@ This global reference architecture pattern is completely Composer based and it i
 
 Advantages:
 
-- Code reuse through a shared code repositories
-- Complete flexibility in package installation, each GRA package can be upgraded, downgraded or backported individually
-- Full support for semantic versioning
-- No special tooling, complex infrastructure or special branching strategy required
-- Support for all package types that Composer supports
+* Code reuse through a shared code repositories
+* Complete flexibility in package installation, each GRA package can be upgraded, downgraded or backported individually
+* Full support for semantic versioning
+* No special tooling, complex infrastructure or special branching strategy required
+* Support for all package types that Composer supports
 
 Disadvantages:
 
-- Development within this GRA pattern is slightly more difficult at the start, there is a small learning curve
-- Possible to deploy combinations of packages that were not developed in the same configuration, need for strict test procedures
+* Development within this GRA pattern is slightly more difficult at the start, there is a small learning curve
+* Possible to deploy combinations of packages that were not developed in the same configuration, need for strict test procedures
 
 ## Set up Adobe Commerce with the Separate Packages GRA pattern
 
@@ -79,9 +79,9 @@ Install Adobe Commerce with `bin/magento setup:install`. Commit the resulting `a
 
 Each package in this global reference architecture pattern has its own Git repository. Below are example packages containing Adobe Commerce modules representing a GRA module, a third-party module and a local module.
 
-- <https://github.com/AntonEvers/module-example-gra>
-- <https://github.com/AntonEvers/module-example-3rdparty>
-- <https://github.com/AntonEvers/module-example-local>
+* <https://github.com/AntonEvers/module-example-gra>
+* <https://github.com/AntonEvers/module-example-3rdparty>
+* <https://github.com/AntonEvers/module-example-local>
 
 Use the examples to create your own packages.
 
@@ -285,10 +285,10 @@ Make sure that related packages show up together in overviews. Build names from 
 
 The code examples of this blog post have been combined in a set of Git repositories, which you can use to play around with the proof of concept.
 
-- An example production store: <https://github.com/AntonEvers/gra-separate-brand-x>
-- An example foundation module: <https://github.com/AntonEvers/module-example-gra>
-- An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
-- An example local module: <https://github.com/AntonEvers/module-example-local>
-- An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
-- An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
-- An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>
+* An example production store: <https://github.com/AntonEvers/gra-separate-brand-x>
+* An example foundation module: <https://github.com/AntonEvers/module-example-gra>
+* An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>
+* An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
+* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>

@@ -20,8 +20,8 @@ Learn about the different report builder options, and how to read and understand
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## Adobe Commerce Intelligence reports and dashboards
 

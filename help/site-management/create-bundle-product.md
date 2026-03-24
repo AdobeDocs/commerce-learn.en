@@ -19,18 +19,18 @@ A bundle product is a way to group several products under a parent product. Thes
 
 For example, you can offer a product bundle called `Learning to surf` in your web store. The bundle is the parent product that serves as a container for the assigned child products that specify available options:
 
-- A standard surfboard
-- A typical surfboard leash
-- Red surfboard fins
+* A standard surfboard
+* A typical surfboard leash
+* Red surfboard fins
 
 When additional flexibility is desired, to allow for several options of child products is recommended. This requires a more complex use of options and child products. To expand on the previous example, the final options are:
 
-- A standard surfboard
-- A typical surfboard leash
-- Choice of fin color:
-  - Red
-  - Blue
-  - Yellow
+* A standard surfboard
+* A typical surfboard leash
+* Choice of fin color:
+  * Red
+  * Blue
+  * Yellow
 
 Whether the bundle is a static group of simple products or several products with variations, the flexible configuration options make bundle product types a unique and powerful merchandising tool for the Adobe Commerce store.
 
@@ -50,9 +50,9 @@ When creating bundle products from the Adobe Commerce Admin, you can either crea
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create bundle products in Adobe Commerce using the REST API
+* Website managers
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create bundle products in Adobe Commerce using the REST API
 
 ## Video content
 
@@ -64,7 +64,7 @@ The following commands create all the products required to define the bundle pro
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute-set": 4` to replace `4` with the attribute set ID from your environment.
+* Change `"attribute-set": 4` to replace `4` with the attribute set ID from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -187,7 +187,7 @@ Create a bundle product by sending the following POST request.
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute_set_id": 4,` and replace `4` with the attribute set id from your environment.
+* Change `"attribute_set_id": 4,` and replace `4` with the attribute set id from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -424,7 +424,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Additional resources
 
-- [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
-- [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -19,15 +19,15 @@ Learn why you use the pt-query-digest and some real-world examples to help deepe
 
 ## Who is this video for?
 
-- Architects
-- Developers
-- DevOps
+* Architects
+* Developers
+* DevOps
 
 ## Video content
 
-- Learn about pt-query-digest usage
-- Learn about the benefits and shortcomings of this Percona Toolkit feature
-- Understand the results and learn what possible performance steps should be considered
+* Learn about pt-query-digest usage
+* Learn about the benefits and shortcomings of this Percona Toolkit feature
+* Understand the results and learn what possible performance steps should be considered
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
@@ -42,4 +42,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 
 ## Useful resources
 
-- [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
+* [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}

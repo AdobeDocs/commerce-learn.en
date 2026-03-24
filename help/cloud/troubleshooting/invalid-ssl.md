@@ -18,13 +18,13 @@ Learn how to identify an expired ssl certificate, then how to re-generate one fo
 
 ## Who is this video for
 
-- Developers using the Adobe Commerce Cloud integration and other developer branches to test.
-- New Adobe Commerce Cloud teammates who use the Luma storefront for testing features.
+* Developers using the Adobe Commerce Cloud integration and other developer branches to test.
+* New Adobe Commerce Cloud teammates who use the Luma storefront for testing features.
 
 ## Video Content
  
-- Learn how to detect an invalid ssl certificate.
-- Identify when during the process a new certificate is being created.
-- Validate the new certificate is working as expected. ​
+* Learn how to detect an invalid ssl certificate.
+* Identify when during the process a new certificate is being created.
+* Validate the new certificate is working as expected. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

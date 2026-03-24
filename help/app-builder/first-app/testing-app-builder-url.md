@@ -27,6 +27,6 @@ Learn how to test your new Adobe Developer App Builder application using the URL
 * How to deploy the application
 * Where to find the URL after deployment
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

@@ -21,20 +21,20 @@ As a solution, if possible, batch your large operations to help the secondary da
 
 ## Who is this video for?
 
-- Architects
-- Developers
-- DevOps
+* Architects
+* Developers
+* DevOps
 
 ## Video content
 
-- Galera replication to secondary database
-- Learn about flow control
-- Finding thread numbers in mysql slow query logs
-- Bulk executions only happen on the primary. Replications happen 1 at a time
-- Batch your large commits to help the replication keep up with the primary
+* Galera replication to secondary database
+* Learn about flow control
+* Finding thread numbers in mysql slow query logs
+* Bulk executions only happen on the primary. Replications happen 1 at a time
+* Batch your large commits to help the replication keep up with the primary
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Useful resources
 
-- [Galera Cluster](https://galeracluster.com/)
+* [Galera Cluster](https://galeracluster.com/)

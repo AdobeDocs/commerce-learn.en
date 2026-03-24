@@ -18,14 +18,14 @@ Learn how to triage and resolve two common errors seen on Adobe Commerce Cloud p
 
 ## Who is this video for
 
-- Developers and IT Professionals
-- System Administrators
+* Developers and IT Professionals
+* System Administrators
 
 ## Video Content
 
-- Diagnose and Resolve Storage Issues:
-- Manage Maintenance Mode
-- Efficient Troubleshooting tips
+* Diagnose and Resolve Storage Issues:
+* Manage Maintenance Mode
+* Efficient Troubleshooting tips
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 

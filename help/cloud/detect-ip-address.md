@@ -24,7 +24,7 @@ Learn how to detect IP addresses for different environments in an Adobe Commerce
 
 * Learn how to uncover the IP address for any environment in Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457493/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457493?learn=on)
 
 ## Command to get the IP address
 

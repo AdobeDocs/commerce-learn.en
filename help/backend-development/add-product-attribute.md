@@ -18,29 +18,29 @@ Adding a product attribute is one of the most popular operations in [!DNL Commer
 
 In this video:
 
-- Add an attribute called clothing_material with the possible values: Cotton, Leather, Silk, Denim, Fur, and Wool
-- Make this attribute visible on the product view page, in bold text
-- Assign it to the Default attribute set and add a restriction
-- Add the new attribute
+* Add an attribute called clothing_material with the possible values: Cotton, Leather, Silk, Denim, Fur, and Wool
+* Make this attribute visible on the product view page, in bold text
+* Assign it to the Default attribute set and add a restriction
+* Add the new attribute
 
 ## Who is this video for?
 
-- Developers new to commerce who need to learn how to create a product attribute programmatically
+* Developers new to commerce who need to learn how to create a product attribute programmatically
   
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## Code Sample
 
 First create the folders, xml and PHP files that necessary:
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 

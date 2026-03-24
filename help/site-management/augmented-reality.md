@@ -23,13 +23,13 @@ AR Viewer serves to [!DNL bridge] the gap between physical and digital retail, e
 
 ## Features
 
-- Easy-to-use interface for uploading 3D models of your products.
-- Automatic QR code generation upon 3D model upload.
-- Seamless integration of QR codes into product pages for AR viewing.
-- An immersive, interactive product viewing experience on mobile devices.
-- Streamlined merchant experience directly embedded into the Adobe Commerce admin.
-- Compatibility with Adobe Commerce Cloud and On-prem customers (2.4.x+)
-- By incorporating AR Viewer into your store, you're offering more than just products; you're creating a captivating, immersive shopping experience that encourages customers to make confident purchasing decisions. 
+* Easy-to-use interface for uploading 3D models of your products.
+* Automatic QR code generation upon 3D model upload.
+* Seamless integration of QR codes into product pages for AR viewing.
+* An immersive, interactive product viewing experience on mobile devices.
+* Streamlined merchant experience directly embedded into the Adobe Commerce admin.
+* Compatibility with Adobe Commerce Cloud and On-prem customers (2.4.x+)
+* By incorporating AR Viewer into your store, you're offering more than just products; you're creating a captivating, immersive shopping experience that encourages customers to make confident purchasing decisions. 
 
 ## Adding the 3D model to a product 
 

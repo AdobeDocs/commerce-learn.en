@@ -27,7 +27,7 @@ Learn how to manage an Adobe Commerce Optimizer instance to update the name and 
 * Update name and descriptions
 * Find key endpoints and identifiers for integrations
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
 
 ## Related Content
 

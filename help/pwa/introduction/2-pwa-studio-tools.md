@@ -17,14 +17,14 @@ exl-id: 23851297-c638-412c-b070-ae616ad73883
 
 In this video:
 
-- Introduction to PWA Studio
-- PWA tools
+* Introduction to PWA Studio
+* PWA tools
 
 ## Who is this video for?
 
-- Frontend developers
-- Project managers
+* Frontend developers
+* Project managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35716?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35716?learn=on)

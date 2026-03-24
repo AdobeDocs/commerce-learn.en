@@ -26,7 +26,7 @@ Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This t
 * Use the correct REST API endpoint format for Commerce as a Cloud Service
 * Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Code samples
 

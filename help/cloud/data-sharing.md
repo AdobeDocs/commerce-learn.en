@@ -18,13 +18,13 @@ Seamlessly integrate with Adobe Experience Cloud products to create personalized
 
 ## Who is this video for
 
-- Businesses and e-commerce companies looking to enhance customer loyalty
-- Retailers, telecommunications companies, and brands aiming to integrate their data seamlessly across Adobe Experience Cloud 
+* Businesses and e-commerce companies looking to enhance customer loyalty
+* Retailers, telecommunications companies, and brands aiming to integrate their data seamlessly across Adobe Experience Cloud 
 
 ## Video Content
  
-- Enhanced personalization through the Adobe Commerce's native data sharing capabilities 
-- Increased Customer Engagement and Loyalty
-- Seamless Integration and Unified Customer View
+* Enhanced personalization through the Adobe Commerce's native data sharing capabilities 
+* Increased Customer Engagement and Loyalty
+* Seamless Integration and Unified Customer View
 
  >[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

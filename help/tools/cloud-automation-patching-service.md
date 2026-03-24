@@ -23,7 +23,7 @@ Adobe's Cloud Automation Patching Service (CAPS), a feature within the Adobe Com
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
 
 ## Related Documentation
 

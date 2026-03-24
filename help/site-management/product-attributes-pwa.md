@@ -19,14 +19,14 @@ In this video, learn how to manage product attributes when you have a storefront
 
 ## Who is this video for?
 
-- Frontend developers
-- Project managers
+* Frontend developers
+* Project managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343788?learn=on)
 
 ## Additional resources
 
-- [Product attributes - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
-- [PWA Studio - Developer documentation](https://developer.adobe.com/commerce/pwa-studio/)
+* [Product attributes - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [PWA Studio - Developer documentation](https://developer.adobe.com/commerce/pwa-studio/)

@@ -28,4 +28,4 @@ Learn about Adobe's success accelerators for organizational readiness. A few exa
 * Change Management and Communication Strategies
 * Digital Review and Benchmarking
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)

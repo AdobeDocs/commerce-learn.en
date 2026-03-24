@@ -27,7 +27,7 @@ Learn why centralized observability is essential for modern Adobe Commerce archi
 * Centralized Observability Is Key: Correlate logs and metrics across all components.
 * Boost Checkout Performance: Identify bottlenecks fast to keep shopping smooth.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

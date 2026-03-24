@@ -17,10 +17,10 @@ Learn about Adobe Commerce's advanced search capabilities, powered by Adobe AI, 
 
 ## Who are these video for?
  
-- E-commerce managers
-- Commerce merchandisers
-- Website marketers
-- Software Developers
+* E-commerce managers
+* Commerce merchandisers
+* Website marketers
+* Software Developers
 
 ## Catalog Management 
 
@@ -28,9 +28,9 @@ Discover Adobe Commerce's powerful catalog management tools designed for e-comme
 
 ## Catalog Management Video Content  
  
-- Efficient Catalog Management.
-- Advanced Integration and Customization.
-- Enhanced Shopping Experience.
+* Efficient Catalog Management.
+* Advanced Integration and Customization.
+* Enhanced Shopping Experience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
@@ -40,9 +40,9 @@ Discover the advanced search capabilities of Adobe Commerce Live Search, powered
 
 ## Live Search Video Content
 
-- AI-Driven Search Optimization: Adobe Commerce's Live Search leverages AI and machine learning to deliver highly relevant and efficient search results.
-- Customizable Search Experience: Features like advanced search rules, synonyms, and facets allow for a tailored and optimized search experience for customers.
-- B2B Integration: Live Search supports B2B models with shared catalogs and specific pricing, enhancing its versatility for various business needs.
+* AI-Driven Search Optimization: Adobe Commerce's Live Search leverages AI and machine learning to deliver highly relevant and efficient search results.
+* Customizable Search Experience: Features like advanced search rules, synonyms, and facets allow for a tailored and optimized search experience for customers.
+* B2B Integration: Live Search supports B2B models with shared catalogs and specific pricing, enhancing its versatility for various business needs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on) 
 
@@ -52,9 +52,9 @@ Adobe Commerce empowers store managers to effortlessly create and manage product
 
 ## Promotions Video Content
 
-- No-Code Promotions Management.
-- Advanced Promotion Strategies.
-- Seamless Integration with third-party systems, enhancing flexibility and automation.
+* No-Code Promotions Management.
+* Advanced Promotion Strategies.
+* Seamless Integration with third-party systems, enhancing flexibility and automation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on) 
 >

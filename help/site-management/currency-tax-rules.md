@@ -19,14 +19,14 @@ Tax rules incorporate a combination of product class, customer class, and tax ra
 
 ## Who is this video for?
 
-- Store administrators
-- eCommerce managers
+* Store administrators
+* eCommerce managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## Additional resources
 
-- [Tax rules - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Currency - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+* [Tax rules - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [Currency - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

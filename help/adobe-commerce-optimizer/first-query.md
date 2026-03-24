@@ -24,7 +24,7 @@ Learn how to query data using GraphQL on an Adobe Commerce Optimizer instance.
 * Query data using GraphQL
 * Using jq to make json easier to read
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Code Samples
 

@@ -19,11 +19,11 @@ If there are others on your team or service providers who need access, you can c
 
 ## Who is this video for?
 
-- Store administrators
+* Store administrators
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## Additional resources
 

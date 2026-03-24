@@ -27,7 +27,7 @@ Watch a live demo of observability in Adobe Commerce. This demo shows how webhoo
 * Explains correlation of webhooks and events for traceability
 * Shows integration with Grafana and New Relic for logs and traces
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

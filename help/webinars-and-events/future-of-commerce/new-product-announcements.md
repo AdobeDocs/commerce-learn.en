@@ -29,7 +29,7 @@ In the first of a four-part webinar series, Adobe Commerce introduces two ground
 * Adobe Commerce Optimizer enables businesses with complex or legacy systems to modernize their customer experience without a full re-platform, serving as a bridge to the cloud service.
 * Flexible, incremental adoption paths allow businesses to transition at their own pace, with continued support for existing solutions and extended version support timelines.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458484/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
 
 ## Additional Videos in this series
 

@@ -17,11 +17,11 @@ exl-id: df79e9d8-5047-4063-b37d-184fcf0c0ac4
 
 ## Who is this video for?
 
-- Frontend developers
+* Frontend developers
 
 ## Video Content
 
->[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35784?learn=on)
 
 ## Useful resources
 

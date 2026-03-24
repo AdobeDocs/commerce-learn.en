@@ -19,19 +19,19 @@ exl-id: 26b1b560-c155-4316-9481-44679bf9216a
 
 In this video:
 
-- What is PWA (Progressive Web Application)?
-- Why is PWA the future for ecommerce?
+* What is PWA (Progressive Web Application)?
+* Why is PWA the future for ecommerce?
 
 ## Who is this video for?
 
-- Frontend developers
-- Project managers
+* Frontend developers
+* Project managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35715?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35715?learn=on)
 
 ## Useful resources
 
-- [PWA Studio documentation](https://developer.adobe.com/commerce/pwa-studio/)
-- [PWA Studio GitHub repository](https://github.com/magento/pwa-studio)
+* [PWA Studio documentation](https://developer.adobe.com/commerce/pwa-studio/)
+* [PWA Studio GitHub repository](https://github.com/magento/pwa-studio)

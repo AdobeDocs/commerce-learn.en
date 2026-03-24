@@ -27,4 +27,4 @@ Learn how Adobe Commerce enables marketers to manage content independently with 
 * Discover how AI-powered variations and A/B testing improve content quality and engagement.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478791/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478791?learn=on)

@@ -31,4 +31,4 @@ Implementing a code freeze during your Adobe Commerce migration is crucial for e
 * Coordinating manual and automated tests, load testing, and penetration testing to ensure all aspects of the site function as expected.
 * Engaging business stakeholders, developers, and IT teams in the validation process to ensure a smooth and successful launch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)

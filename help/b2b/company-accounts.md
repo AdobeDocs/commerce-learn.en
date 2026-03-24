@@ -21,15 +21,15 @@ For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company a
 
 ## Who is this video for?
 
-- Website managers
-- Sales Representatives
-- Customer Service Representatives
+* Website managers
+* Sales Representatives
+* Customer Service Representatives
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Additional resources
 
-- [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Manage Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+* [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+* [Manage Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

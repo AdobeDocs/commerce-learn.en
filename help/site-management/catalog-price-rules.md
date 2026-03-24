@@ -20,14 +20,14 @@ Catalog price rules can be used to offer products to buyers at a discounted pric
 
 ## Who is this video for?
 
-- eCommerce marketers
-- Website managers
+* eCommerce marketers
+* Website managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## Additional resources
 
-- [Create a Catalog Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Catalog price rule with multiple SKUs - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+* [Create a Catalog Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [Catalog price rule with multiple SKUs - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

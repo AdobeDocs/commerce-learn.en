@@ -30,7 +30,7 @@ A module is a structural element of [!DNL Commerce]—modules form the backbone 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### The module.xml file
 
 ```xml
 <?xml version="1.0"?>
@@ -44,7 +44,7 @@ A module is a structural element of [!DNL Commerce]—modules form the backbone 
 </config>
 ```
 
-### registration.php
+### The registration.php file
 
 ```php
 <?php
@@ -57,7 +57,7 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Add a plugin and provide some functionality
+### Add a plugin
 
 Next, you add functionality to your basic module. You use plugins as essential tools in Adobe Commerce development. This video and tutorial show you how to create a plugin.
 

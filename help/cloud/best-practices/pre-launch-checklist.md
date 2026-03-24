@@ -1,19 +1,17 @@
 ---
 title: Adobe Commerce Cloud pre-launch checklist
-description: Learn about the Adobe Commerce Cloud pre-launch checklist.
+description: Learn about the Adobe Commerce Cloud pre-launch checklist and how to work through it with your integrator before go-live.
 feature: Cloud
 topic: Commerce, Architecture, Development
-old-role: Architect, Developer
-role: Developer
+role: Admin, Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 451
 last-substantial-update: 2024-04-17
 jira: KT-15180
-kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 ---
-# Commerce Cloud Pre-Launch Checklist
+# Pre-Launch checklist
 
 The following is a synopsis of the Adobe Commerce [Site launch documentation](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
 
@@ -21,8 +19,8 @@ This checklist aims to assist in planning and executing a successful launch of t
 
 If you have a CTA/CSE assigned to the account, contact them and the Account Manager at least 4 weeks prior to launching the new Adobe Commerce Cloud site to notify them of your **intention** to launch.
 
-- Some checks are highlighted with [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
-- Ensure to collaborate with your developer or system integration partner to align with your implementation approach.
+* Some checks are highlighted with [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} as they may potentially block your go-live if not carefully reviewed.
+* Collaborate with your developer or system integration partner so your implementation approach stays aligned.
 
 >[!IMPORTANT]
 > You accept [responsibility](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"} for any adverse effects and associated risks to the production launch schedule and ongoing site stability, if you fail to use and complete this checklist.
@@ -76,10 +74,10 @@ If you have a CTA/CSE assigned to the account, contact them and the Account Mana
 
 Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both the staging and production environments. Galera clusters are instrumental in enhancing performance and scalability. To gain insights into the optimal practices and constraints of Galera cluster replications, refer to the following articles.
 
-- [MySQL Configurations best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
-- Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
-- Best practices for [database configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-- Deep analysis to [Galera cluster replications and flow-control.](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}  
+* [MySQL Configurations best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
+* Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
+* Best practices for [database configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
+* Deep analysis to [Galera cluster replications and flow-control.](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}
 
 1. [MYSQL Slave connection](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} is recommended for improved performance during high database loads.
 2. Ensure that the row format for all database tables is set to [DYNAMIC instead of COMPACT](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (This is especially true for on-prem to cloud migrations).
@@ -105,7 +103,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
     >[!IMPORTANT]
     > **_WARNING:_** When preparing a load test please_ **_do not_** send out live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch. 
     > 
-    > - How to disable email communication:
+    > * How to disable email communication:
     >   Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
 
 4. Conduct security penetration testing on the production instance as part of the [shared responsibility security model](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
@@ -166,22 +164,22 @@ When it is time to cutover, please perform the following steps (for more informa
 
 ### If you have an issue blocking the go-live:
 
-If you encounter any problems any issues preventing you from launching during the cutover, the fastest method to get proper timely support is to utilize the help desk and open a ticket with the reason "Unable to launch my store", and calling a hotline support number (see [the list of Adobe Commerce P1 (Priority 1) hotline numbers](https://support.magento.com/hc/en-us/articles/360042536151){target="_blank"}):
+If you encounter any problems preventing you from launching during the cutover, the fastest way to get timely support is to use the help desk and open a ticket with the reason "Unable to launch my store", and call a hotline support number (see [the list of Adobe Commerce P1 (Priority 1) hotline numbers](https://support.magento.com/hc/en-us/articles/360042536151){target="_blank"}):
 
-- US Toll Free: (+1) 877 282 7436 (direct to Adobe Commerce P1 hotline)
-- US Toll Free: (+1) 800 685 3620 (At first menu, press 7 for Adobe Commerce P1 hotline)
-- US Local: (+1) 408 537 8777
+* US Toll Free: (+1) 877 282 7436 (direct to Adobe Commerce P1 hotline)
+* US Toll Free: (+1) 800 685 3620 (At first menu, press 7 for Adobe Commerce P1 hotline)
+* US Local: (+1) 408 537 8777
 
 ## 11. Post Go-Live
 
 Once the site is live, email the assigned CTA (Customer Technical Advisory), CSE (Customer Success Engineer) and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live. The CTA/CSE performs the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
 
-- Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
-- Activate New Relic Synthetics for uptime monitoring.
+* Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
+* Activate New Relic Synthetics for uptime monitoring.
 
 >[!MORELIKETHIS]
 > 
-> - [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
-> - [Launch Checklist - User Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
-> - [Prelaunch Checklist - Site Manager/Commerce Admin's Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
-> - [Shared responsibility security model](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
+> * [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
+> * [Launch Checklist - User Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
+> * [Prelaunch Checklist - Site Manager/Commerce Admin's Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
+> * [Shared responsibility security model](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

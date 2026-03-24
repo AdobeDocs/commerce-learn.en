@@ -97,11 +97,11 @@ auto-video-transcripts: true
         + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
         + [MySQL query cache](../backend-development/mysql-query-cache.md)
         + [PT Query Digest](../backend-development/pt-query-digest.md)
-        + [Connecting to and downloading the Adobe Commerce Database](../backend-development/remote-db-connection-execute-queries.md)
+        + [Connect and run queries against the Adobe Commerce database](../backend-development/remote-db-connection-execute-queries.md)
         + Commerce Upgrades {#upgrade}
             + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
             + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
-            + [Use the Upgrade Compatibility Tool in PHP Storm](../upgrade/uct-phpstorm.md)
+            + [Use the Upgrade Compatibility Tool in PhpStorm](../upgrade/uct-phpstorm.md)
     + Front-end Luma Development {#frontend-development}
         + PaaS/SaaS Page Builder for Developers {#page-builder}
             + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -120,17 +120,17 @@ auto-video-transcripts: true
                 + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
                 + [Customize checkout](../edge-delivery-services/customize-checkout.md)
                 + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
-                + [Shopper-experience](../edge-delivery-services/shopper-experience.md)
+                + [Shopper experience](../edge-delivery-services/shopper-experience.md)
         + Headless Architecture {#headless-architecture}    
             + Introduction to headless {#introduction-to-headless}
                 + [Headless Architecture - Session 1](../headless/session-1.md) 
             + Introduction to PWA Studio {#introduction}
-                + [1 - Overview](../pwa/introduction/1-overview.md)
-                + [2 - PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
-                + [3 - Launch](../pwa/introduction/3-launch.md)
-                + [4 - UPWARD](../pwa/introduction/4-upward.md)
-                + [5 - Getting started](../pwa/introduction/5-getting-started.md)
-                + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+                + [Overview](../pwa/introduction/1-overview.md)
+                + [PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
+                + [Launch](../pwa/introduction/3-launch.md)
+                + [UPWARD](../pwa/introduction/4-upward.md)
+                + [Getting started](../pwa/introduction/5-getting-started.md)
+                + [Peregrine](../pwa/introduction/6-peregrine.md)
             + [PWA Docker Development](../pwa/pwa-docker-development.md)
             + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
     + GraphQL and REST {#graphql-rest}

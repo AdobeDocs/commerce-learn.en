@@ -27,4 +27,4 @@ Adobe Commerce provides comprehensive customer support through various plans and
 * Learn what are available add-ons.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)

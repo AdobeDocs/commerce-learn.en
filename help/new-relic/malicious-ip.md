@@ -20,6 +20,6 @@ exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
 
 In this video:
 
-- Identify a potential IP that is suspicious or malicious​ to be used in Fastly to block it
+* Identify a potential IP that is suspicious or malicious​ to be used in Fastly to block it
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412088?learn=on)

@@ -16,12 +16,12 @@ exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
 
 In this video:
 
-- [!DNL Admin] user accounts
-- User roles and permissions
+* [!DNL Admin] user accounts
+* User roles and permissions
 
 ## Who is this video for?
 
-- Business users
+* Business users
 
 ## Video content
 
@@ -29,7 +29,7 @@ In this video:
 >
 >The content in the video reflects the 2.3.1 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35947?learn=on)
 
 ## Additional resources
 

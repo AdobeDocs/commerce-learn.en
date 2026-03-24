@@ -38,9 +38,9 @@ When creating configurable products from the Adobe Commerce Admin, you can eithe
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
-- New Adobe Commerce developers who want to learn how to create configurable products in Adobe Commerce using the REST API
+* Website managers
+* eCommerce merchandisers
+* New Adobe Commerce developers who want to learn how to create configurable products in Adobe Commerce using the REST API
 
 ## Video content
 
@@ -95,8 +95,8 @@ Create the first simple product by using the API to send the following POST requ
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute-set": 10` to replace `10` with the attribute set ID from your environment.
-- Change `"value": "13"` to replace `13` with the value from your environment.
+* Change `"attribute-set": 10` to replace `10` with the attribute set ID from your environment.
+* Change `"value": "13"` to replace `13` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -136,8 +136,8 @@ Create the second simple product by using the API to send the following POST req
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from in your environment.
-- Change `"value": "14"` and replace `14` with the value from your environment.
+* Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from in your environment.
+* Change `"value": "14"` and replace `14` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -177,8 +177,8 @@ Create the third simple product by sending the following POST request using cURL
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute_set_id": 10,` to replace `10` with the attribute set ID from your environment.
-- Change `"value": "15"` and replace `15` with the value from your environment.
+* Change `"attribute_set_id": 10,` to replace `10` with the attribute set ID from your environment.
+* Change `"value": "15"` and replace `15` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -218,8 +218,8 @@ Create an empty configurable product by sending the following POST request using
 
 Before submitting the request, update the example with values for your environment.
 
-- Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from your environment.
-- Change `"value": "93"` and replace `93` with the value from your environment.
+* Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from your environment.
+* Change `"value": "93"` and replace `93` with the value from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -279,9 +279,9 @@ If you forget to set the options for the configurable product (parent), you get 
 
 Now, you have created three simple products:
 
-- `"Kids Hawaiian Ukulele Red"`,
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
 Add these simple products as children of the configurable product by sending the following POST request. Submit a separate request for each product.
 
@@ -342,7 +342,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Additional resources
 
-- [Create a configurable product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Configurable Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
-- [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Create a configurable product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Configurable Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

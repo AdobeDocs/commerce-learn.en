@@ -20,8 +20,8 @@ Learn about Adobe Commerce Intelligence. This tutorial provides an overview of t
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## An introduction to Adobe Commerce Intelligence
 

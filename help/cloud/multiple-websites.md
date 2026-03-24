@@ -17,14 +17,14 @@ Adobe Commerce empowers businesses to manage multiple stores, brands, or website
 
 ## Who is this video for
 
-- Businesses looking to expand their e-commerce operations across multiple regions, brands, or product lines.
-- Store managers, e-commerce directors, and marketing teams.
-- Companies aiming for scalability and flexibility in their online presence.
+* Businesses looking to expand their e-commerce operations across multiple regions, brands, or product lines.
+* Store managers, e-commerce directors, and marketing teams.
+* Companies aiming for scalability and flexibility in their online presence.
 
 ## Video Content
  
-- Multi-Site Management 
-- Localization and Customization
-- Scalability and Flexibility
+* Multi-Site Management 
+* Localization and Customization
+* Scalability and Flexibility
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

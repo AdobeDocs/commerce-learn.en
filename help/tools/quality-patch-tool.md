@@ -17,22 +17,22 @@ exl-id: d3d42654-8574-48d1-814c-ec46107f1371
 
 The Quality Patch Tool is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source. It allows you to:
 
-- View general information about the latest quality patches
-- Apply quality patches
-- Revert applied patches
+* View general information about the latest quality patches
+* Apply quality patches
+* Revert applied patches
 
 The Adobe Commerce support team and the Magento Open Source community develop the quality patches.
 
 ## Who is this video for?
 
-- Backend developers
-- Site managers
+* Backend developers
+* Site managers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
 
 ## Additional resources
 
-- [Quality Patch Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Quality patch tool on GitHub](https://github.com/magento/quality-patches)
+* [Quality Patch Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Quality patch tool on GitHub](https://github.com/magento/quality-patches)

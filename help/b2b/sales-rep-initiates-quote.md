@@ -21,8 +21,8 @@ Learn how the sales representative can initiate the quote from the admin panel, 
 
 ## Who is this video for?
 
-- Website managers
-- eCommerce merchandisers
+* Website managers
+* eCommerce merchandisers
 
 ## Video content
 

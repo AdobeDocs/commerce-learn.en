@@ -17,13 +17,13 @@ exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
 
 ## Who is this video for?
 
-- Frontend developers
-- Project managers
-- New developers to Adobe Commerce
+* Frontend developers
+* Project managers
+* New developers to Adobe Commerce
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35785?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35785?learn=on)
 
 ## Useful resources
 

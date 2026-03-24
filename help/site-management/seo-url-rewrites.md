@@ -20,15 +20,15 @@ The URL Rewrite tool lets you change any URL that is associated with a product, 
 
 ## Who is this video for?
 
-- Website manager
-- eCommerce merchandisers
-- eCommerce marketers
+* Website manager
+* eCommerce merchandisers
+* eCommerce marketers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
 
 ## Additional resources
 
-- [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+* [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

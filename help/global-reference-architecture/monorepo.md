@@ -28,18 +28,18 @@ The Monorepo GRA pattern involves a single Git repository to host all common cus
 
 Advantages:
 
-- Ideal for functional testing
-- Code reuse through a shared code repositories
-- Complete flexibility in package installation, each GRA package can be upgraded, downgraded or backported individually
-- Full support for semantic versioning
-- No special tooling, complex infrastructure or special branching strategy required
-- Support for all package types that Composer supports
-- Ideal for ephemeral environments, which are optional, but for high volume delivery teams they are very useful
+* Ideal for functional testing
+* Code reuse through a shared code repositories
+* Complete flexibility in package installation, each GRA package can be upgraded, downgraded or backported individually
+* Full support for semantic versioning
+* No special tooling, complex infrastructure or special branching strategy required
+* Support for all package types that Composer supports
+* Ideal for ephemeral environments, which are optional, but for high volume delivery teams they are very useful
 
 Disadvantages:
 
-- Possible to deploy combinations of packages that were not developed in the same configuration, need for strict test procedures
-- The monorepo GRA pattern can be complex at the start. Assign a lead that helps the team work with the system
+* Possible to deploy combinations of packages that were not developed in the same configuration, need for strict test procedures
+* The monorepo GRA pattern can be complex at the start. Assign a lead that helps the team work with the system
 
 ## Set up Adobe Commerce with the Separate Packages GRA pattern
 
@@ -343,5 +343,5 @@ If you use ephemeral environments or you plan to use them, the monorepo is an ex
 
 The code examples of this article have been combined in a set of Git repositories, which you can use to play around with the proof of concept.
 
-- An example monorepo repository: <https://github.com/AntonEvers/gra-monorepo>
-- An example production store: <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* An example monorepo repository: <https://github.com/AntonEvers/gra-monorepo>
+* An example production store: <https://github.com/AntonEvers/gra-monorepo-brand-x>

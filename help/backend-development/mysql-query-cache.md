@@ -19,20 +19,20 @@ Learn what MySQL query cache is and some basic understanding for how it works. L
 
 ## Who is this video for?
 
-- Architects
-- Developers
-- DevOps
+* Architects
+* Developers
+* DevOps
 
 ## Video content
 
-- Learn about query caching
-- How to detect if your query cache settings may be an issue by finding "waiting for query cache lock"
-- See how the SQL is saved and used in finding a matching query cache
-- Some tips on configuration settings
+* Learn about query caching
+* How to detect if your query cache settings may be an issue by finding "waiting for query cache lock"
+* See how the SQL is saved and used in finding a matching query cache
+* Some tips on configuration settings
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Useful resources
 
-- [General MySQL guidelines](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
-- [Galera replication and slow queries](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
+* [General MySQL guidelines](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+* [Galera replication and slow queries](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

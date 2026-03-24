@@ -30,7 +30,7 @@ Discover how Adobe Commerce empowers businesses to fast-track their digital expa
 * Seamless Integration of First- and Third-Party Product Assortments
 * Accelerated Storefront Development with Drop-ins and Themes
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
 
 ## Additional Videos in this series
 

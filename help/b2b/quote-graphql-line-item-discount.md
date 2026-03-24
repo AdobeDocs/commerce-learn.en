@@ -21,7 +21,7 @@ Learn how to use the line item discount and see the values using GraphQL
 
 ## Who is this video for?
 
-- Developers
+* Developers
 
 ## Video content
 

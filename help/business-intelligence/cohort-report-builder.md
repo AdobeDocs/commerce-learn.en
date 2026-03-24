@@ -22,9 +22,9 @@ Have you ever wanted to study how different subsets of your users behave over ti
 
 In this video:
 
-- What cohort analysis is
-- Why it's important
-- How to build your own cohort analysis
+* What cohort analysis is
+* Why it's important
+* How to build your own cohort analysis
 
 >[!TIP]
 >
@@ -32,12 +32,12 @@ In this video:
 
 ## Who is this video for?
 
-- Business users
-- Data analysts
+* Business users
+* Data analysts
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/342407?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
 
 ## Useful resources
 

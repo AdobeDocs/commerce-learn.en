@@ -21,7 +21,7 @@ Learn how to use the line item notes for an Adobe Commerce B2B quote through the
 
 ## Who is this video for?
 
-- Developers
+* Developers
 
 ## Video content
 
