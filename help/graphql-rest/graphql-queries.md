@@ -5,6 +5,7 @@ landing-page-description: Learn how to perform a query using GraphQL on Adobe Co
 short-description: Learn how to perform a query using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. This is an introduction to GraphQL using GET and POST calls.
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12
 feature: GraphQL

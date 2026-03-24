@@ -3,6 +3,7 @@ title: Change a store URL
 description: Learn how to change your [!DNL Commerce] store base URL in the Admin.
 kt: 5605
 doc-type: feature video
+duration: 136
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

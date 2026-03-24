@@ -6,7 +6,7 @@ topic: Architecture, Development
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 279
+duration: 181
 last-substantial-update: 2026-01-12
 jira: KT-20092
 exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb

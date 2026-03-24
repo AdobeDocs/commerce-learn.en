@@ -6,7 +6,7 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8

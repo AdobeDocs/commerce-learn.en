@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Store views and cache clearing"
 description: Learn how to create store views and clear the cache.
 kt: 5761
 doc-type: video
+duration: 490
 activity: use
 last-substantial-update: 2022-12-28
 feature: Configuration, System

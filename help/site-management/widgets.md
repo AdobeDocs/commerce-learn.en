@@ -10,7 +10,7 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-duration: 216
+duration: 232
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
 ---
 # Create Widgets

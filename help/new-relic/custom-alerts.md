@@ -6,7 +6,7 @@ topic: Security
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 183
+duration: 207
 last-substantial-update: 2024-12-11
 jira: KT-16606
 exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4

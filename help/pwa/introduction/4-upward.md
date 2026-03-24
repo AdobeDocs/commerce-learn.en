@@ -3,6 +3,7 @@ title: PWA Studio for developers - UPWARD
 description: Learn about UPWARD (Unified Progressive Web App Response Definition).
 kt: 5647
 doc-type: video
+duration: 159
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services

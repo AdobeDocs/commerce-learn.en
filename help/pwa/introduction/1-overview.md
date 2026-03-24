@@ -5,6 +5,7 @@ landing-page-description: Watch this video series to learn about Progressive Web
 short-description: Watch this video series to learn about Progressive Web Applications (PWAs) and why PWA Studio is the future for [!DNL Commerce] sites.
 kt: 5644
 doc-type: video
+duration: 658
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services

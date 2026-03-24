@@ -2,6 +2,7 @@
 title: Using Adobe Commerce REST API for line item notes
 description: Learn about line item notes on a B2B quote in Adobe Commerce using REST API
 doc-type: feature video
+duration: 176
 audience: all
 activity: use
 kt: 13801

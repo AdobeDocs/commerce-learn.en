@@ -6,7 +6,7 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 126
 last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382

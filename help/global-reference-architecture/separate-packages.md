@@ -3,6 +3,7 @@ title: Separate Packages Global Reference Architecture
 description: Optimize Adobe Commerce with Separate Packages GRA. Learn setup, benefits, and best practices for flexible, versioned package management.
 jira: KT-16727
 doc-type: tutorial
+duration: 594
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install

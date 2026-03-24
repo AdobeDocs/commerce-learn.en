@@ -3,6 +3,7 @@ title: Create a simple product
 description: Learn how to create a simple product using the REST API and the Commerce Admin.
 kt: 14446
 doc-type: video
+duration: 197
 audience: all
 activity: use
 last-substantial-update: 2023-11-14

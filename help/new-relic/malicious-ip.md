@@ -5,6 +5,7 @@ landing-page-description: This video instructs a user of New Relic to find poten
 short-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
 kt: 11566
 doc-type: video
+duration: 153
 audience: all
 activity: use
 last-substantial-update: 2022-12-9

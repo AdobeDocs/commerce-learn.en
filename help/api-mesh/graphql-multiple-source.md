@@ -5,6 +5,7 @@ landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!D
 short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

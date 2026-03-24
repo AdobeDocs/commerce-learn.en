@@ -3,6 +3,7 @@ title: Configure Adobe Commerce Services Connector
 description: Learn how to configure the Adobe Commerce Services Connector for use with Commerce SaaS products and learn how to resolve common issues.
 kt: 14777
 doc-type: video
+duration: 521
 audience: all
 activity: use
 last-substantial-update: 2024-01-09

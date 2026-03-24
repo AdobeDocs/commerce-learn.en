@@ -2,6 +2,7 @@
 title: Using Adobe Commerce show a line item discount for a quote
 description: Learn about line item discounts on a B2B quote in Adobe Commerce
 doc-type: feature video
+duration: 231
 audience: all
 activity: use
 kt: 13797

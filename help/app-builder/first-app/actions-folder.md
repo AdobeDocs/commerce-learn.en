@@ -4,6 +4,7 @@ description: Learn about the types of files in the actions folder for this sampl
 landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files go in the actions folder.
 kt: 12422
 doc-type: tutorial
+duration: 465
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

@@ -5,6 +5,7 @@ landing-page-description: Learn how to create an Adobe Commerce module to use ev
 short-description: Learn how to create an Adobe Commerce module to use events.
 kt: 11891
 doc-type: tutorial
+duration: 348
 audience: all
 last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development

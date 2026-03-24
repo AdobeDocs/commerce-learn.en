@@ -6,7 +6,7 @@ topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
-duration: 180
+duration: 242
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e

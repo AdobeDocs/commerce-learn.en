@@ -4,6 +4,7 @@ description: Learn about the types of files in the .env file for this sample app
 landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types content is used in the .env file
 kt: 12423
 doc-type: tutorial
+duration: 177
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

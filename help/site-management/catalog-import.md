@@ -3,6 +3,7 @@ title: Learn about catalog import options that come native with Adobe Commerce
 description: Learn how a few of the native options for importing your catalog to your Adobe Commerce store.
 kt: 13634
 doc-type: tutorial
+duration: 211
 audience: all
 activity: use
 last-substantial-update: 2023-8-15

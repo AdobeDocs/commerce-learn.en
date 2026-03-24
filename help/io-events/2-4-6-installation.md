@@ -5,6 +5,7 @@ landing-page-description: Learn how to install several modules needed for Adobe 
 short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
+duration: 167
 audience: all
 last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6

@@ -6,7 +6,7 @@ topic: Development, Integrations
 role: Architect, Developer
 level: Beginner
 doc-type: Tutorial
-duration: 225
+duration: 457
 last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a

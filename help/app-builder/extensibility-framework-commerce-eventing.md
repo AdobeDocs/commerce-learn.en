@@ -5,6 +5,7 @@ landing-page-description: Learn about Unified Extensibility Framework and commer
 short-description: Learn about Unified Extensibility Framework and commerce evening
 kt: 11740
 doc-type: tutorial
+duration: 298
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development

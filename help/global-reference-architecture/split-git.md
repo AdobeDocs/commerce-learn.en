@@ -3,6 +3,7 @@ title: Setting Up Adobe Commerce with the Split Git Global Reference Architectur
 description: Learn how to set up Adobe Commerce using the Split Git Global Reference Architecture for efficient code management and streamlined deployment. ​
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install

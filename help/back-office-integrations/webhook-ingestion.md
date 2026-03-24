@@ -4,7 +4,7 @@ description: Learn how to set up and customizing an ingestion webhook to facilit
 landing-page-description: Learn how to use the Commerce Integration Starter Kit to integrate Commerce with a third party back office system using an ingestion webhook.
 kt: 15870
 doc-type: video
-duration: 593
+duration: 697
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration

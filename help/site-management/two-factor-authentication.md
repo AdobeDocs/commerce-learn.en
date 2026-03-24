@@ -3,6 +3,7 @@ title: Two-factor authentication
 description: Adobe Commerce and Magento Open Source support two-factor authentication (2FA) methods from multiple providers. Learn how two-factor authentication features help to secure the Admin of your store.
 kt: 9443
 doc-type: feature video
+duration: 421
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

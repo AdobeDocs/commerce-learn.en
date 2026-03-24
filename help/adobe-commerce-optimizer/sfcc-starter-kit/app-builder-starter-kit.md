@@ -7,7 +7,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0

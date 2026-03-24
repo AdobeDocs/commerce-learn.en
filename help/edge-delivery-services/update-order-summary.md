@@ -6,7 +6,7 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 269
+duration: 292
 last-substantial-update: 2024-12-17
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b

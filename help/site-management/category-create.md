@@ -3,6 +3,7 @@ title: Create a Category
 description: Learn how to define the basic category structure for your product catalog.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28

@@ -4,6 +4,7 @@ description: Learn how to implement a global reference architecture. Learn ideas
 landing-page-description: Learn how to implement a Global Reference Architecture with Adobe Commerce
 kt: 14042
 doc-type: video
+duration: 2289
 audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install

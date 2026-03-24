@@ -6,7 +6,7 @@ topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 512
+duration: 570
 last-substantial-update: 2024-01-17
 jira: KT-14793
 thumbnail: 3426855.jpeg

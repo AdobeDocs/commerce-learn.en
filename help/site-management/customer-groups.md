@@ -3,6 +3,7 @@ title: Create Customer Groups
 description: Learn how to create a customer group and how to assign customers to specific groups, which determine the discounts that are available and the associated tax class.
 kt: 10546
 doc-type: feature video
+duration: 141
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Product categories"
 description: Learn how to manage your product catalog by setting up categories.
 kt: 5765
 doc-type: videos
+duration: 760
 activity: use
 last-substantial-update: 2022-12-28
 topic: Commerce, Administration, Content Management

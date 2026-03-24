@@ -5,6 +5,7 @@ landing-page-description: Discover how to use Adobe Developer console. Learn abo
 short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
 kt: 11803
 doc-type: tutorial
+duration: 593
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

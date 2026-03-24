@@ -4,6 +4,7 @@ description: Learn how to test your first Adobe Developer App Builder app.
 landing-page-description: Learn how to test your first Adobe Developer App Builder app.
 kt: 12427
 doc-type: tutorial
+duration: 85
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

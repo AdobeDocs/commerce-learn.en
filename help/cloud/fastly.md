@@ -7,7 +7,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 811
 last-substantial-update: 2024-03-05
 jira: KT-15018
 kt: 15018

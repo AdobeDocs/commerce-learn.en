@@ -2,6 +2,7 @@
 title: Use Payment Services
 description: Learn how to add Payment Services to your store and reduce operational overhead, increase revenue, and improve the entire shopper experience.
 doc-type: feature video
+duration: 134
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

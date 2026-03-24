@@ -3,6 +3,7 @@ title: Add a JavaScript module
 description: This video provides a walk-through for developing a simple JS module that provides the greeting "Hello World".
 kt: 5612
 doc-type: video
+duration: 260
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development

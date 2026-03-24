@@ -9,7 +9,7 @@ feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 

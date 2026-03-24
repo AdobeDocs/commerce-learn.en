@@ -5,6 +5,7 @@ landing-page-description: Learn how to create an Adobe App Builder project to us
 short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
 kt: 11888
 doc-type: tutorial
+duration: 372
 audience: all
 last-substantial-update: 2023-02-22
 feature: App Builder, Configuration, Backend Development

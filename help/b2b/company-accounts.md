@@ -2,6 +2,7 @@
 title: Manage Company Accounts
 description: Learn how to manage your B2B company accounts, including any pending requests for approval.
 doc-type: feature video
+duration: 172
 audience: all
 activity: use
 kt: 13909

@@ -11,7 +11,7 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
-duration: 101
+duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
 ---
 # The Site-Wide Analysis Tool Dashboard

@@ -3,6 +3,7 @@ title: Learn how the Percona Toolkit pt-query-digest works and why it is used
 description: Analyze MySQL queries from slow, general, and binary log files. It can also analyze queries from `SHOW PROCESSLIST` and MySQL protocol data from tcpdump.
 kt: 13846
 doc-type: video
+duration: 510
 activity: use
 last-substantial-update: 2023-8-28
 feature: Backend Development, Tools and External Services, Logs

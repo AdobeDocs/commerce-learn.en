@@ -3,6 +3,7 @@ title: Adobe Commerce as a Cloud Service overview
 description: Learn about Adobe Commerce as a Cloud Service. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.
 kt: 17219
 doc-type: Technical Video
+duration: 232
 audience: all
 last-substantial-update: 2025-2-3
 feature: Auto Scaling, Cloud, Services

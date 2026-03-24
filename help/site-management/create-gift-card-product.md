@@ -10,7 +10,7 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
 ---
 # Create a gift card product

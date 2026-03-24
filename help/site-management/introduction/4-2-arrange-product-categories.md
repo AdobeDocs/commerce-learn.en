@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Category positioning"
 description: Position products within categories so that customers see the products at the top that you want them to see.
 kt: 5776
 doc-type: video
+duration: 90
 activity: use
 last-substantial-update: 2022-12-28
 topic: Commerce, Administration, Content Management

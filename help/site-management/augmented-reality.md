@@ -3,6 +3,7 @@ title: AR Viewer for Adobe Commerce
 description: Learn about the Augmented Reality Viewing module available on the Commerce Marketplace.
 kt: 13738
 doc-type: video
+duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development

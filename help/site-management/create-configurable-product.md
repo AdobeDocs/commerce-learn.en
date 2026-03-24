@@ -3,6 +3,7 @@ title: Create a configurable product
 description: Learn how to create a configurable product using the REST API and the Commerce Admin.
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15

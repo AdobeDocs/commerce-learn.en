@@ -3,6 +3,7 @@ title: Create a bundle product
 description: Learn how to create a bundle product using the REST API and the Commerce Admin.
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8

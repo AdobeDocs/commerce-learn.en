@@ -1,10 +1,11 @@
 ---
 title: Create a module
-description: Learn how to create a module in Adobe Commerce that sends information to the PSR logger. This adds functionality to your first module in Adobe Commerce.
-kt: 5614
-doc-type: video
+description: Create and register a module in Adobe Commerce, run setup, and add plugins that log to the PSR logger in the admin area, storefront, and REST API contexts.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
@@ -13,20 +14,19 @@ exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 ---
 # Create a module
 
-Module is a structural element of [!DNL Commerce] – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.
+A module is a structural element of [!DNL Commerce]—modules form the backbone of the system. You typically start a customization by building a module.
 
 ## Who is this video for?
 
-- Developers
+* Backend developers
 
 ## Steps to add a module
 
-- Create the module folder.
-- Create the etc/module.xml file.
-- Create the registration.php file.
-- Run the bin/magento setup.
-- Upgrade script to install the new module.
-- Check that the module is working.
+1. Create the module folder.
+2. Create the `etc/module.xml` file.
+3. Create the `registration.php` file.
+4. Run `bin/magento setup:upgrade` to register and install the module.
+5. Check that the module is working.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
@@ -59,22 +59,22 @@ ComponentRegistrar::register(
 
 ### Add a plugin and provide some functionality
 
-The next step is to add some functionality to our basic module. A Plugin is an essential tool that all Adobe Commerce developers use. This video and tutorial help you create a plugin.  
+Next, you add functionality to your basic module. You use plugins as essential tools in Adobe Commerce development. This video and tutorial show you how to create a plugin.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### Things to remember for Plugins
+### Things to remember for plugins
 
-- All plugins are declared in `di.xml`.  
-- The plugin requires a unique name
-- disabled and sortOrder are optional
-- Scope of the plugin is set by the folder that it is inside
-- Plugins can be executed before, after or both (around) the method is called
-- Avoid using `around` plugins. They are tempting to use but often are the wrong choice and will lead to performance issues.
+* You declare all plugins in `di.xml`.
+* You give each plugin a unique name.
+* You can optionally set the `disabled` and `sortOrder` attributes.
+* You set the plugin scope by choosing which folder contains the `di.xml` file.
+* You run plugins before, after, or around the target method call.
+* Avoid `around` plugins. They tempt you, but they often represent the wrong choice and cause performance issues.
 
 ### Plugin code samples
 
-Here are the XML and PHP classes used in the tutorial for adding a plugin to the first module
+The tutorial uses the following XML and PHP classes to add a plugin to your first module.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -280,5 +280,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Useful resources
 
-- [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

@@ -6,7 +6,7 @@ topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 337
+duration: 341
 last-substantial-update: 2026-03-11
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b

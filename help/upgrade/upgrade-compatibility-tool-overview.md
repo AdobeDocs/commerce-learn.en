@@ -5,6 +5,7 @@ landing-page-description: Watch this technical video to learn how the Upgrade Co
 short-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
 kt: 9983
 doc-type: technical video
+duration: 399
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

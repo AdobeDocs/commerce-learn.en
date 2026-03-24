@@ -2,6 +2,7 @@
 title: Manage Order Status
 description: Learn how to check order status and its details, and how to change an order's status.
 doc-type: feature video
+duration: 151
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

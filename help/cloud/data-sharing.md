@@ -6,7 +6,7 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09
 jira: KT-16194
 exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd

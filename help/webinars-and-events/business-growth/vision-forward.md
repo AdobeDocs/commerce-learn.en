@@ -7,7 +7,7 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 976
+duration: 1016
 last-substantial-update: 2025-10-10
 jira: KT-19377
 exl-id: a7f9ce6d-4bad-4fe2-8692-b8a02fc6dde6

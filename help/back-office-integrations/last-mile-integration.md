@@ -4,7 +4,7 @@ description: Last mile integration in Commerce, highlighting extensibility hooks
 landing-page-description: Learn the structure and functions of extensibility hooks in last mile integration for Commerce systems.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration

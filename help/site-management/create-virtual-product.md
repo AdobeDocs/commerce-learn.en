@@ -3,6 +3,7 @@ title: Create a virtual product
 description: Learn how to create a virtual product using the REST API and the Commerce Admin.
 kt: 14464
 doc-type: video
+duration: 213
 audience: all
 activity: use
 last-substantial-update: 2023-11-15

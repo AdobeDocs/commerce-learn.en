@@ -3,6 +3,7 @@ title: Add websites, stores, and store views
 description: Learn how to add new websites, stores, and views according to the needs of your business.
 kt: 5609
 doc-type: feature video
+duration: 464
 audience: all
 activity: use
 last-substantial-update: 2022-12-28

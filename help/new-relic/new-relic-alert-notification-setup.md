@@ -5,6 +5,7 @@ landing-page-description: Learn how to find alerts, policies and delivery mechan
 short-description: Learn how to add a new email address to an existing alert policy in New Relic.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14
 feature: Tools and External Services, Communications, Security

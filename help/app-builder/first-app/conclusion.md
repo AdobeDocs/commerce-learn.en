@@ -4,6 +4,7 @@ description: Learn where to go for more information on App Builder.
 landing-page-description: Learn where to go for more information on App Builder.
 kt: 12428
 doc-type: tutorial
+duration: 100
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development

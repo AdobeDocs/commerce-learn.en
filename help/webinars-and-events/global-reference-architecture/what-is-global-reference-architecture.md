@@ -4,6 +4,7 @@ description: Learn about the technique used for managing complex commerce projec
 landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
 kt: 14039
 doc-type: video
+duration: 1165
 audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install

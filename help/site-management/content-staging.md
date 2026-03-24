@@ -2,6 +2,7 @@
 title: Content Staging
 description: Learn how to create, preview, and schedule a wide range of content updates for your store directly from the Admin.
 doc-type: feature video
+duration: 309
 audience: all
 activity: use
 kt: 13907

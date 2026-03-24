@@ -3,6 +3,7 @@ title: Create Customer Segments
 description: Learn how to dynamically display content and promotions to specific customers, based on properties such as customer address, order history, shopping cart contents.
 kt: 10545
 doc-type: feature video
+duration: 221
 audience: all
 activity: use
 last-substantial-update: 2023-04-27

@@ -6,7 +6,7 @@ topic: Localization, Content Management
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 344
+duration: 365
 last-substantial-update: 2026-01-12
 jira: KT-20086
 exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971

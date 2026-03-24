@@ -3,6 +3,7 @@ title: Live Search full demonstration
 description: Watch a full demonstration on the features and flexibility of Live Search
 kt: 13168
 doc-type: tutorial
+duration: 935
 audience: all
 last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search

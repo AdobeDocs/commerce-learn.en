@@ -6,7 +6,7 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 95
+duration: 130
 last-substantial-update: 2025-04-16
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd

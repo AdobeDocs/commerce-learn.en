@@ -3,6 +3,7 @@ title: "[!DNL Commerce] for business users - Attributes"
 description: Learn about custom and system attributes for products.
 kt: 5769
 doc-type: video
+duration: 462
 activity: use
 last-substantial-update: 2022-12-28
 topic: Commerce, Administration, Content Management

@@ -3,6 +3,7 @@ title: Page Builder for developers - Configuration and content customization
 description: Configure and setup Page Builder​. Understand the Page Builder workspace​. Understand and use content types - Layout, Elements, Media, and other content​. Add Catalog content with Page Builder.
 kt: 5651
 doc-type: video
+duration: 751
 activity: use
 feature: Page Content, Native Luma Frontend Development
 topic: Commerce, Development

@@ -2,6 +2,7 @@
 title: Manage the Media Gallery
 description: Learn how to use the new enhanced Media Gallery to organize and manage media files on the server.
 doc-type: feature video
+duration: 196
 audience: all
 activity: use
 last-substantial-update: 2023-04-27
