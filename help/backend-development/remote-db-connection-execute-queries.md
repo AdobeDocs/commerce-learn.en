@@ -24,15 +24,15 @@ Learn how to connect to an Adobe Commerce on cloud project, create a database du
 
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 
-* Use a local DB dump
-* Open a DB connection to your remote cloud environment with an application such as MySQL Workbench or TablePlus
-* Connect directly to the cloud environment with the `magento-cloud` CLI and run commands on the remote server
- 
-The preferred method is to do a database dump and scrub it to remove any customer information. Remove the customer data entirely if the data is not needed.
+* Use a local DB dump.
+* Open a DB connection to your remote cloud environment with an application such as MySQL Workbench or TablePlus.
+* Connect directly to the cloud environment with the `magento-cloud` CLI and run commands on the remote server.
+
+Prefer a database dump that you scrub to remove customer information. Remove customer data entirely when you do not need it.
 
 ## Using the Adobe Commerce Cloud CLI tool
 
-Creating a database dump requires you to have the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed. On your local laptop, go to a directory and run the following command. Be sure to replace `your-project-id` with the project ID, which is similar to `asasdasd45q`. You also need to replace `your-environment-name` with the name of your environment, such as `master` or `staging`.
+You need the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed to create a database dump. On your local computer, open a directory and run the following command. Replace `your-project-id` with your project ID (similar to `asasdasd45q`). Replace `your-environment-name` with your environment name, such as `master` or `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
  
@@ -249,11 +249,11 @@ Establish a connection using a MySQL graphical interface by using the `SSH tunne
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-Now that you have the right information, continue to insert these values into the Cloud Console.
+Now that you have the right information, enter these values in the Cloud Console.
 
 You can find the SSH hostname and username from the cloud credentials in the Cloud Console.
 
-![logo - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Here is one example: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 The SSH hostname is everything after the @ sign: `ssh.us-4.magento.cloud` in this example.
@@ -261,7 +261,7 @@ The SSH username is everything before the @ sign: `abasrpikfw4123-remote-db-ecpe
  
 ## Finding values to connect to the database
 
-Accessing the MariaDB database directly requires using SSH to log in to the remote Cloud environment and connect to the database.
+To access the MariaDB database directly, use SSH to log in to the remote Cloud environment and connect to the database.
 
 1. Use SSH to log in to the remote environment.
 
@@ -307,15 +307,15 @@ Accessing the MariaDB database directly requires using SSH to log in to the remo
 
 Then use the configuration values in your MySQL GUI. The following example uses MySQL Workbench, but any app that supports MySQL connections will have similar fields.
 
-![logo - Mysql GUI example using Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Mysql GUI example using Mysql Workbench")
+![MySQL Workbench connection example](./assets/mysql-workbench-after-connecting.png "MySQL Workbench connection example")
 
-![logo - Mysql GUI example using TablesPlus](./assets/tablesPlus-db-connection.png " Mysql GUI example using TablesPlus")
+![TablePlus connection example](./assets/tablesPlus-db-connection.png "TablePlus connection example")
 
-After everything is set up, it is possible to use a MySQL GUI to run queries on a remote Adobe Commerce Cloud project.
+After you configure the connection, you can use a MySQL GUI to run queries on a remote Adobe Commerce Cloud project.
  
 ## Connecting directly to the cloud project database to run SQL
 
-The following method uses the `magento-cloud` cli to directly connect to the mysql database and run SQL, which allows for faster database querying. If you need to copy this database, refer to one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+The following method uses the `magento-cloud` CLI to connect directly to the MySQL database and run SQL for faster querying. If you need a copy of this database, use one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
