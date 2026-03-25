@@ -3,7 +3,7 @@ title: Observability demo setup and details
 description: Deliver end-to-end observability with standardized, correlated telemetry across Adobe Commerce and custom apps
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 208

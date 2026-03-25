@@ -3,10 +3,12 @@ cloud: Experience Cloud
 solution-title: Commerce
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/commerce-learn.en
-index: y
+index: true
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
+landing-page-name: commerce
+landing-page-breadcrumb-title: Commerce
 product: Magento
 ---
 
