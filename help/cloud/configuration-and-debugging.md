@@ -3,7 +3,7 @@ title: Adobe Commerce Cloud configuration and debugging
 description: Learn how YAML configuration, validation tools, ECE-Tools, the Quality Patches Tool, New Relic, and Xdebug support debugging and log management on Adobe Commerce Cloud.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 553
