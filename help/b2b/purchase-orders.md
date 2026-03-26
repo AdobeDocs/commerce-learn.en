@@ -1,15 +1,14 @@
 ---
-title: Purchase Orders and Approvals
-description: Learn how to enable purchase orders and approval rules for your B2B company accounts.
-doc-type: feature video
-duration: 258
-audience: all
-activity: use
-last-substantial-update: 2023-2-16
-feature: Configuration, System, B2B, Companies
+title: B2B Purchase Orders and Approvals
+description: Learn how to enable B2B purchase orders and approval rules for company accounts, including spending limits, designated approvers, and purchase policies.
+doc-type: Feature Video
+duration: 257
+last-substantial-update: 2026-03-25
+feature: Purchase Orders, B2B
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
+jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 ---
 # Purchase Orders and Approvals
