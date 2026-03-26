@@ -3,11 +3,12 @@ title: How Adobe Commerce Cloud scales
 description: Learn how Adobe Commerce Cloud projects scale, what scales automatically, what needs a support request, and how to plan capacity for events or sudden traffic spikes.
 feature: Cloud
 topic: Commerce, Architecture
-role: Architect, Administrator
+role: Admin, Architect, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2026-03-26
+jira: KT-15161
 ---
 # How Adobe Commerce Cloud scales
 
