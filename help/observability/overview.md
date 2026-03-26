@@ -3,7 +3,7 @@ title: Understanding Observability
 description: Why Centralized Observability Is Critical for Scalable Adobe Commerce Extensibility
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 205

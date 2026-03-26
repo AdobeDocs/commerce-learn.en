@@ -3,7 +3,7 @@ title: Open Telemetry
 description: Unify observability with OpenTelemetry—logs, traces, and metrics for seamless monitoring and root cause analysis.
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 175
