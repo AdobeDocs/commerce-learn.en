@@ -9,6 +9,7 @@ doc-type: Tutorial
 duration: 285
 last-substantial-update: 2026-03-26
 jira: KT-15161
+exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
 ---
 # How Adobe Commerce Cloud scales
 
