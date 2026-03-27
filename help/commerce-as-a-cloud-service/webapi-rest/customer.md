@@ -3,7 +3,7 @@ title: Explore New Customer REST APIs
 description: Discover how to use new customer REST APIs in Adobe Commerce Cloud Service. Ideal for architects and developers.
 feature: REST, Customers, Saas
 topic: Development, Integrations
-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457

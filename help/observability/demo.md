@@ -3,7 +3,7 @@ title: Observability demo
 description: Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 508

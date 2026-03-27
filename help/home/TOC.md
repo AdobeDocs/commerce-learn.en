@@ -15,6 +15,7 @@ auto-video-transcripts: true
         + [Configuration Values](../cloud/troubleshooting/config-values.md)
         + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
     + [Project and environment management](../cloud/project-environment-management.md)
+    + [How Adobe Commerce Cloud scales](../cloud/how-adobe-commerce-cloud-scales.md)
     + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
     + [Marketecture](../cloud/marketecture.md)
