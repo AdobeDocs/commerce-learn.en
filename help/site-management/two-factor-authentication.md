@@ -8,6 +8,7 @@ feature: Configuration, System, Security
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
+jira: KT-9443
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 ---
 # Two-factor authentication
