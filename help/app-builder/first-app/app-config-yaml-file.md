@@ -1,15 +1,12 @@
 ---
 title: The app.config.yaml file
 description: Learn about the types of files in the app.config.yaml file for this sample application.
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files go in the app.config.yaml.
-kt: 12929
-doc-type: tutorial
+jira: KT-12929
+doc-type: Tutorial
 duration: 136
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d

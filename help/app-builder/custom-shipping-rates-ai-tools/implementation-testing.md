@@ -1,5 +1,5 @@
 ---
-title: Custom Shipping Rates using AI Tools | Implementation and Testing
+title: Implementation and testing for custom shipping rates with AI tools
 description: Learn to implement and test AI-driven custom shipping rates, configure environments, and verify integrations for enhanced checkout experiences.
 feature: Deploy
 topic: Development

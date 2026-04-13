@@ -1,5 +1,5 @@
 ---
-title: Create custom shipping rates using AI tools | Build the feature 
+title: Build the feature for custom shipping rates with AI tools
 description: Learn to use Adobe's AI tools to create custom shipping rates and extend checkout capabilities with a mock API and secure configurations.
 feature: Extensibility
 topic: Artificial Intelligence

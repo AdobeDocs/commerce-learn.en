@@ -1,15 +1,12 @@
 ---
 title: The web-src folder
 description: Learn about the types of files in the web-src folder and the nested files and folders for this sample application.
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the web-src folder.
-kt: 12425
-doc-type: tutorial
+jira: KT-12425
+doc-type: Tutorial
 duration: 285
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee

@@ -1,5 +1,5 @@
 ---
-title: Custom Shipping Rates using AI Tools | Provide Feedback
+title: Provide feedback on custom shipping rates with AI tools
 description: Discover how to create custom shipping rates using AI tools. Learn about the feedback process and streamline your workflow with this beginner-friendly tutorial.
 feature: Tools and External Services
 topic: Artificial Intelligence
