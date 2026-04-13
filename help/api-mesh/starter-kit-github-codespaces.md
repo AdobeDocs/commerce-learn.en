@@ -1,11 +1,10 @@
 ---
 title: API Mesh starter kit using GitHub Codespaces
 description: Get started with Adobe Commerce API Mesh using a GitHub-based starter kit—no local setup required.
-kt: 18367
-doc-type: tutorial
+jira: KT-18367
+doc-type: Tutorial
 duration: 253
-audience: all
-last-substantial-update: 2025-6-17
+last-substantial-update: 2025-06-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
