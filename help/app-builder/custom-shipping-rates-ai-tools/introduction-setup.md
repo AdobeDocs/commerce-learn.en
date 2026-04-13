@@ -1,5 +1,5 @@
 ---
-title: Create custom shipping rates with AI tools | Introduction and setup
+title: Introduction and setup for custom shipping rates with AI tools
 description: Learn to set up AI tools for creating custom shipping rates, including cloning the starter kit, reviewing structures, and preparing your environment.
 feature: Install
 topic: Development

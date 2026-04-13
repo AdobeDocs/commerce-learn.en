@@ -1,15 +1,12 @@
 ---
 title: The test folder
 description: Learn about the types of files in the test folder for this sample application.
-landing-page-description: Learn about Adobe Developer App Builder used with Adobe Commerce and what types of files are located in the test folder.
-kt: 12424
-doc-type: tutorial
+jira: KT-12424
+doc-type: Tutorial
 duration: 233
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
