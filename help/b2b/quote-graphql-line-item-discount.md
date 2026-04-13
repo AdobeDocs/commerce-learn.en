@@ -1,12 +1,10 @@
 ---
-title: Using GraphQL show a line item discount
+title: Using GraphQL to show a line item discount
 description: Learn the quote for a B2B order offers line item discount using GraphQL
-doc-type: feature video
+doc-type: Feature Video
 duration: 117
-audience: all
-activity: use
-kt: 13800
-last-substantial-update: 2023-6-13
+jira: KT-13800
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User

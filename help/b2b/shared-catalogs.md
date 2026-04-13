@@ -1,11 +1,10 @@
 ---
 title: Manage Shared Catalogs
 description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
-doc-type: feature video
+doc-type: Feature Video
 duration: 456
-audience: all
-activity: use
-last-substantial-update: 2023-5-10
+jira: KT-10682
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
