@@ -32,4 +32,4 @@ Learn how to create your first Adobe Commerce Optimizer instance from start to f
 ## Related Content
 
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

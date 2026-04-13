@@ -1,9 +1,8 @@
 ---
 title: Architecture Overview for the Salesforce Commerce Cloud Connector
-description: Lean about the architecture for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
+description: Learn about the architecture for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video

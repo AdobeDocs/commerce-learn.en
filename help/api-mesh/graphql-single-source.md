@@ -1,16 +1,12 @@
 ---
 title: Create a GraphQL single source mesh in API Mesh
 description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
-landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
-kt: 11804
-doc-type: tutorial
+jira: KT-11804
+doc-type: Tutorial
 duration: 510
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
