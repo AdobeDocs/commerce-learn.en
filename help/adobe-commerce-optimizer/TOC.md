@@ -11,7 +11,7 @@ breadcrumb-title: Adobe Commerce Optimizer
 + [Manage Adobe Commerce Optimizer instances](./managing-instances.md)
 + [Ingest sample data](./ingest-sample-data.md)
 + [First Query using GraphQL](./first-query.md)
-+ Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
++ Salesforce Commerce Cloud starter kit {#sfcc-starter-kit}
     + [Overview](./sfcc-starter-kit/overview.md)
     + [Architecture Overview](./sfcc-starter-kit/architecture-overview.md)
     + [Installation of the SFCC cartridge](./sfcc-starter-kit/installation-sfcc-cartridge.md)

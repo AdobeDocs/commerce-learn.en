@@ -1,19 +1,19 @@
 ---
 title: Overview for Adobe Commerce Optimizer
-description: Learn how Adobe Commerce Optimizer can Enhance your storefront with high performance, increased traffic, and seamless integration.
+description: Learn how Adobe Commerce Optimizer can enhance your storefront with high performance, increased traffic, and seamless integration.
 feature: Saas, Storefront
 topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 ---
 # Overview of Adobe Commerce Optimizer
 
-Adobe Commerce Optimizer enhances existing commerce platforms by providing a high-performance, headless storefront that boosts organic traffic and supports merchandiser tools like A/B testing. It focuses on increasing storefront traffic and conversion rates, boosting merchandiser productivity, scaling digital operations, and simplifying management for lower costs and faster innovation. This solution integrates seamlessly with existing systems, offering storefront migration services, plug-and-play catalog integrations, and unified catalog orchestration, making it ideal for businesses looking to grow revenue and optimize shopping experiences without re-platforming..
+Adobe Commerce Optimizer enhances existing commerce platforms by providing a high-performance, headless storefront that boosts organic traffic and supports merchandiser tools like A/B testing. It focuses on increasing storefront traffic and conversion rates, boosting merchandiser productivity, scaling digital operations, and simplifying management for lower costs and faster innovation. This solution integrates seamlessly with existing systems, offering storefront migration services, plug-and-play catalog integrations, and unified catalog orchestration, making it ideal for businesses looking to grow revenue and optimize shopping experiences without re-platforming.
 
 ## Who is this video for?
 

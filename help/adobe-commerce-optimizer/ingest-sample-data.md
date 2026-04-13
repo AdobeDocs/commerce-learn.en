@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-5
+last-substantial-update: 2025-08-05
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
 ---
