@@ -1,9 +1,8 @@
 ---
-title: Introduction to Salesforce Commerce cloud
-description: Lean about the Salesforce Commerce Cloud with Adobe Commerce Optimizer Using the SFC Connector.
+title: Introduction to Salesforce Commerce Cloud
+description: Learn about the Salesforce Commerce Cloud with Adobe Commerce Optimizer using the SFCC connector.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -12,7 +11,7 @@ last-substantial-update: 2025-10-20
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
 ---
-# Learn about the Salesforce Commerce cloud starter kit
+# Learn about the Salesforce Commerce Cloud starter kit
 
 Learn about the Commerce Optimizer Salesforce Commerce Cloud Connector, a tool designed to integrate Salesforce Commerce Cloud (SFCC) with Adobe’s Commerce Optimizer. This integration enables businesses to modernize their legacy e-commerce systems without a full replatform, allowing them to leverage AI-powered features like product discovery and real-time catalog synchronization. The connector, available on Adobe Exchange, supports catalog and price book synchronization, multiple product types, and both scheduled and on-demand data syncs. Built on Adobe App Builder, it serves as a customizable starter kit that can be extended to meet specific business needs.
 

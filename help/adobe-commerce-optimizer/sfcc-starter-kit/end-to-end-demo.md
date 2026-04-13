@@ -3,7 +3,6 @@ title: End-to-End Demo for the Salesforce Commerce Cloud Connector
 description: Watch the end-to-end demo for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video

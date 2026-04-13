@@ -1,9 +1,8 @@
 ---
 title: Install the Salesforce Commerce Cloud Cartridge
-description: Lean about the cartridge used in Salesforce with Adobe Commerce Optimizer.
+description: Learn about the cartridge used in Salesforce with Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
