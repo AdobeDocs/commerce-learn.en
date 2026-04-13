@@ -1,16 +1,12 @@
 ---
 title: Get started with API Mesh
 description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe App Builder, working with projects, creating a graphql reverse proxy and much more.
-landing-page-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
-kt: 11802
-doc-type: tutorial
+jira: KT-11802
+doc-type: Tutorial
 duration: 442
-audience: all
-last-substantial-update: 2023-8-27
+last-substantial-update: 2023-08-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
@@ -23,11 +19,11 @@ If you're new to API Mesh for Adobe Developer App Builder, Adobe recommends star
 
 API Mesh combines multiple sources of data to get a single response for your application to consume.
 
-[View the full API Mesh documentation](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[View the full API Mesh documentation](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
 
 ## Who is this video for?
 
-* Any developer new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} and API Mesh.
+* Any developer new to API Mesh or [!DNL Adobe Commerce] with limited experience using [Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"} and API Mesh.
 
 ## Video content
 
