@@ -1,16 +1,12 @@
 ---
 title: Working with projects and workspaces
 description: Discover how to use Adobe Developer console to work with projects and workspaces.
-landing-page-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
-short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
@@ -36,7 +32,7 @@ This tutorial discusses creating a project and workspace to contain your mesh. T
 
 ## Learn about the Adobe Developer Console
 
-In the Adobe Developer Console, the following hierarchy represents how your APIs fit into your Organization: `Organization > Project > Workspace > [API]`. To learn more about Adobe App Builder, logging in to the console, and basic troubleshooting, visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In the Adobe Developer Console, the following hierarchy represents how your APIs fit into your Organization: `Organization > Project > Workspace > [API]`. To learn more about Adobe App Builder, logging in to the console, and basic troubleshooting, visit [Creating your First App Builder Application](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introduction to Projects in the Adobe Developer Console
 
