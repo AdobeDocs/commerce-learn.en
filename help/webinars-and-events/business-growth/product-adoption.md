@@ -8,9 +8,27 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 743
-last-substantial-update: 2025-10-13
+last-substantial-update: 2025-10-13T00:00:00.000Z
 jira: KT-19378
 exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
+TQID: https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Business growth by simplifying new product adoption
 

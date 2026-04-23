@@ -7,9 +7,22 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 838
-last-substantial-update: 2025-05-15
+last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
+TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # New product announcements
 
