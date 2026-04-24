@@ -7,9 +7,31 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 508
-last-substantial-update: 2025-12-12
+last-substantial-update: 2025-12-12T00:00:00.000Z
 jira: KT-20000
 exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+TQID: https://experienceleague.adobe.com/nwg7TTIX4TxifdJgIZq2Z1CY2hW-Kpr-hVaBi-wXnpE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 # Observability demo
 
