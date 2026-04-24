@@ -142,7 +142,7 @@ auto-video-transcripts: true
     + Adobe Developer App Builder {#adobe-developer-app-builder}
         + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-        + [Split payment POC: App Builder and Commerce PaaS, intro](../app-builder/app-builder-and-adobe-commerce-paas-split-payment-poc-intro.md)
+        + [Create a split payment POC: App Builder and AI tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
         + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
             + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
