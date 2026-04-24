@@ -7,9 +7,24 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 208
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 jira: KT-19992
 exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
+TQID: https://experienceleague.adobe.com/qJtjFlX4HqMgwlJkv8wXllSgdvqgEmSiO89Jg6i93zU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Setup and Configuration
 

@@ -4,12 +4,24 @@ description: Learn about the types of files in the test folder for this sample a
 jira: KT-12424
 doc-type: Tutorial
 duration: 233
-last-substantial-update: 2023-03-13
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
+TQID: https://experienceleague.adobe.com/84OKfd7Xbb1q-EoEPOVt9l2bISkQJVqfXdIJFr4jCis
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Learn about the test folder {#test-folder}
 

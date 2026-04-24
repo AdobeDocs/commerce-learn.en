@@ -7,9 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2024-12-17
+last-substantial-update: 2024-12-17T00:00:00.000Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
+TQID: https://experienceleague.adobe.com/oZUaAnDWr0pokSxhOV75wZzzXWgb9SLMLQMDBjwq6do
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Update the cart summary in checkout
 

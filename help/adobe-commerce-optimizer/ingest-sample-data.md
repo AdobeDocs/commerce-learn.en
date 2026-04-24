@@ -7,9 +7,21 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-05
+last-substantial-update: 2025-08-05T00:00:00.000Z
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
+TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Ingest sample data Adobe Commerce Optimizer
 
