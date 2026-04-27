@@ -8,11 +8,11 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24
+last-substantial-update: 2026-04-27
 ---
 # Create a split payment POC: App Builder full demo
 
-This is the end-to-end walkthrough of the split payment proof of concept built on Adobe Commerce and Adobe App Builder. The demo assumes you have already used AI tools and a prompt to produce the in-process Commerce extension and the App Builder app; this video shows what happens after that code is merged, deployed to Commerce in the cloud (Luma), and the App Builder project is live.
+This is the end-to-end walkthrough of the split payment proof of concept built on Adobe Commerce and Adobe App Builder. The demo assumes you have already used AI tools and a prompt to produce the in-process Commerce extension and the App Builder app; this video shows what happens after that code is merged, deployed to an Adobe Commerce Cloud website using the native Luma theme, and the App Builder project is live.
 
 A shopper pays with part cash and part **[!UICONTROL Store Credit]**. Commerce owns synchronous checkout and the APIs the storefront needs; App Builder handles orchestration, operator workflows, and I/O event consumers. The reference implementation uses a Commerce (PaaS) project and the Luma native checkout rather than an Edge Delivery Services storefront, which is still a common path for many merchants. If you use **Adobe Commerce as a Cloud service** in a different topology, the App Builder code stays similar but storefront and in-process work would look different. For on-premises, self-hosted, and Commerce in the cloud on Luma, this video shows a practical split between in-process code and App Builder for new functionality.
 

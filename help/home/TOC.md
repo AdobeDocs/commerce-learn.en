@@ -142,9 +142,11 @@ auto-video-transcripts: true
     + Adobe Developer App Builder {#adobe-developer-app-builder}
         + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-        + [Create a split payment POC: App Builder and AI tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-        + [Create a split payment POC: App Builder full demo](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+        + Use AI tools to create split payment POC {#create-a-split-payment-poc}
+            + [Create a split payment POC: App Builder and AI tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+            + [Create a split payment POC: App Builder full demo](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+
         + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
             + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
             + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
