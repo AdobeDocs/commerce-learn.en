@@ -55,3 +55,5 @@ Adobe Commerce 2.4.5 or later, access to an Adobe Developer Console organization
 ### Final thoughts
 
 This should be considered an entry level discussion on AI-assisted development. This tutorial is a demonstration for using AI tools in a Commerce development workflow, not just a tutorial about split payments.
+
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
