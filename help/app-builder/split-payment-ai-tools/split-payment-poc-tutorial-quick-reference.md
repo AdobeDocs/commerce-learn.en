@@ -14,7 +14,6 @@ last-substantial-update: 2026-04-27
 
 This page summarizes how the split payment proof-of-concept tutorial series is organized. It maps each numbered source prompt file to its published Experience League page, lists a suggested section order for readers, and collects notes for authors and maintainers.
 
----
 
 ## Overview: What changed from the original prompts
 
@@ -30,7 +29,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 * The Experience Cloud UI extension prompt is now a separate file (it was missing from the original prompts)
 * The simulation script context and usage are now part of the testing guide rather than scattered
 
----
 
 ## File-by-file reference
 
@@ -44,7 +42,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** Opening section. Sets context before any technical steps.
 
----
 
 ### [Split payment POC: architecture and design decisions](split-payment-poc-architecture-and-decisions.md)
 
@@ -64,7 +61,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Architecture" or "How it works" section. Can be skipped by experienced Commerce developers but is essential for App Builder newcomers.
 
----
 
 ### [Split payment POC: prerequisites and environment setup](split-payment-poc-prerequisites-and-setup.md)
 
@@ -82,7 +78,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Prerequisites" or "Getting started" section. Should be completed interactively — not just read.
 
----
 
 ### [Split payment POC: environment variables reference](split-payment-poc-env-reference.md)
 
@@ -100,7 +95,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** Reference sidebar or "Configuration" section. Also used as a companion to the build prompts.
 
----
 
 ### [Split payment POC: Commerce module AI prompt](split-payment-poc-commerce-module-prompt.md)
 
@@ -121,7 +115,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Build the Commerce module" section. The prompt itself is the artifact — developers copy it into their AI tool and run it.
 
----
 
 ### [Split payment POC: App Builder orchestrator AI prompt](split-payment-poc-app-builder-orchestrator-prompt.md)
 
@@ -142,7 +135,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Build the App Builder application" section. Companion to the Commerce module prompt.
 
----
 
 ### [Split payment POC: Experience Cloud UI extension AI prompt](split-payment-poc-experience-cloud-ui-prompt.md)
 
@@ -161,7 +153,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** Optional "Going further" or "Production path" section. Can be skipped if the tutorial focuses only on the PoC.
 
----
 
 ### [Split payment POC: testing and verification guide](split-payment-poc-testing-and-verification.md)
 
@@ -186,7 +177,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Testing" or "Verification" section. Also valuable as a troubleshooting reference.
 
----
 
 ### [Split payment POC: next steps after the proof of concept](split-payment-poc-next-steps.md)
 
@@ -206,7 +196,6 @@ The original AI prompt files (`CLAUDE_PROMPT.md`, `THE_JOURNEY.md`, `SETUP_CHECK
 
 **Tutorial use:** "Next steps" closing section. Also useful as a conversation starter for scoping a real project.
 
----
 
 ## Suggested tutorial sections
 
@@ -225,7 +214,6 @@ Based on these files, a typical structure for readers is:
 | Step 4 (optional): Admin UI extension | [Split payment POC: Experience Cloud UI extension AI prompt](split-payment-poc-experience-cloud-ui-prompt.md) |
 | Next steps and production path | [Split payment POC: next steps after the proof of concept](split-payment-poc-next-steps.md) |
 
----
 
 ## Important notes for tutorial authors
 
@@ -237,7 +225,6 @@ Based on these files, a typical structure for readers is:
 
 **On store credit dependency:** The split payment flow as built requires `Magento_CustomerBalance` (the native store credit module). This is part of Adobe Commerce (not Magento Open Source). Developers on Magento Open Source will need a different store credit source or a third-party module.
 
----
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

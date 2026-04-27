@@ -14,7 +14,6 @@ last-substantial-update: 2026-04-27
 
 The demo dashboard and simulation script you built in this tutorial are intentionally rough. They exist to prove the pattern. This page describes a practical path from proof of concept to production-style App Builder development.
 
----
 
 ## Step 1 — Replace the Demo Dashboard with an Experience Cloud UI Extension
 
@@ -33,7 +32,6 @@ The proper replacement is the `commerce-backend-ui-1` extension in the `commerce
 * Commerce REST endpoints are unchanged
 * The PHP module is unchanged
 
----
 
 ## Step 2 — Connect a Real ERP
 
@@ -51,7 +49,6 @@ No PHP changes required. The REST surface is already there. The App Builder acti
 * Adobe I/O Runtime supports `require-adobe-auth: true` for IMS tokens (if your ERP can get an IMS token)
 * For non-Adobe systems: add a simple API key check in the `payment-accept` action (check a header against a secret stored in the action's env)
 
----
 
 ## Step 3 — Add API Mesh as a Broker Layer
 
@@ -66,7 +63,6 @@ Currently, App Builder calls Commerce REST directly with OAuth 1.0a credentials.
 * Replace `createCommerceClient(params, logger)` calls with calls to your API Mesh endpoint
 * API Mesh handles OAuth signing toward Commerce
 
----
 
 ## Step 4 — Reduce the PHP Footprint
 
@@ -80,7 +76,6 @@ The current PHP module handles five things that must stay in-process (see [Split
 * Quote manipulation before `placeOrder()` will always require in-process code unless Commerce exposes a clean hook via an API-first extension point
 * The REST endpoints (`/V1/split-payment/*`) are specific to this feature; they live in Commerce because they call Commerce-internal services
 
----
 
 ## Step 5 — Add More Workflow to App Builder
 
@@ -98,7 +93,6 @@ After cash is confirmed, call a loyalty API to award points. This is pure App Bu
 **Timeout handling:**
 Add a scheduled App Builder action (using `cron` in `app.config.yaml`) that scans for orders with `split_cash_status = 'pending'` older than X days and auto-declines them.
 
----
 
 ## Step 6 — Deploy to Production
 
@@ -124,7 +118,6 @@ aio app deploy
 * [ ] Fastly IP allowlist updated with App Builder production egress IPs (Commerce Cloud)
 * [ ] I/O Event registration confirmed in production workspace
 
----
 
 ## Architecture Evolution Diagram
 
@@ -158,7 +151,6 @@ Phase 3: Real ERP + API Mesh
 └──────────────────────────────────────────────────────────┘
 ```
 
----
 
 ## Key References
 

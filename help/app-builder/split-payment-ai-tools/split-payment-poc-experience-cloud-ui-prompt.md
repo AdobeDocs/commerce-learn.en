@@ -23,7 +23,6 @@ Copy everything from **PROMPT START** to **End of prompt** into Cursor or Claude
 * This path needs **IMS** credentials in addition to the OAuth values (see [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) for the `commerce-checkout-starter-kit` variables).
 * Complete [Split payment POC: App Builder orchestrator AI prompt](split-payment-poc-app-builder-orchestrator-prompt.md) first if you want the same `payment-accept` and `payment-decline` behavior to compare; the UI extension reuses that logic with `COMMERCE_INTEGRATION_*` env names.
 
----
 
 ## The prompt
 
@@ -35,7 +34,6 @@ You are generating the `commerce-backend-ui-1` Admin UI SDK extension for the sp
 **Base project:** `commerce-checkout-starter-kit/`
 **Extension directory:** `commerce-checkout-starter-kit/commerce-backend-ui-1/`
 
----
 
 ### What This Extension Provides
 
@@ -43,7 +41,6 @@ You are generating the `commerce-backend-ui-1` Admin UI SDK extension for the sp
 2. **Order detail view** — shows split payment breakdown (cash amount, store credit amount, status) alongside the order
 3. **Accept / Decline actions** — buttons that call the `payment-accept` and `payment-decline` App Builder actions via OAuth 1.0a
 
----
 
 ### File Structure to Generate
 
@@ -88,7 +85,6 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
             └── useSplitPaymentOrders.js
 ```
 
----
 
 ### Backend Actions
 
@@ -112,7 +108,6 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
 * Registers the extension with the Commerce Admin Shell
 * Adds a menu item under Orders for the split payment dashboard
 
----
 
 ### React Frontend Components
 
@@ -131,7 +126,6 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
 * Fetches split payment orders from `actions/commerce/index.js`
 * Returns `{ orders, loading, error, refresh }`
 
----
 
 ### Simulation Script
 
@@ -157,7 +151,6 @@ COMMERCE_ACCESS_TOKEN=
 COMMERCE_ACCESS_TOKEN_SECRET=
 ```
 
----
 
 ### `ext.config.yaml`
 
@@ -167,7 +160,6 @@ Configure the extension with:
 * `require-adobe-auth: true` for all actions except `registration`
 * Input bindings from env for `COMMERCE_INTEGRATION_*` credentials
 
----
 
 ### After Generating Files
 

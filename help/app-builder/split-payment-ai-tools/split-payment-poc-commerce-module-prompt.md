@@ -25,7 +25,6 @@ Copy everything from **PROMPT START** to **End of prompt** into Cursor (with Cla
 * If the site uses a custom theme, layout XML and RequireJS paths may need changes.
 * If your **[!UICONTROL Cash on delivery]** method uses a different code than `cashondelivery`, update `payment-method-helper.js`.
 
----
 
 ## The prompt
 
@@ -43,7 +42,6 @@ You are generating a complete, production-ready Adobe Commerce 2.4.5+ in-process
 
 Generate every file listed in the file structure below. Do not omit any file. Use `declare(strict_types=1)` in all PHP files.
 
----
 
 ### File Structure to Generate
 
@@ -126,7 +124,6 @@ app/code/Client/SplitPayment/
                     └── split-payment.html
 ```
 
----
 
 ### Behavioral Specifications
 
@@ -334,7 +331,6 @@ Default system config values:
 </split_payment>
 ```
 
----
 
 ### Critical Implementation Notes
 
@@ -350,7 +346,6 @@ Default system config values:
 
 **`SplitInvoiceService` should catch and log errors rather than propagate them.** Invoice creation failure should not cancel an already-placed order — log the failure and let the Admin handle it manually.
 
----
 
 ### After Generating Files
 

@@ -23,7 +23,6 @@ The same four Commerce OAuth credentials are used in every component. In **[!UIC
 | `COMMERCE_ACCESS_TOKEN` | Same as above |
 | `COMMERCE_ACCESS_TOKEN_SECRET` | Same as above |
 
----
 
 ## App Builder orchestrator
 
@@ -55,7 +54,6 @@ DEMO_UI_SECRET=
 DEMO_UI_BASE_URL=
 ```
 
----
 
 ## Experience Cloud UI extension (commerce-checkout-starter-kit)
 
@@ -83,7 +81,6 @@ COMMERCE_INTEGRATION_ACCESS_TOKEN=
 COMMERCE_INTEGRATION_ACCESS_TOKEN_SECRET=
 ```
 
----
 
 ## Simulation script
 
@@ -99,7 +96,6 @@ COMMERCE_ACCESS_TOKEN=
 COMMERCE_ACCESS_TOKEN_SECRET=
 ```
 
----
 
 ## Notes
 

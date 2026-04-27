@@ -14,7 +14,6 @@ last-substantial-update: 2026-04-27
 
 This guide walks you through verifying that every component works correctly, in the order they should be tested. Start from the bottom (Commerce module) and work up (App Builder).
 
----
 
 ## Step 1 — Verify Commerce Module Installation
 
@@ -32,7 +31,6 @@ mysql -u <user> -p <dbname> -e "DESCRIBE sales_order;" | grep split
 
 Expected output: four columns starting with `split_` visible in `sales_order`.
 
----
 
 ## Step 2 — Verify Commerce Admin Configuration
 
@@ -41,7 +39,6 @@ In Commerce Admin:
 2. **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Customers]** > **[!UICONTROL Customer Configuration]** > **[!UICONTROL Store Credit Options]** — confirm enabled
 3. Confirm your test customer has store credit: **[!UICONTROL Customers]** > **[!UICONTROL All Customers]** > *[customer]* > **[!UICONTROL Store Credit]**
 
----
 
 ## Step 3 — Verify REST Endpoints Are Accessible
 
@@ -57,7 +54,6 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
   -d '{"storeCreditAmount": 0, "cashAmount": 0}'
 ```
 
----
 
 ## Step 4 — Test the Checkout UI
 
@@ -78,7 +74,6 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
 * Enter a cash amount that requires more store credit than available → error message
 * Enter cash = 0 → error (or store credit covers entire order)
 
----
 
 ## Step 5 — Test Threshold Guard
 
@@ -88,7 +83,6 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
 4. Verify the error message appears: `"Payment could not be processed. Please try again or contact support."`
 5. Verify the cart is preserved (customer can still adjust cart and try again)
 
----
 
 ## Step 6 — Place a Test Split Payment Order
 
@@ -107,7 +101,6 @@ After order placement, verify in Commerce Admin:
 
 > **If no App Builder comments appear:** Check App Builder action logs with `aio app logs`. The event may not have fired or the action may have an error.
 
----
 
 ## Step 7 — Test Accept via Simulation Script
 
@@ -136,7 +129,6 @@ After accept, verify in Commerce Admin order view:
 * History comment: `"Split payment: cash portion invoiced #XXXXXXXX."`
 * History comment: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
 
----
 
 ## Step 8 — Test Decline via Simulation Script
 
@@ -151,7 +143,6 @@ After decline, verify in Commerce Admin:
 * History comment: `"Cash payment declined (simulated fraud check)."`
 * `split_cash_status` = `declined`
 
----
 
 ## Step 9 — Test the Demo Dashboard
 
@@ -172,7 +163,6 @@ With a pending order:
 2. Click **Accept** → order should move to `processing` in Commerce
 3. Place another order; click **Decline** → order should be `canceled` in Commerce
 
----
 
 ## Step 10 — Test App Builder Action Logs
 
@@ -195,7 +185,6 @@ For `payment-accept` or `payment-decline`:
 [INFO] Cash payment accepted on Commerce via REST { orderId: '42' }
 ```
 
----
 
 ## Common Issues and Fixes
 
@@ -245,7 +234,6 @@ For `payment-accept` or `payment-decline`:
 * Test directly: `GET /rest/V1/orders?searchCriteria[pageSize]=5` and check if `extension_attributes.split_cash_status` appears in the response
 * Check that `extension_attributes.xml` is correctly declaring the `split_cash_status` attribute on `OrderInterface`
 
----
 
 ## Verification Checklist
 

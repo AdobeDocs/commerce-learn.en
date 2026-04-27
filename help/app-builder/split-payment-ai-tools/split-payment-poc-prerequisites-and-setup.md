@@ -32,7 +32,6 @@ stage:
 
 > **Warning:** This deploy must finish successfully before the I/O Event module dependency can resolve.
 
----
 
 ## 2. Commerce Admin configuration
 
@@ -83,7 +82,6 @@ Select **[!UICONTROL Save]**, then **[!UICONTROL Activate]**.
 
 Store these values securely. You need them in every App Builder `.env` file.
 
----
 
 ## 3. Adobe Developer Console and App Builder
 
@@ -97,7 +95,6 @@ The event code used in the proof of concept is: `com.adobe.commerce.observer.sal
 
 If you have not connected Commerce as an event provider, see [Configure Commerce to emit events to Adobe I/O](https://developer.adobe.com/commerce/extensibility/events/configure-commerce/){target="_blank"} in the Commerce Extensibility guide.
 
----
 
 ## 4. Local development environment
 
@@ -117,7 +114,6 @@ aio app use
 # Confirm the org, project, and workspace shown are correct
 ```
 
----
 
 ## 5. Two project directories to know
 
@@ -140,7 +136,6 @@ split-payment-orchestrator/
 └── actions/
 ```
 
----
 
 ## 6. entity_id compared to increment_id
 
@@ -158,7 +153,6 @@ Or from the simulation script:
 node scripts/simulate-split-payment.mjs show 42
 ```
 
----
 
 ## 7. The $100 threshold
 
@@ -174,7 +168,6 @@ The threshold is stored in:
 * Commerce config: `split_payment/general/threshold` (default `100` in `etc/config.xml`)
 * App Builder environment: `PAYMENT_THRESHOLD=100` (must match Commerce)
 
----
 
 ## 8. Fastly (Commerce Cloud only)
 
@@ -184,7 +177,6 @@ App Builder actions call Commerce over REST (`/rest/V1/split-payment/orders/...`
 
 Use Adobe’s current documentation for App Builder egress IP ranges and add them to your Fastly configuration as needed.
 
----
 
 ## Verification checklist
 

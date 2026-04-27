@@ -23,7 +23,6 @@ Copy everything from **PROMPT START** to **End of prompt** into Cursor (with Cla
 * Finish [Split payment POC: prerequisites and environment setup](split-payment-poc-prerequisites-and-setup.md).
 * Have your [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) and `.env` file ready in the project.
 
----
 
 ## The prompt
 
@@ -38,7 +37,6 @@ You are generating a complete Adobe App Builder application for orchestrating sp
 
 Generate all files listed below. The application must work with Adobe I/O Runtime (`aio app deploy`).
 
----
 
 ### File Structure to Generate
 
@@ -63,7 +61,6 @@ split-payment-orchestrator/
         └── index.js
 ```
 
----
 
 ### `package.json`
 
@@ -87,7 +84,6 @@ split-payment-orchestrator/
 }
 ```
 
----
 
 ### `app.config.yaml`
 
@@ -129,7 +125,6 @@ Split payment — sales order place before:
   runtime_action: split_payment_orchestrator/payment-orchestrator
 ```
 
----
 
 ### `actions/payment-orchestrator/commerce-client.js`
 
@@ -145,7 +140,6 @@ Shared OAuth 1.0a REST client for Adobe Commerce. Implements:
 * `request(method, path, options)` — normalizes the path (strips leading `/`), returns `{ statusCode, body }`
 * `throwHttpErrors: false` — never throws on 4xx/5xx; always returns the status code
 
----
 
 ### `actions/payment-orchestrator/threshold.js`
 
@@ -157,7 +151,6 @@ Logic:
 3. If `Math.abs((storeCreditAmount + cashAmount) - orderTotal) > 0.02`: return `{ pass: false, reason: 'SPLIT_AMOUNT_MISMATCH' }`
 4. Otherwise: return `{ pass: true, reason: '' }`
 
----
 
 ### `actions/payment-orchestrator/cash-payment.js`
 
@@ -179,7 +172,6 @@ Logic:
 * Returns `{ ok: true }` on 2xx; returns `{ ok: false, error: { code, message } }` otherwise
 * Wraps in try/catch; returns error object, never throws
 
----
 
 ### `actions/payment-orchestrator/order-update.js`
 
@@ -189,7 +181,6 @@ Logic:
 * If `!success`: posts `"Payment could not be processed. Please try again or contact support."` — never include `detail` in the customer-visible comment; log `detail` internally only
 * Returns `{ ok: boolean, error? }` — never throws
 
----
 
 ### `actions/payment-orchestrator/store-credit.js`
 
@@ -200,7 +191,6 @@ Include this file with a JSDoc `@deprecated` notice explaining:
 
 Keep a working implementation (same shape as other modules) so developers can study the pattern, but mark it clearly as not used in the current flow.
 
----
 
 ### `actions/payment-orchestrator/index.js`
 
@@ -235,7 +225,6 @@ Adobe Commerce I/O Events may deliver the payload in several shapes. Extract the
 
 **`PUBLIC_ERROR` constant:** `"Payment could not be processed. Please try again or contact support."` — used for all external-facing error messages.
 
----
 
 ### `actions/payment-accept/index.js`
 
@@ -250,7 +239,6 @@ HTTP web action. Calls `POST /V1/split-payment/orders/:orderId/cash-received`.
 4. If 2xx: return `{ statusCode: 200, body: { ok: true, orderId, message: 'accepted' } }`
 5. If error: log and return `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
 
----
 
 ### `actions/payment-decline/index.js`
 
@@ -258,7 +246,6 @@ HTTP web action. Same pattern as `payment-accept` but calls `POST /V1/split-paym
 
 Return `{ ok: true, orderId, message: 'declined' }` on success.
 
----
 
 ### `actions/demo-dashboard/index.js`
 
@@ -302,7 +289,6 @@ function jsonResponse(statusCode, obj, extraHeaders = {}) { ... }
 function htmlResponse(html) { ... }
 ```
 
----
 
 ### `.env.example`
 
@@ -326,7 +312,6 @@ DEMO_UI_SECRET=
 DEMO_UI_BASE_URL=
 ```
 
----
 
 ### Deploy Command
 
