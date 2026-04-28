@@ -143,6 +143,7 @@ Commands:
 Reads credentials from `commerce-backend-ui-1/.env.simulation` (copy from `.env.simulation.example`).
 
 **`.env.simulation.example`:**
+
 ```dotenv
 COMMERCE_BASE_URL=https://your-store.example.com
 COMMERCE_CONSUMER_KEY=
