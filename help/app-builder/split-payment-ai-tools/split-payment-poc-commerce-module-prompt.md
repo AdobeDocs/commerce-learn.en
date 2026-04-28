@@ -6,7 +6,7 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Tutorial
-duration: 540
+duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27
 ---

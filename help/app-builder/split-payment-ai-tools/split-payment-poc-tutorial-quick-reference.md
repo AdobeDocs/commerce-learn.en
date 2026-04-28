@@ -6,7 +6,7 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Tutorial
-duration: 491
+duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27
 ---
@@ -19,7 +19,7 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 
 ### [Create a split payment POC: App Builder and AI tools](create-a-split-payment-poc-app-builder-and-ai-tools.md)
 
-**Source label:** `00_TUTORIAL_OVERVIEW.md` (conceptual overview; the published series opens with this 
+**Source label:** `00_TUTORIAL_OVERVIEW.md` (conceptual overview; the published series opens with this page.)
 
 **Purpose:** Introduction and orientation for the tutorial.
 
