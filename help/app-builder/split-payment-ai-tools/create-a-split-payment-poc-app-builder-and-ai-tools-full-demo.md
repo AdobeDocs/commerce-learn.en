@@ -6,7 +6,7 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 955
+duration: 933
 jira: KT-20902
 last-substantial-update: 2026-04-27
 ---
@@ -82,6 +82,4 @@ A risk score, region rule, or similar could plug in here; **[!UICONTROL Commerce
 
 The walkthrough matches **[!UICONTROL Adobe Commerce]** on an infrastructure you manage or **[!UICONTROL Commerce in the cloud]** (PaaS) with a traditional storefront. For **[!UICONTROL Adobe Commerce as a Cloud service]** (SaaS) with a different front end and no in-process module in this shape, the App Builder pieces are largely the same, while storefront and extension work would be different. In all cases, the same principle holds: let **[!UICONTROL Commerce]** do what must happen inside the **[!UICONTROL Commerce]** request, and use **[!UICONTROL App Builder]** for the rest of the experience.
 
-## Additional resources
-
-* [Create a split payment POC: App Builder and AI tools](create-a-split-payment-poc-app-builder-and-ai-tools.md) &mdash; the series introduction to goals and architecture.
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
