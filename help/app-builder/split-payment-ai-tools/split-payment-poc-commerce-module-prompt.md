@@ -322,6 +322,7 @@ Maps:
 #### 27. `etc/config.xml`
 
 Default system config values:
+
 ```xml
 <split_payment>
   <general>

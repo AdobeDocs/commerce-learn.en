@@ -157,6 +157,7 @@ Logic:
 **`recordCashPending({ commerce, orderId, cashAmount, logger })`** — returns `{ ok: boolean, error? }`
 
 * Calls `POST orders/${orderId}/comments` with:
+
   ```json
   {
     "statusHistory": {
@@ -169,6 +170,7 @@ Logic:
     }
   }
   ```
+  
 * Returns `{ ok: true }` on 2xx; returns `{ ok: false, error: { code, message } }` otherwise
 * Wraps in try/catch; returns error object, never throws
 

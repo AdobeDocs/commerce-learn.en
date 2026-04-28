@@ -149,11 +149,13 @@ After decline, verify in Commerce Admin:
 After deploying the `split-payment-orchestrator`, `aio app deploy` prints the action URLs.
 
 Open the `demo-dashboard` URL in a browser:
+
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard
 ```
 
 If `DEMO_UI_SECRET` is set:
+
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secret=<your-secret>
 ```
@@ -176,11 +178,13 @@ aio runtime activation logs <activation-id>
 ```
 
 For the `payment-orchestrator`, look for:
+
 ```
 [INFO] Split payment orchestration finished { orderId: '42' }
 ```
 
 For `payment-accept` or `payment-decline`:
+
 ```
 [INFO] Cash payment accepted on Commerce via REST { orderId: '42' }
 ```
