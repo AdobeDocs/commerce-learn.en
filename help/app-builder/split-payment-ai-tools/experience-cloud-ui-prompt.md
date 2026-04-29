@@ -1,6 +1,6 @@
 ---
 title: "Split payment POC: Experience Cloud UI extension AI prompt"
-description: Learn how to use this optional prompt to embed split payment in Commerce Admin: Admin UI SDK, IMS, OAuth, accept and decline, and the simulation script.
+description: "Learn how to use this optional prompt to embed split payment in Commerce Admin: Admin UI SDK, IMS, OAuth, accept and decline, and the simulation script."
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User

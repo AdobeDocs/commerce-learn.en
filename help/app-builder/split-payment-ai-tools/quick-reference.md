@@ -1,6 +1,6 @@
 ---
 title: "Split payment POC: tutorial quick reference"
-description: Learn about the split payment POC file map: which Experience League page matches each AI prompt, suggested section order, and author notes for Luma checkout.
+description: "Learn about the split payment POC file map: which Experience League page matches each AI prompt, suggested section order, and author notes for Luma checkout."
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
