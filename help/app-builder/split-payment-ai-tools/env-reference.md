@@ -12,7 +12,7 @@ last-substantial-update: 2026-04-27
 ---
 # Split payment POC: environment variables reference
 
-The same four Commerce OAuth credentials are used in every component. In **[!UICONTROL Commerce Admin]**, create one **[!UICONTROL Integration]**, then reuse the four values in every `.env` file below. (See [Split payment POC: prerequisites and environment setup](split-payment-poc-prerequisites-and-setup.md) for the activation steps.)
+The same four Commerce OAuth credentials are used in every component. In **[!UICONTROL Commerce Admin]**, create one **[!UICONTROL Integration]**, then reuse the four values in every `.env` file below. (See [Split payment POC: prerequisites and environment setup](./prerequisites-and-setup.md) for the activation steps.)
 
 ## The four OAuth credentials (used everywhere)
 
