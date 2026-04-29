@@ -1,6 +1,6 @@
 ---
 title: "Split payment POC: App Builder orchestrator AI prompt"
-description: "Learn how to use this prompt to build the split-payment-orchestrator app: I/O events, payment-orchestrator, web actions, demo dashboard, and aio app deploy."
+description: "Learn how to use this prompt to build the split-payment-orchestrator app. I/O events, payment-orchestrator, web actions, demo dashboard, and aio app deploy."
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
