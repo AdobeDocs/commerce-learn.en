@@ -182,9 +182,9 @@ Based on these files, a typical structure for readers is:
 | End-to-end demo (video) | [Create a split payment POC: App Builder full demo](./full-demo.md) |
 | Architecture: what lives where | [Split payment POC: architecture and design decisions](./architecture-and-decisions.md) |
 | Prerequisites and setup | [Split payment POC: prerequisites and environment setup](./prerequisites-and-setup.md) |
-| Environment variables | [Split payment POC: environment variables reference](./env-reference.mdd) |
+| Environment variables | [Split payment POC: environment variables reference](./env-reference.md) |
 | Step 1: Build the Commerce module | [Split payment POC: Commerce module AI prompt](./commerce-module-prompt.md) |
-| Step 2: Build the App Builder orchestrator | [Split payment POC: App Builder orchestrator AI prompt](./orchestrator-prompt.mdd) |
+| Step 2: Build the App Builder orchestrator | [Split payment POC: App Builder orchestrator AI prompt](./orchestrator-prompt.md) |
 | Step 3: Test the end-to-end flow | [Split payment POC: testing and verification guide](./testing-and-verification.md) |
 | Step 4 (optional): Admin UI extension | [Split payment POC: Experience Cloud UI extension AI prompt](./experience-cloud-ui-prompt.md) |
 | Next steps and production path | [Split payment POC: next steps after the proof of concept](./next-steps.md) |
