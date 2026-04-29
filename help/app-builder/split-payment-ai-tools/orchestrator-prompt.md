@@ -20,8 +20,8 @@ Copy everything from **PROMPT START** to **End of prompt** into Cursor (with Cla
 
 ## Before you run
 
-* Finish [Split payment POC: prerequisites and environment setup](split-payment-poc-prerequisites-and-setup.md).
-* Have your [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) and `.env` file ready in the project.
+* Finish [Split payment POC: prerequisites and environment setup](./prerequisites-and-setup.md).
+* Have your [Split payment POC: environment variables reference](./env-reference.md) and `.env` file ready in the project.
 
 
 ## The prompt

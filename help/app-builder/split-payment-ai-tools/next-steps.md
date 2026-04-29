@@ -19,7 +19,7 @@ The demo dashboard and simulation script you built in this tutorial are intentio
 
 The `demo-dashboard` web action serves HTML from a string inside a Node.js function. It works, but it is not the production pattern.
 
-The proper replacement is the `commerce-backend-ui-1` extension in the `commerce-checkout-starter-kit` — a React application embedded in the Commerce Admin Shell via the Adobe Admin UI SDK. See [Split payment POC: Experience Cloud UI extension AI prompt](split-payment-poc-experience-cloud-ui-prompt.md) for the generation prompt.
+The proper replacement is the `commerce-backend-ui-1` extension in the `commerce-checkout-starter-kit` — a React application embedded in the Commerce Admin Shell via the Adobe Admin UI SDK. See [Split payment POC: Experience Cloud UI extension AI prompt](./experience-cloud-ui-prompt.md) for the generation prompt.
 
 **What changes:**
 * Operators log in through Commerce Admin Shell (IMS authentication instead of a shared secret)
@@ -66,7 +66,7 @@ Currently, App Builder calls Commerce REST directly with OAuth 1.0a credentials.
 
 ## Step 4 — Reduce the PHP Footprint
 
-The current PHP module handles five things that must stay in-process (see [Split payment POC: architecture and design decisions](split-payment-poc-architecture-and-decisions.md)). As Adobe Commerce's API surface matures, some of these may become movable:
+The current PHP module handles five things that must stay in-process (see [Split payment POC: architecture and design decisions](./architecture-and-decisions.md)). As Adobe Commerce's API surface matures, some of these may become movable:
 
 **Potentially movable in the future:**
 * The store credit REST API is evolving — future versions may support applying credit post-order or to inactive carts

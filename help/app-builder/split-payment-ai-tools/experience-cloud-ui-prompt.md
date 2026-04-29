@@ -12,7 +12,7 @@ last-substantial-update: 2026-04-27
 ---
 # Split payment POC: Experience Cloud UI extension AI prompt
 
-This is the optional step that embeds a split payment orders panel in the **[!UICONTROL Adobe Commerce]** Admin shell (Experience Cloud) using the `commerce-checkout-starter-kit` and the `commerce-backend-ui-1` pattern. The standalone [demo dashboard](split-payment-poc-app-builder-orchestrator-prompt.md) from the App Builder orchestrator covers the same accept and decline flow without Admin shell integration.
+This is the optional step that embeds a split payment orders panel in the **[!UICONTROL Adobe Commerce]** Admin shell (Experience Cloud) using the `commerce-checkout-starter-kit` and the `commerce-backend-ui-1` pattern. The standalone [demo dashboard](./orchestrator-prompt.md) from the App Builder orchestrator covers the same accept and decline flow without Admin shell integration.
 
 ## How to use this prompt
 
@@ -20,8 +20,8 @@ Copy everything from **PROMPT START** to **End of prompt** into Cursor or Claude
 
 ## Before you run
 
-* This path needs **IMS** credentials in addition to the OAuth values (see [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) for the `commerce-checkout-starter-kit` variables).
-* Complete [Split payment POC: App Builder orchestrator AI prompt](split-payment-poc-app-builder-orchestrator-prompt.md) first if you want the same `payment-accept` and `payment-decline` behavior to compare; the UI extension reuses that logic with `COMMERCE_INTEGRATION_*` env names.
+* This path needs **IMS** credentials in addition to the OAuth values (see [Split payment POC: environment variables reference](./env-reference.md) for the `commerce-checkout-starter-kit` variables).
+* Complete [Split payment POC: App Builder orchestrator AI prompt](./orchestrator-prompt.md) first if you want the same `payment-accept` and `payment-decline` behavior to compare; the UI extension reuses that logic with `COMMERCE_INTEGRATION_*` env names.
 
 
 ## The prompt
