@@ -144,18 +144,19 @@ author: Russell A.
         + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-        + Use AI tools to create split payment POC {#create-a-split-payment-poc}
+       + Use AI tools to create split payment POC {#create-a-split-payment-poc}
             + [App Builder and AI tools](../app-builder/split-payment-ai-tools/overview.md)
-            + [Split payment POC using App Builder full demo](../app-builder/split-payment-ai-tools/full-demo.md)
+            + [Full demo](../app-builder/split-payment-ai-tools/full-demo.md)
+            + [Step-by-step implementation guide](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
             + [Architecture and design decisions](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
             + [Prerequisites and environment setup](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-            + [Environment variables reference](../app-builder/split-payment-ai-tools/env-reference.md)
-            + [Commerce module AI prompt](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-            + [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-            + [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-            + [Testing and verification guide](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-            + [Next steps after the proof of concept](../app-builder/split-payment-ai-tools/next-steps.md)
-            + [Quick reference for authors](../app-builder/split-payment-ai-tools/quick-reference.md)
+            + [Testing and verification](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+            + [Next steps](../app-builder/split-payment-ai-tools/next-steps.md)
+            + Reference resources {#split-payment-resources}
+                + [Environment variables reference](../app-builder/split-payment-ai-tools/env-reference.md)
+                + [Commerce module AI prompt](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+                + [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+                + [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
         + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
             + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
             + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
