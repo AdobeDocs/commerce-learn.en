@@ -16,25 +16,7 @@ description: Links to related pages in Extensiblilty - Adobe Developer App Build
 
 ## Reference resources
 
-<!-- CARDS
-
-    {cta = Read More}
-    {target = _self}
-* ../app-builder/split-payment-ai-tools/resources/env-reference.md
-  {description = A cross-component map of Commerce OAuth, base URL, thresholds, and optional demo variables showing exactly which .env keys each part of the POC expects—so configuration stays consistent from orchestrator to UI extension to simulation.}
-* ../app-builder/split-payment-ai-tools/resources/commerce-module-prompt.md
-  {description = A single, production-style AI prompt that generates the entire Adobe Commerce split-payment adapter module—REST surface, checkout and admin hooks, and event wiring—so you can skip hand-writing boilerplate and focus on wiring App Builder.}
-* ../app-builder/split-payment-ai-tools/resources/orchestrator-prompt.md
-  {description = A production-ready AI prompt that scaffolds the full split-payment-orchestrator App Builder app—the I/O Event consumer, accept/decline web actions, demo dashboard, and Commerce REST client—so split-payment decisions run as serverless orchestration instead of one-off scripts.}
-* ../app-builder/split-payment-ai-tools/resources/experience-cloud-ui-prompt.md
-  {description = An optional AI prompt that builds the Experience Cloud Admin UI extension—a pending split-payment orders panel, detail breakdown, and accept/decline actions tied to App Builder—so operators work inside the Commerce Admin shell instead of juggling a standalone dashboard.}
-
--->
-
-<!--
-Original Links swapped out for cards.
 * [Environment variables reference](../app-builder/split-payment-ai-tools/resources/env-reference.md)
 * [Commerce module AI prompt](../app-builder/split-payment-ai-tools/resources/commerce-module-prompt.md)
 * [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/resources/orchestrator-prompt.md)
 * [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/resources/experience-cloud-ui-prompt.md)
--->
