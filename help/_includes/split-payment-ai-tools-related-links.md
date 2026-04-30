@@ -16,7 +16,7 @@ description: Links to related pages in Extensiblilty - Adobe Developer App Build
 
 ## Reference resources
 
-* [Environment variables reference](../app-builder/split-payment-ai-tools/resources/env-reference.md)
-* [Commerce module AI prompt](../app-builder/split-payment-ai-tools/resources/commerce-module-prompt.md)
-* [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/resources/orchestrator-prompt.md)
-* [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/resources/experience-cloud-ui-prompt.md)
+* [Environment variables reference](../app-builder/split-payment-ai-tools/env-reference.md)
+* [Commerce module AI prompt](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+* [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+* [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)

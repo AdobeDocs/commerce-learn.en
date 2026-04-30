@@ -153,10 +153,10 @@ author: Russell A.
             + [Testing and verification](../app-builder/split-payment-ai-tools/testing-and-verification.md)
             + [Next steps](../app-builder/split-payment-ai-tools/next-steps.md)
             + Reference resources {#split-payment-resources}
-                + [Environment variables reference](../app-builder/split-payment-ai-tools/resources/env-reference.md)
-                + [Commerce module AI prompt](../app-builder/split-payment-ai-tools/resources/commerce-module-prompt.md)
-                + [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/resources/orchestrator-prompt.md)
-                + [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/resources/experience-cloud-ui-prompt.md)
+                + [Environment variables reference](../app-builder/split-payment-ai-tools/env-reference.md)
+                + [Commerce module AI prompt](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+                + [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+                + [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
         + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
             + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
             + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
