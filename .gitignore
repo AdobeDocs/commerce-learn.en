@@ -352,3 +352,6 @@ MigrationBackup/
 
 # Ignore mac files
 .DS_Store
+
+#Cursor
+.cursor/
