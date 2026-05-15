@@ -17,3 +17,6 @@ breadcrumb-title: Adobe Commerce Optimizer
     + [Installation of the SFCC cartridge](./sfcc-starter-kit/installation-sfcc-cartridge.md)
     + [App builder starter kit](./sfcc-starter-kit/app-builder-starter-kit.md)
     + [End to end demo](./sfcc-starter-kit/end-to-end-demo.md)
++ Composable catalog data model {#composable-catalog-data-model}
+    + [Why CCDM exists](./composable-catalog-data-model/why-ccdm-exists.md)
+    + [Learn about Catalog Views](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
