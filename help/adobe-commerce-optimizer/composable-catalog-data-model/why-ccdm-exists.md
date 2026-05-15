@@ -4,7 +4,6 @@ description: Learn how CCDM keeps one unified catalog while storefronts receive 
 feature: Saas, Storefront
 topic: Commerce
 role:
-  - Architect
   - Developer
 level: Beginner
 doc-type: Tutorial

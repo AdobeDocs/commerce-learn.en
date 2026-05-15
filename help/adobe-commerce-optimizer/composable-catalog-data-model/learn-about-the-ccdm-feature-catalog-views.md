@@ -4,7 +4,6 @@ description: Learn how catalog views in Adobe Composable Catalog Data Model (CCD
 feature: Saas, Storefront
 topic: Commerce
 role:
-  - Architect
   - Developer
 level: Beginner
 doc-type: Tutorial
