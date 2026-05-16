@@ -3,8 +3,7 @@ title: Learn About Catalog Views in Composable Catalog Data Model
 description: Learn how catalog views in Adobe Composable Catalog Data Model (CCDM) map one base catalog to each storefront with distinct products, prices, and rules.
 feature: Saas, Storefront
 topic: Commerce
-role:
-  - Developer
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 297
@@ -22,7 +21,7 @@ Catalog views are how you serve each audience differently from a single composab
 ## Video content
 
 * The Carvelo Automobiles scenario (brands, dealerships, and agreements)
-* What a catalog view is, and the “lens” metaphor over a unified base catalog
+* What a catalog view is, and the "lens" metaphor over a unified base catalog
 * How a storefront uses a catalog view to filter products and pricing (for example, Celport)
 * Catalog view unique IDs and the business value of a single source of truth
 
@@ -52,7 +51,7 @@ Each catalog view can also control **pricing**. The **underlying catalog data do
 
 When a shopper visits the **Celport** storefront, Adobe Commerce Optimizer uses the **Celport catalog view** to determine exactly which products, prices, and rules apply. The shopper only sees what that lens allows.
 
-Other products may still exist in the catalog—for example Aurora tires, Bolt motors, or Cruz batteries—but **Celport’s storefront never exposes them** if the catalog view does not allow it.
+Other products may still exist in the catalog—for example Aurora tires, Bolt motors, or Cruz batteries—but **Celport's storefront never exposes them** if the catalog view does not allow it.
 
 ## Catalog view ID and business value
 
