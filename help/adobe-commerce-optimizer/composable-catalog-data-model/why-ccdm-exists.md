@@ -3,8 +3,7 @@ title: Why the Composable Catalog Data Model (CCDM) Exists
 description: Learn how CCDM keeps one unified catalog while storefronts receive filtered products, prices, and rules using catalog views and Merchandising Services.
 feature: Saas, Storefront
 topic: Commerce
-role:
-  - Developer
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
@@ -23,7 +22,7 @@ Modern commerce teams often sell across **brands**, **regions**, **dealerships**
 
 * Why duplicated, channel-specific catalogs create operational risk and slower innovation
 * How CCDM keeps product data unified while still supporting multi-brand and multi-region scenarios
-* How catalog views act as the “lens” between a shared base catalog and a specific storefront or audience
+* How catalog views act as the "lens" between a shared base catalog and a specific storefront or audience
 * How Merchandising Services APIs consume those views so headless experiences stay aligned with the configured catalog
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
