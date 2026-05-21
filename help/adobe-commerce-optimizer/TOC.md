@@ -20,3 +20,4 @@ breadcrumb-title: Adobe Commerce Optimizer
 + Composable catalog data model {#composable-catalog-data-model}
     + [Why CCDM exists](./composable-catalog-data-model/why-ccdm-exists.md)
     + [Learn about Catalog Views](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+    + [Learn About CCDM Policies](./composable-catalog-data-model/learn-about-ccdm-policies.md)
