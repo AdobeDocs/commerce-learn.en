@@ -28,21 +28,6 @@ If a **catalog view** is the lens that shapes what shoppers see from a unified b
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
-## Scenario: Carvelo Automobiles and Celport
-
-**Carvelo Automobiles** is a fictitious auto parts company used in Adobe Commerce demonstrations. Carvelo sells parts across three brands—**Aurora**, **Bolt**, and **Cruz**—through dealerships including **Celport**.
-
-In the [Celport catalog view](./learn-about-the-ccdm-feature-catalog-views.md), two policies work together:
-
-1. **Brand filter** — allows only **Bolt** and **Cruz** brands. Aurora products do not pass this filter.
-2. **Category filter** — restricts visible products further to **brakes** and **suspension** only.
-
-A product must satisfy **every active policy** to be visible. Everything else is filtered out.
-
-Policies evaluate product attributes such as **brand**, **vehicle model**, or **part category** and define which products are allowed through for that catalog view.
-
-## What is a policy?
-
 A **policy** is a **data access filter**. It inspects product attributes and applies rules that determine which products a catalog view may expose. Policies sit on top of the shared composable catalog—they do not duplicate catalog data.
 
 ## STATIC policies
