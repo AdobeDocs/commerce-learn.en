@@ -10,7 +10,7 @@ duration: 225
 ---
 # Agentic Development
 
-[!BADGE Beta]{type=Informative tooltip="This feature is currently in beta and is subject to change."}
+[!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
 Building commerce customizations has traditionally required multiple teams, tools, and days of effort spread across analysis, design, development, and deployment. Agentic development in Adobe Commerce collapses that into a single intelligent loop. An AI agent understands your existing system — not just what the code does, but what it is meant to do — generates a blueprint, writes production-ready code, validates as it builds, and orchestrates deployment without handoffs or context loss.
 
