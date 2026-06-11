@@ -10,6 +10,8 @@ duration: 303
 ---
 # Brand Concierge and Commerce AI overview
 
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in beta and is subject to change."}
+
 The front door to commerce is no longer a home page — it's a conversation. Brand Concierge, integrated with Adobe Commerce, replaces filters, search bars, and category pages with an AI Assistant that understands shopper intent, queries the catalog, and manages the cart in one conversation. AI-referred shoppers convert 31% higher, generate 254% more revenue per visit, and spend 45% more time on site (Adobe Digital Insights, January 2026).
 
 ## Who is this video for?

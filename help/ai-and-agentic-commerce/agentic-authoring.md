@@ -10,6 +10,8 @@ duration: 376
 ---
 # Agentic Authoring
 
+[!BADGE Beta]{type=Informative tooltip="This feature is currently in beta and is subject to change."}
+
 Experience Workspace is the agentic authoring environment built into the Adobe Commerce storefront. It gives marketers and developers a unified surface — file structure, page content, metadata, and live preview — all in one place. Its AI authoring assistant runs on MCP. It connects directly to your product catalog and brand content so you can describe what you want to build and watch it appear, without switching tabs, copy-pasting, or filing tickets.
 
 ## Who is this video for?
