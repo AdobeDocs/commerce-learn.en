@@ -12,7 +12,7 @@ duration: 451
 
 [!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
-Even the richest product catalogs have only partial visibility to large language models (LLMs). Rich attributes like product variants, grind type, flavor notes, and packaging are often hidden behind collapsible panels and pop-ups that AI crawlers cannot read. Brand Concierge's catalog agent automatically identifies these visibility gaps and resolves them — without changing the shopper-facing storefront.
+Even the richest product catalogs have only partial visibility to large language models (LLMs). Rich attributes like product variants, grind type, flavor notes, and packaging are often hidden behind collapsible panels and pop-ups that AI crawlers cannot read. The commerce catalog agent automatically identifies these visibility gaps and resolves them — without changing the shopper-facing storefront.
 
 ## Who is this video for?
 
