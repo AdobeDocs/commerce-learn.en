@@ -1,13 +1,13 @@
 ---
-title: How to Ingest Sample Data for an Adobe Commerce Optimizer Instance
-description: Learn how to ingest sample data for an Adobe Commerce Optimizer instance.
+title: Ingest Sample Data into Adobe Commerce Optimizer
+description: Learn how to ingest sample data into Adobe Commerce Optimizer step by step, using the official GitHub repository to create policies and catalog views.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 446
-last-substantial-update: 2025-08-05T00:00:00.000Z
+duration: 445
+last-substantial-update: 2025-08-05
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
 TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k

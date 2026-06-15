@@ -1,13 +1,13 @@
 ---
 title: How to query data
-description: Learn how to query data for an Adobe Commerce Optimizer instance.
+description: Learn how to query Adobe Commerce Optimizer product data using GraphQL, including how to format JSON responses with jq and structure search query variables.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 243
-last-substantial-update: 2025-08-13T00:00:00.000Z
+duration: 204
+last-substantial-update: 2025-08-13
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
 TQID: https://experienceleague.adobe.com/IxrS6rwleWgU0-jtwu4hUavQuZesbQ6h5z7zVZR2xCo
@@ -60,5 +60,5 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 
 ## Related Content
 
-* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

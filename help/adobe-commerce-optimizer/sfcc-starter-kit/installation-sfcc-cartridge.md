@@ -1,6 +1,6 @@
 ---
 title: Install the Salesforce Commerce Cloud Cartridge
-description: Learn about the cartridge used in Salesforce with Adobe Commerce Optimizer.
+description: Learn how to install and configure the Adobe Commerce Optimizer cartridge for Salesforce Commerce Cloud, set up Delta Exports, and verify the installation.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer

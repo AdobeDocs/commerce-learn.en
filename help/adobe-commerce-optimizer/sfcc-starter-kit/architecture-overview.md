@@ -1,6 +1,6 @@
 ---
-title: Architecture Overview for the Salesforce Commerce Cloud Connector
-description: Learn about the architecture for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
+title: Salesforce Commerce Cloud Connector Architecture
+description: Learn how the Salesforce Commerce Cloud Connector Starter Kit uses App Builder runtime actions and delta exports to sync catalogs with Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer

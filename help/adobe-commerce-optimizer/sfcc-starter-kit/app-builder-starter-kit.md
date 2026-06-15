@@ -1,6 +1,6 @@
 ---
 title: App Builder Starter Kit for Salesforce Commerce Cloud
-description: Learn about the Adobe App Builder starter kit for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
+description: Learn how to set up and deploy the App Builder starter kit for Salesforce Commerce Cloud with Adobe Commerce Optimizer, from Dev Console setup to deployment.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer

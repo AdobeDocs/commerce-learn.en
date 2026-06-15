@@ -1,6 +1,6 @@
 ---
 title: Introduction to Salesforce Commerce Cloud
-description: Learn about the Salesforce Commerce Cloud with Adobe Commerce Optimizer using the SFCC connector.
+description: Learn how the Salesforce Commerce Cloud Connector integrates SFCC with Commerce Optimizer to modernize e-commerce with AI discovery and catalog synchronization.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -26,4 +26,4 @@ Learn about the Commerce Optimizer Salesforce Commerce Cloud Connector, a tool d
 * learn about the purpose for the Salesforce Commerce Cloud integration starter kit.
 * Understand where to install the starter kit
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)

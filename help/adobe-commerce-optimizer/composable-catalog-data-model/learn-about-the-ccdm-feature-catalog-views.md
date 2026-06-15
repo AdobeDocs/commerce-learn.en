@@ -6,7 +6,7 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 297
+duration: 208
 last-substantial-update: 2026-05-15
 jira: KT-21132
 ---
@@ -29,4 +29,4 @@ Catalog views are how you serve each audience differently from a single composab
 ## Related Content
 
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
