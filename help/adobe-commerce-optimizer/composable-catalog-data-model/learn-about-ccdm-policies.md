@@ -1,12 +1,12 @@
 ---
 title: Learn About CCDM Policies in Composable Catalog Data Model
-description: Learn how policies in the Adobe Composable Catalog Data Model filter products with STATIC rules and TRIGGER headers on each catalog view.
+description: Learn how STATIC and TRIGGER policies in the Adobe Composable Catalog Data Model control product visibility across catalog views without rebuilding the catalog.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21
 jira: KT-21258
 ---
@@ -75,4 +75,4 @@ Policies are lightweight filters on a **shared catalog**, not rules baked into s
 * [Learn about Catalog Views](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Catalog Views for Merchandising Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

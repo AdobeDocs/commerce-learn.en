@@ -1,12 +1,12 @@
 ---
 title: End-to-End Demo for the Salesforce Commerce Cloud Connector
-description: Watch the end-to-end demo for the Salesforce Commerce Cloud with Adobe Commerce Optimizer.
+description: Learn how to run a full and delta synchronization between Salesforce Commerce Cloud and Adobe Commerce Optimizer, then validate the results on a live storefront.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2025-10-21
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124

@@ -49,12 +49,12 @@ This separation—**where data comes from** (catalog source) versus **how it is 
 
 As described in [Catalog Views for Merchandising Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, a catalog view behaves like a **lens**: shoppers only see the products, prices, and rules that view allows, while the **base catalog** remains the shared system of record. That model pairs directly with **Merchandising Services** so API clients pass the correct view (and related headers) and receive a consistent, policy-driven response for each experience.
 
-For a deeper walkthrough of how those pieces fit an end-to-end flow, see the developer walkthrough [Create a composable catalog for your storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}.
+For a deeper walkthrough of how those pieces fit an end-to-end flow, see the developer walkthrough [Create a composable catalog for your storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Related Content
 
 * [Learn about Catalog Views](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Catalog Views for Merchandising Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Create a composable catalog for your storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}
+* [Create a composable catalog for your storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

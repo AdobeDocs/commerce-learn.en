@@ -1,13 +1,13 @@
 ---
 title: How to Create Your First Adobe Commerce Optimizer Instance
-description: Learn how to create your first Adobe Commerce Optimizer instance with this step-by-step tutorial.
+description: Learn how to create your first Adobe Commerce Optimizer instance by verifying entitlements, checking credits, and selecting the right instance type and region.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
@@ -44,4 +44,4 @@ Learn how to create your first Adobe Commerce Optimizer instance from start to f
 ## Related Content
 
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}

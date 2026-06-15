@@ -1,13 +1,13 @@
 ---
 title: Overview for Adobe Commerce Optimizer
-description: Learn how Adobe Commerce Optimizer can enhance your storefront with high performance, increased traffic, and seamless integration.
+description: Learn how Adobe Commerce Optimizer boosts storefront performance, increases organic traffic, and integrates seamlessly with existing ERP, CRM, and OMS systems.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Feature Video
+doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 TQID: https://experienceleague.adobe.com/ZroynB-ry1AKa3-CXN6x-596dmIbZqTWDz-q0WK55Ag
