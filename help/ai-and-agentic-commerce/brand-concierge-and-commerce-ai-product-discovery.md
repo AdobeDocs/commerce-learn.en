@@ -33,3 +33,4 @@ Even the richest product catalogs have only partial visibility to large language
 ## Additional resources
 
 [[!DNL Brand Concierge] documentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+
