@@ -1,6 +1,6 @@
 ---
-title: Brand Concierge and Commerce AI product discovery
-description: Learn how Brand Concierge uses a catalog agent to close AI visibility gaps, enriching Commerce product data so LLMs can discover and recommend your products.
+title: Commerce AI product discovery
+description: Learn how the Commerce catalog agent closes AI visibility gaps, enriching Commerce product data so LLMs can discover and recommend your products.
 role: User
 level: Beginner
 doc-type: Value Video
@@ -8,7 +8,7 @@ last-substantial-update: 2026-06-11
 jira: KT-21572
 duration: 451
 ---
-# Brand Concierge and Commerce AI product discovery
+# Commerce AI product discovery
 
 [!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
@@ -29,8 +29,4 @@ Even the richest product catalogs have only partial visibility to large language
 * Validation of improvements using the AI Content Visibility Checker
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492287)
-
-## Additional resources
-
-[[!DNL Brand Concierge] documentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
 
