@@ -12,7 +12,7 @@ duration: 303
 
 [!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
-Brand Concierge brings conversational shopping to Adobe Commerce, letting shoppers describe what they want in plain language and get matched products from the live catalog — no filters, no search bars required. The same conversation handles cart updates, checkout, and post-purchase guidance, retaining full context throughout the session.
+Brand Concierge integrated with Adobe Commerce turns conversations into conversions through an AI Assistant that understands shopper intent. With this integration, you can deliver accurate, real-time product recommendations powered by live catalog, pricing, and inventory data so customers can confidently make purchase decisions.
 
 ## Who is this video for?
 
