@@ -29,7 +29,3 @@ Commerce MCP integrated with Adobe Commerce turns conversations into conversions
 * Post-purchase contextual guidance specific to the product purchased
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492285)
-
-## Additional resources
-
-[[!DNL Commerce MCP] documentation](https://experienceleague.adobe.com/en/docs/commerce-mcp/content/home){target="_blank"}
