@@ -12,7 +12,7 @@ duration: 303
 
 [!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
-Commerce MCP integrated with Adobe Commerce turns conversations into conversions through an AI Assistant that understands shopper intent. With this integration, you can deliver accurate, real-time product recommendations powered by live catalog, pricing, and inventory data so customers can confidently make purchase decisions.
+The Commerce MCP for Adobe Commerce helps developers build custom agentic experiences from discovery to checkout using real-time commerce data and tools. In this video, a custom AI Assistant uses the Commerce MCP to turn conversations into conversions by understanding shopper intent and delivering relevant product recommendations.
 
 ## Who is this video for?
 
