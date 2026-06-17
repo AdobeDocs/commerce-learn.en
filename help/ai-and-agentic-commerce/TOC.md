@@ -6,8 +6,8 @@ breadcrumb-title: AI and Agentic Commerce
 
 # AI and Agentic Commerce {#ai-and-agentic-commerce}
 
-+ Brand Concierge and Commerce AI {#brand-concierge}
-    + [Overview](./brand-concierge-and-commerce-ai-overview.md)
++ Commerce MCP {#commerce-mcp}
+    + [Overview](./commerce-mcp-overview.md)
 + [Semantic Search](./semantic-search.md)
 + Agentic Commerce {#agentic-commerce}
     + [Product discovery](./commerce-ai-product-discovery.md)

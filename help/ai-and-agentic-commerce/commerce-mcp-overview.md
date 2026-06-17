@@ -1,6 +1,6 @@
 ---
-title: Brand Concierge and Commerce AI overview
-description: Learn how Brand Concierge and Adobe Commerce turn shopping into a conversation, from product discovery to checkout, using AI with full catalog and cart access.
+title: Commerce MCP overview
+description: Learn how Commerce MCP and Adobe Commerce turn shopping into a conversation, from product discovery to checkout, using AI with full catalog and cart access.
 role: User
 level: Beginner
 doc-type: Value Video
@@ -8,11 +8,11 @@ last-substantial-update: 2026-06-11
 jira: KT-21570
 duration: 303
 ---
-# Brand Concierge and Commerce AI overview
+# Commerce MCP overview
 
 [!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
 
-Brand Concierge integrated with Adobe Commerce turns conversations into conversions through an AI Assistant that understands shopper intent. With this integration, you can deliver accurate, real-time product recommendations powered by live catalog, pricing, and inventory data so customers can confidently make purchase decisions.
+Commerce MCP integrated with Adobe Commerce turns conversations into conversions through an AI Assistant that understands shopper intent. With this integration, you can deliver accurate, real-time product recommendations powered by live catalog, pricing, and inventory data so customers can confidently make purchase decisions.
 
 ## Who is this video for?
 
@@ -32,4 +32,4 @@ Brand Concierge integrated with Adobe Commerce turns conversations into conversi
 
 ## Additional resources
 
-[[!DNL Brand Concierge] documentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Commerce MCP] documentation](https://experienceleague.adobe.com/en/docs/commerce-mcp/content/home){target="_blank"}
