@@ -1,20 +1,20 @@
 ---
-title: Installing Adobe I/O Runtime  command-line interface and API Mesh plugin
-description: Discover how to install Adobe I/O Runtime command-line interface and the API Mesh plugin
+title: Install the Adobe I/O Runtime CLI and API Mesh plugin
+description: Learn how to install the Adobe I/O Runtime command-line interface and the API Mesh plugin to get started with API Mesh for Adobe Developer App Builder.
 jira: KT-11801
 doc-type: Tutorial
-duration: 433
+duration: 410
 last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 ---
 # Installing Adobe I/O Runtime CLI and Mesh plugin
 
 Before you begin using API Mesh for Adobe Developer App Builder, you need to install the `aio` CLI and the API Mesh plugin.
-For installation instructions and prerequisites, visit the API Mesh [Getting started](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} page.
+For installation instructions and prerequisites, visit the API Mesh [Getting started](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/){target="_blank"} page.
 
 ## Who is this video for?
 
@@ -30,7 +30,7 @@ For installation instructions and prerequisites, visit the API Mesh [Getting sta
 
 ## Installing the `aio` CLI and API Mesh plugin
 
-After installing `node` and `npm`, run the following command to install the `aio` CLI:
+To install the `aio` CLI, run the following command after installing `node` and `npm`:
 
 ```bash
 npm install -g @adobe/aio-cli

@@ -1,6 +1,6 @@
 ---
 title: API Mesh starter kit using workflows
-description: Get started with Adobe Commerce API Mesh using workflows for deploying your mesh and load tests.
+description: Learn how to use GitHub workflows in the API Mesh starter kit to deploy your mesh automatically and run K6 load tests against it.
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
