@@ -1,14 +1,14 @@
 ---
 title: Using GraphQL to show a line item discount
-description: Learn the quote for a B2B order offers line item discount using GraphQL
-doc-type: Feature Video
-duration: 117
+description: Learn how to use GraphQL to apply line item discounts on a B2B sales quote in Adobe Commerce and retrieve the resulting discount values in query responses.
+doc-type: Technical Video
+duration: 99
 jira: KT-13800
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
 TQID: https://experienceleague.adobe.com/9z3JbEtLShByucwPm4eHYriFz6A-VWk87tEaib-BqSw
 product_v2:
@@ -33,7 +33,7 @@ topic_v2:
 ---
 # B2B Sales quote line item discount using GraphQL
 
-Learn how to use the line item discount and see the values using GraphQL
+Learn how to use the line item discount and see the values with GraphQL
 
 {{b2b-feature}}
 

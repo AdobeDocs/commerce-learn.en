@@ -1,14 +1,14 @@
 ---
 title: Manage Company Accounts
-description: Learn how to manage your B2B company accounts, including any pending requests for approval.
-doc-type: Feature Video
+description: Learn how to manage B2B company accounts in Adobe Commerce — review pending approvals, filter the account list, adjust column layouts, and export data.
+doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
 product_v2:
@@ -40,15 +40,15 @@ topic_v2:
 ---
 # Manage Company Accounts
 
-For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company accounts and their status. You can manage your company accounts here and any pending requests for approval appear at the top of the list. The standard workplace controls can be used to filter the list, change the column layout, save views, and export data.
+For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company accounts and their status. You can manage your company accounts here, and any pending requests for approval appear at the top of the list. The standard workplace controls can be used to filter the list, change the column layout, save views, and export data.
 
 {{b2b-feature}}
 
 ## Who is this video for?
 
 * Website managers
-* Sales Representatives
-* Customer Service Representatives
+* Sales representatives
+* Customer service representatives
 
 ## Video content
 
@@ -56,5 +56,5 @@ For B2B merchants, the _[!UICONTROL Companies]_ page lists all current company a
 
 ## Additional resources
 
-* [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-* [Manage Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+* [Company Accounts](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Manage Company Accounts](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

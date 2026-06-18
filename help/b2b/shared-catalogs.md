@@ -1,14 +1,14 @@
 ---
 title: Manage Shared Catalogs
-description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
+description: Learn how to use B2B shared catalogs in Adobe Commerce to maintain gated product catalogs with custom pricing structures for different company accounts.
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 TQID: https://experienceleague.adobe.com/Fk8p57LTFTqSPxjVCPsxvubqnmr0wCUCINIsK8xqmW0
 product_v2:
@@ -57,5 +57,5 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## Additional resources
 
-* [Working with Shared Catalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-* [Create a Shared Catalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+* [Working with Shared Catalogs](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Create a Shared Catalog](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

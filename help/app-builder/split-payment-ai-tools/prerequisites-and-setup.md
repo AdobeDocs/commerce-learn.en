@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: prerequisites and environment setup"
+title: Split payment POC — prerequisites and environment setup
 description: Learn how to set up Commerce, Admin for COD and store credit, OAuth integration, I/O Events, App Builder, and aio CLI before the split payment build prompts.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 262

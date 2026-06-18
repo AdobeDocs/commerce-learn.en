@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: architecture and design decisions"
+title: Split payment POC — architecture and design decisions
 description: Learn how the split payment POC maps sync checkout to Commerce and I/O-driven steps to App Builder, with extension attributes, REST, and five plugin edge cases.
 feature: App Builder, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 293

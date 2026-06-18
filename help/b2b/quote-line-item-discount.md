@@ -1,14 +1,14 @@
 ---
-title: Using Adobe Commerce to show a line item discount for a quote
-description: Learn about line item discounts on a B2B quote in Adobe Commerce
-doc-type: Feature Video
-duration: 231
-jira: KT-13797
-last-substantial-update: 2023-06-13T00:00:00.000Z
+title: Line Item Discounts for a B2B Quote in Adobe Commerce
+description: Learn how to apply and view line item discounts on a B2B quote using the Adobe Commerce admin, including how discount values appear in buyer-facing summaries.
+doc-type: Technical Video
+duration: 214
+jira: KT-13798
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
 TQID: https://experienceleague.adobe.com/xTeO2Z72A3pQC9d9f13CdV-zZUOUZFM50LZxO9OXz9M
 product_v2:

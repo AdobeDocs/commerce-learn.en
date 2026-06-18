@@ -1,14 +1,14 @@
 ---
 title: Extensibility framework and commerce eventing
-description: Learn about Unified Extensibility Framework and commerce eventing
+description: Learn about the Adobe Developer App Builder extensibility framework, its key capabilities, and how commerce eventing enables real-time integrations with Adobe Commerce.
 jira: KT-11740
 doc-type: Tutorial
-duration: 298
+duration: 228
 last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
 TQID: https://experienceleague.adobe.com/5WrzAFRFNv4RBAQUL7WhsGw2Z4qoV-3Ft1EgjXdNxO0
 product_v2:
@@ -39,7 +39,7 @@ topic_v2:
 ---
 # Extensibility Framework for App Builder
 
-This functional demonstration describes App Builder and its potential use cases for Adobe Commerce. This video provides an introduction to the extensibility framework, key customer benefits, and capabilities.
+This functional demonstration describes App Builder and its potential applications for Adobe Commerce. This video provides an introduction to the extensibility framework, key customer benefits, and capabilities.
 
 ## App Builder for Adobe Commerce {#app-builder-extensibility}
 

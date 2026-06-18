@@ -1,14 +1,14 @@
 ---
 title: Manage Company Credit
-description: Learn how to B2B company account users can make purchases on their account up to the credit limit that is granted.
-doc-type: Feature Video
+description: Learn how B2B company account users can purchase on account up to a credit limit, and how admins configure credit currency, limits, and approval settings.
+doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 TQID: https://experienceleague.adobe.com/XJ1zsz-XBkOoy6C3lWC-hRiXPX4Q3fe4AvMptfwhC0E
 product_v2:
@@ -37,7 +37,7 @@ topic_v2:
 ---
 # Manage Company Credit
 
-For companies that have _[!UICONTROL Payment on Account]_ enabled and have company credit available, they can make purchases on their account up to the credit limit that is granted. With this feature, customers can check the status of their company credit from their account dashboard.
+Companies that have _[!UICONTROL Payment on Account]_ enabled and have company credit available can make purchases on their account up to the credit limit that is granted. With this feature, customers can check the status of their company credit from their account dashboard.
 
 You can set the following credit-related parameters for each company profile:
 
@@ -60,5 +60,5 @@ You can set the following credit-related parameters for each company profile:
 
 ## Additional resources
 
-* [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-* [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+* [Configure payment on account](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Manage Company Credit](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
