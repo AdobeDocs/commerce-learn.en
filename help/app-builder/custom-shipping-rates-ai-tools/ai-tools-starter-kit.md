@@ -1,12 +1,12 @@
 ---
 title: Build the feature for custom shipping rates with AI tools
-description: Learn to use Adobe's AI tools to create custom shipping rates and extend checkout capabilities with a mock API and secure configurations.
+description: Learn how to use Adobe's AI tools to create custom shipping rates, extend checkout capabilities with a mock API, and configure secure service endpoints.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
@@ -26,7 +26,7 @@ Discover how to utilize Adobe's AI-powered tools to streamline the development w
 * AI agent analyzes context and uses role‑based skills to guide development.
 * Starter kit provides structure and sample patterns for faster extension building.
 * MCP tools expose commands and data the agent uses to plan and generate code.
-* AI automates requirements, architecture, and implementation decision.
+* AI automates requirements, architecture, and implementation decisions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 

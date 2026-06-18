@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: next steps after the proof of concept"
+title: Split payment POC — next steps after the proof of concept
 description: "Learn how to move the split payment POC toward production. Experience Cloud UI, ERP hooks, API Mesh, PHP scope, App Builder workflows, and deploy checklist."
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269

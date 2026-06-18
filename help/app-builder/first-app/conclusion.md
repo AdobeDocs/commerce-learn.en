@@ -1,6 +1,6 @@
 ---
 title: Conclusion
-description: Learn where to go for more information on App Builder.
+description: Learn about additional Adobe Developer App Builder resources, documentation, and community options after completing your first App Builder application with Adobe Commerce.
 jira: KT-12428
 doc-type: Tutorial
 duration: 100
@@ -25,11 +25,11 @@ level_v2:
 ---
 # Conclusion {#conclusion}
 
-Now that you have built your first Adobe Developer App Builder app, learn about other resources Adobe provides.
+After building your first Adobe Developer App Builder app, learn about other resources Adobe provides.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who has completed their first Adobe Developer App Builder app and are ready to learn more.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who have completed their first Adobe Developer App Builder app and are ready to learn more.
 
 ## Video content
 
@@ -43,8 +43,7 @@ Now that you have built your first Adobe Developer App Builder app, learn about 
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder trial](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer App Builder docs](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder forums](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Adobe Developer App Builder contribution guidelines](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder docs](https://developer.adobe.com/app-builder/docs/intro_and_overview){target="_blank"}
+* [Adobe Developer App Builder contribution guidelines](https://developer.adobe.com/app-builder/docs/guides/contribution_guide){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

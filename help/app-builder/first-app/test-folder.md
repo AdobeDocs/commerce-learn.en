@@ -1,6 +1,6 @@
 ---
 title: The test folder
-description: Learn about the types of files in the test folder for this sample application.
+description: Learn about the JavaScript unit test file in the App Builder test folder and how it can be expanded for comprehensive testing of your Adobe Commerce sample application.
 jira: KT-12424
 doc-type: Tutorial
 duration: 233
@@ -27,11 +27,11 @@ level_v2:
 
 The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
 
-This is a simple example and can be expanded to create comprehensive tests for your specific applications.
+This starting point can be expanded to create comprehensive tests for your specific applications.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `test` folder.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who want to learn about the `test` folder.
 
 ## Video content
 

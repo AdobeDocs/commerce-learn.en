@@ -1,6 +1,6 @@
 ---
 title: The .env file
-description: Learn about the types of files in the .env file for this sample application
+description: Learn how to generate and configure the .env file for your Adobe Developer App Builder application, including managing secrets and preventing accidental commits to source control.
 jira: KT-12423
 doc-type: Tutorial
 duration: 177
@@ -35,13 +35,13 @@ The `.env` is a special file that is not part of the sample module, but is impor
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `.env` file.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who want to learn about the `.env` file.
 
 ## Video content
 
 * Introduction to the .env file and its purpose
 * How to generate the .env file
-* How to append the file to add new secrets
+* To add new secrets, append the file
 * Avoid committing this file because it contains sensitive information
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)

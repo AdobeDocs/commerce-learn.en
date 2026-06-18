@@ -1,6 +1,6 @@
 ---
 title: Testing locally
-description: Learn how to test your first Adobe Developer App Builder app.
+description: Learn how to test your Adobe Developer App Builder application locally, covering unit tests, end-to-end tests, and manual testing approaches for Commerce developers.
 jira: KT-12427
 doc-type: Tutorial
 duration: 85
@@ -25,7 +25,7 @@ level_v2:
 ---
 # Testing Locally {#testing-locally}
 
-Learn how to locally test your new Adobe Developer App Builder application.
+Learn how to test your new Adobe Developer App Builder application locally.
 
 ## Who is this video for?
 
