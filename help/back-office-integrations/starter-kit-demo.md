@@ -1,17 +1,14 @@
 ---
-title: Learn about the Adobe Commerce starter kit for back office integrations
-description: Learn about the Adobe Commerce Starter kit for back office integrations. This video demonstration shows the power and ease of connecting to back office integrations using this approach.
-landing-page-description: Learn about the Adobe Commerce starter kit for back office integrations
-kt: 15341
-doc-type: video
+title: Adobe Commerce starter kit for back office integrations
+description: Learn about the Adobe Commerce starter kit for back office integrations and discover how it simplifies connecting Commerce to external back-end systems.
+doc-type: Technical Video
 duration: 502
-audience: all
-last-substantial-update: 2024-4-19
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15341
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 TQID: https://experienceleague.adobe.com/R4Xg35sZ3GKOCckxXx1Zax-bVCGVjp4Usfng5-uieis
 product_v2:

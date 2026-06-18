@@ -1,17 +1,14 @@
 ---
-title: Learn about the Adobe Commerce Integration Starter Kit Best Practices and Onboarding Process.
-description: Mastering Commerce Integrations by learning best practices and onboarding tips with Adobe Starter Kit.
-landing-page-description: Learn offering practical insights into the setup, configuration, and deployment processes involved using the starter kit.
-kt: 15867
-doc-type: video
+title: Commerce Integration Starter Kit best practices
+description: Learn best practices for Adobe Commerce integrations using the starter kit, from GitHub setup and onboarding through deployment, validation, and going live.
+doc-type: Technical Video
 duration: 602
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15867
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
 TQID: https://experienceleague.adobe.com/Vdd-DzzdFA8aFlqceP2AWwbM8lqRsz029nsWtWUkpVo
 product_v2:
@@ -42,14 +39,14 @@ Learn how to integrate Adobe Commerce with external systems, offering practical 
  
 * Developers who want to learn best practices for commerce integration from cloning to live deployment.
 * Anyone who wants to understand onboarding and successful deployment validation.
-* Software engineers and programmers who want insight into configuring event providers, subscriptions, and synchronization between systems.
+* Software engineers and developers who want information on configuring event providers, subscriptions, and synchronization between systems.
  
 ## Video Content
 
 * Best practices for commerce integration from cloning to live deployment.
 * Steps required for onboarding, including validation of successful deployment.
-* Configuration files customize the onboarding process.
-* Running scripts to create and configure event providers and subscriptions.
+* Configuration files are used to customize the onboarding process.
+* To create and configure event providers and subscriptions, run scripts.
 * Updating events in Commerce and App Builder for synchronization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)

@@ -1,17 +1,14 @@
 ---
-title: Learn about the Commerce Integration Starter Kit with key folders and automation scripts explained
-description: Learn about the organization of source code in the Commerce Integration starter kit. ​
-landing-page-description: Exploring Source Code Organization in a Commerce Integration Starter Kit
-kt: 15868
-doc-type: video
+title: Source code organization in the Commerce starter kit
+description: Learn about source code organization in the Commerce Integration starter kit, including key folders like actions and scripts, automation scripts, and event handling.
+doc-type: Technical Video
 duration: 534
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
 TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
 product_v2:
