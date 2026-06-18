@@ -1,7 +1,7 @@
 ---
 title: Testing locally
 description: Learn how to test your Adobe Developer App Builder application locally, covering unit tests, end-to-end tests, and manual testing approaches for Commerce developers.
-jira: KT-12427
+jira: KT-21685
 doc-type: Tutorial
 duration: 85
 last-substantial-update: 2023-03-13T00:00:00.000Z

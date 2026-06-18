@@ -1,7 +1,7 @@
 ---
 title: The test folder
 description: Learn about the JavaScript unit test file in the App Builder test folder and how it can be expanded for comprehensive testing of your Adobe Commerce sample application.
-jira: KT-12424
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z

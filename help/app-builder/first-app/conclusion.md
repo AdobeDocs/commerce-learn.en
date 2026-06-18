@@ -1,7 +1,7 @@
 ---
 title: Conclusion
 description: Learn about additional Adobe Developer App Builder resources, documentation, and community options after completing your first App Builder application with Adobe Commerce.
-jira: KT-12428
+jira: KT-21686
 doc-type: Tutorial
 duration: 100
 last-substantial-update: 2023-03-13T00:00:00.000Z

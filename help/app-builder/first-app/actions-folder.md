@@ -1,7 +1,7 @@
 ---
 title: The actions folder
 description: Learn about the JavaScript files and folders in the App Builder actions folder, including OAuth authentication and Commerce connection patterns for your sample application.
-jira: KT-12422
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
