@@ -1,14 +1,14 @@
 ---
 title: Using Adobe Commerce to show line item notes for a quote
-description: Learn about line item notes on a B2B quote in Adobe Commerce
-doc-type: Feature Video
-duration: 227
+description: Learn how to add and view line item notes on a B2B quote in Adobe Commerce, enabling buyers and sellers to share item-level details during the quoting process.
+doc-type: Technical Video
+duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
 TQID: https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA
 product_v2:
