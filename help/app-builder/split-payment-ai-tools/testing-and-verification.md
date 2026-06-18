@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: testing and verification guide"
+title: Split payment POC — testing and verification guide
 description: "Learn how to verify the split payment POC. Commerce install, REST, checkout, threshold, simulation accept and decline, demo dashboard, and App Builder logs."
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 359

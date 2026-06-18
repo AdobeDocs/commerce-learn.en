@@ -6,7 +6,7 @@ topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 101
+duration: 87
 last-substantial-update: 2026-03-10
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
@@ -24,7 +24,7 @@ Discover how to create custom shipping rates using AI tools. This tutorial guide
 ## Video content
 
 * Learn how the MCP feedback tool works
-* Understand how its possible to provide feedback to Adobe from the IDE
+* Understand how it's possible to provide feedback to Adobe from the IDE
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 

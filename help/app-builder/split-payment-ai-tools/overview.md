@@ -1,12 +1,12 @@
 ---
-title: "Create a split payment POC: App Builder and AI tools"
+title: Split payment POC — App Builder and AI tools
 description: Learn about a split payment proof of concept with App Builder and Commerce PaaS, including the goals, architecture, and what this first session covers.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 237
 jira: KT-20791
 ---
 # Create a split payment POC: App Builder and AI tools
