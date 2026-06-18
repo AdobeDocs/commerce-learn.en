@@ -1,14 +1,14 @@
 ---
 title: Using Adobe Commerce REST API for line item notes
-description: Learn about line item notes on a B2B quote in Adobe Commerce using REST API
-doc-type: Feature Video
-duration: 176
+description: Learn how to use the Adobe Commerce REST API to add and retrieve line item notes on a B2B sales quote, enabling programmatic access to buyer and seller comments.
+doc-type: Technical Video
+duration: 159
 jira: KT-13801
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: ee8b03e6-2f8f-474f-9180-acdc120f87a4
 TQID: https://experienceleague.adobe.com/9NfnpDlPqBmoeFRrZL4Kxq-VZqhtjc6BYHDJZ6s6DXY
 product_v2:

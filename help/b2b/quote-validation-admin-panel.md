@@ -1,14 +1,14 @@
 ---
 title: B2B quote validation levels in the Adobe Commerce admin
-description: Learn how the Adobe Commerce application has strict validation processes.  This video tutorial demonstrates the validation process from the Adobe Commerce admin panel to ensure the quoting procedure is valid and consistent
-doc-type: Feature Video
-duration: 348
+description: Learn how Adobe Commerce enforces quote validation in the admin panel to ensure B2B quoting procedures are accurate, consistent, and complete before submission.
+doc-type: Technical Video
+duration: 330
 jira: KT-13470
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
 TQID: https://experienceleague.adobe.com/UVj-9pN-4ftzPsagPPa9wVPCyNl2WCt4-fJep95zueo
 product_v2:
@@ -33,7 +33,7 @@ topic_v2:
 ---
 # B2B sales quote validation using the admin panel
 
-Learn the validation steps and areas that Adobe Commerce B2B Quote functionality provides to ensure the consistent and valid quote process.
+Learn the validation steps and areas that Adobe Commerce B2B Quote functionality provides to ensure a consistent and valid quote process.
 
 {{b2b-feature}}
 
