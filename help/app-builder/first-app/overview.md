@@ -36,7 +36,7 @@ This tutorial has the following prerequisites:
 * Full access or trial access to App Builder has been granted
 * [The Adobe Developer App Builder application has been created](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
 * [The Adobe Developer App Builder project has been created](https://developer.adobe.com/console){target="_blank"}
-* [The Adobe Developer App Builder workspaces have been created - Step 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [The Adobe Developer App Builder workspaces have been created - Step 2](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [The AIO CLI commands to initialize the project and run have been executed](https://developer.adobe.com/runtime){target="_blank"}
 
 For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
