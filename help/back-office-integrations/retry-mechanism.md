@@ -1,17 +1,14 @@
 ---
 title: Use the Native Functionality of a Retry Mechanism
-description: Leverage Adobe I/O Events' retry mechanism for resilient applications, including retry conditions and visual indicators.
-landing-page-description: Understand and utilize Adobe I/O Events' built-in retry mechanism to enhance application resilience and manage event activations effectively.
-kt: 15872
-doc-type: video
+description: Learn how to use Adobe I/O Events' retry mechanism to build resilient applications, covering retry conditions, back-off strategies, and visual indicators.
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
 product_v2:
@@ -27,7 +24,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Leverage Adobe I/O Events retry mechanism for application resilience
+# Use the Adobe I/O Events retry mechanism for application resilience
 
 The video outlines a comprehensive guide on leveraging Adobe I/O Events' built-in retry mechanism to enhance application resilience. Learn how specific HTTP response status codes trigger event retries. Adobe I/O Events employs exponential and fixed back-off strategies for retries, with intervals increasing from one minute to 15 minutes. The documentation also details how retry indicators appear in the developer console, with visual cues like warning icons and circular arrows denoting failed and retried events, respectively.
 
@@ -39,7 +36,7 @@ Learn how the retry mechanism functions within the context of the 'consumer' run
 * Teams who want to learn about the exponential and fixed back-off strategies employed by Adobe I/O Events for retries.
 * Developers who want to understand how visual indicators in the developer console represent failed and retried events.
 
-## Video dontent
+## Video Content
 
 * Adobe I/O Events have a built-in out-of-the-box retry mechanism that automatically retries event activations based on specific HTTP response status codes.
 * The retry mechanism implemented by Adobe I/O Events involves exponential and fixed back-off strategies. 

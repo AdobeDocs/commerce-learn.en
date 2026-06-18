@@ -1,17 +1,14 @@
 ---
-title: Last mile integration in the Commerce integration starter kit.
-description: Last mile integration in Commerce, highlighting extensibility hooks like validation, transformation, preprocessing, sending, and post-processing.​
-landing-page-description: Learn the structure and functions of extensibility hooks in last mile integration for Commerce systems.
-kt: 15869
-doc-type: video
+title: Last-mile integration in the Commerce starter kit
+description: Learn about last-mile integration in Commerce using extensibility hooks for validation, transformation, preprocessing, sending, and post-processing.
+doc-type: Technical Video
 duration: 557
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
 product_v2:
@@ -33,7 +30,7 @@ level_v2:
 ---
 # Last mile integration using the Adobe Starter Kit  
 
-Learn about items to consider when starting the last-mile integration with Adobe Commerce with a focus on using extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
+Learn about items to consider when starting the last-mile integration with Adobe Commerce, focusing on extensibility hooks to enhance connectivity with third-party systems. This video outlines a structured approach where various hooks such as validation, transformation, preprocessing, sending, and post-processing ensure seamless data flow and system synchronization. Each hook serves a distinct purpose, including:
 
 * Validating incoming data against schemas
 * Transforming data objects between systems
