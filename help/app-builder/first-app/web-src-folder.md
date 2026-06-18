@@ -1,7 +1,7 @@
 ---
 title: The web-src folder
-description: Learn about the types of files in the web-src folder and the nested files and folders for this sample application.
-jira: KT-12425
+description: Learn about the web-src folder structure, its JavaScript files and nested folders, and how this folder supports the user interface in your App Builder sample application.
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -28,7 +28,7 @@ level_v2:
 ---
 # Discover the purpose of the web-src folder {#web-src-folder}
 
-The web-src folder for this sample app contains many JavaScript files and folders. This folder is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system may not require a frontend interface and code.
+The web-src folder for this sample app contains many JavaScript files and folders. This folder is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system does not require a frontend interface and code.
 
 ## Who is this video for?
 

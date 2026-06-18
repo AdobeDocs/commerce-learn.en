@@ -1,12 +1,12 @@
 ---
-title: "Create a split payment POC: App Builder full demo"
+title: Split payment POC — App Builder full demo
 description: Learn how split payment, REST, App Builder I/O, and operator accept/decline work in this Luma demo, plus a configurable pre-order total that can block the cart.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 933
+duration: 861
 jira: KT-20902
 last-substantial-update: 2026-04-27
 ---

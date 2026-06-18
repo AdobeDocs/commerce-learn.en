@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: Commerce module AI prompt"
+title: Split payment POC — Commerce module AI prompt
 description: "Learn how to use this prompt to generate Client_SplitPayment. REST, plugins, checkout JavaScript, I/O events, and enable, compile, and deploy commands."
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 503

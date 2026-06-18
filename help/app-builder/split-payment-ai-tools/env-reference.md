@@ -1,9 +1,9 @@
 ---
-title: "Split payment POC: environment variables reference"
+title: Split payment POC — environment variables reference
 description: Learn how to map Commerce OAuth, base URL, payment threshold, and optional demo settings to the orchestrator, UI extension, and simulation environment files.
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 115
