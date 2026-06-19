@@ -10,8 +10,6 @@ duration: 192
 ---
 # Semantic Search
 
-[!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
-
 Traditional keyword search matches exact words — but shoppers rarely know the right ones. Semantic search in Adobe Commerce uses AI to understand the intent behind a query, matching shoppers to products based on meaning rather than literal text. This improves product discovery, increases engagement, and drives higher conversion by returning results that reflect what shoppers want.
 
 ## Who is this video for?
@@ -31,4 +29,5 @@ Traditional keyword search matches exact words — but shoppers rarely know the 
 
 ## Additional resources
 
-[[!DNL Live Search] overview](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+- For deployments on Adobe Commerce on Cloud, on Prem, and Adobe Commerce as a Cloud Service, see [[!DNL Live Search] semantic search](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} in the _Live Search Guide_.
+- For deployments using Adobe Commerce Optimizer, see [Settings - Advanced Search](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} in the _Commerce Optimizer Guide_.
