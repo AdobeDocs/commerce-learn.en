@@ -3,9 +3,8 @@ title: Create a module
 description: Create and register a module in Adobe Commerce, run setup, and add plugins that log to the PSR logger in the admin area, storefront, and REST API contexts.
 jira: KT-5614
 doc-type: Technical Video
-duration: 1113
-activity: use
-last-substantial-update: 2026-03-23T00:00:00.000Z
+duration: 958
+last-substantial-update: 2026-03-23
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
@@ -31,7 +30,7 @@ level_v2:
 ---
 # Create a module
 
-A module is a structural element of [!DNL Commerce]—modules form the backbone of the system. You typically start a customization by building a module.
+A module is a structural element of [!DNL Commerce]—modules form the foundation of the system. You typically start a customization by building a module.
 
 ## Who is this video for?
 
@@ -42,7 +41,7 @@ A module is a structural element of [!DNL Commerce]—modules form the backbone 
 1. Create the module folder.
 2. Create the `etc/module.xml` file.
 3. Create the `registration.php` file.
-4. Run `bin/magento setup:upgrade` to register and install the module.
+4. To register and install the module, run `bin/magento setup:upgrade`.
 5. Check that the module is working.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
@@ -51,7 +50,7 @@ A module is a structural element of [!DNL Commerce]—modules form the backbone 
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Training_Sales">
         <sequence>
@@ -87,7 +86,7 @@ Next, you add functionality to your basic module. You use plugins as essential t
 * You can optionally set the `disabled` and `sortOrder` attributes.
 * You set the plugin scope by choosing which folder contains the `di.xml` file.
 * You run plugins before, after, or around the target method call.
-* Avoid `around` plugins. They tempt you, but they often represent the wrong choice and cause performance issues.
+* Avoid `around` plugins. They may seem convenient, but they often represent the wrong choice and cause performance issues.
 
 ### Plugin code samples
 
@@ -103,7 +102,7 @@ The tutorial uses the following XML and PHP classes to add a plugin to your firs
  * See COPYING.txt for license details.
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <!-- A Plugin that executes when the admin user places an order -->
     <type name="Magento\Sales\Model\Order">
         <plugin name="admin-training-sales-add-logging" type="Training\Sales\Plugin\AdminAddLoggingAfterOrderPlacePlugin" disabled="false" sortOrder="0"/>
@@ -122,7 +121,7 @@ The tutorial uses the following XML and PHP classes to add a plugin to your firs
  * See COPYING.txt for license details.
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <!-- A plugin that executes when a customer uses the LoginPost controller from the Luma frontend -->
     <type name="Magento\Customer\Controller\Account\LoginPost">
         <plugin name="training-customer-loginpost-plugin"
@@ -141,7 +140,7 @@ The tutorial uses the following XML and PHP classes to add a plugin to your firs
  * See COPYING.txt for license details.
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <!-- A plugin that executes when the REST API is used OR when the Luma frontend places an order -->
     <type name="Magento\Sales\Model\Order">
         <plugin name="rest-training-sales-add-logging" type="Training\Sales\Plugin\RestAddLoggingAfterOrderPlacePlugin"/>

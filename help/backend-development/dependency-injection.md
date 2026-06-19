@@ -1,15 +1,14 @@
 ---
 title: Dependency injection example
-description: Dependency injection allows an object to declare its dependencies, which are provided by an external object, promoting flexibility and modularity.
-kt: 5621
-doc-type: video
+description: Learn about dependency injection in Adobe Commerce — a design pattern where objects declare their dependencies for external injection, improving flexibility.
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -36,9 +35,9 @@ topic_v2:
 ---
 # Dependency injection example
 
-Dependency injection is a design pattern that allows an object A to declare its dependencies to an external object B that supplies those dependencies. The dependencies declared by A are usually class interfaces and the dependencies B provides are concrete implementations for those interfaces.
+Dependency injection is a design pattern that allows an object A to declare its dependencies to an external object B that provides those dependencies. The dependencies declared by A are usually class interfaces and the dependencies B provides are concrete implementations for those interfaces.
 
-## Who is this video for?
+## Intended audience
 
 * Developers
 
@@ -48,5 +47,4 @@ Dependency injection is a design pattern that allows an object A to declare its 
 
 ## Useful resources
 
-* [Dependency injection](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [PHP developer guide](https://developer.adobe.com/commerce/php/development/)

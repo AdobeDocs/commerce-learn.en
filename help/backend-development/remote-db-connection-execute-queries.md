@@ -1,13 +1,13 @@
 ---
 title: Connect and run queries against the Adobe Commerce database
-description: Connect to an Adobe Commerce on cloud project, create a database dump for offsite use, mask or remove PII, and run SQL with the Cloud CLI, a GUI client, or direct connections.
+description: Learn how to connect to Adobe Commerce on cloud, create a sanitized database dump, and run SQL queries using the Cloud CLI, a GUI, or direct connections.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 1024
-last-substantial-update: 2024-06-25T00:00:00.000Z
+duration: 581
+last-substantial-update: 2024-06-25
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
@@ -32,7 +32,7 @@ Learn how to connect to an Adobe Commerce on cloud project, create a database du
 
 ## Video contents
 
-* Connect to a remote Adobe Commerce Cloud project with a GUI tool such as MySQL Workbench or TablePlus.
+* Connect to a remote Adobe Commerce Cloud project with a database management tool such as MySQL Workbench or TablePlus.
 * Connect to the project and run SQL from the command line.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
@@ -47,7 +47,7 @@ Prefer a database dump that you scrub to remove customer information. Remove cus
 
 ## Using the Adobe Commerce Cloud CLI tool
 
-You need the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installed to create a database dump. On your local computer, open a directory and run the following command. Replace `your-project-id` with your project ID (similar to `asasdasd45q`). Replace `your-environment-name` with your environment name, such as `master` or `staging`.
+You need the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview) installed to create a database dump. On your local computer, open a directory and run the following command. Replace `your-project-id` with your project ID (similar to `asasdasd45q`). Replace `your-environment-name` with your environment name, such as `master` or `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
  
@@ -284,7 +284,7 @@ To access the MariaDB database directly, use SSH to log in to the remote Cloud e
    magento-cloud ssh
    ```
 
-2. Retrieve the MySQL login credentials from the `database` and `type` properties in the [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variable.
+2. Retrieve the MySQL login credentials from the `database` and `type` properties in the [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships) variable.
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -330,7 +330,7 @@ After you configure the connection, you can use a MySQL GUI to run queries on a 
  
 ## Connecting directly to the cloud project database to run SQL
 
-The following method uses the `magento-cloud` CLI to connect directly to the MySQL database and run SQL for faster querying. If you need a copy of this database, use one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+The following method uses the `magento-cloud` CLI to connect directly to the MySQL database and run SQL for faster querying. If you need a copy of this database, use one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
 
 ```bash
 magento-cloud db:sql    
@@ -390,7 +390,7 @@ MariaDB [main]>
 
 ## Additional resources
 
-* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-* [Set up MySQL service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-* [Set up a remote MySQL database connection](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-* [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [Set up MySQL service](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [Set up a remote MySQL database connection](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)

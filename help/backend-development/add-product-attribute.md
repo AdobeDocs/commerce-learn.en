@@ -1,15 +1,14 @@
 ---
 title: Create a product attribute
-description: Create a page that returns json with one parameter.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: Learn how to create a product attribute programmatically in Adobe Commerce, including dropdown-type attributes with custom backend, frontend, and source models.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
 product_v2:
@@ -33,7 +32,7 @@ level_v2:
 ---
 # Create a product attribute
 
-Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
+Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are an effective way to address many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
 
 In this video:
 
@@ -44,7 +43,7 @@ In this video:
 
 ## Who is this video for?
 
-* Developers new to commerce who need to learn how to create a product attribute programmatically
+* Developers new to [!DNL Commerce] who need to learn how to create a product attribute programmatically
   
 ## Video content
 
@@ -86,7 +85,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
