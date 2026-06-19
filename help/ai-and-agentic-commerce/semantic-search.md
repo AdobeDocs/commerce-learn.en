@@ -10,8 +10,6 @@ duration: 192
 ---
 # Semantic Search
 
-[!BADGE Coming Soon]{type=Informative tooltip="This feature is coming soon and is subject to change."}
-
 Traditional keyword search matches exact words — but shoppers rarely know the right ones. Semantic search in Adobe Commerce uses AI to understand the intent behind a query, matching shoppers to products based on meaning rather than literal text. This improves product discovery, increases engagement, and drives higher conversion by returning results that reflect what shoppers want.
 
 ## Who is this video for?
