@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services order summary in checkout
-description: Learn about Adobe Edge Delivery Services and how to update the order summary section of the Commerce drop-in at checkout.
+description: Learn how to update the Adobe Commerce cart drop-in order summary, including shipping estimates, total savings display, and collapsible section layout.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -31,16 +31,16 @@ topic_v2:
 ---
 # Update the cart summary in checkout
 
-Learn how to make changes to the order summary of the Adobe Commerce cart drop in for Edge Delivery Services.  There are several examples for how to quickly improve the layout or information provided to a customer at checkout.
+Learn how to make changes to the order summary of the Adobe Commerce cart drop-in for Edge Delivery Services. There are several examples for how to improve the layout or information provided to a customer at checkout.
 
 ## What you'll learn
 
-Learn how to use Adobe Commerce cart drop in and adjust the cart experience.  There are several ways to enhance the cart by making some minor changes or updates to the code.
+Learn how to use Adobe Commerce cart drop-in and adjust the cart experience. There are several ways to enhance the cart by making minor changes or updates to the code.
 
 ## Who is this video for?
 
 * Developers who need to learn how to implement these customizations for the order summary.
-* Merchandisers to understand what options are available using native features to enhance the customer experience around the order summary.
+* Merchandisers who want to understand what options are available using native features to enhance the customer experience around the order summary.
 
 ## Video content
 
