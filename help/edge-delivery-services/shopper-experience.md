@@ -1,12 +1,12 @@
 ---
 title: Shopper experience with Edge Delivery Services
-description: Learn what shoppers see and do on the Adobe Commerce storefront powered by Edge Delivery Services, including cart, checkout, discounts, account tasks, orders, and returns.
+description: Learn about shopper experience on Adobe Commerce Edge Delivery Services storefronts, including cart, checkout, discounts, account tasks, orders, and returns.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 596
+duration: 588
 last-substantial-update: 2024-02-21T00:00:00.000Z
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
@@ -35,11 +35,11 @@ topic_v2:
 ---
 # Shopper experience
 
-Learn how the Commerce storefront powered by Edge Delivery Services supports common shopper tasks: adding items to the cart, applying cart price rules and coupon codes, checking out as a guest, updating account information, canceling orders, reordering, and starting returns. The video also covers order management, how customers apply discounts, and when multiple coupon codes can stack.
+Learn how the Commerce storefront on Edge Delivery Services supports common shopper tasks: adding items, applying discounts, guest checkout, account updates, canceling orders, reordering, and returns. The video also covers Order Management, how customers apply discounts, and when multiple coupon codes can stack.
 
 ## What you learn
 
-You learn how to navigate the Adobe Commerce storefront experience on Edge Delivery Services, including the cart, discounts and coupon codes, guest checkout, account updates, canceling and reordering, returns, and a smoother path through checkout.
+You learn to navigate the Adobe Commerce storefront on Edge Delivery Services, including cart management, discounts, guest checkout, account updates, order actions, and checkout.
 
 ## Who is this video for?
 
@@ -57,7 +57,7 @@ You learn how to navigate the Adobe Commerce storefront experience on Edge Deliv
 ## Video content
 
 * Apply cart price rules and coupon codes during checkout, including when stacking is available.
-* Work with the cart and orders: add items, check out as a guest, cancel orders, reorder, and process returns.
-* Update account information, merge guest and customer carts, and keep checkout consistent.
+* Work with the cart and orders: Add items, check out as a guest, cancel orders, reorder, and process returns.
+* Update account information, merge guest and customer carts, and maintain checkout consistency.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
