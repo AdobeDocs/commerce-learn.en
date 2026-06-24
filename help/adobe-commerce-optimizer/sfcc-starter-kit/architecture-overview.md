@@ -27,3 +27,4 @@ Learn about the architecture and functionality of the Commerce Optimizer Connect
 * App Builder runtime actions manage full and delta syncs, validation, and state tracking to ensure accurate and conflict-free updates to Commerce Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+
