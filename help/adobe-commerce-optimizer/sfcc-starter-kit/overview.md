@@ -27,3 +27,4 @@ Learn about the Commerce Optimizer Salesforce Commerce Cloud Connector, a tool d
 * Understand where to install the starter kit
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
+

@@ -47,3 +47,4 @@ After building your first Adobe Developer App Builder app, learn about other res
 * [Adobe Developer App Builder contribution guidelines](https://developer.adobe.com/app-builder/docs/guides/contribution_guide){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

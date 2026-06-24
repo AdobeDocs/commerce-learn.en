@@ -31,3 +31,4 @@ Learn how to install and configure the Adobe Commerce Optimizer cartridge for a 
 * Test a custom API endpoint to confirm successful installation and prepare for catalog sync.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+
