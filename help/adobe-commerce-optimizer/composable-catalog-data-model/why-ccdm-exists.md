@@ -58,3 +58,4 @@ For a deeper walkthrough of how those pieces fit an end-to-end flow, see the dev
 * [Create a composable catalog for your storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

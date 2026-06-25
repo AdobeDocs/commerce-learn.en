@@ -39,3 +39,4 @@ Learn how to test your new Adobe Developer App Builder application using the URL
 >[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

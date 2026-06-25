@@ -283,4 +283,3 @@ author: Russell A.
     + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
     + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
     + [Prepping for the Future](../business-intelligence/prepare-for-future.md)    
-

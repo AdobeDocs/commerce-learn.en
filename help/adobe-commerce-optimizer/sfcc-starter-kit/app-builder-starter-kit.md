@@ -28,3 +28,4 @@ Learn about setting up and deploying the App Builder Starter Kit for Salesforce 
 * Deploy the app and confirm successful registration of actions and events in your workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+

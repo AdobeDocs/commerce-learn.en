@@ -30,3 +30,4 @@ Discover how to set up AI tools to create custom shipping rates. This tutorial c
 >[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+

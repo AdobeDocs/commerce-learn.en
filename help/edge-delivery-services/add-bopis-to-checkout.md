@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services BOPIS
-description: Learn about Adobe Edge Delivery Services and adding a buy online pickup in store or BOPIS functionality to check out.
+description: Learn how to add buy online, pickup in store (BOPIS) support to an Edge Delivery Services checkout using Adobe Commerce cart components and content fragments.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -26,17 +26,17 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Add BOPIS to check out
+# Add BOPIS to checkout
 
-Learn how to add the necessary components to the Edge Delivery Services checkout that accommodates a buy online and pickup in store otherwise known as BOPIS.
+Learn how to add the necessary components to the Edge Delivery Services checkout that accommodates buying online and picking up in store, also referred to as BOPIS.
 
 ## What you'll learn
 
-Learn how to use Adobe Commerce cart from Edge Delivery Services to provide BOPIS functionality. 
+Learn how to use Adobe Commerce cart from Edge Delivery Services to provide buy online and pickup in store functionality.
 
 ## Who is this video for?
 
-* E-commerce Businesses looking to enhance the shopping cart with buy online and pickup in store.
+* E-commerce Businesses looking to enhance the shopping cart with buying online and picking up in store.
 * Developers who need to learn how to implement BOPIS.
 
 ## Video content

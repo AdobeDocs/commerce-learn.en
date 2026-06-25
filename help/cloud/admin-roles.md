@@ -1,6 +1,6 @@
 ---
 title: Admin roles for back office users
-description: Lean how business users log into Adobe Commerce Admin Portal and how store admins create and manage role-based access to the Admin portal.
+description: Learn how business users log in to Adobe Commerce Admin Portal and how store admins create, manage, and assign role-based access permissions to users.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
@@ -35,7 +35,7 @@ topic_v2:
 ---
 # Adobe Commerce admin roles
 
-Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID or Federated ID and details how store admins can create and manage role-based access. Understand the steps to create a new role with specific permissions, such as a "Seller" role responsible for managing customer quotes and templates. Understand how to assign users to these roles, ensuring they have the appropriate access levels, and includes a demonstration of assigning a user to a newly created role and verifying the assignment.
+Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID or Federated ID and detail how store admins can create and manage role-based access. Understand the steps to create a new role with specific permissions, such as a "Salesperson" role responsible for managing customer quotes and templates. Understand how to assign users to these roles, ensuring they have the appropriate access levels, and include a demonstration of assigning a user to a newly created role and verifying the assignment.
 
 ## Who is this video for
 
@@ -46,7 +46,7 @@ Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID
 ## Video Content
  
 * Learn the latest login methods. 
-* Get a good understanding of the role creation and management
+* Understand the role creation and management
 * Understand the user assignment and access levels. ​
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
