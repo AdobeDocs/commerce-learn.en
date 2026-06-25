@@ -1,14 +1,13 @@
 ---
 title: Page Builder for developers - Custom content types
-description: Learn how to customize and create content types. Understand the steps involved in creating a content type​. Understand the steps involved in extending an existing content type.
-kt: 5655
-doc-type: video
+description: Learn how to customize and create Page Builder content types, including the steps to build a new content type from scratch and extend an existing one.
+jira: KT-5655
+doc-type: Technical Video
 duration: 1058
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
 TQID: https://experienceleague.adobe.com/nAM2YJScViK-UiyNtArtvXJyg0qZw-DReCFo0EdnTtI
@@ -40,7 +39,7 @@ level_v2:
 In this video:
 
 * Customize and create additional content types
-* Understand the steps involved in creating a content type​
+* Understand the steps involved in creating a content type
 * Understand the steps involved in extending an existing content type
 
 ## Who is this video for?
@@ -52,7 +51,7 @@ In this video:
 
 >[!NOTE]
 >
->This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?learn=on)
 
@@ -60,4 +59,4 @@ In this video:
 
 [Page Builder developer documentation](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)

@@ -1,14 +1,13 @@
 ---
 title: Page Builder for developers - Themes
-description: Learn about theming practices and conventions​, including the location for each part of the Page Builder theme.
-kt: 5652
-doc-type: video
+description: Learn about Page Builder theming practices and conventions, including where each theme component is located and how to apply custom styles to your storefront.
+jira: KT-5652
+doc-type: Technical Video
 duration: 204
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
 TQID: https://experienceleague.adobe.com/dAPwxoXoJ-mHMu0WVXfQ1-RMFrkIxSEBIVubAs-nwNI
@@ -38,8 +37,8 @@ level_v2:
 In this video:
 
 * Overview of theming practices
-* Description of the theming conventions​
-* Where each part of the Page Builder theme is located ​
+* Description of the theming conventions
+* Location of each Page Builder theme component
 
 ## Who is this video for?
 
@@ -50,7 +49,7 @@ In this video:
 
 >[!NOTE]
 >
->This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?learn=on)
 
@@ -58,4 +57,4 @@ In this video:
 
 [Page Builder developer documentation](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)

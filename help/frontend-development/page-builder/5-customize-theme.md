@@ -1,14 +1,13 @@
 ---
 title: Page Builder for developers - Theme customization
-description: Learn how to customize the Page Builder theme.
-kt: 5654
-doc-type: video
+description: Learn how to customize the Page Builder theme by modifying LESS variables, overriding CSS, and applying custom styles to create a unique storefront experience.
+jira: KT-5654
+doc-type: Technical Video
 duration: 523
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
 TQID: https://experienceleague.adobe.com/ZSNMuV1WFKlo3B-dyOp2g8eLfg4oa0Nh-KXzWMtYCoA
@@ -50,7 +49,7 @@ In this video:
 
 >[!NOTE]
 >
->This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?learn=on)
 
@@ -58,4 +57,4 @@ In this video:
 
 [Page Builder developer documentation](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)

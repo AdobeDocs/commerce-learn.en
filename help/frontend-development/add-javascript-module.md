@@ -3,8 +3,7 @@ title: Add a JavaScript module
 description: Learn how to build a simple JavaScript module in Adobe Commerce that displays a Hello World greeting, using RequireJS, a layout update, and a template.
 jira: KT-5612
 doc-type: Technical Video
-duration: 260
-activity: use
+duration: 267
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Developer
@@ -59,4 +58,4 @@ Learn how to develop a simple JavaScript module that shows the greeting "Hello W
 ## Useful resources
 
 * [JavaScript developer guide](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
