@@ -1,13 +1,13 @@
 ---
 title: Explore New Customer REST APIs
 description: Discover how to use new customer REST APIs in Adobe Commerce Cloud Service. Ideal for architects and developers.
-feature: REST, Customers, Saas
+feature: REST, Customers, SaaS
 topic: Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -42,14 +42,14 @@ Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This t
 
 ## Who is this video for?
 
-* Backend developers responsible for building integrations with Adobe Commerce
-* Technical architects designing customer management workflows for headless commerce implementations
+- Backend developers responsible for building integrations with Adobe Commerce
+- Technical architects designing customer management workflows for headless commerce implementations
 
 ## Video content
 
-* Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
-* Use the correct REST API endpoint format for Commerce as a Cloud Service
-* Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
+- Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
+- Use the correct REST API endpoint format for Commerce as a Cloud Service
+- Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
@@ -263,6 +263,6 @@ curl -s -X PUT \
 
 ## References
 
-* [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
-* [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+- [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+- [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+- [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

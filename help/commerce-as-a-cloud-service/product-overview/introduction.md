@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 69
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20095
 exl-id: 02018072-b6e8-42f1-925c-322aed9e6aca
 TQID: https://experienceleague.adobe.com/9qvexIDMeuXXX6eiGWp-7qEpFcWiqmnW-afs5gFYMRM
@@ -35,13 +35,13 @@ Learn how Adobe Commerce as a Cloud Service streamlines operations with a centra
 
 ## Who is this video for?
 
-* E-commerce Manager
-* Digital Marketing Specialist
-* IT Solutions Architect
+- E-commerce Manager
+- Digital Marketing Specialist
+- IT Solutions Architect
 
 ## Video content
 
-* Learn how Adobe Commerce as a Cloud Service scales faster with centralized admin and modular architecture.
-* Discover how AI-driven personalization powers seamless shopping experiences across multiple channels.
+- Learn how Adobe Commerce as a Cloud Service scales faster with centralized admin and modular architecture.
+- Discover how AI-driven personalization powers seamless shopping experiences across multiple channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478789?learn=on)

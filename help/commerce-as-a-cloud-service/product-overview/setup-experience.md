@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20084
 exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
 TQID: https://experienceleague.adobe.com/kO5g-sPkt40tx3zB9j7h-pANHBl0OEio-Lt6BoC5GU4
@@ -34,13 +34,13 @@ Learn how Adobe Commerce as a Cloud Service empowers teams to launch storefronts
 
 ## Who is this video for?
 
-* E-commerce Manager
-* Solutions Architect
-* Digital Transformation Lead
+- E-commerce Manager
+- Solutions Architect
+- Digital Transformation Lead
 
 ## Video content
 
-* Learn how to set up and launch Adobe Commerce storefronts in minutes using a self-service dashboard.
-* Discover how Edge Delivery Services enable lightning-fast performance and scalability.
+- Learn how to set up and launch Adobe Commerce storefronts in minutes using a self-service dashboard.
+- Discover how Edge Delivery Services enable lightning-fast performance and scalability.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478790?learn=on)

@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 181
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20092
 exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
 TQID: https://experienceleague.adobe.com/O6Ky3ajJuiJE81p5NFR-bTZ-Ol6ea3DihetexH9n-Wc
@@ -36,13 +36,13 @@ Discover how Adobe Commerce as a Cloud Service empowers businesses with a compos
 
 ## Who is this video for?
 
-* Solutions Architect
-* Front-End Developer
-* E-commerce Manager
+- Solutions Architect
+- Front-End Developer
+- E-commerce Manager
 
 ## Video content
 
-* Learn how composability supports modular architecture, headless commerce, and API-first integrations.
-* Discover how admin UI extensibility and developer tools streamline customization and workflow enhancements.
+- Learn how composability supports modular architecture, headless commerce, and API-first integrations.
+- Discover how admin UI extensibility and developer tools streamline customization and workflow enhancements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478798?learn=on)

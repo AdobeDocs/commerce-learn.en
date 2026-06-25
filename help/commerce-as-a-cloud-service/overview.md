@@ -1,14 +1,13 @@
 ---
 title: Adobe Commerce as a Cloud Service overview
 description: Learn about Adobe Commerce as a Cloud Service. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -36,7 +35,7 @@ level_v2:
 ---
 # Adobe Commerce as a Cloud Service overview
 
-Adobe Commerce as a Cloud Service offers a flexible, scalable, and efficient solution for businesses, featuring cloud-native capabilities like elastic auto-scaling and automatic updates. It simplifies onboarding with self-service provisioning and boasts a composable architecture for independent service deployment and API-first extensibility. Pre-configured services and continuous delivery of new features ensure optimal performance and ease of use, making it ideal for dynamic and growing businesses
+Adobe Commerce as a Cloud Service offers a flexible, scalable, and efficient solution for businesses, featuring cloud-native capabilities like elastic auto-scaling and automatic updates. It simplifies onboarding with self-service provisioning and features a composable architecture for independent service deployment and API-first extensibility. Pre-configured services and continuous delivery of new features ensure optimal performance and ease of use, making it ideal for dynamic and growing businesses
 
 ## What you'll learn
 
@@ -44,20 +43,20 @@ Adobe Commerce as a Cloud Service provides a flexible, scalable, and efficient s
 
 ## Who is this video for?
 
-* Business Owners who are looking to enhance their digital operations with a scalable and efficient solution.
-* Digital Commerce Managers seeking flexible and innovative e-commerce platforms.
-* IT Professionals who are interested in cloud-native capabilities and simplified onboarding processes.
-* Developers looking to learn more about the API-first extensibility and composable architecture for easy integration.
-* Merchandisers who want pre-configured tools and optimized storefronts for better performance.
+- Business Owners who are looking to enhance their digital operations with a scalable and efficient solution.
+- Digital Commerce Managers seeking flexible and innovative e-commerce platforms.
+- IT Professionals who are interested in cloud-native capabilities and simplified onboarding processes.
+- Developers looking to learn more about the API-first extensibility and composable architecture for easy integration.
+- Merchandisers who want pre-configured tools and optimized storefronts for better performance.
 
 ## Video content
 
-* Cloud-native capabilities including elastic auto-scaling, ensuring exceptional performance and reduced latency.
-* Simplified onboarding and self-service provisioning for quick and efficient setup of sandbox or production instances.
-* Composable architecture for independent deployment, scaling, and updating of services with API-first extensibility.
+- Cloud-native capabilities including elastic auto-scaling, ensuring exceptional performance and reduced latency.
+- Simplified onboarding and self-service provisioning for quick and efficient setup of sandbox or production instances.
+- Composable architecture for independent deployment, scaling, and updating of services with API-first extensibility.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Related documentation
 
-* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+- [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

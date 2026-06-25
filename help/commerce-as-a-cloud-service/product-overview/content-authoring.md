@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 442
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20085
 exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74
 TQID: https://experienceleague.adobe.com/h2MI1foRNtgkw4GaNrCrx07mdWm7bZf-FHcAgpIMVOc
@@ -34,14 +34,14 @@ Learn how Adobe Commerce enables marketers to manage content independently with 
 
 ## Who is this video for?
 
-* Digital Marketing Manager
-* Content Strategist
-* E-commerce Merchandiser
+- Digital Marketing Manager
+- Content Strategist
+- E-commerce Merchandiser
 
 ## Video content
 
-* Learn how marketers can create and update site content without developer support using visual editing tools.
-* Discover how AI-powered variations and A/B testing improve content quality and engagement.
+- Learn how marketers can create and update site content without developer support using visual editing tools.
+- Discover how AI-powered variations and A/B testing improve content quality and engagement.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478791?learn=on)

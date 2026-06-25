@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 363
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20094
 exl-id: 45687736-d1be-4d9a-9355-024cfafbf08c
 TQID: https://experienceleague.adobe.com/zgZQaSmJyh1VforDOLKGCK-G3SfWtJoPdPQN2RM6H-8
@@ -32,13 +32,13 @@ Discover how Adobe Commerce provides flexible migration strategies for businesse
 
 ## Who is this video for?
 
-* E-commerce Manager
-* Solutions Architect
-* IT Project Manager
+- E-commerce Manager
+- Solutions Architect
+- IT Project Manager
 
 ## Video content
 
-* Learn about migration options including full migration, phased adoption, and companion solutions.
-* Discover how Adobe supports migration with tooling, partner assistance, and extensibility via App Builder and API Mesh.
+- Learn about migration options including full migration, phased adoption, and companion solutions.
+- Discover how Adobe supports migration with tooling, partner assistance, and extensibility via App Builder and API Mesh.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478800?learn=on)

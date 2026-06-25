@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 227
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20090
 exl-id: 4e8e3760-d42c-46cd-adda-b298e6f487b9
 TQID: https://experienceleague.adobe.com/ZlM3iQOhtGchWh-xtRJB3Yns1k4zE69iHHK6HRvU3tw
@@ -37,13 +37,13 @@ Discover how Adobe Commerce storefronts powered by Edge Delivery Services achiev
 
 ## Who is this video for?
 
-* Front-End Developer
-* Site Performance Engineer
-* E-commerce Manager
+- Front-End Developer
+- Site Performance Engineer
+- E-commerce Manager
 
 ## Video content
 
-* Learn how Edge Delivery architecture enables storefronts to score above 90 in Lighthouse and pass Core Web Vitals.
-* Discover how CDN-powered delivery and caching improve SEO, traffic, and conversion rates without extra effort.
+- Learn how Edge Delivery architecture enables storefronts to score above 90 in Lighthouse and pass Core Web Vitals.
+- Discover how CDN-powered delivery and caching improve SEO, traffic, and conversion rates without extra effort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478796?learn=on)
