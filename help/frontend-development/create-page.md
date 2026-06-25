@@ -1,14 +1,13 @@
 ---
 title: Create a New Page
-description: Create a page that returns json with one parameter.
-kt: 5602
-doc-type: video
+description: Learn how to create a new page in Adobe Commerce that returns JSON with one parameter, including module setup, routes.xml configuration, and controller actions.
+jira: KT-5602
+doc-type: Technical Video
 duration: 259
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Developer
+level: Beginner
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 TQID: https://experienceleague.adobe.com/WtDUQ2sH27ci33UMLBtuNac1oo2CVfBlnFdAbwM3dmY
 product_v2:
@@ -36,7 +35,7 @@ level_v2:
 
 {{only-for-on-prem-commerce-cloud}}
 
-Create a page that returns json with one parameter. 
+Create a page that returns JSON with one parameter.
 
 ## Who is this video for?
 
@@ -53,8 +52,8 @@ Create a page that returns json with one parameter.
 * Create the module folder
 * Create the `etc/module.xml` file
 * Create the `registration.php` file
-* Run the `bin/magento setup:upgrade` script to install the new module
-* Check that the module is working
+* To install the new module, run the `bin/magento setup:upgrade` script
+* Verify that the module is functional
 
 ## Video content
 
