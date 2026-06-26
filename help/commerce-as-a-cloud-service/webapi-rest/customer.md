@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -65,7 +65,7 @@ Before starting, gather all the required values from [Experience Cloud](https://
 
 The instance details contain things like your Instance ID, GraphQL endpoints, credentials.
 
-### Developer details - https://developer.adobe.com/console/
+### Developer details - [developer.adobe.com/console](https://developer.adobe.com/console/)
 
 The Developer Console is where you manage your API credentials, including client IDs, client secrets, and access tokens. You can also create new credential types, such as Server-to-Server or Native App authentication.
 
@@ -77,7 +77,6 @@ The Developer Console is where you manage your API credentials, including client
 | REST Endpoint | `<rest_endpoint>` | experience.adobe.com |
 | Client ID | `<client_id>` | developer.adobe.com/console |
 | Client Secret | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Step 1: Get Access Token (Server-to-Server Authentication)
 
