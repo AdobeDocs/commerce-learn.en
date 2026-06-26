@@ -59,3 +59,4 @@ Learn how to develop a simple JavaScript module that shows the greeting "Hello W
 
 * [JavaScript developer guide](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
 * [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+

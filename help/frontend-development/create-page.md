@@ -62,3 +62,4 @@ Create a page that returns JSON with one parameter.
 ## Useful resources
 
 [Frontend developer guide](https://developer.adobe.com/commerce/frontend-core/guide/)
+
