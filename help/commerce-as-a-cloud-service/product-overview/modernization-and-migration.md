@@ -32,13 +32,13 @@ Discover how Adobe Commerce provides flexible migration strategies for businesse
 
 ## Who is this video for?
 
-- E-commerce Manager
-- Solutions Architect
-- IT Project Manager
+* E-commerce Manager
+* Solutions Architect
+* IT Project Manager
 
 ## Video content
 
-- Learn about migration options including full migration, phased adoption, and companion solutions.
-- Discover how Adobe supports migration with tooling, partner assistance, and extensibility via App Builder and API Mesh.
+* Learn about migration options including full migration, phased adoption, and companion solutions.
+* Discover how Adobe supports migration with tooling, partner assistance, and extensibility via App Builder and API Mesh.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478800?learn=on)

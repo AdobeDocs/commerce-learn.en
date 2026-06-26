@@ -34,13 +34,13 @@ Discover how Adobe Commerce as a Cloud Service supports extensibility through Ap
 
 ## Who is this video for?
 
-- Solutions Architect
-- Backend Developer
-- Integration Specialist
+* Solutions Architect
+* Backend Developer
+* Integration Specialist
 
 ## Video content
 
-- Learn how App Builder enables custom app development and workflow automation for Adobe Commerce.
-- Discover how API Mesh orchestrates data across multiple systems through a unified API layer.
+* Learn how App Builder enables custom app development and workflow automation for Adobe Commerce.
+* Discover how API Mesh orchestrates data across multiple systems through a unified API layer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478799?learn=on)

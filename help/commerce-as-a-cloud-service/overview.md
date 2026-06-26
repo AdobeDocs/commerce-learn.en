@@ -43,20 +43,20 @@ Adobe Commerce as a Cloud Service provides a flexible, scalable, and efficient s
 
 ## Who is this video for?
 
-- Business Owners who are looking to enhance their digital operations with a scalable and efficient solution.
-- Digital Commerce Managers seeking flexible and innovative e-commerce platforms.
-- IT Professionals who are interested in cloud-native capabilities and simplified onboarding processes.
-- Developers looking to learn more about the API-first extensibility and composable architecture for easy integration.
-- Merchandisers who want pre-configured tools and optimized storefronts for better performance.
+* Business Owners who are looking to enhance their digital operations with a scalable and efficient solution.
+* Digital Commerce Managers seeking flexible and innovative e-commerce platforms.
+* IT Professionals who are interested in cloud-native capabilities and simplified onboarding processes.
+* Developers looking to learn more about the API-first extensibility and composable architecture for easy integration.
+* Merchandisers who want pre-configured tools and optimized storefronts for better performance.
 
 ## Video content
 
-- Cloud-native capabilities including elastic auto-scaling, ensuring exceptional performance and reduced latency.
-- Simplified onboarding and self-service provisioning for quick and efficient setup of sandbox or production instances.
-- Composable architecture for independent deployment, scaling, and updating of services with API-first extensibility.
+* Cloud-native capabilities including elastic auto-scaling, ensuring exceptional performance and reduced latency.
+* Simplified onboarding and self-service provisioning for quick and efficient setup of sandbox or production instances.
+* Composable architecture for independent deployment, scaling, and updating of services with API-first extensibility.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Related documentation
 
-- [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service Guide](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

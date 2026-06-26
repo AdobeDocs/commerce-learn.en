@@ -43,13 +43,13 @@ Discover how Adobe Commerce as a Cloud Service enables business teams to run A/B
 
 ## Who is this video for?
 
-- E-commerce Manager
-- Digital Marketing Specialist
-- Conversion Optimization Analyst
+* E-commerce Manager
+* Digital Marketing Specialist
+* Conversion Optimization Analyst
 
 ## Video content
 
-- Learn how to set up and run A/B tests directly in Adobe Commerce to improve storefront performance.
-- Discover how built-in experimentation and product recommendations help boost conversions and engagement.
+* Learn how to set up and run A/B tests directly in Adobe Commerce to improve storefront performance.
+* Discover how built-in experimentation and product recommendations help boost conversions and engagement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478795?learn=on)

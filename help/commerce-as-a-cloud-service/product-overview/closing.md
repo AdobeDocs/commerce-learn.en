@@ -28,13 +28,13 @@ Learn some of the key benefits for Adobe Commerce as a Cloud Service. Learn how 
 
 ## Who is this video for?
 
-- E-commerce Manager
-- Digital Marketing Specialist
-- Solutions Architect
+* E-commerce Manager
+* Digital Marketing Specialist
+* Solutions Architect
 
 ## Video content
 
-- Learn how Adobe Commerce simplifies setup and accelerates performance for modern storefronts.
-- Discover how ACCS empowers teams to deliver high-performing, personalized commerce experiences.
+* Learn how Adobe Commerce simplifies setup and accelerates performance for modern storefronts.
+* Discover how ACCS empowers teams to deliver high-performing, personalized commerce experiences.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478801?learn=on)

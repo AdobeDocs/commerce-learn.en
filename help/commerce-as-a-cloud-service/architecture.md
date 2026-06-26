@@ -51,16 +51,16 @@ Learn about the architecture and key features of Adobe Commerce as a Cloud Servi
 
 ## Who is this video for?
 
-- E-commerce Managers to understand the capabilities and features of Adobe Commerce.
-- Developers to learn about the platform's architecture, APIs, and integration tools.
-- Digital Marketers to explore how Adobe Commerce can enhance customer experiences.
-- IT Administrators to grasp the security and hosting aspects of the Cloud Service.
-- Product Managers to see how the platform supports various business goals and Adobe Merchandising services.
+* E-commerce Managers to understand the capabilities and features of Adobe Commerce.
+* Developers to learn about the platform's architecture, APIs, and integration tools.
+* Digital Marketers to explore how Adobe Commerce can enhance customer experiences.
+* IT Administrators to grasp the security and hosting aspects of the Cloud Service.
+* Product Managers to see how the platform supports various business goals and Adobe Merchandising services.
 
 ## Video content
 
-- Secure and Automated Hosting: Adobe Commerce provides a secure, automated hosting platform with self-service features for managing commerce applications.
-- Comprehensive API Coverage: The platform supports extensive API coverage using GraphQL and REST APIs, enabling seamless integration with third-party systems.
-- Decoupled Architecture: Fully decoupled architecture allows developers to use various front-end frameworks, offering flexibility and performance.
+* Secure and Automated Hosting: Adobe Commerce provides a secure, automated hosting platform with self-service features for managing commerce applications.
+* Comprehensive API Coverage: The platform supports extensive API coverage using GraphQL and REST APIs, enabling seamless integration with third-party systems.
+* Decoupled Architecture: Fully decoupled architecture allows developers to use various front-end frameworks, offering flexibility and performance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)

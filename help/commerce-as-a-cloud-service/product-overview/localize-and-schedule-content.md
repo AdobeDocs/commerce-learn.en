@@ -32,13 +32,13 @@ Discover how to use Adobe ACCS and effectively localize and schedule your conten
 
 ## Who is this video for?
 
-- Commerce Merchandiser
-- Digital Marketing Manager
-- Localization Specialist
+* Commerce Merchandiser
+* Digital Marketing Manager
+* Localization Specialist
 
 ## Video content
 
-- Learn how to localize content and manage multiple storefronts using DA.live without developer support.
-- Discover how built-in scheduling and GenAI tools streamline campaign launches and content updates.
+* Learn how to localize content and manage multiple storefronts using DA.live without developer support.
+* Discover how built-in scheduling and GenAI tools streamline campaign launches and content updates.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478792?learn=on)

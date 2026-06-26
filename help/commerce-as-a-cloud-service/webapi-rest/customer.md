@@ -42,14 +42,14 @@ Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This t
 
 ## Who is this video for?
 
-- Backend developers responsible for building integrations with Adobe Commerce
-- Technical architects designing customer management workflows for headless commerce implementations
+* Backend developers responsible for building integrations with Adobe Commerce
+* Technical architects designing customer management workflows for headless commerce implementations
 
 ## Video content
 
-- Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
-- Use the correct REST API endpoint format for Commerce as a Cloud Service
-- Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
+* Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
+* Use the correct REST API endpoint format for Commerce as a Cloud Service
+* Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
@@ -65,7 +65,7 @@ Before starting, gather all the required values from [Experience Cloud](https://
 
 The instance details contain things like your Instance ID, GraphQL endpoints, credentials.
 
-### Developer details - https://developer.adobe.com/console/
+### Developer details - [developer.adobe.com/console](https://developer.adobe.com/console/)
 
 The Developer Console is where you manage your API credentials, including client IDs, client secrets, and access tokens. You can also create new credential types, such as Server-to-Server or Native App authentication.
 
@@ -77,7 +77,6 @@ The Developer Console is where you manage your API credentials, including client
 | REST Endpoint | `<rest_endpoint>` | experience.adobe.com |
 | Client ID | `<client_id>` | developer.adobe.com/console |
 | Client Secret | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Step 1: Get Access Token (Server-to-Server Authentication)
 
@@ -263,6 +262,6 @@ curl -s -X PUT \
 
 ## References
 
-- [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
-- [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-- [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

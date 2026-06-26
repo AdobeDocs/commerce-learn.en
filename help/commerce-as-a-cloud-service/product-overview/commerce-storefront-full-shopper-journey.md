@@ -41,13 +41,13 @@ Discover how Adobe Commerce as a Cloud Service powers a seamless shopping experi
 
 ## Who is this video for?
 
-- E-commerce Manager
-- Customer Experience Specialist
-- Digital Marketing Manager
+* E-commerce Manager
+* Customer Experience Specialist
+* Digital Marketing Manager
 
 ## Video content
 
-- Learn how to personalize shopping experiences using AI-powered Live Search and product recommendations.
-- Discover how self-service account tools simplify order tracking, returns, and reorders for customers.
+* Learn how to personalize shopping experiences using AI-powered Live Search and product recommendations.
+* Discover how self-service account tools simplify order tracking, returns, and reorders for customers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478797?learn=on)
