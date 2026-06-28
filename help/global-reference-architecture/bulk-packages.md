@@ -1,16 +1,14 @@
 ---
-title: Optimizing Adobe Commerce with Bulk Packages Global Reference Architecture
-description: Learn how to set up Adobe Commerce using the Bulk Packages Global Reference Architecture for efficient code management and version control.
+title: Bulk Packages Global Reference Architecture Pattern
+description: Learn how to set up Adobe Commerce using the Bulk Packages GRA pattern for efficient code management, version control, and scalable multi-instance deployments.
 jira: KT-16726
-doc-type: tutorial
-duration: 391
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 296
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
-old-role: Architect, Developer
-role: Developer, User, Leader
+badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributed by Tony Evers"
+role: Developer
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
@@ -56,7 +54,7 @@ Advantages:
 * Flexibility to install different historical versions of the GRA on different instances, enabling phased releases
 * Flexibility to backport and maintain multiple major versions of the GRA
 * Support for semantic versioning of the GRA
-* Simplicity, developers do not need more skills than in regular single store development patterns
+* Simplicity; developers do not need more skills than in regular single store development patterns
 * No special tooling, complex infrastructure or special branching strategy required
 * The combination of packages in a release is always developed and tested together
 

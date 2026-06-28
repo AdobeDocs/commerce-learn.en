@@ -1,17 +1,14 @@
 ---
 title: How do you leverage Global Reference Architecture
 description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14040
-doc-type: video
-duration: 1833
-audience: all
-last-substantial-update: 2023-9-27
+jira: KT-14040
+doc-type: Value Video
+duration: 1817
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 TQID: https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns
 product_v2:
@@ -46,7 +43,7 @@ topic_v2:
 ---
 # Leveraging Global Reference Architecture
 
-Learn how to leverage Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and how they are a valuable resource to a GRA implementation.
+Learn how to leverage Global Reference Architecture or GRA. To prepare a GRA better for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and why they are a valuable resource to a GRA implementation.
 
 ## Audience
 
