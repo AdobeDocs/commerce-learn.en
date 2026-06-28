@@ -1,17 +1,14 @@
 ---
 title: Introduction to the concept of Global Reference Architecture
 description: Learn about the technique used for managing complex commerce projects called Global Reference Architecture
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14039
-doc-type: video
-duration: 1165
-audience: all
-last-substantial-update: 2023-9-27
+jira: KT-14039
+doc-type: Value Video
+duration: 1143
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
 TQID: https://experienceleague.adobe.com/dxP-u56ARgMmP8DD5-upAzhzQYieMLN0GPvdnrc-DR8
 product_v2:
@@ -53,7 +50,7 @@ Learn about Global Reference Architecture, some core concepts, and benefits for 
 
 * Overview of Global Reference Architecture
 * Key benefits
-* Overall considerations that must be considered 
+* Overall considerations that must be addressed
 * How to tell if GRA is a viable option
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)

@@ -1,15 +1,13 @@
 ---
-title: Setting Up Adobe Commerce with the Split Git Global Reference Architecture
-description: Learn how to set up Adobe Commerce using the Split Git Global Reference Architecture for efficient code management and streamlined deployment. ​
-kt: 16725
-doc-type: tutorial
-duration: 515
-audience: all
-last-substantial-update: 2025-1-6
+title: Split Git Global Reference Architecture
+description: Learn how to set up Adobe Commerce using the Split Git Global Reference Architecture for efficient code management and streamlined deployment.
+jira: KT-16725
+doc-type: Tutorial
+duration: 330
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
+badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
@@ -56,7 +54,7 @@ Advantages:
 
 * Code reuse through a shared code repository
 * Simple GRA pattern, suitable even for teams with limited Composer knowledge
-* In addition to Adobe Commerce modules, themes and language packs, it is possible to install any type of Composer package through this model, including composer-plugin, composer-metapackage, magento2-component and patches
+* You can install any Composer package through this model, including modules, themes, language packs, composer-plugin, composer-metapackage, magento2-component, and patches
 * Possible to release in phases, planning releases to regions in their own maintenance windows
 * Support for Git tags for administration purposes, not for deployment control
 * Guarantee that the combination of packages in a production deployment is developed and tested in this exact configuration
@@ -65,7 +63,7 @@ Disadvantages:
 
 * No added flexibility compared to other GRA patterns
 * Not possible to upgrade or downgrade individual modules per instance, always upgrade or downgrade the GRA as a whole
-* In most cases, the bulk packages pattern is a better fit as it is equally simple, but more conventional
+* In most cases, the bulk packages pattern is a better alternative as it is equally simple, but more conventional
 
 ## Set up Adobe Commerce with the Split Git GRA pattern
 
@@ -124,7 +122,7 @@ git push gra main
 
 Pushing the temporary file `.gitkeep` to all remotes creates the same initial commit with the same commit hash, making a shared history. Each change that is created in one remote can be merged to the others.
 
-From here, the repositories diverge. The gra-split-brand-x repository contains brand specific code. The gra-split-3rdparty repository contains only third-party code. The gra-split-gra repository contains only your global reference architecture foundation, which consists of all your custom code.
+From here, the repositories diverge. The gra-split-brand-x repository contains brand-specific code. The gra-split-3rdparty repository contains only third-party code. The gra-split-gra repository contains only your global reference architecture foundation, which consists of all your custom code.
 
 Install Adobe Commerce in the gra-split-brand-x repository.
 
@@ -157,7 +155,7 @@ git commit -m 'initialize GRA package storage'
 git push origin main
 ```
 
-These two repositories store third-party packages and GRA packages. There may be code that is exclusive to each instance of Adobe Commerce. Create a place to store these local packages in the gra-split-brand-x repository.
+These two repositories store third-party packages and GRA packages. Some code is exclusive to each instance of Adobe Commerce. Create a place to store these local packages in the gra-split-brand-x repository.
 
 ```bash
 cd ../gra-split-brand-x
@@ -170,7 +168,7 @@ git push origin main
 
 ### Where to store different types of code
 
-Adobe Commerce is a Composer application. The preferred way to install is always through Composer repositories. Only if a module vendor does not offer installation through a Composer repository, you can store third-party modules in the third-party repository. The preferred place for custom code is in the GRA repository. When a module is only used by one specific instance, it becomes local code.
+Adobe Commerce is a Composer application. The preferred way to install is always through Composer repositories. Only if a module vendor does not offer installation through a Composer repository, you can store third-party modules in the third-party repository. The preferred place for custom code is in the GRA repository. When one specific instance uses a module, it becomes local code.
 
 Summarizing:
 
@@ -193,7 +191,7 @@ Composer can treat the packages directory as a composer repository. Inform Compo
 ]
 ```
 
-Composer looks for composer.json files two levels deep in the three storage directories. Create subdirectories inside the three code storage directories exactly like they would appear in the `vendor/` directory.
+Composer looks for composer.json files two levels deep in the three storage directories. Create subdirectories inside the three code storage directories exactly like they appear in the `vendor/` directory.
 
 For instance: If a package is normally installed in `vendor/example-corp/module-example/`, then you store it in `packages/3rdparty/example-corp/module-example/`. Composer symlinks the package to `vendor/example-corp/module-example/` when you require it.
 
@@ -227,11 +225,11 @@ Adobe Commerce does not automatically recognize new modules. Run composer requir
 
 ### Install example modules
 
-As a proof of concept, install example modules to see how the GRA pattern works.
+To see how the GRA pattern works, install example modules as a proof of concept.
 
 Run `composer install` and `bin/magento install` before moving on.
 
-There are 3 test modules for on GitHub:
+There are 3 test modules on GitHub:
 
 1. [module-example-local](https://github.com/AntonEvers/module-example-local)
 2. [module-example-gra](https://github.com/AntonEvers/module-example-gra)
@@ -257,7 +255,7 @@ bin/magento module:enable AntonEvers_Local
 bin/magento test:local
 ```
 
-That last command should result in the following output to prove that the module is installed and working:
+That last command results in the following output to prove that the module is installed and working:
 
 ```bash
 Local module is installed successfully and working!
@@ -312,7 +310,7 @@ The result is the following directory structure:
 
 Run `composer install` and `bin/magento install` in the gra-development directory.
 
-It is now possible to commit changes directly from the `packages/3rdparty`, `packages/gra` and `package/local` directories. Git commits the changes to the Git repository that the directories symlink to. It is important that the git commit command is issued inside the `packages/3rdparty`, `packages/gra` or `package/local` directory. Do not run git commit at the project root.
+It is now possible to commit changes directly from the `packages/3rdparty`, `packages/gra` and `packages/local` directories. Git commits the changes to the Git repository that the directories symlink to. It is important that the git commit command is issued inside the `packages/3rdparty`, `packages/gra` or `packages/local` directory. Do not run git commit at the project root.
 
 ### Install example modules
 
@@ -344,14 +342,14 @@ bin/magento test:gra
 bin/magento test:3rdparty
 ```
 
-That last command should result in the following output to prove that the module is installed and working:
+That last command results in the following output to prove that the module is installed and working:
 
 ```bash
 GRA module is installed successfully and working!
 3rd party module is installed successfully and working!
 ```
 
-If you see the output above, then you can safely commit it to the brand repository. Run `git remote -v` to verify that you are committing to the right remote.
+If you see the output above, then you can safely commit it to the brand repository. To verify that you are committing to the right remote, run `git remote -v`.
 
 ```bash
 cd packages/gra
@@ -373,7 +371,7 @@ git push origin main
 
 ### Deliver code to the instances
 
-Merge the GRA and third-party repositories to the gra-split-brand-x repository to deliver the code to an Adobe Commerce instance. Run `composer require`, `bin/magento module:enable` and commit the result.
+To deliver the code to an Adobe Commerce instance, merge the GRA and third-party repositories to the gra-split-brand-x repository. Run `composer require`, `bin/magento module:enable` and commit the result.
 
 ```bash
 cd gra-split-brand-x
