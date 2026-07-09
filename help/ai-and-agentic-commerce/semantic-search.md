@@ -20,14 +20,16 @@ Traditional keyword search matches exact words — but shoppers rarely know the 
 
 ## Video content
 
-* Attribute selection so semantic search understands your catalog
-* Priority configuration to weight the most relevant signals for shopper intent matching
-* Automatic catalog indexing transforming product data into semantic signals
-* Result boosting, similarity thresholds, and fuzzy search configuration
+* Introduction to Semantic Search and how it improves product discovery
+* How to enable Semantic Search in Live Search Settings
+* What merchants can expect after enabling Semantic Search
+* Automatic catalog indexing and AI-powered understanding of product data
+* Real-world examples of shopper intent and improved search relevance
+* Key benefits: improved relevance, fewer zero-result searches, and better shopper experiences
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## Additional resources
 
-- For deployments on Adobe Commerce on Cloud, on Prem, and Adobe Commerce as a Cloud Service, see [[!DNL Live Search] semantic search](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} in the _Live Search Guide_.
-- For deployments using Adobe Commerce Optimizer, see [Settings - Advanced Search](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} in the _Commerce Optimizer Guide_.
+- For deployments on Adobe Commerce on Cloud, on-prem, and Adobe Commerce as a Cloud Service, see [[!DNL Live Search] semantic search](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} in the _Live Search Guide_.
+- For deployments using Adobe Commerce Optimizer, see [Semantic search](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"} in the _Commerce Optimizer Guide_.
