@@ -1,15 +1,13 @@
 ---
 title: Optimizing Code Reuse with Adobe Commerce
 description: Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns, enhancing performance and compliance across multiple instances.
-kt: 15773
-doc-type: tutorial
-duration: 287
-audience: all
-last-substantial-update: 2025-1-6
+jira: KT-15773
+doc-type: Tutorial
+duration: 284
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
+badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
@@ -50,13 +48,13 @@ There are several ways to optimize code reuse with Adobe Commerce. These four im
 
 ## When to use Global Reference Architecture
 
-Global reference architecture can be valuable, depending on the number of instances you own. An instance is a standalone installation of Adobe Commerce using its own database. Count the number of production databases to know how many instances you own. If you maintain more than one instance, or if you foresee this scenario in the future, you can benefit from global reference architecture. The more functionality the instances share, the more value a global reference architecture adds.
+Global reference architecture can be valuable, depending on the number of instances you own. An instance is a standalone installation of Adobe Commerce using its own database. To know how many instances you own, count the number of production databases. If you maintain more than one instance, or if you foresee this scenario in the future, you can benefit from global reference architecture. The more functionality the instances share, the more value a global reference architecture adds.
 
 In any of these scenarios, it is advisable to explore using multiple instances of Adobe Commerce.
 
-1. **Different Store Owners**: If you maintain code for multiple store owners, each with their own distinct store, separate instances may be needed to maintain their individual requirements effectively.
+1. **Different Store Operators**: If you maintain code for multiple store operators, each with their own distinct store, separate instances are needed to maintain their individual requirements effectively.
 2. **Compliance with National Regulations**: Certain regulations mandate that customer data must be stored within specific regions. In such cases, separate instances are essential to ensure compliance with these regulations.
-3. **Operational Variances Across Geographical Regions**: Operating in multiple regions may mean differing maintenance schedules and requirements. Using separate instances allows for flexibility in managing these variations efficiently.
+3. **Operational Variances Across Geographical Regions**: Operating in multiple regions means differing maintenance schedules and requirements. Using separate instances allows for flexibility in managing these variations efficiently.
 4. **High-Intensity Flash Sales**: Stores conducting large-scale flash sales often require optimized server performance. Dedicated infrastructure provided by separate instances ensures optimal performance during such high-demand periods.
 5. **Significant Differences Between Brands or Countries**: When the difference between brands or countries is large, using a single instance results in code that is only used for some brands or countries. Separate instances can enhance performance and stability by eliminating unnecessary code for brands and countries that don't need it.
 
@@ -78,7 +76,7 @@ When a GRA pattern is not used, each Adobe Commerce instance is a unique applica
 
 ![An icon depicting the "split" GRA pattern](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-This pattern consists of Git repositories for development and one Git repository per instance. Each file in the instance is maintained in one of the development repositories. They come together as a braid forming the whole GRA. Each line of code only exists in a single development repository and is installed to the instances using the braiding technique, leading to code reuse.
+This pattern consists of Git repositories for development and one Git repository per instance. Each file in the instance is maintained in a development repository. They are combined to form the whole GRA. Each line of code only exists in a single development repository and is installed to the instances using the braiding technique, leading to code reuse.
 
 ![A diagram showing where code is stored in a split GRA pattern](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -108,7 +106,7 @@ All development takes place in a single code repository. Automation generates pa
 
 ## Choosing a GRA pattern
 
-The choice for a GRA pattern is made by assessing the project complexity, the need for flexibility, and the development team's ability to adapt.
+Assess the project complexity, the need for flexibility, and the development team's ability to adapt to choose a GRA pattern.
 
 Teams with little Adobe Commerce experience best start simple. However, if the project demands a more complex GRA pattern due to its characteristics, do not compromise.
 
@@ -116,9 +114,9 @@ Common project characteristics related to each pattern:
 
 1. **No GRA pattern**: Single instance of Adobe Commerce without plans to extend. Multiple instances of Adobe Commerce with minimal commonality between them.
 
-2. **Split Git GRA pattern**: Teams that wish to avoid Composer for their customizations, in most cases Bulk packages pattern is a preferred pattern to Split Git.
+2. **Split Git GRA pattern**: Teams that wish to avoid Composer for their customizations; in most cases, the Bulk packages pattern is a preferred pattern to Split Git.
 
-3. **Bulk package GRA pattern**: Customization codebase with high interdependency. Instances all have very similar combinations of custom packages. No frequent promotion or demotion of individual packages. Teams with little experience in code management and in need of simplicity.
+3. **Bulk package GRA pattern**: Customization codebase with high interdependency. Instances have very similar combinations of custom packages. No frequent promotion or demotion of individual packages. Teams with little code management experience and a need for simplicity.
 
 4. **Separate packages GRA pattern**: Flexible release scope management needed. 50 or less custom packages are anticipated in the next 5 years. Potentially, global and regional layers of common code. No plans to migrate to a Monorepo pattern. The team is technically adept and has strict process adherence.
 
