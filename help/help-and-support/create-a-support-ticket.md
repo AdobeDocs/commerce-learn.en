@@ -1,10 +1,10 @@
 ---
 title: Create a support ticket
-description: Learn how to create a support ticket for Adobe Commerce in Experience League
+description: Learn how to create a support ticket for Adobe Commerce in Adobe Experience League, including how to fill out dynamic form fields and CC other contacts.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 355
 last-substantial-update: 2024-08-23T00:00:00.000Z
@@ -25,8 +25,6 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
 level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 topic_v2:
@@ -35,23 +33,23 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
 ---
-# Using Experience League to create a support ticket
+# Using Adobe Experience League to create a support ticket
 
-Learn how to create a support ticket within Experience League for Adobe Commerce.
+Learn how to create a support ticket within Adobe Experience League for Adobe Commerce.
 
 ## Who is this video for?
 
-* Anyone who has the ability to create support requests for Adobe Commerce in Experience League
+* People who have the ability to create support requests for Adobe Commerce in Adobe Experience League
 
 ## Video content {#video-content}
 
-* Learn how to log in to Experience League
+* Learn how to log in to Adobe Experience League
 * Learn about the dynamic form elements when creating a new support ticket
-* Lean how the recommended articles change depending on what information was used in the form
-* Understanding how the placeholder text found in the form fields helps with understanding the type of information needed for a good support request
+* Learn how the recommended articles change depending on what information was used in the form
+* How the placeholder text found in the form fields helps with understanding the type of information needed for a good support request
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
-## Commerce Knowledge Base help center guide
+## Commerce Knowledge Base Adobe Help Center guide
 
-[Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Submit a support case](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
