@@ -1,14 +1,12 @@
 ---
 title: Headless Architecture Session 1
-description: Learn what is headless architecture, composable commerce, and personalized experiences
-kt: 13144
-doc-type: tutorial
+description: Learn about headless architecture, composable commerce, and personalized experiences with Adobe Commerce, and explore the benefits of a decoupled storefront.
+jira: KT-13144
+doc-type: Value Video
 duration: 1952
-audience: all
 last-substantial-update: 2023-04-25T00:00:00.000Z
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
@@ -49,11 +47,11 @@ topic_v2:
 ---
 # Adobe Commerce Headless Architecture
 
-High-level overview of the history of Adobe Commerce and how things have been moving to fully support headless.  Benefits of headless architecture include parity across touch points, separation of development activities, improved scalability and so much more.
+High-level overview of the history of Adobe Commerce and how things have been moving to support headless fully. Benefits of headless architecture include parity across touch points, separation of development activities, improved scalability, and additional advantages.
 
 ## What you'll learn
 
-Learn what is headless and how does Adobe Commerce support fully headless architecture.
+Learn what headless is and how Adobe Commerce supports fully headless architecture.
 
 ## Who is this video for?
 
