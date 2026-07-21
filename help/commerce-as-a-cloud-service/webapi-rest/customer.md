@@ -65,7 +65,9 @@ Before starting, gather all the required values from [Experience Cloud](https://
 
 The instance details contain things like your Instance ID, GraphQL endpoints, credentials.
 
-### Developer details - [developer.adobe.com/console](https://developer.adobe.com/console/)
+### Developer details - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 The Developer Console is where you manage your API credentials, including client IDs, client secrets, and access tokens. You can also create new credential types, such as Server-to-Server or Native App authentication.
 

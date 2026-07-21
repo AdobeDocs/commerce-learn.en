@@ -17,7 +17,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 
 ## File-by-file reference
 
-### [Create a split payment POC: App Builder and AI tools](./overview.md)
+### Create a split payment POC: App Builder and AI tools
+
+[Create a split payment POC: App Builder and AI tools](./overview.md)
 
 **Purpose:** Introduction and orientation for the tutorial.
 
@@ -26,8 +28,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** Opening section. Sets context before any technical steps.
 
 
-### [Split payment POC: architecture and design decisions](./architecture-and-decisions.md)
+### Split payment POC: architecture and design decisions
 
+[Split payment POC: architecture and design decisions](./architecture-and-decisions.md)
 
 **Purpose:** Deep-dive explanation of every architectural decision in the PoC.
 
@@ -44,8 +47,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** "Architecture" or "How it works" section. Can be skipped by experienced Commerce developers but is essential for App Builder newcomers.
 
 
-### [Split payment POC: prerequisites and environment setup](./prerequisites-and-setup.md)
+### Split payment POC: prerequisites and environment setup
 
+[Split payment POC: prerequisites and environment setup](./prerequisites-and-setup.md)
 
 **Purpose:** Complete pre-flight checklist before any code is written or prompts are run.
 
@@ -60,8 +64,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** "Prerequisites" or "Getting started" section. Should be completed interactively — not just read.
 
 
-### [Split payment POC: environment variables reference](./env-reference.md)
+### Split payment POC: environment variables reference
 
+[Split payment POC: environment variables reference](./env-reference.md)
 
 **Purpose:** All environment variables for all three components in one place.
 
@@ -76,8 +81,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** Reference sidebar or "Configuration" section. Also used as a companion to the build prompts.
 
 
-### [Split payment POC: Commerce module AI prompt](./commerce-module-prompt.md)
+### Split payment POC: Commerce module AI prompt
 
+[Split payment POC: Commerce module AI prompt](./commerce-module-prompt.md)
 
 **Purpose:** Complete, self-contained AI prompt to generate the entire `Client_SplitPayment` PHP module.
 
@@ -95,8 +101,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** "Build the Commerce module" section. The prompt itself is the artifact — developers copy it into their AI tool and run it.
 
 
-### [Split payment POC: App Builder orchestrator AI prompt](./orchestrator-prompt.md)
+### Split payment POC: App Builder orchestrator AI prompt
 
+[Split payment POC: App Builder orchestrator AI prompt](./orchestrator-prompt.md)
 
 **Purpose:** Complete, self-contained AI prompt to generate the `split-payment-orchestrator` App Builder application.
 
@@ -114,8 +121,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** "Build the App Builder application" section. Companion to the Commerce module prompt.
 
 
-### [Split payment POC: Experience Cloud UI extension AI prompt](./experience-cloud-ui-prompt.md)
+### Split payment POC: Experience Cloud UI extension AI prompt
 
+[Split payment POC: Experience Cloud UI extension AI prompt](./experience-cloud-ui-prompt.md)
 
 **Purpose:** AI prompt to generate the optional Experience Cloud Admin UI SDK extension.
 
@@ -131,8 +139,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** Optional "Going further" or "Production path" section. Can be skipped if the tutorial focuses only on the PoC.
 
 
-### [Split payment POC: testing and verification guide](./testing-and-verification.md)
+### Split payment POC: testing and verification guide
 
+[Split payment POC: testing and verification guide](./testing-and-verification.md)
 
 **Purpose:** Step-by-step testing guide covering every component in the correct verification order.
 
@@ -154,8 +163,9 @@ This page summarizes how the split payment proof-of-concept tutorial series is o
 **Tutorial use:** "Testing" or "Verification" section. Also valuable as a troubleshooting reference.
 
 
-### [Split payment POC: next steps after the proof of concept](./next-steps.md)
+### Split payment POC: next steps after the proof of concept
 
+[Split payment POC: next steps after the proof of concept](./next-steps.md)
 
 **Purpose:** Roadmap for evolving the PoC into production-ready patterns.
 
