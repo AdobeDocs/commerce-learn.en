@@ -62,6 +62,7 @@ author: Russell A.
         + Bulk Data Migration Tool{#bulk-data-migration-tool}
             + [Introduction](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
             + [Source credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+            + [DB credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
     + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
         + [Overview](../migrating-to-adobe-commerce/overview.md)
         + Preparation{#preparation}
