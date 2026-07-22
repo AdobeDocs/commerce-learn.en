@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce Cloud Service Overview
+title: Adobe Commerce Cloud Service Closing
 description: A quick recap of how Adobe Commerce simplifies setup, boosts performance, and empowers teams to deliver exceptional commerce experiences.
 feature: Admin Workspace, Storefront, Cloud
 topic: Commerce, Performance
@@ -7,8 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 47
-last-substantial-update: 2026-01-12T00:00:00.000Z
-jira: KT-20095
+last-substantial-update: 2026-01-12
 exl-id: ed5829aa-7407-47cc-bf39-de6c7e31a10f
 TQID: https://experienceleague.adobe.com/bkwjq4kzrKjse47yn51hfQbdhkVFwZxf-Hw8s4QUlV4
 product_v2:

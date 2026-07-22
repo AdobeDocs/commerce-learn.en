@@ -30,3 +30,4 @@ Storefront testing confirms the external shipping rates appear and function as e
 >[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+

@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services transactional flow
-description: Learn about Adobe Edge Delivery Services and how to change the transactional flow.
+description: Learn how to adjust the transactional flow in Adobe Commerce checkout using Edge Delivery Services cart drop-in, including quantity, discounts, and A/B testing.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -32,12 +32,12 @@ Learn how to adjust the transactional flow for checkout using Edge Delivery Serv
 
 ## What you'll learn
 
-Gain an understanding on how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
+Learn how to use Adobe Commerce cart drop-in and adjust the transactional flow to show customers a new set of features by changing a few lines of code. Also learn how to convert these changes to be managed from SharePoint to conduct A/B testing.
 
 ## Who is this video for?
 
 * Developers and store owners learning about Edge Delivery Services with a need to change some cart drop-in elements.
-* Marketers and others who are interested in using SharePoint to manage features and AB testing.
+* Marketers and others who are interested in using SharePoint to manage features and A/B testing.
 
 ## Video content
 

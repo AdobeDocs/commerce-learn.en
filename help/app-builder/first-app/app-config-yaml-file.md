@@ -78,3 +78,4 @@ You can see these static values being used in the sample module in file `actions
 ```
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

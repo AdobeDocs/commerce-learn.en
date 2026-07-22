@@ -1,15 +1,12 @@
 ---
 title: How do you architect Global Reference Architecture
 description: Learn how to architect a global reference architecture. Learn techniques and ideas to ensure your Global Reference Architecture project starts off on the right track
-landing-page-description: Learn how to architect a Global Reference Architecture with Adobe Commerce
-kt: 14041
-doc-type: video
-duration: 3124
-audience: all
-last-substantial-update: 2023-10-3
+jira: KT-14041
+doc-type: Value Video
+duration: 3108
+last-substantial-update: 2023-10-03
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
@@ -44,7 +41,7 @@ topic_v2:
 ---
 # Architecting for GRA
 
-Learn how to architect Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss what is and what is not GRA. A deep discussion on code management using separate packages, split git and monorepo. Other topics around documentation, tools, and personnel expectations are discussed to elaborate on their parts for a successful GRA implementation.
+Learn how to architect Global Reference Architecture or GRA for short. To prepare a GRA better for a successful implementation, the Adobe experts discuss what is and what is not GRA. A detailed discussion on code management using separate packages, split git, and monorepo. Other topics around documentation, tools, and personnel expectations are discussed to elaborate on their parts for a successful GRA implementation.
 
 ## Audience
 
@@ -54,8 +51,8 @@ Learn how to architect Global Reference Architecture or GRA for short. To better
 ## Video content
 
 * What is and what is not considered a Global Reference Architecture
-* Different code management techniques - separate packages, split git and monorepo
-* Common issues and pain points
+* Different code management techniques - separate packages, split git, and monorepo
+* Common issues and challenges
 * Documentation expectations
 * Bug management and associated software and tools
 * DevOps, leads and automated testing

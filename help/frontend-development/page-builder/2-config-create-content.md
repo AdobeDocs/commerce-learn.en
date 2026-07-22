@@ -1,14 +1,13 @@
 ---
-title: Page Builder for developers - Configuration and content customization
-description: Configure and setup Page Builder​. Understand the Page Builder workspace​. Understand and use content types - Layout, Elements, Media, and other content​. Add Catalog content with Page Builder.
-kt: 5651
-doc-type: video
+title: Page Builder for developers - Setup and customization
+description: Learn how to configure Page Builder, explore the workspace, work with content types — Layout, Elements, and Media — and add catalog content to your pages.
+jira: KT-5651
+doc-type: Technical Video
 duration: 751
-activity: use
 feature: Page Content, Native Luma Frontend Development
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
 TQID: https://experienceleague.adobe.com/gl0kllOii0nmwEZ2iFkzUJAcjJ31-v9xJUnKDLOtcBU
@@ -39,7 +38,7 @@ level_v2:
 
 In this video:
 
-* Configure and setup Page Builder​
+* Configure and set up Page Builder
 * Understand the Page Builder workspace​
 * Understand and use content types - Layout, Elements, Media, and other content​
 * Add catalog content with Page Builder
@@ -54,7 +53,7 @@ In this video:
 
 >[!NOTE]
 >
->This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?learn=on)
 
@@ -62,4 +61,5 @@ In this video:
 
 [Page Builder developer documentation](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)
+
