@@ -4,7 +4,7 @@ description: Learn how to test your Adobe Developer App Builder application loca
 jira: KT-21685
 doc-type: Tutorial
 duration: 85
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

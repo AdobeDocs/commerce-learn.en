@@ -4,7 +4,7 @@ description: Learn about additional Adobe Developer App Builder resources, docum
 jira: KT-21686
 doc-type: Tutorial
 duration: 100
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
