@@ -4,7 +4,7 @@ description: Learn about the web-src folder structure, its JavaScript files and 
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

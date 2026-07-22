@@ -4,7 +4,7 @@ description: Learn about the JavaScript unit test file in the App Builder test f
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

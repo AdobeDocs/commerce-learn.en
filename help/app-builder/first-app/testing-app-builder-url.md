@@ -4,7 +4,7 @@ description: Learn how to deploy and test your first Adobe Developer App Builder
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
