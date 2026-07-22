@@ -2,9 +2,9 @@
 title: App Builder First App related pages
 description: Links to related pages in App Builder First App section
 ---
-# App Builder First App related links
+# App Builder First App-related links
 
-## App Builder - Build your First App related pages
+## App Builder - First App-related pages
 
 * [Overview](overview.md)
 * [The `.env` file](env-file.md)
