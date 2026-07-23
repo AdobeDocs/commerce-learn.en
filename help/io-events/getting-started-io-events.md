@@ -30,16 +30,16 @@ level_v2:
 ---
 # Getting Started with IO Events for Adobe Commerce
 
-Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder and the event from Adobe Commerce.
+Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder.
 
 ## Who is this video for?
 
-* Developers learning to build event driven applications with Adobe Commerce and Adobe IO Events.
+* Developers learning to build event driven applications with Adobe Commerce and Adobe I/O Events.
 
 ## Video content {#video-content}
 
-* Learn about Adobe IO events
-* Understand the different endpoints for Adobe IO Events including Amazon EventBridge
+* Learn about Adobe I/O Events
+* Understand the different endpoints for Adobe I/O Events including Amazon EventBridge
 * Learn how to set up and configure an App Builder project
 * Using Adobe I/O commands in the CLI
 * Creating a runtime action for handling events
