@@ -1,16 +1,12 @@
 ---
 title: Configure Adobe Commerce
 description: Learn how to configure Adobe Commerce to allow events to be used in Adobe Developer App Builder.
-landing-page-description: Learn how to configure Adobe Commerce to use the event mechanism for consumption by Adobe Developer App Builder.
-short-description: Learn how to configure Adobe Commerce to use the event mechanism for consumption by Adobe Developer App Builder.
-kt: 11889
-doc-type: tutorial
-duration: 299
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11889
+doc-type: Tutorial
+duration: 268
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
@@ -36,15 +32,15 @@ level_v2:
 ---
 # Configure Adobe Commerce
 
-Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Learn how to configure Adobe Commerce to expose the events. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
+* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events who need to create an Adobe App Builder project.
 
 ## Video content {#video-content}
 
-* Configuration of the Adobe I/O events in the Commerce admin
+* Configuration of the Adobe I/O Events in the Commerce admin
 * Saving a private key in the Commerce admin
 * Saving the unique identifier in the Commerce admin
 * Create an event provider

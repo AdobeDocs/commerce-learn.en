@@ -1,16 +1,12 @@
 ---
 title: Learn how to use conditional events in Adobe Commerce
 description: Learn how to use conditional events to be used in Adobe Developer App Builder.
-landing-page-description: Learn how to use Adobe Commerce conditional events.
-short-description: Learn how to use Adobe Commerce conditional events.
-kt: 11890
-doc-type: tutorial
-duration: 421
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11890
+doc-type: Tutorial
+duration: 387
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
@@ -34,11 +30,11 @@ level_v2:
 ---
 # Adobe Commerce conditional events
 
-Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Learn about conditional events in Adobe Commerce that can be used in Adobe Developer App Builder. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events){target="_blank"}.
 
 ## Who is this video for?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events and need to create an Adobe App Builder project.
+* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events who need to create an Adobe App Builder project.
 
 ## Video content {#video-content}
 
