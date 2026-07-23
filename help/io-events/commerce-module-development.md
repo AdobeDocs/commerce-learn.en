@@ -1,16 +1,12 @@
 ---
-title: Learn how to create a module in Adobe Commerce to use events.
+title: Create an Adobe Commerce module to use I/O events
 description: Learn how to create Commerce module to use events.
-landing-page-description: Learn how to create an Adobe Commerce module to use events.
-short-description: Learn how to create an Adobe Commerce module to use events.
-kt: 11891
-doc-type: tutorial
-duration: 348
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11891
+doc-type: Tutorial
+duration: 314
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
@@ -34,7 +30,7 @@ level_v2:
 ---
 # Adobe Commerce module development
 
-Learn how register events, find supported events, and how to use a new XML file `io_events.xml` in custom module development. The video will also show developers how to find registered events that can used as well as unsubscribe any events that may already be defined. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Learn how to register events, find supported events, and use a new XML file `io_events.xml` in custom module development. The video also shows developers how to find registered events to use, and how to remove events that are already defined. Additional documentation found at [Install Adobe I/O Events for Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## Who is this video for?
 
@@ -42,11 +38,11 @@ Learn how register events, find supported events, and how to use a new XML file 
 
 ## Video content {#video-content}
 
-* Registering events in Commerce for use in Adobe Developer App Builder
+* Registering Commerce events for Adobe Developer App Builder
 * Identify events that can be registered
 * Learn how to register events in io_events.xml
 * Learn how to register events in the Commerce instances `app/etc/config.php`
-* Learn how to unsubscribe to an event
+* Learn how to unsubscribe from an event
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
 
