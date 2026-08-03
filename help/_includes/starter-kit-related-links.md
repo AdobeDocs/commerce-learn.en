@@ -6,8 +6,8 @@ description: Links to related pages in Getting Started - Starter kit section
 
 ## Related starter kit resources
 
-* [Integrations](../back-office-integrations/integrations.md)
-* [Source code organization](../back-office-integrations/source-code-organization.md)
-* [Last mile integration](../back-office-integrations/last-mile-integration.md)
-* [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
-* [Retry mechanism](../back-office-integrations/retry-mechanism.md)
+* [Integrations](/help/back-office-integrations/integrations.md)
+* [Source code organization](/help/back-office-integrations/source-code-organization.md)
+* [Last mile integration](/help/back-office-integrations/last-mile-integration.md)
+* [Webhook ingestion](/help/back-office-integrations/webhook-ingestion.md)
+* [Retry mechanism](/help/back-office-integrations/retry-mechanism.md)
