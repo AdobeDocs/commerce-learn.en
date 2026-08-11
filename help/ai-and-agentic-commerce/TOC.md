@@ -13,3 +13,4 @@ breadcrumb-title: AI and Agentic Commerce
     + [Product discovery](./commerce-ai-product-discovery.md)
     + [Agentic Authoring](./agentic-authoring.md)
     + [Agentic Development](./agentic-development.md)
++ [Adobe Commerce Product Recommendation Demo - Feature Video](./adobe-commerce-product-recommendation-demo-feature-video.md)
