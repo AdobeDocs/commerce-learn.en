@@ -22,6 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+autotag-review: '2026-08-11T18:59:19.947Z'
 ---
 # Create your first instance of Adobe Commerce Optimizer
 
