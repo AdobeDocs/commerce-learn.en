@@ -36,6 +36,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
+autotag-review: '2026-08-11T19:18:10.558Z'
 ---
 # Extensibility Framework for App Builder
 
