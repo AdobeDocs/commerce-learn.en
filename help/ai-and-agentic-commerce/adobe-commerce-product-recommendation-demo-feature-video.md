@@ -3,9 +3,7 @@ title: Adobe Commerce Product Recommendation Demo - Feature Video
 description: Learn how to add Adobe Sensei product recommendations to an Adobe Commerce product detail page, including price-range and out-of-stock exclusion rules.
 feature: Recommendations
 topic: Commerce
-role:
-  - Admin
-  - User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
