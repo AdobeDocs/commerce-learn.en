@@ -10,6 +10,8 @@ level: Beginner
 doc-type: Feature Video
 duration: 235
 last-substantial-update: 2026-08-11
+nudge-edit:
+  - 2026-08-12
 jira: KT-20981
 ---
 # Adobe Commerce Product Recommendation Demo - Feature Video
