@@ -32,4 +32,3 @@ Discover how to utilize Adobe's AI-powered tools to streamline the development w
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
 
-

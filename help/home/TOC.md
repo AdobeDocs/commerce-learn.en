@@ -151,7 +151,7 @@ author: Russell A.
         + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
         + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
         + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-       + Use AI tools to create split payment POC {#create-a-split-payment-poc}
+        + Use AI tools to create split payment POC {#create-a-split-payment-poc}
             + [App Builder and AI tools](../app-builder/split-payment-ai-tools/overview.md)
             + [Full demo](../app-builder/split-payment-ai-tools/full-demo.md)
             + [Step-by-step implementation guide](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
