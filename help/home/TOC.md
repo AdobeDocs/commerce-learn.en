@@ -98,6 +98,15 @@ author: Russell A.
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 
 + Extensibility {#extensibility}
+    + Commerce Developer Agent {#commerce-developer-agent}
+        + [Overview](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
+        + [Blueprint and develop stages](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
+        + [Connect integrations](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
+        + [Deploy, associate, install](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
+        + [Configure and test](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
+        + [Migrate existing code](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
+        + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
+        + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
     + Back-end Development {#backend-development}
         + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
         + [Create a module](../backend-development/create-module.md)
