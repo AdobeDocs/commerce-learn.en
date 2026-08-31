@@ -32,6 +32,7 @@ The Adobe Commerce Developer Agent turns a plain-English request into a working,
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Additional resources
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce Developer Agent overview](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Getting started with the Commerce Developer Agent](https://developer.adobe.com/commerce/extensibility/developer-agent/getting-started)

@@ -33,6 +33,8 @@ The blueprint and develop stages are where a plain-English rule becomes function
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Additional resources
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce Developer Agent overview](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Prompting tips for the Commerce Developer Agent](https://developer.adobe.com/commerce/extensibility/developer-agent/prompting)
+* [Net-new development with the Commerce Developer Agent](https://developer.adobe.com/commerce/extensibility/developer-agent/new-development)

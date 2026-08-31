@@ -31,6 +31,6 @@ Once the app is installed, its limits and messages become business settings anyo
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Additional resources
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce Developer Agent overview](https://developer.adobe.com/commerce/extensibility/developer-agent/)
