@@ -1,13 +1,13 @@
 ---
-title: Cloud Automation Patching Service
-description: Streamline Adobe Commerce patching with CAPS via SWAT—automated updates for secure, hassle-free site maintenance
+title: Patching Automation
+description: "Learn how to use Adobe Commerce Patching Automation in the SWAT dashboard to select a project and environment, then discover, apply, and revert patches."
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 192
-last-substantial-update: 2025-10-24T00:00:00.000Z
+duration: 216
+last-substantial-update: 2025-10-24
 jira: KT-19485
 exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 TQID: https://experienceleague.adobe.com/ZGVmvNQFySX-mmXehuwNiW9PSKhQtgMeeioKG2Rz--M
@@ -33,15 +33,15 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Cloud Automation Patching Service
+# Adobe Commerce Patching Automation
 
-Adobe's Cloud Automation Patching Service (CAPS), a feature within the Adobe Commerce Site Wide Analysis Tool (SWAT) that streamlines the process of discovering and applying security patches. Users access CAPS via the Commerce Admin under the SWAT dashboard, select their project and environment, and view available patches. 
+Adobe Commerce Patching Automation is a feature within the Adobe Commerce Site Wide Analysis Tool (SWAT) that streamlines the process of discovering and applying security patches. Users access Patching Automation via the Commerce Admin under the SWAT dashboard, select their project and environment, and view available patches. 
 
 ## Who is this video for?
 
 * Website managers
 * Developers
-* DevOps and System Administrators
+* DevOps and System Administration
 
 ## Video content
 
@@ -49,4 +49,4 @@ Adobe's Cloud Automation Patching Service (CAPS), a feature within the Adobe Com
 
 ## Related Documentation
 
-* [Cloud Automation Patching Service Documentation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Patching Automation Documentation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
