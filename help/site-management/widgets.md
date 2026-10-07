@@ -2,7 +2,7 @@
 title: Create Widgets
 description: Learn how to create and edit widgets so content updates automatically across your store.
 doc-type: Tutorial
-duration: 232
+duration: 236
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System
 topic: Commerce, Administration
