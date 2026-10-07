@@ -10,7 +10,7 @@ topic:
 role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
-duration: 420
+duration: 427
 last-substantial-update: 2026-10-07
 jira: KT-19031
 ---
@@ -40,3 +40,11 @@ A saved view retains the grid setup for reuse. In the video's blue-products exam
 ## Store configuration
 
 The [!UICONTROL Stores] menu provides access to store settings. The configuration tour highlights store location and email addresses, currency, catalog display settings, security options, customer defaults, shipping methods, and payment methods.
+
+## Additional resources
+
+* [Admin grid filters](admin-grids-and-filters.md)
+* [View and set Admin configurations using the command line](view-update-store-configuration-cli.md)
+* [The Admin tools and workspace](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Admin grid controls](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site, store, and view scope](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
