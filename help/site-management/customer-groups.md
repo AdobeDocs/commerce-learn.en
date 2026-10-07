@@ -1,16 +1,14 @@
 ---
-title: Create Customer Groups
-description: Learn how to create a customer group and how to assign customers to specific groups, which determine the discounts that are available and the associated tax class.
-kt: 10546
-doc-type: feature video
-duration: 141
-audience: all
-activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+title: Manage Customer Groups
+description: Learn about Adobe Commerce customer groups and how they control pricing, promotions, tax classes, category permissions, product visibility, and private sales.
+jira: KT-19057
+doc-type: Feature Video
+duration: 97
+last-substantial-update: 2026-10-07
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
-role: Admin, Leader, User
-level: Beginner, Intermediate
+role: Admin, Developer, User
+level: Beginner
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
 TQID: https://experienceleague.adobe.com/Bh-sCZxbjIFMqXP6rQmPOYYoBT18aKZ8oy0YjzLFmJk
 product_v2:
@@ -39,9 +37,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create Customer Groups
+# Manage Customer Groups
 
-Customer groups determine which discounts are available and the tax class that is associated with the group. The default customer groups are _General_, _Not Logged In_, and _Wholesale_. In this video, you learn how to create a customer group and how to assign customers to specific groups.
+Customer groups in Adobe Commerce let you offer targeted promotions and product pricing, assign customer tax classes, and control category access, price visibility, and purchasing permissions. In this video, learn how customer groups support these capabilities and private sales.
 
 ## Who is this video for?
 
@@ -50,9 +48,8 @@ Customer groups determine which discounts are available and the tax class that i
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
 
 ## Additional resources
 
-* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-* [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
