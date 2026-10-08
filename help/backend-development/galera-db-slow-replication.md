@@ -3,17 +3,27 @@ title: Diagnose Galera DB replication in MySQL slow query logs
 description: Learn how Galera DB's replication design slows secondary database syncs, how to identify these events in MySQL slow query logs, and ways to minimize the impact.
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18
+last-substantial-update: 2023-07-18T00:00:00.000Z
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-13635
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-TQID: https://experienceleague.adobe.com/NYapiIjnRv5RAS1glm8do16M4jUPmbgfVCs6ICQwbUc
+TQID: 'https://experienceleague.adobe.com/NYapiIjnRv5RAS1glm8do16M4jUPmbgfVCs6ICQwbUc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
+feature_v2:
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+subfeature_v2:
+  - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
+    internal-label: Logs
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

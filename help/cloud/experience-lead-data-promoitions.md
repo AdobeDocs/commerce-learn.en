@@ -10,7 +10,7 @@ duration: 1345
 last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-TQID: https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc
+TQID: 'https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,9 +23,19 @@ feature_v2:
     internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: 19d9b313-1a3c-5bed-9da7-4364f71c3a28
+    internal-label: Promotions/Events
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
 subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+  - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
+    internal-label: Search
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

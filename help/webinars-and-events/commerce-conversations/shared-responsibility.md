@@ -10,7 +10,7 @@ duration: 195
 last-substantial-update: 2025-05-12T00:00:00.000Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-TQID: https://experienceleague.adobe.com/WU72DxFpsonlMV5EJSs6YK1nY8HeEnBrX-fFumYQib0
+TQID: 'https://experienceleague.adobe.com/WU72DxFpsonlMV5EJSs6YK1nY8HeEnBrX-fFumYQib0'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,10 @@ feature_v2:
     internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
     internal-label: Security
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

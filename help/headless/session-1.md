@@ -4,13 +4,13 @@ description: Learn about headless architecture, composable commerce, and persona
 jira: KT-13144
 doc-type: Value Video
 duration: 1951
-last-substantial-update: 2023-04-25
+last-substantial-update: 2023-04-25T00:00:00.000Z
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
 role: Admin, Developer
 level: Beginner
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-TQID: https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE
+TQID: 'https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,11 +23,20 @@ feature_v2:
     internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate

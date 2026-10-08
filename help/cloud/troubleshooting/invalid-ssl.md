@@ -11,7 +11,7 @@ duration: 141
 last-substantial-update: 2024-10-29T00:00:00.000Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-TQID: https://experienceleague.adobe.com/V20IOaVF7WKSngYsUq2eGZG29iJvz1igCplGq6PuGOQ
+TQID: 'https://experienceleague.adobe.com/V20IOaVF7WKSngYsUq2eGZG29iJvz1igCplGq6PuGOQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -20,6 +20,10 @@ feature_v2:
     internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: bcd8874c-7b93-5596-bdaa-22660e84df14
+    internal-label: Deploy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

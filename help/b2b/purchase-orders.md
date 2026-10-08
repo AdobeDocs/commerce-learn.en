@@ -3,14 +3,18 @@ title: B2B Purchase Orders and Approvals
 description: Learn how to enable B2B purchase orders and approval rules for company accounts, including spending limits, designated approvers, and purchase policies.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25
+last-substantial-update: 2026-03-25T00:00:00.000Z
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User
 level: Intermediate
 jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-TQID: https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8
+subFeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+autotag-review: '2026-08-11T19:20:38.275Z'
+TQID: 'https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,6 +27,13 @@ feature_v2:
     internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 4820f335-ec9f-5611-8fe3-f5b7e3e56967
+    internal-label: Orders
+subfeature_v2:
+  - id: 2d6d41d4-a5c1-5baf-8dbe-bf7300b68bb3
+    internal-label: Purchase Orders
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -36,10 +47,6 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
-autotag-review: '2026-08-11T19:20:38.275Z'
 ---
 # Purchase Orders and Approvals
 

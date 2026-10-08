@@ -4,13 +4,13 @@ description: Learn how to get started with Adobe I/O Events by creating an App B
 jira: KT-14583
 doc-type: Tutorial
 duration: 725
-last-substantial-update: 2023-11-27
+last-substantial-update: 2023-11-27T00:00:00.000Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
-TQID: https://experienceleague.adobe.com/ReBrn5OYPIQF-DZeEM6oFlRev1MxHWAFrCnk0J1O3Fs
+TQID: 'https://experienceleague.adobe.com/ReBrn5OYPIQF-DZeEM6oFlRev1MxHWAFrCnk0J1O3Fs'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,15 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: 5594f40c-5dc7-522f-a0e0-f84045197b3c
+    internal-label: Eventing
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

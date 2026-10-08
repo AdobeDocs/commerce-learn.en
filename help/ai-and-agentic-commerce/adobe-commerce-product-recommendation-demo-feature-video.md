@@ -7,10 +7,24 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
-last-substantial-update: 2026-08-11
+last-substantial-update: 2026-08-11T00:00:00.000Z
 nudge-edit:
-  - 2026-08-12
+  - 2026-08-12T00:00:00.000Z
 jira: KT-20981
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dec06508-d41f-555a-87e8-29e8bcdfa95a
+    internal-label: Recommendations
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Adobe Commerce Product Recommendation Demo - Feature Video
 

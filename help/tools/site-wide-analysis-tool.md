@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 KT: 15599
 duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-TQID: https://experienceleague.adobe.com/LXRcogaGf8aCmcEMdjCiLkulSXT16vsb22OuaI-I31w
+TQID: 'https://experienceleague.adobe.com/LXRcogaGf8aCmcEMdjCiLkulSXT16vsb22OuaI-I31w'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -22,6 +22,13 @@ feature_v2:
     internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

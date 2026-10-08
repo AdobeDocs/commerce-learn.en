@@ -3,14 +3,14 @@ title: Configure, Deploy, and Customize an Ingestion Webhook
 description: Learn how to configure, deploy, and customize an ingestion webhook to connect Adobe Commerce with a third-party back office system and handle event translation.
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15870
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-TQID: https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY
+TQID: 'https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +21,12 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

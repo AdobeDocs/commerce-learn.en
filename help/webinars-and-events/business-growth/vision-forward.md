@@ -11,7 +11,7 @@ duration: 1016
 last-substantial-update: 2025-10-10T00:00:00.000Z
 jira: KT-19377
 exl-id: a7f9ce6d-4bad-4fe2-8692-b8a02fc6dde6
-TQID: https://experienceleague.adobe.com/Uc0WgNAlg-n-9lZURJ1aYosIq-m1SI8hNXxsJoKPcL0
+TQID: 'https://experienceleague.adobe.com/Uc0WgNAlg-n-9lZURJ1aYosIq-m1SI8hNXxsJoKPcL0'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -22,6 +22,27 @@ feature_v2:
     internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: 4239b8a6-e74f-567d-a7a5-b98b9ead0ea4
+    internal-label: Observability
+  - id: 3dcbfa9e-51f8-569c-a0e4-7f59098f730f
+    internal-label: Payments
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

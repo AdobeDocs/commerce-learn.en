@@ -10,7 +10,7 @@ duration: 575
 last-substantial-update: 2024-11-09T00:00:00.000Z
 jira: KT-16194
 exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
-TQID: https://experienceleague.adobe.com/eQLGf3Bh8TYcnXGeoww-Z8t-lMhRQBSzzl5YONNUcNE
+TQID: 'https://experienceleague.adobe.com/eQLGf3Bh8TYcnXGeoww-Z8t-lMhRQBSzzl5YONNUcNE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +21,10 @@ feature_v2:
     internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

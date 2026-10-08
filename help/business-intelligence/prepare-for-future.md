@@ -15,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-TQID: https://experienceleague.adobe.com/yNZ7U6Sq1KGD-s3NL0yMBw5Tn2QJiPK-J5q0YKa3RAI
+TQID: 'https://experienceleague.adobe.com/yNZ7U6Sq1KGD-s3NL0yMBw5Tn2QJiPK-J5q0YKa3RAI'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
     internal-label: Commerce Intelligence
@@ -24,6 +24,8 @@ product_v2:
 feature_v2:
   - id: b6935462-7263-4ced-a703-60de6a5aeb2d
     internal-label: Administration
+  - id: 3cd14413-6539-5c64-b063-fdcabf03abff
+    internal-label: Commerce Intelligence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

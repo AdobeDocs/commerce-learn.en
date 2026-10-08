@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-TQID: https://experienceleague.adobe.com/FfP7uhX9MjVRfACPIFIXbiGP6ySBFdqFXdzm7-uYrXI
+TQID: 'https://experienceleague.adobe.com/FfP7uhX9MjVRfACPIFIXbiGP6ySBFdqFXdzm7-uYrXI'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +21,13 @@ feature_v2:
     internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

@@ -11,13 +11,22 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer available in the Commerce Marketplace
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-TQID: https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8
+TQID: 'https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
+    internal-label: Page Content
+  - id: 8b440f30-6794-5ed6-981f-391de4e9b0cc
+    internal-label: Themes
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
+    internal-label: Native Luma Frontend Development
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

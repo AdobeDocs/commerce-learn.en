@@ -13,7 +13,7 @@ last-substantial-update: 2024-04-09T00:00:00.000Z
 jira: KT-15231
 kt: 15231
 exl-id: d867a1f5-6b0e-4c73-be3f-8561792e0ef3
-TQID: https://experienceleague.adobe.com/GRGIzzTp8gBvOKWPE2ivuuK7HGydl5Y4RZLfYTB9ABk
+TQID: 'https://experienceleague.adobe.com/GRGIzzTp8gBvOKWPE2ivuuK7HGydl5Y4RZLfYTB9ABk'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
     internal-label: Commerce Intelligence
@@ -30,6 +30,8 @@ feature_v2:
     internal-label: Configuration
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
     internal-label: Reporting
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

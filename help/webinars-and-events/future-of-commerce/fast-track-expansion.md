@@ -10,7 +10,7 @@ duration: 887
 last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-TQID: https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q
+TQID: 'https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,10 @@ feature_v2:
     internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

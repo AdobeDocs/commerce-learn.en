@@ -4,13 +4,17 @@ description: Learn how to manage B2B company accounts in Adobe Commerce — revi
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16
+last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
 level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
+subFeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+autotag-review: '2026-08-11T19:20:30.601Z'
+TQID: 'https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +25,15 @@ feature_v2:
     internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
+    internal-label: Companies
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+subfeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -34,10 +47,6 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
-autotag-review: '2026-08-11T19:20:30.601Z'
 ---
 # Manage Company Accounts
 

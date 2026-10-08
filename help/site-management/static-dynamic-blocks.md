@@ -13,7 +13,7 @@ jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
-TQID: https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U
+TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -22,6 +22,17 @@ feature_v2:
     internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
+    internal-label: Page Content
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
+    internal-label: Native Luma Frontend Development
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

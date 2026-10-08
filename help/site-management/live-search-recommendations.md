@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Live Search] for recommendations"
+title: '[!DNL Live Search] for recommendations'
 description: Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.
 doc-type: feature video
 duration: 1897
@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-TQID: https://experienceleague.adobe.com/RHPvPLQJ0yTJ78m1oiJZ1Soih1xhH1sWc-KaovkDKNA
+TQID: 'https://experienceleague.adobe.com/RHPvPLQJ0yTJ78m1oiJZ1Soih1xhH1sWc-KaovkDKNA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,11 +23,17 @@ feature_v2:
     internal-label: Configuration
   - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
     internal-label: Commerce ecosystem
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
 subfeature_v2:
   - id: ca2af623-0c62-4df6-a452-1174fce4e6ba
     internal-label: Marketplace
   - id: dad884f1-e840-49a1-970e-2f965bdbc410
     internal-label: Extensions
+  - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
+    internal-label: Search
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

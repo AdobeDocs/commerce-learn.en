@@ -14,13 +14,18 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-TQID: https://experienceleague.adobe.com/P9gopqc6BD8qZJlc1-gvVem4Gq3fqpX8AsRvglLAQYI
+TQID: 'https://experienceleague.adobe.com/P9gopqc6BD8qZJlc1-gvVem4Gq3fqpX8AsRvglLAQYI'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

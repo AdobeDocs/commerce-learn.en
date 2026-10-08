@@ -12,7 +12,7 @@ last-substantial-update: 2024-03-08T00:00:00.000Z
 jira: KT-15020
 kt: 15020
 exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
-TQID: https://experienceleague.adobe.com/QHOsvzGfLm02oy40qCMQ5bw0wexFJw5866mgbP-ViiA
+TQID: 'https://experienceleague.adobe.com/QHOsvzGfLm02oy40qCMQ5bw0wexFJw5866mgbP-ViiA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -25,6 +25,8 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
     internal-label: Cloud architecture
