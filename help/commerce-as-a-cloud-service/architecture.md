@@ -4,13 +4,13 @@ description: Discover Adobe Commerce as a cloud service architecture and key fea
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30
+last-substantial-update: 2025-01-30T00:00:00.000Z
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
-TQID: https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY
+TQID: 'https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -25,6 +25,10 @@ feature_v2:
     internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: 4273989f-0bf2-5361-a17a-6909488d18ab
+    internal-label: Catalog Service
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -32,6 +36,8 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner

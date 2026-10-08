@@ -15,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-TQID: https://experienceleague.adobe.com/V7F-LZalYv8SJ64HQ-o50p8DZzr4aBxCqTgg-AwU7Es
+TQID: 'https://experienceleague.adobe.com/V7F-LZalYv8SJ64HQ-o50p8DZzr4aBxCqTgg-AwU7Es'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
     internal-label: Commerce Intelligence
@@ -28,6 +28,8 @@ feature_v2:
     internal-label: Order Management System
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
     internal-label: Reporting
+  - id: 3cd14413-6539-5c64-b063-fdcabf03abff
+    internal-label: Commerce Intelligence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

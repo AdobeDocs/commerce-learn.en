@@ -4,13 +4,13 @@ description: Learn how to leverage a global reference architecture to establish 
 jira: KT-14040
 doc-type: Value Video
 duration: 1817
-last-substantial-update: 2023-09-27
+last-substantial-update: 2023-09-27T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader
 level: Beginner
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
-TQID: https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns
+TQID: 'https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,6 +23,10 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -10,7 +10,7 @@ duration: 3543
 last-substantial-update: 2024-05-21T00:00:00.000Z
 jira: KT-15536
 exl-id: 772cadfc-f8b3-4912-80be-41539682c8c5
-TQID: https://experienceleague.adobe.com/QV-rgoptwb7-JAwqXLSdWyjUJhlPF0S7akeJvMGyZnI
+TQID: 'https://experienceleague.adobe.com/QV-rgoptwb7-JAwqXLSdWyjUJhlPF0S7akeJvMGyZnI'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -25,6 +25,10 @@ feature_v2:
     internal-label: Developer tools
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: 00451af3-7b97-5414-9992-3a6c269e413f
+    internal-label: Paas
 subfeature_v2:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder

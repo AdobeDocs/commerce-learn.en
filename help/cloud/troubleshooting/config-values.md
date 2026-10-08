@@ -11,13 +11,20 @@ duration: 709
 last-substantial-update: 2024-11-08T00:00:00.000Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-TQID: https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs
+TQID: 'https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+subfeature_v2:
+  - id: 2191e157-828a-5358-ad69-ebcaa8402915
+    internal-label: Variables
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

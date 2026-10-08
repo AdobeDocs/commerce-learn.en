@@ -7,10 +7,10 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2026-01-12
+last-substantial-update: 2026-01-12T00:00:00.000Z
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
-TQID: https://experienceleague.adobe.com/9DrRRAPjTyRJ8pb7ss-oytdMDNXGKXVui9x0oTyPG8k
+TQID: 'https://experienceleague.adobe.com/9DrRRAPjTyRJ8pb7ss-oytdMDNXGKXVui9x0oTyPG8k'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,17 @@ feature_v2:
     internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: dec06508-d41f-555a-87e8-29e8bcdfa95a
+    internal-label: Recommendations
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
+    internal-label: Commerce ecosystem
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: dad884f1-e840-49a1-970e-2f965bdbc410
+    internal-label: Extensions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

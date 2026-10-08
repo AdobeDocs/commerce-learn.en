@@ -10,13 +10,19 @@ role: Admin, User
 level: Intermediate
 jira: KT-10545
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-TQID: https://experienceleague.adobe.com/PSUrAFZbHxtsEWQ3h-VIHv6-3GzUgyloqN6YtwXw1JA
+TQID: 'https://experienceleague.adobe.com/PSUrAFZbHxtsEWQ3h-VIHv6-3GzUgyloqN6YtwXw1JA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: a507b1ed-4937-53da-97ae-57d36bd5b9e0
+    internal-label: Price Rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

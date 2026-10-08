@@ -1,5 +1,5 @@
 ---
-title: Multisite management 
+title: "Multisite management\_"
 description: Manage multiple stores, brands, or websites effortlessly with Adobe Commerce's robust multi-site capabilities and centralized backend interface.
 feature: Admin Workspace, Configuration, Site Management
 topic: Administration, Commerce
@@ -10,7 +10,7 @@ duration: 390
 last-substantial-update: 2024-09-12T00:00:00.000Z
 jira: KT-16199
 exl-id: c041bd9a-9955-4053-a147-570ae1d88692
-TQID: https://experienceleague.adobe.com/M2GVjaK07ANWXhNB5laKmS0N-FdVtpnPj751G1AywnM
+TQID: 'https://experienceleague.adobe.com/M2GVjaK07ANWXhNB5laKmS0N-FdVtpnPj751G1AywnM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,13 @@ feature_v2:
     internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

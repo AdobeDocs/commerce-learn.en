@@ -4,13 +4,17 @@ description: Learn how sales reps can initiate B2B quotes from the Adobe Commerc
 doc-type: Technical Video
 duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13
+last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
-TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
+subFeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+autotag-review: '2026-08-11T19:20:58.973Z'
+TQID: 'https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +25,15 @@ feature_v2:
     internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 792a7e9b-6519-5e99-a913-56c3dd2408da
+    internal-label: Quotes
+  - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
+    internal-label: Companies
+subfeature_v2:
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -34,10 +47,6 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
-autotag-review: '2026-08-11T19:20:58.973Z'
 ---
 # Sales representative initiates the quote
 

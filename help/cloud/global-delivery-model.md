@@ -10,7 +10,7 @@ duration: 340
 last-substantial-update: 2024-10-09T00:00:00.000Z
 jira: KT-16185
 exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
-TQID: https://experienceleague.adobe.com/UsYDjLhPMDrZBX6g5InoFcYiIS6DL8Qp03fIiY6Gs1U
+TQID: 'https://experienceleague.adobe.com/UsYDjLhPMDrZBX6g5InoFcYiIS6DL8Qp03fIiY6Gs1U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -29,6 +29,14 @@ feature_v2:
     internal-label: Architecture
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
     internal-label: Reporting
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 8cd50456-5eb0-5364-922a-f14161feb828
+    internal-label: Checkout
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: 4820f335-ec9f-5611-8fe3-f5b7e3e56967
+    internal-label: Orders
 subfeature_v2:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder

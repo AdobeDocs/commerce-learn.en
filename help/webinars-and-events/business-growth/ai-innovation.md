@@ -11,7 +11,7 @@ duration: 1449
 last-substantial-update: 2025-10-10T00:00:00.000Z
 jira: KT-19376
 exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
-TQID: https://experienceleague.adobe.com/KAmLP-EQhBLLUC3U9ykcOV6ZEFiv8Dj5swc3w2CkjTU
+TQID: 'https://experienceleague.adobe.com/KAmLP-EQhBLLUC3U9ykcOV6ZEFiv8Dj5swc3w2CkjTU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -22,6 +22,21 @@ feature_v2:
     internal-label: Storefront
   - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
     internal-label: Reporting
+  - id: 4273989f-0bf2-5361-a17a-6909488d18ab
+    internal-label: Catalog Service
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: 4239b8a6-e74f-567d-a7a5-b98b9ead0ea4
+    internal-label: Observability
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

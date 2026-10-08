@@ -12,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-TQID: https://experienceleague.adobe.com/fuVZjN6sr6y-cc9UE-dFqQyEyGF7V-QsaGqJtRK6D4I
+TQID: 'https://experienceleague.adobe.com/fuVZjN6sr6y-cc9UE-dFqQyEyGF7V-QsaGqJtRK6D4I'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +21,10 @@ feature_v2:
     internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 48c59cc5-3c2e-5df1-8756-f5c139a28932
+    internal-label: Site Navigation
 subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories

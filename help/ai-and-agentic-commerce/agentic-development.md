@@ -4,9 +4,18 @@ description: Learn how agentic development in Adobe Commerce collapses analysis,
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21575
 duration: 225
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Agentic Development
 

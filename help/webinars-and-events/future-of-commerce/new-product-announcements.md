@@ -10,10 +10,15 @@ duration: 838
 last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+TQID: 'https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

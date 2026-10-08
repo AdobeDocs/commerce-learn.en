@@ -1,5 +1,5 @@
 ---
-title: "Inventory status checks: development and performance"
+title: 'Inventory status checks: development and performance'
 description: Learn how to evaluate whether real-time inventory checks are necessary in Adobe Commerce, and review development and performance considerations for your store.
 feature: Best Practices, Inventory
 topic: Development, Performance
@@ -7,10 +7,10 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 496
-last-substantial-update: 2024-05-09
+last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
-TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
+TQID: 'https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,6 +23,10 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 8dc0e58b-adf0-51bb-8db5-bb36e3e656fb
+    internal-label: Inventory
 subfeature_v2:
   - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
     internal-label: 2FA
@@ -34,6 +38,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

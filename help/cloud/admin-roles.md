@@ -10,7 +10,7 @@ duration: 299
 last-substantial-update: 2024-10-09T00:00:00.000Z
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
-TQID: https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80
+TQID: 'https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,13 @@ feature_v2:
     internal-label: Security
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
     internal-label: Catalog management
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

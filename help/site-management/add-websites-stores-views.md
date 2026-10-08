@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-TQID: https://experienceleague.adobe.com/O8tYKU6bu-snrYi9dmiXUYRT3CEgN1JUI5nFSpRl0oU
+TQID: 'https://experienceleague.adobe.com/O8tYKU6bu-snrYi9dmiXUYRT3CEgN1JUI5nFSpRl0oU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -21,6 +21,10 @@ feature_v2:
     internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
 subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories

@@ -11,7 +11,7 @@ duration: 336
 last-substantial-update: 2024-10-24T00:00:00.000Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-TQID: https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE
+TQID: 'https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -20,6 +20,17 @@ feature_v2:
     internal-label: Integrations
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

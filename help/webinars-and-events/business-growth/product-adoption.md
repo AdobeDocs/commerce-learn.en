@@ -11,13 +11,24 @@ duration: 743
 last-substantial-update: 2025-10-13T00:00:00.000Z
 jira: KT-19378
 exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
-TQID: https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s
+TQID: 'https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: 58c984c2-e237-5c50-9718-500e40d1e82c
+    internal-label: Merchandising
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+  - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
+    internal-label: Commerce ecosystem
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+  - id: dad884f1-e840-49a1-970e-2f965bdbc410
+    internal-label: Extensions
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

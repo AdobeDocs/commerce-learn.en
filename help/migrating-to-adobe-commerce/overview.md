@@ -11,13 +11,15 @@ duration: 201
 last-substantial-update: 2024-10-02T00:00:00.000Z
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
-TQID: https://experienceleague.adobe.com/qozc7AyTn20uLGoouMVGr8lLchGR7jAvXqf-dNViP7U
+TQID: 'https://experienceleague.adobe.com/qozc7AyTn20uLGoouMVGr8lLchGR7jAvXqf-dNViP7U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
     internal-label: Security
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

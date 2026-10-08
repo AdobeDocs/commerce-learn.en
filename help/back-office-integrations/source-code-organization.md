@@ -3,14 +3,14 @@ title: Source code organization in the Commerce starter kit
 description: Learn about source code organization in the Commerce Integration starter kit, including key folders like actions and scripts, automation scripts, and event handling.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
+TQID: 'https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -19,6 +19,12 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

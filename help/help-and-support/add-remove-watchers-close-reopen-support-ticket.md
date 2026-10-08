@@ -10,10 +10,20 @@ duration: 173
 last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
-TQID: https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54
+TQID: 'https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
+feature_v2:
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: deedbb4d-f1b7-58ea-a34a-de1f481f9d4c
+    internal-label: Customer Service
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
