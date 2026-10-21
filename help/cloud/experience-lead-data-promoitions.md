@@ -29,7 +29,7 @@ feature_v2:
     internal-label: Accounts
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-subfeature_v2:
+subfeature_v2_temp:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2

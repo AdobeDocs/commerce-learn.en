@@ -27,7 +27,7 @@ feature_v2:
     internal-label: Admin tools and workspace
   - id: c4f010fa-1478-4300-a88d-706fbc036a7a
     internal-label: APIs and SDKs
-subfeature_v2:
+subfeature_v2_temp:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
     internal-label: Admin workspace
   - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf

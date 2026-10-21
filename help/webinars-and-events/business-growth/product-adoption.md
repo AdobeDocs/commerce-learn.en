@@ -24,7 +24,7 @@ feature_v2:
     internal-label: Developer tools
   - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
     internal-label: Commerce ecosystem
-subfeature_v2:
+subfeature_v2_temp:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder
   - id: dad884f1-e840-49a1-970e-2f965bdbc410

@@ -27,7 +27,7 @@ feature_v2:
     internal-label: Storefront
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2:
+subfeature_v2_temp:
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
     internal-label: Tools and External Services
 role_v2:

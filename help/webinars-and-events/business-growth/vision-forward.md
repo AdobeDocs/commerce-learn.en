@@ -38,7 +38,7 @@ feature_v2:
     internal-label: Developer tools
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
     internal-label: Accounts
-subfeature_v2:
+subfeature_v2_temp:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2

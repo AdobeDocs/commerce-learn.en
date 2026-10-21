@@ -27,7 +27,7 @@ feature_v2:
     internal-label: APIs and SDKs
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2:
+subfeature_v2_temp:
   - id: e396cff5-f586-484c-89f0-7f1da3308f92
     internal-label: GraphQL
   - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf

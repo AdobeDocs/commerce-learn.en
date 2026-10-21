@@ -30,7 +30,7 @@ feature_v2:
     internal-label: Promotions/Events
   - id: 938d2364-5176-55ec-80f1-9415253e5e51
     internal-label: Site Management
-subfeature_v2:
+subfeature_v2_temp:
   - id: 7ce037d9-e062-59a3-b23c-bd651d714c7f
     internal-label: Audience Activation
 role_v2:
