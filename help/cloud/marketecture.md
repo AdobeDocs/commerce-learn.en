@@ -27,7 +27,7 @@ feature_v2:
     internal-label: Recommendations
   - id: c4f010fa-1478-4300-a88d-706fbc036a7a
     internal-label: APIs and SDKs
-subfeature_v2_temp:
+subfeature_v2:
   - id: ce84ce08-883f-4337-ae83-6bb1855ca732
     internal-label: API Mesh
   - id: e396cff5-f586-484c-89f0-7f1da3308f92

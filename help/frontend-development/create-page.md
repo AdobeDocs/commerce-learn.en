@@ -24,7 +24,7 @@ feature_v2:
     internal-label: Themes
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
     internal-label: Native Luma Frontend Development
 role_v2:

@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Roles/Permissions
   - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
     internal-label: Admin tools and workspace
-subfeature_v2_temp:
+subfeature_v2:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
     internal-label: Admin workspace
 role_v2:

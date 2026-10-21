@@ -37,7 +37,7 @@ feature_v2:
     internal-label: Customers
   - id: 4820f335-ec9f-5611-8fe3-f5b7e3e56967
     internal-label: Orders
-subfeature_v2_temp:
+subfeature_v2:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder
   - id: bcbf87e7-9b75-4596-bffe-0f376b4c73a7

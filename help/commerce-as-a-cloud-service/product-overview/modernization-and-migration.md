@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Extensibility
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder
 role_v2:

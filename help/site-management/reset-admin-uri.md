@@ -21,7 +21,7 @@ feature_v2:
     internal-label: Admin tools and workspace
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
     internal-label: Admin workspace
   - id: c4af0798-d497-5e6b-8380-19812c26d00a

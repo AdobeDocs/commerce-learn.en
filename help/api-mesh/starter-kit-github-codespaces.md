@@ -28,7 +28,7 @@ feature_v2:
     internal-label: Marketing Tools
   - id: c32adafa-ed01-4b31-997e-2413013911b0
     internal-label: Integrations
-subfeature_v2_temp:
+subfeature_v2:
   - id: ce84ce08-883f-4337-ae83-6bb1855ca732
     internal-label: API Mesh
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80

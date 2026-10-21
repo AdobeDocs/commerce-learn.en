@@ -27,7 +27,7 @@ feature_v2:
     internal-label: Best Practices
   - id: 8dc0e58b-adf0-51bb-8db5-bb36e3e656fb
     internal-label: Inventory
-subfeature_v2_temp:
+subfeature_v2:
   - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
     internal-label: 2FA
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2

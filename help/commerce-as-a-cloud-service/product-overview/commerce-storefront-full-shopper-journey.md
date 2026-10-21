@@ -27,7 +27,7 @@ feature_v2:
     internal-label: Shopping Cart
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-subfeature_v2_temp:
+subfeature_v2:
   - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
     internal-label: Search
 role_v2:

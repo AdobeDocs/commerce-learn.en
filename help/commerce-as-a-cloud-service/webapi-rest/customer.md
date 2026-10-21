@@ -29,7 +29,7 @@ feature_v2:
     internal-label: Saas
   - id: c4f010fa-1478-4300-a88d-706fbc036a7a
     internal-label: APIs and SDKs
-subfeature_v2_temp:
+subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
     internal-label: Cloud architecture
   - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf

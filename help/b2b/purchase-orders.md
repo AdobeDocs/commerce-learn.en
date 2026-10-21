@@ -26,7 +26,7 @@ feature_v2:
     internal-label: Configuration
   - id: 4820f335-ec9f-5611-8fe3-f5b7e3e56967
     internal-label: Orders
-subfeature_v2_temp:
+subfeature_v2:
   - id: 2d6d41d4-a5c1-5baf-8dbe-bf7300b68bb3
     internal-label: Purchase Orders
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
