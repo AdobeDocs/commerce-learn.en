@@ -21,7 +21,7 @@ feature_v2:
     internal-label: Media
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
-subfeature_v2:
+subfeature_v2_temp:
   - id: ed510963-0b8c-4764-86f6-f3c7735bc334
     internal-label: Page Builder
 role_v2:

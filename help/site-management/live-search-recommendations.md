@@ -27,7 +27,7 @@ feature_v2:
     internal-label: System
   - id: f37757d8-3174-5335-b977-1161792f965d
     internal-label: Personalization
-subfeature_v2:
+subfeature_v2_temp:
   - id: ca2af623-0c62-4df6-a452-1174fce4e6ba
     internal-label: Marketplace
   - id: dad884f1-e840-49a1-970e-2f965bdbc410

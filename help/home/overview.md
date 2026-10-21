@@ -30,7 +30,7 @@ feature_v2:
     internal-label: APIs and SDKs
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
-subfeature_v2:
+subfeature_v2_temp:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
   - id: e396cff5-f586-484c-89f0-7f1da3308f92

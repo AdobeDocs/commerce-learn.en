@@ -10,9 +10,6 @@ topic: Commerce, Administration
 role: User
 level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 autotag-review: '2026-08-11T19:20:30.601Z'
 TQID: 'https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg'
 product_v2:
@@ -31,7 +28,7 @@ feature_v2:
     internal-label: Companies
   - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
     internal-label: Roles/Permissions
-subfeature_v2:
+subfeature_v2_temp:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
 role_v2:

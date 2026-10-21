@@ -25,7 +25,7 @@ feature_v2:
     internal-label: Admin tools and workspace
   - id: f08fa0de-a550-4acd-b570-f81cf1d03aaf
     internal-label: Commerce ecosystem
-subfeature_v2:
+subfeature_v2_temp:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
     internal-label: Admin workspace
   - id: dad884f1-e840-49a1-970e-2f965bdbc410

@@ -19,7 +19,7 @@ feature_v2:
     internal-label: Site Management
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2:
+subfeature_v2_temp:
   - id: a59f76dc-e003-5617-951e-dffa5bd3de81
     internal-label: Support
 role_v2:

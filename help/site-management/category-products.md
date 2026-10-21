@@ -26,7 +26,7 @@ feature_v2:
     internal-label: System
   - id: 48c59cc5-3c2e-5df1-8756-f5c139a28932
     internal-label: Site Navigation
-subfeature_v2:
+subfeature_v2_temp:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories
   - id: a1d22079-48b9-5e69-9ee6-eb236068ef34

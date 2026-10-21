@@ -29,7 +29,7 @@ feature_v2:
     internal-label: Data Import/Export
   - id: c4f010fa-1478-4300-a88d-706fbc036a7a
     internal-label: APIs and SDKs
-subfeature_v2:
+subfeature_v2_temp:
   - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
     internal-label: REST API
 role_v2:

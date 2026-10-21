@@ -21,7 +21,7 @@ feature_v2:
     internal-label: Services
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-subfeature_v2:
+subfeature_v2_temp:
   - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
     internal-label: Logs
 role_v2:

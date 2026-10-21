@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Architecture
   - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
     internal-label: Cloud
-subfeature_v2:
+subfeature_v2_temp:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
     internal-label: Cloud architecture
 role_v2:

@@ -10,7 +10,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-subFeature_v2:
+subfeature_v2_temp:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
 autotag-review: '2026-08-11T19:20:55.155Z'
@@ -31,9 +31,6 @@ feature_v2:
     internal-label: Quotes
   - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
     internal-label: Companies
-subfeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

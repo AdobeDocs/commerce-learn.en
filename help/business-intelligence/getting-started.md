@@ -30,7 +30,7 @@ feature_v2:
     internal-label: Reporting
   - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
     internal-label: Cloud
-subfeature_v2:
+subfeature_v2_temp:
   - id: d971c7be-3e54-4af9-807c-8d1f9f7b22df
     internal-label: User management
 role_v2:

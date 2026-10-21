@@ -10,9 +10,6 @@ role: User
 level: Intermediate
 jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 autotag-review: '2026-08-11T19:20:38.275Z'
 TQID: 'https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8'
 product_v2:
@@ -29,9 +26,11 @@ feature_v2:
     internal-label: Configuration
   - id: 4820f335-ec9f-5611-8fe3-f5b7e3e56967
     internal-label: Orders
-subfeature_v2:
+subfeature_v2_temp:
   - id: 2d6d41d4-a5c1-5baf-8dbe-bf7300b68bb3
     internal-label: Purchase Orders
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
 role_v2:
