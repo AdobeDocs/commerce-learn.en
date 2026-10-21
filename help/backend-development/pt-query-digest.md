@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Marketing Tools
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-subfeature_v2_temp:
+subfeature_v2:
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
     internal-label: Tools and External Services
   - id: 3c398179-d35a-51ba-b317-6c5b95feef5e

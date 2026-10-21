@@ -25,7 +25,7 @@ feature_v2:
     internal-label: System
   - id: 22bad240-8308-569b-a9d5-578f1ff890ca
     internal-label: Customers
-subfeature_v2_temp:
+subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
     internal-label: Categories
 role_v2:

@@ -28,7 +28,7 @@ feature_v2:
     internal-label: Companies
   - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
     internal-label: Roles/Permissions
-subfeature_v2_temp:
+subfeature_v2:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
 role_v2:

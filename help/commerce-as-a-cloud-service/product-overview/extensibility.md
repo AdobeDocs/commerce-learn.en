@@ -25,7 +25,7 @@ feature_v2:
     internal-label: Developer tools
   - id: c4f010fa-1478-4300-a88d-706fbc036a7a
     internal-label: APIs and SDKs
-subfeature_v2_temp:
+subfeature_v2:
   - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
     internal-label: App Builder
   - id: ce84ce08-883f-4337-ae83-6bb1855ca732

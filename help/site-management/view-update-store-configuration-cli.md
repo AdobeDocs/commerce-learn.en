@@ -23,7 +23,7 @@ feature_v2:
     internal-label: System
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: c4af0798-d497-5e6b-8380-19812c26d00a
     internal-label: Console
 role_v2:

@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Developer tools
   - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
     internal-label: Admin tools and workspace
-subfeature_v2_temp:
+subfeature_v2:
   - id: ed510963-0b8c-4764-86f6-f3c7735bc334
     internal-label: Page Builder
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a

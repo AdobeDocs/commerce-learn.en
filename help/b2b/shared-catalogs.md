@@ -10,7 +10,7 @@ topic: Commerce, Administration
 role: User
 level: Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-subfeature_v2_temp:
+subfeature_v2:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
 autotag-review: '2026-08-11T19:21:01.837Z'

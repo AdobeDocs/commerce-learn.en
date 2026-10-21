@@ -29,7 +29,7 @@ feature_v2:
     internal-label: System
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
     internal-label: Logs
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80

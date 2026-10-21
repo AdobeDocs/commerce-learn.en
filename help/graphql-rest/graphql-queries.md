@@ -20,7 +20,7 @@ product_v2:
 feature_v2:
   - id: c32adafa-ed01-4b31-997e-2413013911b0
     internal-label: Integrations
-subfeature_v2_temp:
+subfeature_v2:
   - id: e396cff5-f586-484c-89f0-7f1da3308f92
     internal-label: GraphQL
 role_v2:

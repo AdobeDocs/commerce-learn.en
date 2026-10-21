@@ -19,7 +19,7 @@ feature_v2:
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
     internal-label: System
-subfeature_v2_temp:
+subfeature_v2:
   - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
     internal-label: Search
 role_v2:

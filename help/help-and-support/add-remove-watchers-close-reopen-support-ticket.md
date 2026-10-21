@@ -19,7 +19,7 @@ feature_v2:
     internal-label: Services
   - id: 125c1f49-aefd-5f34-a252-288937f95f6b
     internal-label: Marketing Tools
-subfeature_v2_temp:
+subfeature_v2:
   - id: deedbb4d-f1b7-58ea-a34a-de1f481f9d4c
     internal-label: Customer Service
   - id: a59f76dc-e003-5617-951e-dffa5bd3de81

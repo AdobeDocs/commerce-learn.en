@@ -23,7 +23,7 @@ feature_v2:
     internal-label: Cloud
   - id: da76473c-f99b-5ad0-9b14-896aed473f8a
     internal-label: Services
-subfeature_v2_temp:
+subfeature_v2:
   - id: db6b6496-d1b5-4ad4-9e18-dea78dae3aa8
     internal-label: Auto Scaling
 role_v2:
