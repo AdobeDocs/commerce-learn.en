@@ -1,14 +1,15 @@
 ---
 title: Commerce Intelligence - SQL Report Builder
-description: Learn how to use Adobe Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and build charts without waiting on report update cycles.
+description: Learn to query a data warehouse with Adobe Commerce Intelligence SQL Report Builder, review results, and build charts without waiting for report update cycles.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:

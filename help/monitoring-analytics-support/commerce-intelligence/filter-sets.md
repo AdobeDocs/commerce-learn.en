@@ -3,10 +3,10 @@ title: Commerce Intelligence - Filter Sets
 description: Learn how to use the Commerce Intelligence filter sets feature to simplify business data reporting for Adobe Commerce and Magento Open Source.
 landing-page-description: Watch this video to learn how use the Commerce Intelligence filter sets feature to simplify business data reporting.
 short-description: Watch this video to learn how use the MBCommerce IntelligenceI filter sets feature to simplify business data reporting.
-kt: 10289
-doc-type: feature video
+jira: KT-10289
+doc-type: Technical Video
 duration: 515
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10

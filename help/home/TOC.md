@@ -218,6 +218,14 @@ author: Russell A.
         + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
         + [Demo setup and configuration](../monitoring-analytics-support/observability/demo-setup-configuration.md)
         + [Demo](../monitoring-analytics-support/observability/demo.md)
+    + Commerce Intelligence {#commerce-intelligence}
+        + [Getting Started](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+        + [Integrations and configurations](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+        + [Reports and dashboards](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+        + [Filter Sets](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+        + [Cohort Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+        + [SQL Report Builder](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+        + [Prepping for the Future](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
     + Help and support {#help-and-support}
         + [Create a support ticket](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
@@ -293,11 +301,3 @@ author: Russell A.
         + [Locating a malicious IP](../new-relic/malicious-ip.md)
         + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
         + [Custom alerts](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-    + [Getting Started](../business-intelligence/getting-started.md)
-    + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
-    + [Reports and dashboards](../business-intelligence/reports-and-dashboards.md)
-    + [Filter Sets](../business-intelligence/filter-sets.md)
-    + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
-    + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
-    + [Prepping for the Future](../business-intelligence/prepare-for-future.md)    
