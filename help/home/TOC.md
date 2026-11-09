@@ -206,11 +206,6 @@ author: Russell A.
         + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
         + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
-+ Observability {#observability}
-    + [Observability overview](../observability/overview.md)
-    + [Open Telemetry](../observability/open-telemetry.md)
-    + [Demo setup and configuration](../observability/demo-setup-configuration.md)
-    + [Demo](../observability/demo.md)        
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
