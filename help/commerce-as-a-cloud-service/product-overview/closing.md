@@ -6,6 +6,7 @@ topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
+jira: KT-20096
 duration: 47
 last-substantial-update: 2026-01-12T00:00:00.000Z
 exl-id: ed5829aa-7407-47cc-bf39-de6c7e31a10f

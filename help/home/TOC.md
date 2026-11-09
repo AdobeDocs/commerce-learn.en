@@ -9,6 +9,30 @@ author: Russell A.
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
 + [[!DNL Commerce] Tutorials](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+    + [Overview](../commerce-as-a-cloud-service/overview.md)
+    + [Architecture](../commerce-as-a-cloud-service/architecture.md)
+    + Product tour {#product-overview}
+        + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
+        + [Setup experience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+        + [Content authoring](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+        + [Localize and schedule content](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+        + [GenAI powered content creation](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+        + [Catalog management and merchandising services](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+        + [Commerce storefront experimentation](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+        + [Commerce storefront speed](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+        + [Commerce storefront full shopper journey](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+        + [Composable storefront and modular architecture](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+        + [Extensibility](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+        + [Modernization and migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+        + [Closing](../commerce-as-a-cloud-service/product-overview/closing.md)
+    + Bulk Data Migration Tool {#bulk-data-migration-tool}
+        + [Introduction](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+        + [Source credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+        + [DB credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+        + [Target credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+        + [Single-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+        + [Multi-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
     + Troubleshooting {#troubleshooting}
         + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -40,32 +64,6 @@ author: Russell A.
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
-    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-        + [Overview](../commerce-as-a-cloud-service/overview.md)
-        + [Architecture](../commerce-as-a-cloud-service/architecture.md)
-        + Webapi-rest{#webapi-rest}
-            + [Customers](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-        + Product Overview{#product-overview}
-            + [Inroduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
-            + [Setup experiece](../commerce-as-a-cloud-service/product-overview/setup-experience.md)   
-            + [Content authoring](../commerce-as-a-cloud-service/product-overview/content-authoring.md)    
-            + [Localize and schedule content](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)   
-            + [GenAI powered content creation](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-            + [Catalog management and merchandising services](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md) 
-            + [Commerce storefront experimentation](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-            + [Commerce storefront speed](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-            + [Commcerce storefront full shopper journey](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-            + [Composable storefront and modular architecture](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-            + [Extensibility](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-            + [Modernization and migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-            + [closing](../commerce-as-a-cloud-service/product-overview/closing.md)        
-        + Bulk Data Migration Tool{#bulk-data-migration-tool}
-            + [Introduction](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-            + [Source credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-            + [DB credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-            + [Target credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-            + [Single-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-            + [Multi-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
     + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
         + [Overview](../migrating-to-adobe-commerce/overview.md)
         + Preparation{#preparation}
@@ -96,6 +94,10 @@ author: Russell A.
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
+
++ APIs and integration {#apis-and-integration}
+    + Practical REST and GraphQL examples {#examples}
+        + [Customers with REST](../apis-and-integration/examples/customer.md)
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
