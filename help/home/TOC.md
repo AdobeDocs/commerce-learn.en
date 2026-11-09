@@ -217,10 +217,7 @@ author: Russell A.
     + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
     + [Separate packages](../global-reference-architecture/separate-packages.md)
     + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Help and support {#help-and-support}
-  + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-  + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ [Monitoring, analytics, and support](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 + Store Administration {#admin}
     + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
