@@ -1,9 +1,9 @@
 ---
 title: Getting started with Adobe Commerce Intelligence
-description: Learn about Adobe Commerce Intelligence, naming conventions, data integration, initial dashboard setup, data sources, data warehousing, reporting, and user management.
+description: "Learn Adobe Commerce Intelligence basics: naming conventions, data integration, dashboard setup, data sources, data warehousing, reporting, and user management."
 feature: Cloud
 topic: Commerce, Administration
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 old-role: Architect, Developer
 role: Developer
 level: Intermediate
@@ -11,7 +11,6 @@ doc-type: Technical Video
 duration: 429
 last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15141
-kt: 15141
 exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
 TQID: 'https://experienceleague.adobe.com/NOyB9qyx8Q8jY9LjBi2S6GB-9QR90ZXm4NLZgkxzIZ8'
 product_v2:

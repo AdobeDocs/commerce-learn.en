@@ -3,10 +3,10 @@ title: Commerce Intelligence - Cohort Report Builder
 description: Learn how to use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 landing-page-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 short-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
-kt: 10288
-doc-type: feature video
+jira: KT-10288
+doc-type: Technical Video
 duration: 103
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10

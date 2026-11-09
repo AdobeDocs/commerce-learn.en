@@ -1,19 +1,18 @@
 ---
-title: Adobe Commerce Intelligence integrations reports and dashboards
-description: Learn about Adobe Commerce Intelligence reports and dashboard management
+title: Adobe Commerce Intelligence integrations and configuration
+description: Learn about Adobe Commerce Intelligence integrations and some configurations that help build reports and dashboards
 feature: Cloud
 topic: Commerce, Administration
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 563
-last-substantial-update: 2024-04-09T00:00:00.000Z
-jira: KT-15231
-kt: 15231
-exl-id: d867a1f5-6b0e-4c73-be3f-8561792e0ef3
-TQID: 'https://experienceleague.adobe.com/GRGIzzTp8gBvOKWPE2ivuuK7HGydl5Y4RZLfYTB9ABk'
+duration: 543
+last-substantial-update: 2024-04-03T00:00:00.000Z
+jira: KT-15213
+exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
+TQID: 'https://experienceleague.adobe.com/cb4QUFyIgYlMHdF7uMdg420zfbryRJl4aD2mSKxYdBc'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
     internal-label: Commerce Intelligence
@@ -41,20 +40,23 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Reports and Dashboards
+# Adobe Commerce Intelligence integrations and configurations
 
-Learn about the different report builder options, and how to read and understand the original reports. Learn how to manage dashboards, filter them and why you should make duplicates instead of modifying the original.
+The tutorial provides an overview of the Manage Data tab in Adobe Commerce Intelligence, explaining how to set up and configure integrations, Data Warehouse, and reporting capabilities. 
+​
+It discusses the options for integrations, including pre-built integrations, standard integrations, and premium integrations, and the ability to add custom integrations.
+The document also covers the process of syncing tables to the Data Warehouse, adding new tables and columns, and creating metrics and filters for reporting purposes.
 
 ## Who is this video for?
 
 * Business users
 * Data analysts
 
-## Adobe Commerce Intelligence reports and dashboards
+## Integrations and configurations
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)

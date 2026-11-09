@@ -3,10 +3,10 @@ title: Commerce Intelligence - Prepping for the Future
 description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
 landing-page-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
 short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
-kt: 10411
-doc-type: feature video
+jira: KT-10411
+doc-type: Technical Video
 duration: 1516
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
