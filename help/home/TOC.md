@@ -206,18 +206,22 @@ author: Russell A.
         + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
         + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
-+ Observability {#observability}
-    + [Observability overview](../observability/overview.md)
-    + [Open Telemetry](../observability/open-telemetry.md)
-    + [Demo setup and configuration](../observability/demo-setup-configuration.md)
-    + [Demo](../observability/demo.md)        
 + Global Reference Architecture {#global-reference-architecture-implementation-techniques}
     + [Overview](../global-reference-architecture/overview.md)
     + [Split Git](../global-reference-architecture/split-git.md)
     + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
     + [Separate packages](../global-reference-architecture/separate-packages.md)
     + [Monorepo](../global-reference-architecture/monorepo.md)
-+ [Monitoring, analytics, and support](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ Monitoring, analytics, and support {#monitoring-analytics-support}
+    + Observability {#observability}
+        + [Observability overview](../monitoring-analytics-support/observability/overview.md)
+        + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+        + [Demo setup and configuration](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+        + [Demo](../monitoring-analytics-support/observability/demo.md)
+    + Help and support {#help-and-support}
+        + [Create a support ticket](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+        + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+        + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + Store Administration {#admin}
     + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)

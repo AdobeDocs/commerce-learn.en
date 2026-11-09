@@ -2,11 +2,11 @@
 title: App Builder Observability related pages
 description: Links to related pages in the Appp Builder Observability section
 ---
-# App Builder Ovservability related links
+# App Builder Observability related links
 
 ## Related App Builder Observability resources
 
-* [Why observability was needed](../observability/overview.md)
-* [Open Telemetry](../observability/open-telemetry.md)
-* [Demo Setup and configuration](../observability/demo-setup-configuration.md)
-* [Demo](../observability/demo.md)
+* [Observability overview](/help/monitoring-analytics-support/observability/overview.md)
+* [OpenTelemetry](/help/monitoring-analytics-support/observability/open-telemetry.md)
+* [Demo Setup and configuration](/help/monitoring-analytics-support/observability/demo-setup-configuration.md)
+* [Demo](/help/monitoring-analytics-support/observability/demo.md)
