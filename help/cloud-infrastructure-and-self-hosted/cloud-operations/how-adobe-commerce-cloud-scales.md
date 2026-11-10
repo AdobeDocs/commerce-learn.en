@@ -1,6 +1,6 @@
 ---
 title: How Adobe Commerce Cloud scales
-description: Learn how Adobe Commerce Cloud projects scale, what scales automatically, what needs a support request, and how to plan capacity for events or sudden traffic spikes.
+description: Learn how Adobe Commerce Cloud scales, what scales automatically, when to request support, and how to plan capacity for events and traffic spikes.
 feature: Cloud
 topic: Commerce, Architecture
 role: Admin, Developer, Leader
@@ -45,4 +45,4 @@ This tutorial explains how capacity works on Adobe Commerce Cloud, what scales a
 
 * [Commerce on Cloud — project overview](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
 * [Performance testing guidance](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
-* [Pre-launch checklist](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
+* [Pre-launch checklist](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

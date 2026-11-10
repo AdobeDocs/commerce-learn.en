@@ -53,26 +53,26 @@ author: Russell A.
                 + [In-Process code standards](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
             + QA {#qa}
                 + [Code Freeze](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-    + Troubleshooting {#troubleshooting}
-        + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
-        + [Triage and resolve 2 common site errors](../cloud/troubleshooting/triage-two-common-site-errors.md)
-        + [Configuration Values](../cloud/troubleshooting/config-values.md)
-        + [Truncate logs](../cloud/troubleshooting/truncate-logs.md)
-    + [Project and environment management](../cloud/project-environment-management.md)
-    + [How Adobe Commerce Cloud scales](../cloud/how-adobe-commerce-cloud-scales.md)
-    + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
-    + [Detect IP Address](../cloud/detect-ip-address.md)
-    + [Limit access using Fastly](../cloud/limit-website-access-using-fastly.md)
-    + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
-        + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
-        + [Fastly](../cloud/fastly.md)
-        + [Configuration and debugging](../cloud/configuration-and-debugging.md)
-        + [Deployments, testing, monitoring and security](../cloud/deployments-testing-monitoring-security.md)
-        + [SaaS offerings, support and communications and next steps](../cloud/saas-offerings-support-communications-next-steps.md)
-    + Best Practices {#commerce-cloud-best-practices}
-        + [Support Request](../cloud/best-practices/support-request.md)
-        + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
+    + Cloud operations {#cloud-operations}
+        + Troubleshooting {#troubleshooting}
+            + [Invalid SSL](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+            + [Triage and resolve 2 common site errors](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+            + [Configuration Values](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+            + [Truncate logs](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+        + [Project and environment management](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+        + [How Adobe Commerce Cloud scales](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+        + [HIPAA-ready hosting](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+        + [Detect IP Address](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+        + [Limit access using Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+        + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
+            + [Infrastructure and development best practices](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+            + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+            + [Configuration and debugging](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+            + [Deployments, testing, monitoring and security](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+            + [SaaS offerings, support and communications and next steps](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+        + Best Practices {#commerce-cloud-best-practices}
+            + [Support Request](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+            + [Pre-Launch checklist](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)

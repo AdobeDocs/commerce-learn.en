@@ -10,7 +10,6 @@ doc-type: Technical Video
 duration: 811
 last-substantial-update: 2024-03-05T00:00:00.000Z
 jira: KT-15018
-kt: 15018
 exl-id: e5b82073-0905-4e25-8e15-5b66672c3e79
 TQID: 'https://experienceleague.adobe.com/Ql9caCQL2FgifzXtT4pIp1Og8PXRBEz4KzPN1SrmoC4'
 product_v2:

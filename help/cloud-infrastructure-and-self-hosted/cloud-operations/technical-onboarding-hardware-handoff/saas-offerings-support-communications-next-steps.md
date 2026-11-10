@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce Cloud Deployment SaaS offerings, support, and other communications and some next steps
+title: Cloud SaaS offerings, support, and next steps
 description: Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.
 feature: Cloud
 topic: Commerce, Architecture, Development
@@ -10,7 +10,6 @@ doc-type: Technical Video
 duration: 1349
 last-substantial-update: 2024-03-14T00:00:00.000Z
 jira: KT-15022
-kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
 TQID: 'https://experienceleague.adobe.com/DMnfxBNDgGc50xHZtATfXxweMOfgs3zlxKsFmdbMTOs'
 product_v2:
@@ -110,7 +109,7 @@ Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communic
 * [Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
 * [Live Search and Catalog Service](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
 * [Catalog Service Price Indexing](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
-* [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
 * [Shared Responsibility](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 * [Customer data access and privacy](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 * [Commerce Certifications](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
