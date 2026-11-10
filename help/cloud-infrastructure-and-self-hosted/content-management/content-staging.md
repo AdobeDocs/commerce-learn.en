@@ -1,11 +1,11 @@
 ---
 title: Content Staging
 description: Learn how to create, preview, and schedule a wide range of content updates for your store directly from the Admin.
-doc-type: feature video
+doc-type: Feature Video
 duration: 309
 audience: all
 activity: use
-kt: 13907
+jira: KT-13907
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Staging
 topic: Commerce, Administration

@@ -1,8 +1,8 @@
 ---
 title: "[!DNL Page Builder] overview"
 description: Learn how to build pages [!DNL Commerce] store pages in the Admin using [!DNL Page Builder].
-kt: 5563
-doc-type: feature video
+jira: KT-5563
+doc-type: Feature Video
 duration: 317
 audience: all
 activity: use

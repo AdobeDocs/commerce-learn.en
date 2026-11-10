@@ -124,6 +124,13 @@ author: Russell A.
         + [Manage URL Rewrites for SEO](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
         + [AR Viewer](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
         + [Catalog Import and update](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+    + Content management {#content-management}
+        + [Page Builder Overview](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+        + [Create Static and Dynamic Blocks](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+        + [Create Widgets](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+        + [Use Content Templates](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+        + [Content Staging](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+        + [Manage the Media Gallery](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -276,13 +283,6 @@ author: Russell A.
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Content Management {#content}
-    + [Page Builder Overview](../site-management/page-builder-overview.md)
-    + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
-    + [Create Widgets](../site-management/widgets.md)
-    + [Use Content Templates](../site-management/content-templates.md)
-    + [Content Staging](../site-management/content-staging.md)
-    + [Manage the Media Gallery](../site-management/media-gallery.md)
 + Marketing Tools {#marketing}
     + [Create Catalog Price Rules](../site-management/catalog-price-rules.md)
     + [Create Cart Price Rules](../site-management/cart-price-rules.md)

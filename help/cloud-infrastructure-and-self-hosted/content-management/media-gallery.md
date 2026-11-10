@@ -1,7 +1,8 @@
 ---
 title: Manage the Media Gallery
 description: Learn how to use the new enhanced Media Gallery to organize and manage media files on the server.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10644
 duration: 196
 audience: all
 activity: use
