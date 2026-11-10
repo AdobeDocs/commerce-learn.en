@@ -1,19 +1,19 @@
 ---
-title: Create Static and Dynamic Blocks
-description: Learn how to create static and dynamic blocks for your store CMS pages.
-doc-type: feature video
+title: Create Content Templates
+description: Learn how templates can save time and effort when creating content or replacing older content.
+doc-type: Feature Video
+jira: KT-10642
+duration: 182
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
-feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
+feature: Configuration, System, Personalization, Native Luma Frontend Development
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-jira: KT-17150
-duration: 302
-exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
+exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
-TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
+TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -26,8 +26,6 @@ feature_v2:
     internal-label: System
   - id: f37757d8-3174-5335-b977-1161792f965d
     internal-label: Personalization
-  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
-    internal-label: Page Content
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
 subfeature_v2:
@@ -49,9 +47,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create Static and Dynamic Blocks
+# Create Content Templates
 
-A block is a modular unit of content that can be positioned most anywhere on the page. Content blocks are sometimes referred to as static blocks, or CMS blocks. They can be used to display fixed information such as text, images, and embedded video, and dynamic information that is provided by a widget or originates in a database or other source. Most elements on the home page are blocks that can be easily managed. In this video, learn how to create static and dynamic blocks.
+Using templates saves you time and effort when creating content (or replacing older content). For example, you can save your existing Page Builder content as a template, and then apply that template (with all of its content and layouts) to another area to quickly create Page Builder content.
 
 ## Who is this video for?
 
@@ -60,9 +58,9 @@ A block is a modular unit of content that can be positioned most anywhere on the
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## Additional resources
 
-* [Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-* [Dynamic Blocks - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [[!DNL Page Builder] Templates - [!DNL Page Builder] User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [Add templates - [!DNL Page Builder] Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates)
