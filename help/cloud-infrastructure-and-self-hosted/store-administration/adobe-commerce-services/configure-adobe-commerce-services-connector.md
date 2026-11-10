@@ -1,8 +1,8 @@
 ---
 title: Configure Adobe Commerce Services Connector
 description: Learn how to configure the Adobe Commerce Services Connector for use with Commerce SaaS products and learn how to resolve common issues.
-kt: 14777
-doc-type: video
+jira: KT-14777
+doc-type: Technical Video
 duration: 521
 audience: all
 activity: use
@@ -38,9 +38,9 @@ topic_v2:
 ---
 # Configure the Adobe Commerce Services Connector
 
-The Commerce Services Connector is a configuration developed by Adobe that unlocks various SaaS functionality. To use Payment services for Adobe Commerce and Magento Open Source, you must connect your Commerce instance using production and sandbox API keys and specify the data space in the configuration for setup.
+The Commerce Services Connector is an Adobe configuration that enables SaaS functionality. To use Payment Services for Adobe Commerce and Magento Open Source, connect your Commerce instance using production and sandbox API keys and specify the data space in the configuration.
 
-Watch the _Configure the Adobe Commerce Services Connector_ video to help you set up Payment Services.
+To help you set up Payment Services, watch the _Configure the Adobe Commerce Services Connector_ video.
 
 ## Who is this video for?
 
@@ -53,18 +53,18 @@ Watch the _Configure the Adobe Commerce Services Connector_ video to help you se
 
 ## Configuration FAQs
 
-The Commerce Services Connector is a configuration developed by Adobe that unlocks various SaaS functionalities. These are some of the most frequently asked questions regarding configuration:
+The following video covers common Commerce Services Connector configuration tasks and issues:
 
 * Fix invalid or public keys.
 * Rotate your store's API key.
-* Navigate the SaaS Identifier step of setting up the Commerce Service Connector.
+* Navigate the SaaS Identifier step of setting up the Commerce Services Connector.
 * Troubleshoot the sandbox button when onboarding Payment Services.
-* Commerce Service Connector is not loading in the UI.
+* The Commerce Services Connector does not load in the UI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Additional resources
 
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-* [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Payment Services Guide](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}

@@ -83,6 +83,29 @@ author: Russell A.
                 + [Locating a malicious IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
                 + [Alert notification setup](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
                 + [Custom alerts](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+    + Store administration {#store-administration}
+        + [Manage User Roles and Permissions](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+        + [Two-Factor Authentication](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+        + [Manage Currency and Tax Rules](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+        + [Add Websites, Stores, and Store Views](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+        + [Change a Store URL](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+        + [Reset the admin URI](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+        + [Shipping and Delivery Methods](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+        + [Admin Grids and filters](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+        + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+        + [Navigate store configuration and the System menu](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+        + Commerce services setup {#adobe-commerce-services}
+            + [Configure Commerce Services Connector](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+            + [Configure Payment Services](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+            + [Use Payment Services](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+        + Customers {#customers}
+            + [Create Customer Segments](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+            + [Create Customer Groups](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+            + [Create Customer Attributes](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+            + [Seller-Assisted Shopping](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+        + Orders and fulfillment {#orders}
+            + [Manage Order Status](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+            + [Checking Inventory Status](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -243,26 +266,6 @@ author: Russell A.
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Store Administration {#admin}
-    + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
-    + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
-    + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
-    + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
-    + [Change a Store URL](../site-management/change-store-url.md)
-    + [Reset the admin URI](../site-management/reset-admin-uri.md)
-    + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
-    + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
-    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-    + [Navigate store configuration and the System menu](../site-management/store-configuration-and-system-menu.md)
-    + Adobe Commerce Services {#adobe-commerce-services}
-        + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
-        + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
-        + [Use Payment Services](../site-management/payment-services.md)
-+ Customer Management {#customers}
-    + [Create Customer Segments](../site-management/customer-segments.md)
-    + [Create Customer Groups](../site-management/customer-groups.md)
-    + [Create Customer Attributes](../site-management/customer-attributes.md)
-    + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
 + Catalog Management {#catalog}
     + [Create a Category](../site-management/category-create.md)
     + [Manage Products in a Category](../site-management/category-products.md)
@@ -288,9 +291,6 @@ author: Russell A.
     + [Introduction to Live Search](../site-management/live-search.md)
     + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
     + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
-+ Orders and Fulfillment {#orders}
-    + [Manage Order Status](../orders-and-fulfillment/order-status.md)
-    + [Checking Inventory Status](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B for Adobe Commerce {#b2b}
     + [Manage Company Accounts](../b2b/company-accounts.md)
     + [Manage Shared Catalogs](../b2b/shared-catalogs.md)

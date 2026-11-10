@@ -38,18 +38,18 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Reset the admin URI using the cli
+# Reset the admin URI using the CLI
 
-Learn how to reset the admin URI using the Adobe Commerce Cloud cli command. This is useful if the admin URL was changed from the admin but a mistake was made and you are no longer able to access the admin.
+To regain access to the Admin after an incorrect URL change, reset the admin URI using the Adobe Commerce Cloud CLI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
 
 ## Some commands used in the tutorial
 
-Change the configuration to expect a custom Admin path URL to 0:
+To disable the custom Admin URL, set its configuration value to 0:
 
 `$ php bin/magento config:set admin/url/use_custom 0`
 
-Change the configuration for the custom Admin path URL to 0
+To disable the custom Admin path, set its configuration value to 0:
 
 `$ php bin/magento config:set admin/url/use_custom_path 0`

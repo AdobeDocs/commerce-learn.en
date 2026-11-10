@@ -1,8 +1,8 @@
 ---
 title: Manage Currency and Tax Rules
 description: Learn how to configure currency and the tax rules that [!DNL Commerce] uses to calculate the appropriate tax according to the customer and product classes.
-kt: 10542
-doc-type: feature video
+jira: KT-10542
+doc-type: Feature Video
 duration: 157
 audience: all
 activity: use
