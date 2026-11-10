@@ -1,6 +1,6 @@
 ---
 title: Create Custom New Relic alerts
-description: Learn how to create custom New Relic alerts, set thresholds, and configure notifications to monitor your data effectively. Perfect for optimizing site performance.
+description: Learn how to create custom New Relic alerts, set thresholds, assign policies, and configure notifications to monitor Adobe Commerce traffic and performance.
 feature: Tools and External Services, Security
 topic: Security
 role: Developer

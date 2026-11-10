@@ -1,8 +1,7 @@
 ---
-title: Use Observation for Adobe Commerce
-description: Watch this technical video and learn how to use the Observation Tool for Adobe Commerce.
-doc-type: technical video
-duration: 214
+title: The Site-Wide Analysis Tool Dashboard
+description: Learn how to use the Site-Wide Analysis Tool dashboard to review system insights and recommendations that help protect and maintain Adobe Commerce sites.
+doc-type: Technical Video
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
@@ -11,8 +10,10 @@ topic: Commerce, Administration
 old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
-exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
-TQID: 'https://experienceleague.adobe.com/Io3oB7h2bqDXoWs1lHmi79qffRP905SusHZ2ZLSAgvs'
+jira: KT-15599
+duration: 125
+exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
+TQID: 'https://experienceleague.adobe.com/LXRcogaGf8aCmcEMdjCiLkulSXT16vsb22OuaI-I31w'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -39,8 +40,6 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
@@ -48,9 +47,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Use Observation for Adobe Commerce
+# The Site-Wide Analysis Tool Dashboard
 
-In this video, learn about the Observation Tool for Adobe Commerce, which is a New Relic nerdlet to see the state of your Adobe Commerce site, current or past time views. A nerdlet is a custom application built with New Relic One programmability.
+The Site-Wide Analysis Tool is a proactive self-service tool and central repository that includes detailed system insights and recommendations to ensure the security and operability of your Adobe Commerce installation. It provides 24/7 real-time performance monitoring, reports, and advice for identifying potential issues. Use this tool to gain better visibility into site health, safety, and application configurations, help reduce resolution time, and improve site stability and performance.
 
 ## Who is this video for?
 
@@ -59,9 +58,9 @@ In this video, learn about the Observation Tool for Adobe Commerce, which is a N
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Additional resources
 
-* [Observation for Adobe Commerce - Support article](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-* [Use Observation for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [View and manage logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

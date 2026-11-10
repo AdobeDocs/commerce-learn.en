@@ -110,4 +110,4 @@ Before applying patches, it's crucial to test them in a staging environment. Ens
 * [Release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github for patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
 * [Usage of quality patch tool](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Technical video on QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Technical video on QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool)
