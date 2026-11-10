@@ -1,10 +1,10 @@
 ---
-title: Learn how to use New Relic to identify an IP that needs to be blocked
-description: Using New Relic, identify an ip address that may be malicious in nature.  Once the IP is determined this is used in Fastly to block it from accessing the application
+title: Find IP addresses in New Relic to block in Fastly
+description: Learn how to identify potentially malicious IP addresses in New Relic, investigate suspicious traffic, and use Fastly to block access to your Commerce site.
 landing-page-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
 short-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
-kt: 11566
-doc-type: video
+jira: KT-11566
+doc-type: Technical Video
 duration: 153
 audience: all
 activity: use

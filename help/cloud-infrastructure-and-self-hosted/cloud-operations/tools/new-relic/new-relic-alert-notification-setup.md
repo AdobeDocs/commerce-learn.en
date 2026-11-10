@@ -1,10 +1,10 @@
 ---
-title: Learn how to find and set up new alert notifications in New Relic
+title: Find and set up New Relic alert notifications
 description: Learn how to find alerts, policies and delivery mechanisms for New Relic alerts
 landing-page-description: Learn how to find alerts, policies and delivery mechanisms for New Relic alerts
 short-description: Learn how to add a new email address to an existing alert policy in New Relic.
-kt: 15984
-doc-type: technical video
+jira: KT-15984
+doc-type: Technical Video
 duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00.000Z

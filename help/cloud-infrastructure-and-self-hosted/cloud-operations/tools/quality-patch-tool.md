@@ -1,7 +1,8 @@
 ---
 title: Use the Quality Patch Tool
 description: Watch this technical video and learn how to use the Quality Patch Tool for Adobe Commerce and Magento Open Source.
-doc-type: technical video
+doc-type: Technical Video
+jira: KT-10651
 duration: 1115
 audience: all
 activity: use

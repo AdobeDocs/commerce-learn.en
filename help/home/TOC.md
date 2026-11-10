@@ -73,13 +73,22 @@ author: Russell A.
         + Best Practices {#commerce-cloud-best-practices}
             + [Support Request](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
             + [Pre-Launch checklist](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+        + Operations tools {#tools}
+            + [Site-Wide Analysis Tool Dashboard](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+            + [Cloud Automation Patching Service](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+            + [Observation for Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+            + [Quality Patch tool overview](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+            + [Quality Patch Tool](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+            + New Relic {#new-relic}
+                + [Locating a malicious IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+                + [Alert notification setup](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+                + [Custom alerts](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
-        + [Quality Patch tool](../capabilities/quality-patch-tool.md)
     + Create Products {#create-products}
         + [Simple product](../site-management/create-simple-product.md) 
         + [Virtual product](../site-management/create-virtual-product.md)  
@@ -295,12 +304,3 @@ author: Russell A.
         + [Quote line item notes](../b2b/quote-line-item-notes.md)
         + [Quote line item discount GraphQL](../b2b/quote-graphql-line-item-discount.md)
         + [Quote line item discount REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ Tools and External services {#tools}
-    + [Site-Wide Analysis Tool Dashboard](../tools/site-wide-analysis-tool.md)
-    + [Cloud Automation Patching Service](../tools/cloud-automation-patching-service.md)
-    + [Observation for Adobe Commerce](../tools/observation-tool.md)
-    + [Quality Patch Tool](../tools/quality-patch-tool.md)
-    + New Relic {#new-relic}
-        + [Locating a malicious IP](../new-relic/malicious-ip.md)
-        + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
-        + [Custom alerts](../new-relic/custom-alerts.md)
