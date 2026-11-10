@@ -1,8 +1,8 @@
 ---
 title: Inventory Management
 description: Learn about the Inventory Management features and how you can use them to work from a single warehouse or complex shipping network.
-kt: 10551
-doc-type: feature video
+jira: KT-10551
+doc-type: Feature Video
 duration: 383
 audience: all
 activity: use

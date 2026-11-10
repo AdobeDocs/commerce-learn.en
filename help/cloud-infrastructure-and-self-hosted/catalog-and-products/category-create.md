@@ -1,8 +1,8 @@
 ---
 title: Create a Category
 description: Learn how to define the basic category structure for your product catalog.
-kt: 10549
-doc-type: feature video
+jira: KT-10549
+doc-type: Feature Video
 duration: 164
 audience: all
 activity: use
