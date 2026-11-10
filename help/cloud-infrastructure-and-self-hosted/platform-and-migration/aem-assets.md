@@ -1,7 +1,7 @@
 ---
-title: Enhance Adobe Commerce with AI Integration for Streamlined Asset Management
+title: AI-powered asset management with Adobe Commerce and AEM
 description: Integrate AI with Adobe Commerce for personalized content, streamlined workflows, and complete asset lifecycle control.
-​feature: Media, Page Content, Storefront
+feature: Media, Page Content, Storefront
 topic: Architecture, Commerce, Integrations
 role: Admin, User
 level: Beginner

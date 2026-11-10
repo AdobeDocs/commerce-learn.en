@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Experience-Led Platform for Exceptional Business Results
+title: Adobe Commerce catalog, Live Search, and promotions
 description: Discover Adobe Commerce's advanced search and catalog management, powered by AI, to optimize e-commerce experiences for both B2B and B2C customers.
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce

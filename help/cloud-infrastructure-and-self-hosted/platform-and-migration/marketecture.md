@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Experience-Led Platform for Exceptional Business Results
+title: Adobe Commerce platform capabilities and business benefits
 description: Features and capabilities of Adobe Commerce as an experience-led platform for creating exceptional business results.
 feature: API Mesh, GraphQL, REST, Recommendations
 topic: Architecture, Commerce, Integrations, Performance

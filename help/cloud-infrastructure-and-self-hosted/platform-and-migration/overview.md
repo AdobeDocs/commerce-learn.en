@@ -1,6 +1,6 @@
 ---
 title: Migrate from a self-hosted solution
-description: Learn about some benefits to moving from an on-prem self-hosted solution to Adobe Commerce Cloud. The Adobe Commerce Cloud option is a reliable and cost-effective platform that offers infrastructure management, security, and performance monitoring tools, resulting in increased productivity.
+description: Learn about migrating from self-hosted commerce to Adobe Commerce on cloud infrastructure, with managed security, performance monitoring, and reduced costs.
 feature: Services, Paas
 topic: Commerce
 role: Admin, User

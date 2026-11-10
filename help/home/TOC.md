@@ -33,6 +33,26 @@ author: Russell A.
         + [Target credentials](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
         + [Single-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
         + [Multi-phase migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Cloud infrastructure and self-hosted {#cloud-infrastructure-and-self-hosted}
+    + Platform and migration {#platform-and-migration}
+        + [Marketecture](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+        + [Global Delivery Model](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+        + [Admin Roles](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+        + [Marketing Flows](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+        + [Storefront Options](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+        + [Data Sharing](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+        + [Multiple Websites](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+        + [Experience Lead Data and Promotions](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+        + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+        + [Migrate from a self-hosted solution](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+        + Migrating to Adobe Commerce {#migrating-to-adobe-commerce}
+            + [Overview](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+            + Preparation {#preparation}
+                + [Evaluate the team and project](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+            + Customizations {#customizations}
+                + [In-Process code standards](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+            + QA {#qa}
+                + [Code Freeze](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
     + Troubleshooting {#troubleshooting}
         + [Invalid SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -43,16 +63,6 @@ author: Russell A.
     + [How Adobe Commerce Cloud scales](../cloud/how-adobe-commerce-cloud-scales.md)
     + [HIPAA-ready hosting](../cloud/hippa-ready-hosting.md)
     + [Detect IP Address](../cloud/detect-ip-address.md)
-    + [Marketecture](../cloud/marketecture.md)
-    + [Global Delivery Model](../cloud/global-delivery-model.md)
-    + [Admin Roles](../cloud/admin-roles.md)
-    + [Marketing Flows](../cloud/marketing-flows.md)
-    + [Storefront Options](../cloud/storefront-options.md)
-    + [Data Sharing](../cloud/data-sharing.md)
-    + [Multiple Websites](../cloud/multiple-websites.md)
-    + [Experience Lead Data and Promotions](../cloud/experience-lead-data-promoitions.md)
-    + [AEM Assets](../cloud/aem-assets.md)
-    + [Migrate from a self-hosted solution](../cloud/overview.md) 
     + [Limit access using Fastly](../cloud/limit-website-access-using-fastly.md)
     + Technical onboarding and hardware handoff {#technical-onboarding-hardware-handoff}
         + [Infrastructure and development best practices](../cloud/infrastructure-development-best-practices.md)
@@ -64,15 +74,6 @@ author: Russell A.
         + [Support Request](../cloud/best-practices/support-request.md)
         + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Getting Started {#getting-started}
-    + Migrating to Adobe Commerce{#migrating-to-adobe-commerce}
-        + [Overview](../migrating-to-adobe-commerce/overview.md)
-        + Preparation{#preparation}
-            + [Evaluate the team and project](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-        + Customizations{#customizations}
-            + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-        + QA{#qa}
-            + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
-            
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)

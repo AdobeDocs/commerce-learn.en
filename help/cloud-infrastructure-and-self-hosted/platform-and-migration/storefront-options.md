@@ -1,5 +1,5 @@
 ---
-title: Boost Your E-Commerce with Adobe Commerce's Edge Delivery Services
+title: Adobe Commerce storefronts with Edge Delivery Services
 description: Experience fast, SEO-optimized e-commerce with Adobe Commerce. Boost traffic, save costs, and easily manage your storefront with Edge Delivery Services.
 feature: Marketing Tools, Site Management, Storefront
 topic: Architecture, Commerce, Performance
