@@ -6,8 +6,8 @@ description: Links to related pages in Adobe Commerce Cloud technical onboarding
 
 ## Additional related tutorials
 
-* [Infrastructure and development best practices](/help/cloud/infrastructure-development-best-practices.md)
-* [Fastly](/help/cloud/fastly.md)
-* [Configuration and debugging](/help/cloud/configuration-and-debugging.md)
-* [Deployments, testing, monitoring and security](/help/cloud/deployments-testing-monitoring-security.md)
-* [Saas Offerings, Support and other communications, and Next Steps](/help/cloud/saas-offerings-support-communications-next-steps.md)
+* [Infrastructure and development best practices](/help/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+* [Fastly](/help/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+* [Configuration and debugging](/help/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+* [Deployments, testing, monitoring and security](/help/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+* [Saas Offerings, Support and other communications, and Next Steps](/help/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
