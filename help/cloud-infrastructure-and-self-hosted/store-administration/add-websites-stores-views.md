@@ -1,8 +1,8 @@
 ---
 title: Add websites, stores, and store views
 description: Learn how to add new websites, stores, and views according to the needs of your business.
-kt: 5609
-doc-type: feature video
+jira: KT-5609
+doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
@@ -51,17 +51,17 @@ Every Adobe Commerce and Magento Open Source installation supports a hierarchy o
 ## Who is this video for?
 
 * Store administrators
-* Web site managers
+* Website managers
 
 ## Video content
 
 >[!NOTE]
 >
->The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>The content in the video reflects the 2.1.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Additional resources
 
-* [Websites, Stores, and Views - [!DNL Commerce] Getting Started Guide](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-* [Root category and hierarchy - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+* [Websites, Stores, and Views - [!DNL Commerce] Getting Started Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Root category and hierarchy - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

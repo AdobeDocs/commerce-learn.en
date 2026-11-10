@@ -61,4 +61,4 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 * [Two-factor authentication (2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
 * [Two-factor authentication setup for user accounts](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
 * [Manage two-factor authentication](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
-* [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+* [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication)

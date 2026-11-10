@@ -1,8 +1,8 @@
 ---
 title: Manage Shipping and Delivery Methods
 description: Learn how to configure shipping origin, multi-shipping, delivery fee, and carrier settings for your Commerce store.
-kt: 10543
-doc-type: feature video
+jira: KT-10543
+doc-type: Feature Video
 duration: 155
 audience: all
 activity: use
@@ -43,7 +43,7 @@ topic_v2:
 ---
 # Manage Shipping and Delivery Methods
 
-Managing your shipping and delivery methods is critical to making sure you're able to get your product into the hands of your customers. In this video, you learn how to manage your shipping origin, multi-shipping, delivery fee, and carrier settings.
+Manage shipping and delivery methods to deliver products to your customers. In this video, learn how to manage your shipping origin, multi-shipping, delivery fees, and carrier settings.
 
 ## Who is this video for?
 
@@ -56,6 +56,6 @@ Managing your shipping and delivery methods is critical to making sure you're ab
 
 ## Additional resources
 
-* [Shipping settings - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-* [Basic delivery methods - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-* [Shipping carrier setup - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+* [Shipping settings - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Basic delivery methods - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Shipping carrier setup - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

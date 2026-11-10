@@ -1,7 +1,8 @@
 ---
 title: Manage Order Status
 description: Learn how to check order status and its details, and how to change an order's status.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10645
 duration: 151
 audience: all
 activity: use

@@ -1,8 +1,8 @@
 ---
 title: Seller-Assisted Shopping
 description: Learn how to add you can offer immediate assistance to both guests and customers who have registered for an account with your store.
-kt: 10548
-doc-type: feature video
+jira: KT-10548
+doc-type: Feature Video
 duration: 205
 audience: all
 activity: use

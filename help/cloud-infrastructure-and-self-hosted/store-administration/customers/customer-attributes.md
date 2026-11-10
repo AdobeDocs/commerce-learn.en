@@ -1,8 +1,8 @@
 ---
 title: Create Customer Attributes
 description: Learn how to add custom attributes to the Account Information, Address Book, and Billing Information sections of a customer's account.
-kt: 10547
-doc-type: feature video
+jira: KT-10547
+doc-type: Feature Video
 duration: 117
 audience: all
 activity: use

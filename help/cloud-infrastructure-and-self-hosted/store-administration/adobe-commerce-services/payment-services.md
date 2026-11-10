@@ -1,7 +1,8 @@
 ---
 title: Use Payment Services
 description: Learn how to add Payment Services to your store and reduce operational overhead, increase revenue, and improve the entire shopper experience.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10646
 duration: 134
 audience: all
 activity: use
@@ -38,13 +39,13 @@ topic_v2:
 ---
 # Use Payment Services
 
-For small business, mid-market contender, or large enterprise, Payment Services for Adobe Commerce and Magento Open Source helps reduce operational overhead, increase revenue. It provides tools that improve the entire shopper experience. Payment Services is:
+Payment Services for Adobe Commerce and Magento Open Source helps small businesses, mid-market companies, and large enterprises reduce operational overhead and increase revenue. It provides tools that improve the entire shopper experience. Payment Services is:
 
 * Easy to set up and maintain
 * Designed to maximize your profit
 * Safe and secure
-* Designed to meet all your payments needs
-* Self-contained within the Admin
+* Designed to meet all your payment needs
+* Integrated within the Admin
 
 ## Who is this video for?
 
@@ -57,5 +58,5 @@ For small business, mid-market contender, or large enterprise, Payment Services 
 
 ## Additional resources
 
-* [Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Payment Services Guide](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)
