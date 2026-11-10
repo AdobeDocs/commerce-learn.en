@@ -1,8 +1,8 @@
 ---
 title: Create a configurable product
 description: Learn how to create a configurable product using the REST API and the Commerce Admin.
-kt: 14586
-doc-type: video
+jira: KT-14586
+doc-type: Tutorial
 duration: 1760
 audience: all
 activity: use

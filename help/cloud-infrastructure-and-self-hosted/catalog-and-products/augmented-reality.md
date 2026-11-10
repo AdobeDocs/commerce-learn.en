@@ -1,8 +1,8 @@
 ---
 title: AR Viewer for Adobe Commerce
 description: Learn about the Augmented Reality Viewing module available on the Commerce Marketplace.
-kt: 13738
-doc-type: video
+jira: KT-13738
+doc-type: Tutorial
 duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
@@ -88,4 +88,4 @@ Once the visitor scans the QR code with their device, the item is superimposed o
 
 ## Adobe Commerce Marketplace extension
 
-[AR viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
+[AR Viewer installation instructions](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}

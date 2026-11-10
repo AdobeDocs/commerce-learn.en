@@ -1,8 +1,8 @@
 ---
 title: Create Product Attributes
 description: Learn how to create the product attributes that are used manage the information associated with products, customers, and product ratings.
-kt: 10552
-doc-type: feature video
+jira: KT-10552
+doc-type: Feature Video
 duration: 348
 audience: all
 activity: use

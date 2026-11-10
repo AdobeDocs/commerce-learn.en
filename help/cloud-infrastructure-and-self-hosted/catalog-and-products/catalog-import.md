@@ -1,7 +1,7 @@
 ---
 title: Native catalog import options in Adobe Commerce
 description: Learn how a few of the native options for importing your catalog to your Adobe Commerce store.
-kt: 13634
+jira: KT-13634
 doc-type: Tutorial
 duration: 211
 audience: all
@@ -169,4 +169,4 @@ Cons:
 * [Import data using new REST CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 * [Import data main documentation](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 * [Adobe Commerce version 2.4.6 release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
-* [Users, roles, and permissions](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
+* [Users, roles, and permissions](../store-administration/users-roles-permissions.md){target="_blank"}

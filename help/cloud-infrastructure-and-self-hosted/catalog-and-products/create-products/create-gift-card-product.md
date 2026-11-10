@@ -1,8 +1,8 @@
 ---
 title: Create a gift card product
 description: Learn how to create a gift card product using the REST API and the Commerce Admin.
-kt: 14587
-doc-type: video
+jira: KT-14587
+doc-type: Tutorial
 audience: all
 activity: use
 last-substantial-update: 2024-2-1

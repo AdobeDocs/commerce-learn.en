@@ -1,18 +1,18 @@
 ---
-title: Create a simple product
-description: Learn how to create a simple product using the REST API and the Commerce Admin.
-kt: 14446
-doc-type: video
-duration: 197
+title: Create a virtual product
+description: Learn how to create a virtual product using the REST API and the Commerce Admin.
+jira: KT-14464
+doc-type: Technical Video
+duration: 213
 audience: all
 activity: use
-last-substantial-update: 2023-11-14T00:00:00.000Z
+last-substantial-update: 2023-11-15T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-TQID: 'https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns'
+exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
+TQID: 'https://experienceleague.adobe.com/OktfC13mVgaoxyfKlZYH6HPDoCqP-m07pz5VEQ4cssM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -41,9 +41,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Create a simple product
+# Create a virtual product
 
-Learn how to create a simple product using the REST API and the Adobe Commerce Admin. 
+Learn how to create a virtual product using the REST API and the Adobe Commerce Admin. 
 
 ## Who is this video for?
 
@@ -53,32 +53,33 @@ Learn how to create a simple product using the REST API and the Adobe Commerce A
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
 
-## Create a product using curl
+## Create a virtual product using curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
---header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--header 'Cookie: PHPSESSID=2cd97649bcf4ee5b45b23f8eb940e3a0; private_content_version=564dde2976849891583a9a649073f01e' \
 --data '{
   "product": {
-    "sku": "some-product-sku",
-    "name": "My curl created product test",
+    "sku": "postman-rest-virtual-product-test",
+    "name": "POSTMAN virtual product test",
     "attribute_set_id": 4,
-    "price": 222,
-    "type_id": "simple"
+    "price": 44,
+    "type_id": "virtual"
   }
 }
+'
 ```
 
 ## Get a product using curl
 
 ```bash
-curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
+curl --location '{{your.url.here}}/rest/default/V1/products/Admin-created-virtual-product' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
---header 'Cookie: private_content_version=3b797a6cc3c5c71f2193109fb9838b12'
+--header 'Cookie: PHPSESSID=2cd97649bcf4ee5b45b23f8eb940e3a0; private_content_version=564dde2976849891583a9a649073f01e'
 ```
 
 ## Additional resources

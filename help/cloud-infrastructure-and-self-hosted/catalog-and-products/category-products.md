@@ -1,23 +1,25 @@
 ---
-title: Manage URL Rewrites for SEO
-description: Learn about using the URL Rewrite tool to change any URL that is associated with a product, category, or CMS page.
-kt: 10554
-doc-type: feature video
-duration: 150
+title: Manage Products in a Category
+description: Learn about creating a product in a category, visual merchandizing, and using the automated category sort functionality.
+jira: KT-10550
+doc-type: Feature Video
+duration: 142
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Search, Site Navigation
-topic: Commerce, Administration
+topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
+exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
-TQID: 'https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8'
+TQID: 'https://experienceleague.adobe.com/3WWSsHmsfF43uVGqXj0BXnO5azlCKtzuVIZTOEMz42E'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -25,6 +27,8 @@ feature_v2:
   - id: 48c59cc5-3c2e-5df1-8756-f5c139a28932
     internal-label: Site Navigation
 subfeature_v2:
+  - id: e91a50b1-0b31-436e-9033-00e4776e94cb
+    internal-label: Categories
   - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
     internal-label: Search
 role_v2:
@@ -40,26 +44,23 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Manage URL Rewrites for SEO
+# Manage Products in a Category
 
-The URL Rewrite tool lets you change any URL that is associated with a product, category, or CMS page. When the rewrite goes into effect, any links that point to the previous URL are redirected to the new address.
+Organizing your products into categories is key to managing your catalogs. In this video, you learn about creating a product in a category, visual merchandizing, and using the automated category sort functionality.
 
 ## Who is this video for?
 
-* Website manager
+* Website managers
 * eCommerce merchandisers
-* eCommerce marketers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343747?learn=on)
 
 ## Additional resources
 
-* [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-* [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [Category product assignments - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+* [Category rules for merchandising - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

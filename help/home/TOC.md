@@ -106,20 +106,30 @@ author: Russell A.
         + Orders and fulfillment {#orders}
             + [Manage Order Status](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
             + [Checking Inventory Status](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+    + Catalog and products {#catalog-and-products}
+        + Create Products {#create-products}
+            + [Simple product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+            + [Virtual product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+            + [Downloadable product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+            + [Grouped product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+            + [Configurable product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+            + [Bundle product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+            + [Gift Card product](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+        + [Create a Category](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+        + [Manage Products in a Category](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+        + [Inventory Management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+        + [Create Product Attributes](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+        + [Use Product Attributes with PWA Studio](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+        + [Manage SEO Metadata](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+        + [Manage URL Rewrites for SEO](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+        + [AR Viewer](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+        + [Catalog Import and update](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)
         + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
-    + Create Products {#create-products}
-        + [Simple product](../site-management/create-simple-product.md) 
-        + [Virtual product](../site-management/create-virtual-product.md)  
-        + [Downloadable product](../site-management/create-downloadable-product.md)
-        + [Grouped product](../site-management/create-grouped-product.md)    
-        + [Configurable product](../site-management/create-configurable-product.md) 
-        + [Bundle product](../site-management/create-bundle-product.md)
-        + [Gift Card product](../site-management/create-gift-card-product.md)
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
         + [Integrations](../back-office-integrations/integrations.md)
@@ -266,16 +276,6 @@ author: Russell A.
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Catalog Management {#catalog}
-    + [Create a Category](../site-management/category-create.md)
-    + [Manage Products in a Category](../site-management/category-products.md)
-    + [Inventory Management](../site-management/inventory-management.md)
-    + [Create Product Attributes](../site-management/product-attributes-create.md)
-    + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
-    + [Manage SEO Metadata](../site-management/seo-metadata.md)
-    + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
-    + [AR Viewer](../site-management/augmented-reality.md)
-    + [Catalog Import and update](../site-management/catalog-import.md)
 + Content Management {#content}
     + [Page Builder Overview](../site-management/page-builder-overview.md)
     + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)

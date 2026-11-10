@@ -1,8 +1,8 @@
 ---
 title: Manage SEO Metadata
 description: Learn how to incorporate keyword-rich meta data to improve the way search engines index your site.
-kt: 10553
-doc-type: feature video
+jira: KT-10553
+doc-type: Feature Video
 duration: 223
 audience: all
 activity: use
