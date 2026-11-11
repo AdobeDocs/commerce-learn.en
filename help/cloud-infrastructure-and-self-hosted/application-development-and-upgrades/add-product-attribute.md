@@ -19,10 +19,6 @@ feature_v2:
     internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -33,6 +29,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+autotag-review: '2026-11-11T17:28:59.031Z'
 ---
 # Create a product attribute
 
@@ -82,7 +79,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.  
+>If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name#add-a-modulexml-file){target="_blank"} for more information.  
 >PLEASE NOTE: for this example code to work, you do need to include the setup_version otherwise the InstallData.php does not execute.
 
 
@@ -255,4 +252,4 @@ class InstallData implements InstallDataInterface
 
 ## Useful resources
 
-[Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute)

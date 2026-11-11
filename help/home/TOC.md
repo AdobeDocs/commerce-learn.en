@@ -150,6 +150,25 @@ author: Russell A.
             + [Quote validation from admin](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
             + [Quote line item discounts](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
             + [Quote line item notes](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+    + Application development and upgrades {#application-development-and-upgrades}
+        + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+        + [Create a module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+        + [Add a product attribute](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+        + [Dependency injection example](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+        + [Galera Cluster slow replication](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+        + [MySQL query cache](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+        + [PT Query Digest](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+        + [Connect and run queries against the Adobe Commerce database](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+        + Commerce Upgrades {#upgrades}
+            + [Adobe Commerce 2.4 Upgrade Workshop](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+            + [Upgrade Compatibility Tool Overview](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+            + [Use the Upgrade Compatibility Tool in PhpStorm](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+        + Global Reference Architecture implementation techniques {#global-reference-architecture-implementation-techniques}
+            + [Overview](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+            + [Split Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+            + [Bulk Packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+            + [Separate packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+            + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -181,19 +200,6 @@ author: Russell A.
         + [Migrate existing code](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
         + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
         + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-    + Back-end Development {#backend-development}
-        + [Best practices for modifying database tables](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
-        + [Create a module](../backend-development/create-module.md)
-        + [Add a product attribute](../backend-development/add-product-attribute.md)
-        + [Dependency injection example](../backend-development/dependency-injection.md)
-        + [Galera Cluster slow replication](../backend-development/galera-db-slow-replication.md)
-        + [MySQL query cache](../backend-development/mysql-query-cache.md)
-        + [PT Query Digest](../backend-development/pt-query-digest.md)
-        + [Connect and run queries against the Adobe Commerce database](../backend-development/remote-db-connection-execute-queries.md)
-        + Commerce Upgrades {#upgrade}
-            + [Adobe Commerce 2.4 Upgrade Workshop](../upgrade/2-4-upgrade-workshop.md)
-            + [Upgrade Compatibility Tool Overview](../upgrade/upgrade-compatibility-tool-overview.md)
-            + [Use the Upgrade Compatibility Tool in PhpStorm](../upgrade/uct-phpstorm.md)
     + Front-end Luma Development {#frontend-development}
         + PaaS/SaaS Page Builder for Developers {#page-builder}
             + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -280,12 +286,6 @@ author: Russell A.
         + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
         + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
-+ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
-    + [Overview](../global-reference-architecture/overview.md)
-    + [Split Git](../global-reference-architecture/split-git.md)
-    + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-    + [Separate packages](../global-reference-architecture/separate-packages.md)
-    + [Monorepo](../global-reference-architecture/monorepo.md)
 + Monitoring, analytics, and support {#monitoring-analytics-support}
     + Observability {#observability}
         + [Observability overview](../monitoring-analytics-support/observability/overview.md)

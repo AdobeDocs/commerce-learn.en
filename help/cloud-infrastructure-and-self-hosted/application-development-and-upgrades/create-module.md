@@ -17,10 +17,6 @@ product_v2:
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -31,8 +27,13 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+autotag-review: '2026-11-11T17:28:59.029Z'
 ---
 # Create a module
+
+>[!NOTE]
+>
+>These tutorials cover existing in-process development and upgrades for Adobe Commerce on cloud infrastructure and self-hosted deployments. For new feature development or suitable customization migration, start with [Introduction to App Builder](../../app-builder/introduction-to-app-builder.md).
 
 A module is a structural element of [!DNL Commerce]—modules form the foundation of the system. You typically start a customization by building a module.
 
@@ -301,4 +302,4 @@ class RestAddLoggingAfterOrderPlacePlugin
 ## Useful resources
 
 * [Module Reference guide](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins){target="_blank"}

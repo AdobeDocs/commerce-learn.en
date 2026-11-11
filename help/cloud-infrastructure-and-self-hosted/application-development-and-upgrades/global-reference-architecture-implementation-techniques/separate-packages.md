@@ -22,10 +22,6 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
-  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
-    internal-label: Best Practices
-  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
-    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -43,6 +39,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
+autotag-review: '2026-11-11T17:29:20.972Z'
 ---
 # The Separate Packages global reference architecture pattern
 

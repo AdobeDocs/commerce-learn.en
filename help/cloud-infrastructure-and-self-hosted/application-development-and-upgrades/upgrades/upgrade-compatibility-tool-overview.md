@@ -19,12 +19,6 @@ feature_v2:
     internal-label: Integrations
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: a8ae7a5a-6cdc-5922-bd0d-6feb44b04984
-    internal-label: Upgrade
-  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
-    internal-label: Marketing Tools
 subfeature_v2:
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
     internal-label: Tools and External Services
@@ -41,6 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+autotag-review: '2026-11-11T17:29:20.962Z'
 ---
 # Upgrade Compatibility Tool Overview
 

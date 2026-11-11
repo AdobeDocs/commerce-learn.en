@@ -116,7 +116,7 @@ Adobe Commerce Cloud employs a MariaDB Galera cluster as the database for both t
 * [MySQL Configurations best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Managed Alerts on Adobe Commerce: [MariaDB alerts](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Best practices for [database configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Galera cluster replication and flow control](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (deeper analysis)
+* [Galera cluster replication and flow control](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (deeper analysis)
 
 1. [MySQL slave connection](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} is recommended for improved performance during high database loads.
 2. Ensure that the row format for all database tables is set to [DYNAMIC instead of COMPACT](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (This is especially true for on-prem to cloud migrations).
