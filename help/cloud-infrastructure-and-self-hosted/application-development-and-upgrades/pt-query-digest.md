@@ -17,12 +17,6 @@ product_v2:
 feature_v2:
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
     internal-label: Accounts
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
-  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
-    internal-label: Marketing Tools
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-    internal-label: Configuration
 subfeature_v2:
   - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
     internal-label: Tools and External Services
@@ -34,6 +28,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+autotag-review: '2026-11-11T17:29:20.956Z'
 ---
 # Percona Toolkit pt-query-digest
 

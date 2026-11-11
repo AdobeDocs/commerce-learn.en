@@ -17,10 +17,6 @@ product_v2:
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -36,6 +32,7 @@ topic_v2:
     internal-label: Metadata
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
+autotag-review: '2026-11-11T17:28:59.032Z'
 ---
 # Dependency injection example
 
