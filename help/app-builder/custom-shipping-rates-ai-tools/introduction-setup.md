@@ -1,6 +1,6 @@
 ---
 title: Introduction and setup for AI-driven shipping rates
-description: Learn how to set up AI tools for creating custom shipping rates, including cloning the starter kit, reviewing project structures, and preparing your environment.
+description: Learn how to set up AI tools for custom shipping rates, clone the checkout starter kit, review project structures, and prepare your development environment.
 feature: Install
 topic: Development
 role: Developer
