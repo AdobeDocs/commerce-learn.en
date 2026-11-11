@@ -140,6 +140,16 @@ author: Russell A.
         + [Live Search for recommendations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
         + [Live Search full demonstration](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
         + [Integrate Commerce with AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+    + B2B for Adobe Commerce {#b2b}
+        + [Manage Company Accounts](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+        + [Manage Shared Catalogs](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+        + [Manage Company Credit](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+        + [Purchase Orders and Approvals](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+        + Quotes {#quotes}
+            + [Sales Representative initiates quote](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+            + [Quote validation from admin](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+            + [Quote line item discounts](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+            + [Quote line item notes](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -156,6 +166,10 @@ author: Russell A.
 + APIs and integration {#apis-and-integration}
     + Practical REST and GraphQL examples {#examples}
         + [Customers with REST](../apis-and-integration/examples/customer.md)
+        + B2B quotes {#b2b-quotes}
+            + [Sales Representative initiates quote REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+            + [Quote line item discount GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+            + [Quote line item notes REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
@@ -290,17 +304,3 @@ author: Russell A.
         + [Create a support ticket](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ B2B for Adobe Commerce {#b2b}
-    + [Manage Company Accounts](../b2b/company-accounts.md)
-    + [Manage Shared Catalogs](../b2b/shared-catalogs.md)
-    + [Manage Company Credit](../b2b/company-credit.md)
-    + [Purchase Orders and Approvals](../b2b/purchase-orders.md)
-    + Quote {#b2b-quote}
-        + [Sales Representative initiates quote](../b2b/sales-rep-initiates-quote.md)
-        + [Quote validation from admin](../b2b/quote-validation-admin-panel.md)
-        + [Sales Representative initiates quote REST API](../b2b/sales-rep-initiates-quote-api.md)
-        + [Quote line item discounts](../b2b/quote-line-item-discount.md)
-        + [Quote line item notes](../b2b/quote-line-item-notes.md)
-        + [Quote line item discount GraphQL](../b2b/quote-graphql-line-item-discount.md)
-        + [Quote line item discount REST API](../b2b/quote-rest-api-line-item-notes.md)

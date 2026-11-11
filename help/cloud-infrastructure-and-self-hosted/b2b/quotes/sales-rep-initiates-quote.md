@@ -1,21 +1,25 @@
 ---
-title: Using Adobe Commerce to show line item notes for a quote
-description: Learn how to add and view line item notes on a B2B quote in Adobe Commerce, enabling buyers and sellers to share item-level details during the quoting process.
+title: Sales Rep initiates the quote
+description: Learn how sales reps can initiate B2B quotes from the Adobe Commerce admin panel, filter by user and website, create drafts, and control quote visibility.
 doc-type: Technical Video
-duration: 209
-jira: KT-13799
+duration: 264
+jira: KT-13794
 last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner
-exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
-autotag-review: '2026-08-11T19:20:45.961Z'
-TQID: 'https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA'
+exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
+autotag-review: '2026-08-11T19:20:58.973Z'
+TQID: 'https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -24,8 +28,6 @@ feature_v2:
     internal-label: Quotes
   - id: e9004f3c-09ae-5d24-acd2-fa0987fdb66e
     internal-label: Companies
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-    internal-label: Accounts
 subfeature_v2:
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
@@ -43,9 +45,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# B2B Sales quote line item discount
+# Sales representative initiates the quote
 
-Learn how to use the line item notes for an Adobe Commerce B2B quote.
+Learn how the sales representative can initiate the quote from the admin panel, filter by user and website, draft quotes, quote visibility, and many more features.
+
+For the API workflow, see [Sales representative initiates a quote with REST](../../../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md).
 
 {{b2b-feature}}
 
@@ -53,10 +57,9 @@ Learn how to use the line item notes for an Adobe Commerce B2B quote.
 
 * Website managers
 * eCommerce merchandisers
-* Developers
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
