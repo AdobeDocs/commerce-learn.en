@@ -200,6 +200,12 @@ author: Russell A.
             + [App Builder orchestrator AI prompt](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
             + [Experience Cloud UI extension AI prompt](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
 
+    + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
+        + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+        + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+        + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+        + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -268,11 +274,6 @@ author: Russell A.
         + [Mutations](../graphql-rest/graphql-mutations.md)
         + [Schema](../graphql-rest/graphql-schema.md)
     + More App Builder tutorials and I/O Events {#adobe-developer-app-builder}
-        + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
-            + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-            + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-            + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-            + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
         + IO Events for Adobe Commerce {#io-events}
             + [Getting started IO Events](../io-events/getting-started-io-events.md)
             + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
