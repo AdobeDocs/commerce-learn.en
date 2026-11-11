@@ -1,6 +1,6 @@
 ---
 title: Split Payment POC AI Tools related pages
-description: Links to related pages in Extensiblilty - Adobe Developer App Builder - Use AI Tools to create split payment POC
+description: Links to the App Builder split payment proof-of-concept tutorials and reference resources.
 ---
 # Split Payment POC related links
 
