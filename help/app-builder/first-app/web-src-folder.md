@@ -1,6 +1,6 @@
 ---
 title: The web-src folder
-description: Learn about the web-src folder structure, its JavaScript files and nested folders, and how this folder supports the user interface in your App Builder sample application.
+description: Explore the App Builder web-src folder, its JavaScript files and nested folders, and how they support the user interface in the sample application.
 jira: KT-21683
 doc-type: Tutorial
 duration: 285

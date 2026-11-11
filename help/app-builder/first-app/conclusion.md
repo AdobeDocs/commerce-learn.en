@@ -1,6 +1,6 @@
 ---
 title: Conclusion
-description: Learn about additional Adobe Developer App Builder resources, documentation, and community options after completing your first App Builder application with Adobe Commerce.
+description: Find Adobe Developer App Builder resources, documentation, and community options after completing your first App Builder application for Adobe Commerce.
 jira: KT-21686
 doc-type: Tutorial
 duration: 100

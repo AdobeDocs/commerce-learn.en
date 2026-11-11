@@ -1,6 +1,6 @@
 ---
 title: Create your first App Builder app
-description: Learn about Adobe Developer App Builder with Adobe Commerce, including prerequisites, expectations, and reusable patterns for building your first out-of-process application.
+description: Build your first Adobe Developer App Builder application for Adobe Commerce, covering prerequisites, expectations, and reusable out-of-process patterns.
 jira: KT-21679
 doc-type: Tutorial
 duration: 197

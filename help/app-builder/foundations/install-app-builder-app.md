@@ -1,13 +1,13 @@
 ---
 title: Install App Builder Apps from Adobe Exchange
-description: Discover how to find, install, and validate Adobe Commerce App Builder apps from Adobe Exchange, including filtering, approval, environment setup, and installation verification.
+description: Learn to find, install, and validate Adobe Commerce App Builder apps from Adobe Exchange, including approvals, environment setup, and installation checks.
 feature: App Builder
 topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
 duration: 273
-last-substantial-update: 2025-08-29T00:00:00.000Z
+last-substantial-update: 2025-08-29
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
 TQID: https://experienceleague.adobe.com/s5NzZyNrLao2GX2PJkrQ9cxQhoOk64t-cRFVB9RXqEA

@@ -1,10 +1,10 @@
 ---
 title: Extensibility framework and commerce eventing
-description: Learn about the Adobe Developer App Builder extensibility framework, its key capabilities, and how commerce eventing enables real-time integrations with Adobe Commerce.
+description: Explore the Adobe Developer App Builder extensibility framework, its capabilities, and how Commerce eventing supports real-time Adobe Commerce integrations.
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

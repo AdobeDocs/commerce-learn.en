@@ -1,6 +1,6 @@
 ---
 title: The app.config.yaml file
-description: Learn how the app.config.yaml file determines application configuration and how its definitions link to JavaScript files in your Adobe Developer App Builder sample application.
+description: Learn how app.config.yaml defines your Adobe Developer App Builder application and how its configuration connects to JavaScript files in the sample app.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
