@@ -41,7 +41,7 @@ topic_v2:
 ---
 # Create Cart Price Rules
 
-Cart price rules apply discounts to items in the shopping cart based on conditions you set. The discount can apply automatically when conditions are met, or when the customer enters a valid coupon code. The discount appears in the cart under the subtotal. You can turn a rule on or off for a season or promotion by changing its status and date range.
+Cart price rules apply discounts to items in the shopping cart based on conditions you set. Discounts apply when conditions are met or a customer enters a valid coupon code. The discount appears in the cart under the subtotal. Turn a rule on or off for a season or promotion by changing its status and date range.
 
 ## Who is this video for?
 
@@ -57,7 +57,7 @@ Cart price rules apply discounts to items in the shopping cart based on conditio
 
 ## Pricing display issues
 
-In some cases, each line item must show the discount applied, but displayed values may not match exactly. This happens when a cart price rule applies one discount across multiple products and the split does not divide evenly to two decimal places.
+Displayed line-item discounts sometimes differ because of rounding. This difference occurs when a cart price rule applies one discount across multiple products and the split produces amounts with more than two decimal places.
 
 >[!BEGINSHADEBOX]
 
@@ -98,9 +98,9 @@ Product 2 = 1.99
 The total discount of the two products now when summed together matches the actual discount provided to a customer.
 >[!ENDSHADEBOX]
 
-Here is a screenshot as it would show in the admin for an order that has this scenario:
+The Admin screenshot below shows the line-item discounts for this example:
 
-![Admin view showing ordered items with different values](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Admin view showing ordered items with different values](../../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Other potential solutions and why they were not used
 
@@ -126,7 +126,7 @@ however if we round up, it would show that $4.00 was given, and that is incorrec
 
 >[!ENDSHADEBOX]
 
-Similar issue if the third decimal was dropped for all items, it would show too little discount provided.
+Dropping the third decimal for all items produces a total discount that is too small.
 
 >[!BEGINSHADEBOX]
 
@@ -150,5 +150,5 @@ however if we drop the third decimal, it would show that $3.98 was given, and th
 
 ## Additional resources
 
-* [Create a Cart Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [Coupon Codes - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}
+* [Create a Cart Price Rule - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Coupon Codes - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

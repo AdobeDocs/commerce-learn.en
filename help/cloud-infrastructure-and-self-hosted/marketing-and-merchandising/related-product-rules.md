@@ -1,7 +1,8 @@
 ---
 title: Manage Related Product Rules
 description: Learn how to present a targeted selection of products to store customers as related products, up-sells, and cross-sells.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10648
 duration: 160
 audience: all
 activity: use

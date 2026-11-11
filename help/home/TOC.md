@@ -131,11 +131,19 @@ author: Russell A.
         + [Use Content Templates](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
         + [Content Staging](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
         + [Manage the Media Gallery](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+    + Marketing and merchandising {#marketing-and-merchandising}
+        + [Create Catalog Price Rules](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+        + [Create Cart Price Rules](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+        + [Manage Related Product Rules](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+        + [Set Up Product Recommendations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+        + [Introduction to Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+        + [Live Search for recommendations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+        + [Live Search full demonstration](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+        + [Integrate Commerce with AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)
-        + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
     + Back office integration starter kit {#back-office-integration-starter-kit}
         + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
@@ -283,14 +291,6 @@ author: Russell A.
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Marketing Tools {#marketing}
-    + [Create Catalog Price Rules](../site-management/catalog-price-rules.md)
-    + [Create Cart Price Rules](../site-management/cart-price-rules.md)
-    + [Manage Related Product Rules](../site-management/related-product-rules.md)
-    + [Set Up Product Recommendations](../site-management/product-recommendations.md)
-    + [Introduction to Live Search](../site-management/live-search.md)
-    + [Live Search for recommendations](../site-management/live-search-recommendations.md) 
-    + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
 + B2B for Adobe Commerce {#b2b}
     + [Manage Company Accounts](../b2b/company-accounts.md)
     + [Manage Shared Catalogs](../b2b/shared-catalogs.md)

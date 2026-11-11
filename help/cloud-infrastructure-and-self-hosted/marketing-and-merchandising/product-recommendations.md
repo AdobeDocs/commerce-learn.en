@@ -1,11 +1,11 @@
 ---
 title: Set Up Product Recommendations
 description: Learn how to use product recommendations on your Adobe Commerce store.
-doc-type: feature video
+doc-type: Feature Video
 duration: 395
 audience: all
 activity: use
-kt: 13790
+jira: KT-13790
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System
 topic: Commerce, Administration

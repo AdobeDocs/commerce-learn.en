@@ -1,7 +1,7 @@
 ---
 title: Create a Catalog Price Rule
 description: Learn how to create catalog price rules that offer products to buyers at a discounted price based on a set of defined conditions.
-doc-type: feature video
+doc-type: Feature Video
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00.000Z
