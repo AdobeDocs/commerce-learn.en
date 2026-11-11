@@ -1,6 +1,6 @@
 ---
 title: The .env file
-description: Learn how to generate and configure the .env file for your Adobe Developer App Builder application, including managing secrets and preventing accidental commits to source control.
+description: Learn to generate and configure the .env file for your App Builder application, manage secrets, and prevent accidental commits to source control.
 jira: KT-21681
 doc-type: Tutorial
 duration: 177

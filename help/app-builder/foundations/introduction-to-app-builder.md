@@ -1,10 +1,10 @@
 ---
 title: Out-of-process extensibility for Adobe Commerce
-description: Learn about Adobe Developer App Builder and how out-of-process extensibility lets you build secure, scalable Commerce extensions without in-process compatibility concerns.
+description: Learn how Adobe Developer App Builder enables secure, scalable out-of-process Commerce extensions while reducing in-process compatibility concerns.
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

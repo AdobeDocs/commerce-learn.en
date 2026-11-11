@@ -33,7 +33,7 @@ autotag-review: '2026-11-11T17:28:59.029Z'
 
 >[!NOTE]
 >
->These tutorials cover existing in-process development and upgrades for Adobe Commerce on cloud infrastructure and self-hosted deployments. For new feature development or suitable customization migration, start with [Introduction to App Builder](../../app-builder/introduction-to-app-builder.md).
+>These tutorials cover existing in-process development and upgrades for Adobe Commerce on cloud infrastructure and self-hosted deployments. For new feature development or suitable customization migration, start with [Introduction to App Builder](../../app-builder/foundations/introduction-to-app-builder.md).
 
 A module is a structural element of [!DNL Commerce]—modules form the foundation of the system. You typically start a customization by building a module.
 

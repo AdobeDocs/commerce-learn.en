@@ -169,6 +169,23 @@ author: Russell A.
             + [Bulk Packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
             + [Separate packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
             + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+    + Foundations {#foundations}
+        + [Introduction to App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+        + [Extensibility framework and Commerce eventing](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+        + [Install App Builder apps from Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+    + Build your first application {#first-app}
+        + [Overview](../app-builder/first-app/overview.md)
+        + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
+        + [Description and usage of the app.config.yaml file](../app-builder/first-app/app-config-yaml-file.md)   
+        + [Learn about the actions folder](../app-builder/first-app/actions-folder.md)
+        + [Learn about the test folder](../app-builder/first-app/test-folder.md)
+        + [Discover the purpose of the web-src folder](../app-builder/first-app/web-src-folder.md)
+        + [Testing locally](../app-builder/first-app/testing-locally.md)
+        + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+        + [Conclusion](../app-builder/first-app/conclusion.md)
+        + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
@@ -236,10 +253,7 @@ author: Russell A.
         + [Queries](../graphql-rest/graphql-queries.md)
         + [Mutations](../graphql-rest/graphql-mutations.md)
         + [Schema](../graphql-rest/graphql-schema.md)
-    + Adobe Developer App Builder {#adobe-developer-app-builder}
-        + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
-        + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
-        + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+    + More App Builder tutorials and I/O Events {#adobe-developer-app-builder}
         + Use AI tools to create split payment POC {#create-a-split-payment-poc}
             + [App Builder and AI tools](../app-builder/split-payment-ai-tools/overview.md)
             + [Full demo](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -258,17 +272,6 @@ author: Russell A.
             + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
             + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
             + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-        + Build your first App builder App {#first-app}
-            + [Overview](../app-builder/first-app/overview.md)
-            + [Generate and configure the .env file](../app-builder/first-app/env-file.md)    
-            + [Description and usage of the app.config.yaml file](../app-builder/first-app/app-config-yaml-file.md)   
-            + [Learn about the actions folder](../app-builder/first-app/actions-folder.md)
-            + [Learn about the test folder](../app-builder/first-app/test-folder.md)
-            + [Discover the purpose of the web-src folder](../app-builder/first-app/web-src-folder.md)
-            + [Testing locally](../app-builder/first-app/testing-locally.md)
-            + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
-            + [Conclusion](../app-builder/first-app/conclusion.md)
-            + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
         + IO Events for Adobe Commerce {#io-events}
             + [Getting started IO Events](../io-events/getting-started-io-events.md)
             + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)

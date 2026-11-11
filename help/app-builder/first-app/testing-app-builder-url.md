@@ -1,6 +1,6 @@
 ---
 title: Testing using the Adobe Developer App Builder URL
-description: Learn how to deploy and test your first Adobe Developer App Builder application using the project URL, including where to find the URL after a successful deployment.
+description: Learn to deploy and test your Adobe Developer App Builder application using its project URL, including where to find the URL after deployment.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
