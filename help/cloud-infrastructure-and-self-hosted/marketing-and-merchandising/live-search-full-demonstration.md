@@ -1,8 +1,8 @@
 ---
 title: Live Search full demonstration
 description: Watch a full demonstration on the features and flexibility of Live Search
-kt: 13168
-doc-type: tutorial
+jira: KT-13168
+doc-type: Tutorial
 duration: 935
 audience: all
 last-substantial-update: 2023-04-27T00:00:00.000Z

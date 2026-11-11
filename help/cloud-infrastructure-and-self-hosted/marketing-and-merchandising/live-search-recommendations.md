@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Live Search] for recommendations'
 description: Learn how to add [!DNL Live Search] for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.
-doc-type: feature video
+doc-type: Feature Video
 duration: 1897
 audience: all
 activity: use
-kt: 13792
+jira: KT-13792
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
@@ -74,7 +74,7 @@ topic_v2:
 
 ## Additional resources
 
-* [Introduction to [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+* [Introduction to [!DNL Live Search]](live-search.md)
 * [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 * [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
 * [Introduction to Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
