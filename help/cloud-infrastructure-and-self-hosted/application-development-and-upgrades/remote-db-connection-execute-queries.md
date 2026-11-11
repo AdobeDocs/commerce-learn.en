@@ -272,7 +272,7 @@ Now that you have the right information, enter these values in the Cloud Console
 
 You can find the SSH hostname and username from the cloud credentials in the Cloud Console.
 
-![Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![Adobe Commerce Cloud Console](/help/backend-development/assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 Here is one example: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 The SSH hostname is everything after the @ sign: `ssh.us-4.magento.cloud` in this example.
@@ -326,9 +326,9 @@ To access the MariaDB database directly, use SSH to log in to the remote Cloud e
 
 Then use the configuration values in your MySQL GUI. The following example uses MySQL Workbench, but any app that supports MySQL connections will have similar fields.
 
-![MySQL Workbench connection example](./assets/mysql-workbench-after-connecting.png "MySQL Workbench connection example")
+![MySQL Workbench connection example](/help/backend-development/assets/mysql-workbench-after-connecting.png "MySQL Workbench connection example")
 
-![TablePlus connection example](./assets/tablesPlus-db-connection.png "TablePlus connection example")
+![TablePlus connection example](/help/backend-development/assets/tablesPlus-db-connection.png "TablePlus connection example")
 
 After you configure the connection, you can use a MySQL GUI to run queries on a remote Adobe Commerce Cloud project.
  
