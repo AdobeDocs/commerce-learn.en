@@ -241,6 +241,16 @@ author: Russell A.
         + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
         + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
+    + Events and webhooks {#events-and-webhooks}
+        + IO Events for Adobe Commerce {#io-events}
+            + [Getting started IO Events](../io-events/getting-started-io-events.md)
+            + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
+            + [Adobe Commerce 2.4.6 Installation](../io-events/2-4-6-installation.md)
+            + [Create an App Builder project](../io-events/create-app-builder-project.md)       
+            + [Configure Adobe Commerce](../io-events/configure-commerce.md)
+            + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
+            + [Adobe Commerce conditional events](../io-events/conditional-events.md)
+
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
         + [Overview](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -282,15 +292,6 @@ author: Russell A.
                 + [Peregrine](../pwa/introduction/6-peregrine.md)
             + [PWA Docker Development](../pwa/pwa-docker-development.md)
             + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-    + More App Builder tutorials and I/O Events {#adobe-developer-app-builder}
-        + IO Events for Adobe Commerce {#io-events}
-            + [Getting started IO Events](../io-events/getting-started-io-events.md)
-            + [Adobe Commerce 2.4.5 Installation](../io-events/2-4-5-installation.md)
-            + [Adobe Commerce 2.4.6 Installation](../io-events/2-4-6-installation.md)
-            + [Create an App Builder project](../io-events/create-app-builder-project.md)       
-            + [Configure Adobe Commerce](../io-events/configure-commerce.md)
-            + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
-            + [Adobe Commerce conditional events](../io-events/conditional-events.md)
 
 + Monitoring, analytics, and support {#monitoring-analytics-support}
     + Observability {#observability}
