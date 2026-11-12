@@ -72,4 +72,4 @@ Roles that benefit from reading this transcript include:
 
 ## Additional Documentation
 
-* [User Account](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)
+* [User Account](https://experienceleague.adobe.com/en/tools/commerce-storefront/dropins/user-account)

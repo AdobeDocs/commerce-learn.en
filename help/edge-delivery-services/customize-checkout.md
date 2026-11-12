@@ -62,4 +62,4 @@ Learn how to customize the Edge Delivery Services cart drop in checkout experien
 
 ## Additional Documentation
 
-* [Multi-step checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Multi-step checkout](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/multi-step)

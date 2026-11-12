@@ -1,8 +1,8 @@
 ---
 title: Set up Venia for PWA development
 description: Learn how to set up the Venia storefront for your PWA development project.
-kt: 5565
-doc-type: video
+jira: KT-5565
+doc-type: Technical Video
 duration: 212
 activity: use
 last-substantial-update: 2023-5-28
