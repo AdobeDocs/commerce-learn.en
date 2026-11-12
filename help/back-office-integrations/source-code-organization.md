@@ -1,9 +1,9 @@
 ---
 title: Source code organization in the Commerce starter kit
-description: Learn about source code organization in the Commerce Integration starter kit, including key folders like actions and scripts, automation scripts, and event handling.
+description: Learn about source code organization in the Commerce Integration starter kit, including actions and scripts folders, automation scripts, and event handling.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer

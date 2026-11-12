@@ -3,7 +3,7 @@ title: Commerce Integration Starter Kit best practices
 description: Learn best practices for Adobe Commerce integrations using the starter kit, from GitHub setup and onboarding through deployment, validation, and going live.
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer

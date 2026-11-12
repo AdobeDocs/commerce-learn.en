@@ -211,13 +211,6 @@ author: Russell A.
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
         + [Data Connection](../capabilities/data-connection.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
-    + Back office integration starter kit {#back-office-integration-starter-kit}
-        + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
-        + [Integrations](../back-office-integrations/integrations.md)
-        + [Source Code Organization](../back-office-integrations/source-code-organization.md)
-        + [Last mile integration](../back-office-integrations/last-mile-integration.md)
-        + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
-        + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 
 + APIs and integration {#apis-and-integration}
     + GraphQL foundations {#graphql-rest}
@@ -250,6 +243,14 @@ author: Russell A.
             + [Configure Adobe Commerce](../io-events/configure-commerce.md)
             + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
             + [Adobe Commerce conditional events](../io-events/conditional-events.md)
+
+    + Back office integration starter kit {#back-office-integration-starter-kit}
+        + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
+        + [Integrations](../back-office-integrations/integrations.md)
+        + [Source Code Organization](../back-office-integrations/source-code-organization.md)
+        + [Last mile integration](../back-office-integrations/last-mile-integration.md)
+        + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
+        + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}

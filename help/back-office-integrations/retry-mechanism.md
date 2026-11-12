@@ -3,7 +3,7 @@ title: Use the Native Functionality of a Retry Mechanism
 description: Learn how to use Adobe I/O Events' retry mechanism to build resilient applications, covering retry conditions, back-off strategies, and visual indicators.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -55,5 +55,5 @@ Learn how the retry mechanism functions within the context of the 'consumer' run
 
 ## Related documentation
 
-* [Webhook unable to handle an event](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook down and marked as unstable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook unable to handle an event](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook down and marked as unstable](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)

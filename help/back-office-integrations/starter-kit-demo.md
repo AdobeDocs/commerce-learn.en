@@ -3,7 +3,7 @@ title: Adobe Commerce starter kit for back office integrations
 description: Learn about the Adobe Commerce starter kit for back office integrations and discover how it simplifies connecting Commerce to external back-end systems.
 doc-type: Technical Video
 duration: 502
-last-substantial-update: 2024-04-19T00:00:00.000Z
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
