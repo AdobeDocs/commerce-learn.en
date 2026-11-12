@@ -3,7 +3,7 @@ title: Last-mile integration in the Commerce starter kit
 description: Learn about last-mile integration in Commerce using extensibility hooks for validation, transformation, preprocessing, sending, and post-processing.
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
