@@ -209,7 +209,6 @@ author: Russell A.
 + Getting Started {#getting-started}
     + Commerce Capabilities {#capabilities} 
         + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
-        + [Data Connection](../capabilities/data-connection.md)
         + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
 
 + APIs and integration {#apis-and-integration}
@@ -251,6 +250,9 @@ author: Russell A.
         + [Last mile integration](../back-office-integrations/last-mile-integration.md)
         + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
+
+    + Data integrations {#data-integrations}
+        + [Data Connection](../capabilities/data-connection.md)
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
