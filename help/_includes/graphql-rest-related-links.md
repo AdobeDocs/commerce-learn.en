@@ -6,7 +6,7 @@ description: Links to related pages in GraphQL REST section
 
 ## Useful GraphQL resources
 
-* [GraphQL basics](../graphql-rest/intro-graphql.md)
-* [Queries](../graphql-rest/graphql-queries.md)
-* [Mutations](../graphql-rest/graphql-mutations.md)
-* [Schema](../graphql-rest/graphql-schema.md)
+* [GraphQL basics](/help/graphql-rest/intro-graphql.md)
+* [Queries](/help/graphql-rest/graphql-queries.md)
+* [Mutations](/help/graphql-rest/graphql-mutations.md)
+* [Schema](/help/graphql-rest/graphql-schema.md)

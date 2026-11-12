@@ -220,12 +220,26 @@ author: Russell A.
         + [Retry mechanism](../back-office-integrations/retry-mechanism.md)
 
 + APIs and integration {#apis-and-integration}
+    + GraphQL foundations {#graphql-rest}
+        + [GraphQL basics](../graphql-rest/intro-graphql.md)
+        + [Queries](../graphql-rest/graphql-queries.md)
+        + [Mutations](../graphql-rest/graphql-mutations.md)
+        + [Schema](../graphql-rest/graphql-schema.md)
     + Practical REST and GraphQL examples {#examples}
         + [Customers with REST](../apis-and-integration/examples/customer.md)
         + B2B quotes {#b2b-quotes}
             + [Sales Representative initiates quote REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
             + [Quote line item discount GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
             + [Quote line item notes REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+    + API Mesh {#api-mesh}
+        + [API Mesh starter kit using GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+        + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
+        + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
+        + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
+        + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
+        + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
+        + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
@@ -268,11 +282,6 @@ author: Russell A.
                 + [Peregrine](../pwa/introduction/6-peregrine.md)
             + [PWA Docker Development](../pwa/pwa-docker-development.md)
             + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
-    + GraphQL and REST {#graphql-rest}
-        + [GraphQL basics](../graphql-rest/intro-graphql.md)
-        + [Queries](../graphql-rest/graphql-queries.md)
-        + [Mutations](../graphql-rest/graphql-mutations.md)
-        + [Schema](../graphql-rest/graphql-schema.md)
     + More App Builder tutorials and I/O Events {#adobe-developer-app-builder}
         + IO Events for Adobe Commerce {#io-events}
             + [Getting started IO Events](../io-events/getting-started-io-events.md)
@@ -282,14 +291,6 @@ author: Russell A.
             + [Configure Adobe Commerce](../io-events/configure-commerce.md)
             + [Adobe Commerce module development](../io-events/commerce-module-development.md)  
             + [Adobe Commerce conditional events](../io-events/conditional-events.md)
-    + API Mesh {#api-mesh}
-        + [API Mesh starter kit using GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
-        + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
-        + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
-        + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
-        + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
-        + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
-        + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
 + Monitoring, analytics, and support {#monitoring-analytics-support}
     + Observability {#observability}

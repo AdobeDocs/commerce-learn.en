@@ -3,11 +3,11 @@ title: Schema language with GraphQL
 description: Learn about the schema involved with GraphQL. Read a description of the schema, along with some interesting patterns and ways to read the schema.
 landing-page-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
-kt: 13939
-doc-type: video
+jira: KT-13939
+doc-type: Tutorial
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
