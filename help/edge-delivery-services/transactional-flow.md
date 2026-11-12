@@ -63,4 +63,4 @@ Learn how to use Adobe Commerce cart drop-in and adjust the transactional flow t
 
 ## Additional Documentation
 
-* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configure Cart Summary](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/configure-cart-summary)

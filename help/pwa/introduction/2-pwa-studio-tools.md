@@ -1,8 +1,8 @@
 ---
 title: PWA Studio for developers - PWA tools
 description: Learn about PWA Studio, and the ease of use for PWA Studio tools.
-kt: 5645
-doc-type: video
+jira: KT-5645
+doc-type: Technical Video
 duration: 355
 activity: use
 last-substantial-update: 2023-5-28

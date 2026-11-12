@@ -264,8 +264,19 @@ author: Russell A.
         + [Migrate existing code](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
         + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
         + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-    + Front-end Luma Development {#frontend-development}
-        + PaaS/SaaS Page Builder for Developers {#page-builder}
+
++ Storefront development {#storefront-development}
+    + Commerce storefront on Edge Delivery Services {#edge-delivery-services}
+        + Getting Started {#getting-started}
+            + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
+            + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
+            + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
+            + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [Customize checkout](../edge-delivery-services/customize-checkout.md)
+            + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
+            + [Shopper experience](../edge-delivery-services/shopper-experience.md)
+    + Luma and PHP-based storefront development {#frontend-development}
+        + Page Builder for developers {#page-builder}
             + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
             + [2 - Configuration and content](../frontend-development/page-builder/2-config-create-content.md)
             + [3 - Themes](../frontend-development/page-builder/3-themes.md)
@@ -274,27 +285,18 @@ author: Russell A.
             + [6 - Custom content types](../frontend-development/page-builder/6-custom-content-types.md)
         + [Add a JavaScript module](../frontend-development/add-javascript-module.md)
         + [Create a page](../frontend-development/create-page.md)
-        + Edge Delivery Services {#edge-delivery-services}
-            + Getting Started {#getting-started}
-                + [Changing transactional flow](../edge-delivery-services/transactional-flow.md)
-                + [Use product attributes for cart items](../edge-delivery-services/product-attributes-cart-items.md)
-                + [Update the order summary in checkout](../edge-delivery-services/update-order-summary.md)
-                + [Adding BOPIS to checkout](../edge-delivery-services/add-bopis-to-checkout.md)
-                + [Customize checkout](../edge-delivery-services/customize-checkout.md)
-                + [Customize an address layout](../edge-delivery-services/customize-address-new-account-link.md)
-                + [Shopper experience](../edge-delivery-services/shopper-experience.md)
-        + Headless Architecture {#headless-architecture}    
-            + Introduction to headless {#introduction-to-headless}
-                + [Headless Architecture - Session 1](../headless/session-1.md) 
-            + Introduction to PWA Studio {#introduction}
-                + [Overview](../pwa/introduction/1-overview.md)
-                + [PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
-                + [Launch](../pwa/introduction/3-launch.md)
-                + [UPWARD](../pwa/introduction/4-upward.md)
-                + [Getting started](../pwa/introduction/5-getting-started.md)
-                + [Peregrine](../pwa/introduction/6-peregrine.md)
-            + [PWA Docker Development](../pwa/pwa-docker-development.md)
-            + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
+    + Headless architecture and PWA Studio {#headless-architecture}
+        + Introduction to headless {#introduction-to-headless}
+            + [Headless Architecture - Session 1](../headless/session-1.md)
+        + Introduction to PWA Studio {#introduction}
+            + [Overview](../pwa/introduction/1-overview.md)
+            + [PWA Studio tools](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [UPWARD](../pwa/introduction/4-upward.md)
+            + [Getting started](../pwa/introduction/5-getting-started.md)
+            + [Peregrine](../pwa/introduction/6-peregrine.md)
+        + [PWA Docker Development](../pwa/pwa-docker-development.md)
+        + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
 
 + Monitoring, analytics, and support {#monitoring-analytics-support}
     + Observability {#observability}

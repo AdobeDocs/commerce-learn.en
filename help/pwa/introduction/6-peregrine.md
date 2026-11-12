@@ -1,8 +1,8 @@
 ---
 title: PWA Studio for developers - Peregrine
 description: Learn about Peregrine, including the Peregrine library. Understand the motivation behind Peregrine​ the differences between Peregrine hooks and talons.
-kt: 5649
-doc-type: video
+jira: KT-5649
+doc-type: Technical Video
 duration: 243
 activity: use
 last-substantial-update: 2023-5-28

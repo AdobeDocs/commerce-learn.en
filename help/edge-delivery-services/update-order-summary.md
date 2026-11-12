@@ -65,4 +65,4 @@ Learn how to use Adobe Commerce cart drop-in and adjust the cart experience. The
 
 ## Additional Documentation
 
-* [Order Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Order Summary](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/order-summary-lines)
