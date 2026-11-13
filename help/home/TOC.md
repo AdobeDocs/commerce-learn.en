@@ -9,6 +9,11 @@ author: Russell A.
 # Adobe Commerce Videos and Tutorials {#tutorials}
 
 + [[!DNL Commerce] Tutorials](overview.md)
++ Getting Started {#getting-started}
+    + Commerce Capabilities {#capabilities} 
+        + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
+        + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
     + [Overview](../commerce-as-a-cloud-service/overview.md)
     + [Architecture](../commerce-as-a-cloud-service/architecture.md)
@@ -169,6 +174,8 @@ author: Russell A.
             + [Bulk Packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
             + [Separate packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
             + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+
 + App Builder {#app-builder}
     + Foundations {#foundations}
         + [Introduction to App Builder](../app-builder/foundations/introduction-to-app-builder.md)
@@ -205,11 +212,6 @@ author: Russell A.
         + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
         + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
         + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ Getting Started {#getting-started}
-    + Commerce Capabilities {#capabilities} 
-        + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
-        + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
 
 + APIs and integration {#apis-and-integration}
     + GraphQL foundations {#graphql-rest}
@@ -291,6 +293,8 @@ author: Russell A.
         + [PWA Docker Development](../pwa/pwa-docker-development.md)
         + [Set up Venia for development](../pwa/set-up-venia-for-dev.md)
 
++ [AI and agentic commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + Monitoring, analytics, and support {#monitoring-analytics-support}
     + Observability {#observability}
         + [Observability overview](../monitoring-analytics-support/observability/overview.md)
@@ -309,3 +313,5 @@ author: Russell A.
         + [Create a support ticket](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
         + [Search, review, comment on, and escalate support tickets](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
         + [Manage support ticket watchers and status](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [Webinars and events](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
