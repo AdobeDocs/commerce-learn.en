@@ -3,7 +3,7 @@ title: Create a product attribute
 description: Learn how to create a product attribute programmatically in Adobe Commerce, including dropdown-type attributes with custom backend, frontend, and source models.
 doc-type: Tutorial
 duration: 491
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User

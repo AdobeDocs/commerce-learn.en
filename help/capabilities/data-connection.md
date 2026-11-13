@@ -5,7 +5,7 @@ jira: KT-14364
 doc-type: Feature Video
 duration: 783
 audience: all
-last-substantial-update: 2023-11-08T00:00:00.000Z
+last-substantial-update: 2023-11-08
 feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User

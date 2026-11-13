@@ -3,7 +3,7 @@ title: Learn how MySQL query caching works
 description: Learn how MySQL query caching works, how to detect caching issues by finding "waiting for query cache lock" in slow query logs, and configuration tips.
 doc-type: Technical Video
 duration: 444
-last-substantial-update: 2023-07-27T00:00:00.000Z
+last-substantial-update: 2023-07-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Developer

@@ -4,7 +4,7 @@ description: Create and register a module in Adobe Commerce, run setup, and add 
 jira: KT-5614
 doc-type: Technical Video
 duration: 958
-last-substantial-update: 2026-03-23T00:00:00.000Z
+last-substantial-update: 2026-03-23
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
