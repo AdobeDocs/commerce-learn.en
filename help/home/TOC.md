@@ -256,14 +256,7 @@ author: Russell A.
 
 + Extensibility {#extensibility}
     + Commerce Developer Agent {#commerce-developer-agent}
-        + [Overview](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
-        + [Blueprint and develop stages](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
-        + [Connect integrations](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
-        + [Deploy, associate, install](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
-        + [Configure and test](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
-        + [Migrate existing code](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
-        + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
-        + [App Builder dry run](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
+        + [Developer Agent learning path](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Storefront development {#storefront-development}
     + Commerce storefront on Edge Delivery Services {#edge-delivery-services}
