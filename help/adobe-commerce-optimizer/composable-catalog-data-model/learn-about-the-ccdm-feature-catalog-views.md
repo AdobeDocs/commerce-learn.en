@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 208
-last-substantial-update: 2026-05-15T00:00:00.000Z
+last-substantial-update: 2026-05-15
 jira: KT-21132
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047

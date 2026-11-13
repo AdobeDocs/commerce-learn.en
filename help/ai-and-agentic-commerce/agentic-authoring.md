@@ -4,7 +4,7 @@ description: Learn how Experience Workspace uses an agentic AI assistant to buil
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21574
 duration: 376
 product_v2:
