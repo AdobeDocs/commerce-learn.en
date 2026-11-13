@@ -51,6 +51,16 @@ Adobe Commerce Optimizer enhances existing commerce platforms by providing a hig
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
+## Continue learning
+
+* [Compare Adobe Commerce options](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Create your first instance of Adobe Commerce Optimizer](./create-first-instance.md)
+* [Manage Adobe Commerce Optimizer instances](./managing-instances.md)
+* [Ingest sample data](./ingest-sample-data.md)
+* [Run your first GraphQL query](./first-query.md)
+* [Salesforce Commerce Cloud starter kit](./sfcc-starter-kit/overview.md)
+* [Composable catalog data model](./composable-catalog-data-model/why-ccdm-exists.md)
+
 ## Additional resources
 
 [[!DNL Adobe Commerce Optimizer] Guide](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
