@@ -53,7 +53,7 @@ In the first of a four-part webinar series, Adobe Commerce introduces two ground
 
 * [Compare Adobe Commerce options](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [Adobe Commerce as a Cloud Service overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Adobe Commerce Optimizer overview](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+* [Adobe Commerce Optimizer overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
 
 ## Additional Videos in this series
 

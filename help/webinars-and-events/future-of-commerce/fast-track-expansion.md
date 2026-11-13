@@ -58,7 +58,7 @@ Discover how Adobe Commerce empowers businesses to fast-track their digital expa
 
 ## Related tutorials
 
-* [Adobe Commerce Optimizer: catalog views](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce Optimizer: catalog views](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
 * [Adobe Commerce as a Cloud Service: catalog management and merchandising](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Additional Videos in this series
