@@ -7,7 +7,7 @@ jira: KT-15984
 doc-type: Technical Video
 duration: 162
 audience: all
-last-substantial-update: 2024-08-14T00:00:00.000Z
+last-substantial-update: 2024-08-14
 feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 old-role: Architect, Developer

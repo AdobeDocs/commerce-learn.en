@@ -2,7 +2,7 @@
 title: Create Cart Price Rules
 description: Learn how to create cart price rules that apply discounts in the shopping cart when conditions you define are met.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User

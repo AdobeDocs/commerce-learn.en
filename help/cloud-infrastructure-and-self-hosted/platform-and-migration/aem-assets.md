@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 223
-last-substantial-update: 2024-12-09T00:00:00.000Z
+last-substantial-update: 2024-12-09
 jira: KT-16203
 exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
 TQID: https://experienceleague.adobe.com/KP8R5-oK3I1HvfQisGjFfBFeSL5i3BuuW-SnYWwH1w0

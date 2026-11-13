@@ -6,7 +6,7 @@ duration: 309
 audience: all
 activity: use
 jira: KT-13907
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
