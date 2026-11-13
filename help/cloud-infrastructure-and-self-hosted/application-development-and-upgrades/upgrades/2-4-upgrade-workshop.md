@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 4306
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade
 topic: Commerce, Administration
 old-role: Architect, Developer

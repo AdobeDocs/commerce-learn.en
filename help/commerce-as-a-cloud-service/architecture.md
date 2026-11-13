@@ -4,7 +4,7 @@ description: Discover Adobe Commerce as a cloud service architecture and key fea
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30T00:00:00.000Z
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer

@@ -4,7 +4,7 @@ description: Learn how to set up Adobe Commerce using the Bulk Packages GRA patt
 jira: KT-16726
 doc-type: Tutorial
 duration: 296
-last-substantial-update: 2025-01-06T00:00:00.000Z
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributed by Tony Evers"

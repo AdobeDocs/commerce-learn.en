@@ -4,7 +4,7 @@ description: Learn how to get started with Adobe Commerce API Mesh using a GitHu
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2025-06-17T00:00:00.000Z
+last-substantial-update: 2025-06-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer

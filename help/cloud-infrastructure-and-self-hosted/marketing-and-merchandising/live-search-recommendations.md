@@ -6,7 +6,7 @@ duration: 1897
 audience: all
 activity: use
 jira: KT-13792
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User

@@ -6,7 +6,7 @@ jira: KT-10642
 duration: 182
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Native Luma Frontend Development
 topic: Commerce, Administration, Content Management
 role: Admin, User

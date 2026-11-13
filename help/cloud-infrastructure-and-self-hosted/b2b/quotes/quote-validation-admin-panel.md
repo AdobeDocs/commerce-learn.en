@@ -4,7 +4,7 @@ description: Learn how Adobe Commerce enforces quote validation in the admin pan
 doc-type: Technical Video
 duration: 330
 jira: KT-13470
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: User

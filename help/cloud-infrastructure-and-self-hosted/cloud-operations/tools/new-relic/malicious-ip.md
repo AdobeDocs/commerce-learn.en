@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 153
 audience: all
 activity: use
-last-substantial-update: 2022-12-9
+last-substantial-update: 2022-12-09
 feature: Tools and External Services, Security
 topic: Security
 old-role: Architect, Developer

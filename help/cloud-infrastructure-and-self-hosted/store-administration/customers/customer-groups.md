@@ -4,7 +4,7 @@ description: Learn about Adobe Commerce customer groups and how they control pri
 jira: KT-19057
 doc-type: Feature Video
 duration: 97
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Developer, User

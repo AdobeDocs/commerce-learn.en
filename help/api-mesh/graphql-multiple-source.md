@@ -4,7 +4,7 @@ description: Discover how to use multiple sources for API Mesh on Adobe Commerce
 jira: KT-21677
 doc-type: Tutorial
 duration: 381
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

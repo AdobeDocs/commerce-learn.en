@@ -5,7 +5,7 @@ jira: KT-13168
 doc-type: Tutorial
 duration: 935
 audience: all
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
