@@ -73,4 +73,4 @@ Discover how Adobe Commerce is revolutionizing eCommerce with cutting-edge AI so
 
 * [Commerce MCP overview](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 * [Commerce Developer Agent learning path](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: composable catalog data model](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Adobe Commerce Optimizer: composable catalog data model](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
