@@ -4,7 +4,7 @@ description: Learn about Adobe Commerce as a Cloud Service. A Flexible, scalable
 jira: KT-17219
 doc-type: Technical Video
 duration: 231
-last-substantial-update: 2025-02-03T00:00:00.000Z
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer

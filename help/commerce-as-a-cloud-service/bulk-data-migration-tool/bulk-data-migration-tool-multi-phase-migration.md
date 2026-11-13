@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047

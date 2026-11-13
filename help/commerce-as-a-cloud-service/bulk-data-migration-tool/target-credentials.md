@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 226
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22107
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047

@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 496
-last-substantial-update: 2024-05-09T00:00:00.000Z
+last-substantial-update: 2024-05-09
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
 TQID: 'https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24'

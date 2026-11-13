@@ -11,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 jira: KT-19031
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
