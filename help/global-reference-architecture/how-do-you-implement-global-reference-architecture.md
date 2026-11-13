@@ -1,6 +1,6 @@
 ---
 title: How do you implement Global Reference Architecture
-description: Learn how to implement a global reference architecture. Learn ideas for distributing your websites, keys for success and roles needed to ensure your Global Reference Architecture project starts off on the right track.
+description: Learn how to implement Global Reference Architecture for Adobe Commerce, including website distribution, success factors, feature development, and team roles.
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -42,6 +42,10 @@ topic_v2:
     internal-label: Governance
 ---
 # Implementing Global Reference Architecture
+
+>[!NOTE]
+>
+>This series covers Adobe Commerce on cloud infrastructure and self-hosted deployments.
 
 Learn how to implement Global Reference Architecture, or GRA. Learn about early decisions that help set up a successful GRA. Gain ideas for how to separate your websites, keys to success and some concepts for developing features in an organized manner.
 
