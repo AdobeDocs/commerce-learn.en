@@ -4,10 +4,10 @@ description: Overview of functional menus in the [!DNL Commerce] v2.3 [!DNL Admi
 landing-page-description: Watch this video series to get started with the basics of Adobe Commerce and working in the Admin.
 short-description: Watch this video series to get started with the basics of Adobe Commerce and working in the Admin.
 kt: 5758
-doc-type: video
+doc-type: Technical Video
 duration: 52
 activity: use
-last-substantial-update: 2023-5-28
+last-substantial-update: 2023-05-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User

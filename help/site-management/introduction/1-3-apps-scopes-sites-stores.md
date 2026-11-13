@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] for business users - Sites, stores, and views'
-description: Learn the basics of the [!DNL Commerce] architecture, including the differences between websites, stores, store views, and application scopes. Understand indexing and caching.
+title: '[!DNL Commerce] business users - Sites, stores, and views'
+description: 'Learn [!DNL Commerce] architecture: websites, stores, store views, and application scopes. Understand the differences, plus indexing and caching.'
 kt: 5760
-doc-type: video
+doc-type: Technical Video
 duration: 450
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User

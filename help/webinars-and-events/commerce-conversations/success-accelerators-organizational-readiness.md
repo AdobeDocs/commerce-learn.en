@@ -1,13 +1,13 @@
 ---
 title: Success Accelerators Organizational Readiness
-description: Learn about Adobe's success accelerators for organizational readiness. Commerce Success Accelerator organization readiness helps with strategic planning, workflows, change management, and digital review.
+description: Learn how Adobe Commerce Success Accelerators support organizational readiness through strategic planning, workflows, change management, and digital review.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00.000Z
+last-substantial-update: 2025-04-29
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
 TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
