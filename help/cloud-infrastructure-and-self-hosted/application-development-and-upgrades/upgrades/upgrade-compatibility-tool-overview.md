@@ -4,7 +4,7 @@ description: Learn how the Upgrade Compatibility Tool analyzes version incompati
 jira: KT-9983
 doc-type: Technical Video
 duration: 398
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer, Admin

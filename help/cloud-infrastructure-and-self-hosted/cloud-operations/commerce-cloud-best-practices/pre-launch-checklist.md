@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 451
-last-substantial-update: 2024-04-17T00:00:00.000Z
+last-substantial-update: 2024-04-17
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'

@@ -6,7 +6,7 @@ doc-type: Technical Video
 duration: 197
 audience: all
 activity: use
-last-substantial-update: 2023-11-14T00:00:00.000Z
+last-substantial-update: 2023-11-14
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User

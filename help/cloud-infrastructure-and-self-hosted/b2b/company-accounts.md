@@ -4,7 +4,7 @@ description: Learn how to manage B2B company accounts in Adobe Commerce — revi
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
