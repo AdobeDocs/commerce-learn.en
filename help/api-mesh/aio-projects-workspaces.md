@@ -4,7 +4,7 @@ description: Learn how to use Adobe Developer Console to work with projects and 
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2026-08-03T00:00:00.000Z
+last-substantial-update: 2026-08-03
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

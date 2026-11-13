@@ -4,7 +4,7 @@ description: Learn how to add [!DNL Live Search] to your store and produce highl
 doc-type: Feature Video
 duration: 543
 audience: all
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User

@@ -3,7 +3,7 @@ title: Dependency injection example
 description: Learn about dependency injection in Adobe Commerce — a design pattern where objects declare their dependencies for external injection, improving flexibility.
 doc-type: Technical Video
 duration: 313
-last-substantial-update: 2026-06-19T00:00:00.000Z
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Developer

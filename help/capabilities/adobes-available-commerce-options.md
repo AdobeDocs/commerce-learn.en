@@ -2,9 +2,9 @@
 title: Adobe available commerce options
 description: Compare Adobe Commerce deployment options—on-prem, cloud, SaaS, and Commerce Optimizer—and learn how to choose the right model for your business.
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer

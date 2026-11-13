@@ -4,7 +4,7 @@ description: Learn how to use API Mesh on Adobe Commerce and Adobe App Builder. 
 jira: KT-11804
 doc-type: Tutorial
 duration: 485
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer

@@ -4,7 +4,7 @@ description: Learn how to use the Site-Wide Analysis Tool dashboard to review sy
 doc-type: Technical Video
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 old-role: Architect, Developer

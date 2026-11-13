@@ -3,7 +3,7 @@ title: Use the Upgrade Compatibility Tool in PhpStorm
 description: Learn how to use the Upgrade Compatibility Tool with the PhpStorm plugin to find and fix incompatibilities before you upgrade.
 doc-type: Technical Video
 duration: 416
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer

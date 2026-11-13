@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 216
-last-substantial-update: 2025-10-24T00:00:00.000Z
+last-substantial-update: 2025-10-24
 jira: KT-19485
 exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 TQID: 'https://experienceleague.adobe.com/ZGVmvNQFySX-mmXehuwNiW9PSKhQtgMeeioKG2Rz--M'
