@@ -4,7 +4,7 @@ description: Learn how to architect Global Reference Architecture for Adobe Comm
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
-last-substantial-update: 2023-10-03T00:00:00.000Z
+last-substantial-update: 2023-10-03
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader

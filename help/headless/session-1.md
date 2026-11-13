@@ -4,7 +4,7 @@ description: Learn about headless architecture, composable commerce, and persona
 jira: KT-13144
 doc-type: Value Video
 duration: 1951
-last-substantial-update: 2023-04-25T00:00:00.000Z
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
 role: Admin, Developer

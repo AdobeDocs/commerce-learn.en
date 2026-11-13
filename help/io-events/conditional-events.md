@@ -4,7 +4,7 @@ description: Learn how to use conditional events to be used in Adobe Developer A
 jira: KT-11890
 doc-type: Tutorial
 duration: 387
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
