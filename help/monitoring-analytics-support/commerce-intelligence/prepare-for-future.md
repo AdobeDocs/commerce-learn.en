@@ -9,7 +9,7 @@ duration: 1516
 solution: Adobe Commerce
 audience: all
 activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2023-02-10
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User

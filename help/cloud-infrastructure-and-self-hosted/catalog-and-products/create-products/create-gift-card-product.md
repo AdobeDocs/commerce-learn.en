@@ -5,7 +5,7 @@ jira: KT-14587
 doc-type: Tutorial
 audience: all
 activity: use
-last-substantial-update: 2024-2-1
+last-substantial-update: 2024-02-01
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User

@@ -7,7 +7,7 @@ role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 jira: KT-15161
 exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
 product_v2:

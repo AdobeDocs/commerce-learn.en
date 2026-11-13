@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 979
 audience: all
 activity: use
-last-substantial-update: 2023-11-30T00:00:00.000Z
+last-substantial-update: 2023-11-30
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User

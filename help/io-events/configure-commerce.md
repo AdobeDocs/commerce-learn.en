@@ -4,7 +4,7 @@ description: Learn how to configure Adobe Commerce to allow events to be used in
 jira: KT-11889
 doc-type: Tutorial
 duration: 268
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
 role: Developer, User

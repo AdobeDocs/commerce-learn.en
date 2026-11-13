@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 563
-last-substantial-update: 2024-04-09T00:00:00.000Z
+last-substantial-update: 2024-04-09
 jira: KT-15231
 exl-id: d867a1f5-6b0e-4c73-be3f-8561792e0ef3
 TQID: 'https://experienceleague.adobe.com/GRGIzzTp8gBvOKWPE2ivuuK7HGydl5Y4RZLfYTB9ABk'

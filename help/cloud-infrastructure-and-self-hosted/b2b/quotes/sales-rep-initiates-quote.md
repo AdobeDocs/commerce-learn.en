@@ -4,7 +4,7 @@ description: Learn how sales reps can initiate B2B quotes from the Adobe Commerc
 doc-type: Technical Video
 duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User

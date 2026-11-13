@@ -4,7 +4,7 @@ description: Learn how a sales rep uses the Adobe Commerce REST API to initiate 
 doc-type: Technical Video
 duration: 232
 jira: KT-13797
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User

@@ -3,7 +3,7 @@ title: B2B Purchase Orders and Approvals
 description: Learn how to enable B2B purchase orders and approval rules for company accounts, including spending limits, designated approvers, and purchase policies.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25T00:00:00.000Z
+last-substantial-update: 2026-03-25
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User

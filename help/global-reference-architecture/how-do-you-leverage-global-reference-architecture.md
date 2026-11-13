@@ -4,7 +4,7 @@ description: Learn how to leverage a global reference architecture to establish 
 jira: KT-14040
 doc-type: Value Video
 duration: 1817
-last-substantial-update: 2023-09-27T00:00:00.000Z
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader

@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User

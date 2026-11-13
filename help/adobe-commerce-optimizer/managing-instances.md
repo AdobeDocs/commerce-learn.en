@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 163
-last-substantial-update: 2025-07-29T00:00:00.000Z
+last-substantial-update: 2025-07-29
 jira: KT-18638
 exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
 autotag-review: '2026-08-11T18:53:38.305Z'

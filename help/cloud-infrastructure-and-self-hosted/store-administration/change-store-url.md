@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
