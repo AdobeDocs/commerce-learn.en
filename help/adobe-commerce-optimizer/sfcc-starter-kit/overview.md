@@ -45,3 +45,12 @@ Learn about the Commerce Optimizer Salesforce Commerce Cloud Connector, a tool d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 
+
+## Continue the starter-kit series
+
+1. [Architecture overview](./architecture-overview.md)
+2. [Install the SFCC cartridge](./installation-sfcc-cartridge.md)
+3. [App Builder starter kit](./app-builder-starter-kit.md)
+4. [End-to-end demonstration](./end-to-end-demo.md)
+
+For shared App Builder concepts, see [Introduction to App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
