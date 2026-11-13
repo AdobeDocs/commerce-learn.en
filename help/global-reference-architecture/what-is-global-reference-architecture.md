@@ -4,7 +4,7 @@ description: Learn about the technique used for managing complex commerce projec
 jira: KT-14039
 doc-type: Value Video
 duration: 1143
-last-substantial-update: 2023-09-27T00:00:00.000Z
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader

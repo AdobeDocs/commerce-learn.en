@@ -4,7 +4,7 @@ description: Learn how to install modules needed for IO events in Adobe Commerce
 jira: KT-11887
 doc-type: Tutorial
 duration: 136
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture

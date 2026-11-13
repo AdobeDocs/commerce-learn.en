@@ -7,7 +7,7 @@ jira: KT-5644
 doc-type: Technical Video
 duration: 658
 activity: use
-last-substantial-update: 2023-5-28
+last-substantial-update: 2023-05-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
 old-role: Architect, Developer
