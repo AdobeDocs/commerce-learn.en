@@ -6,7 +6,7 @@ duration: 310
 jira: KT-14748
 audience: all
 activity: use
-last-substantial-update: 2024-01-09T00:00:00.000Z
+last-substantial-update: 2024-01-09
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
