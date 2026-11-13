@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] for business users - Store settings'
-description: Learn about locale settings, store information, secure and unsecure URLs, website title, logo, copyright information, communication email logos, store email addresses, currency options, and currency rates.
+description: Learn locale, store info, secure/unsecure URLs, site title, logos, copyright, email logos and addresses, currency options, and exchange rates.
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User

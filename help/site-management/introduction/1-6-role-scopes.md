@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] for business users - Role scopes and permissions'
+title: '[!DNL Commerce] business users - Role scopes and permissions'
 description: Learn how to define role scopes (exclusive to Adobe Commerce) and the associated permissions by site or store.
 kt: 5763
-doc-type: video
+doc-type: Technical Video
 duration: 290
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User

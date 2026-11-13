@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] for business users - Import and export products'
+title: '[!DNL Commerce] business users - Import and export products'
 description: Learn how to import and export your catalog products.
 kt: 5773
-doc-type: video
+doc-type: Technical Video
 duration: 239
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate

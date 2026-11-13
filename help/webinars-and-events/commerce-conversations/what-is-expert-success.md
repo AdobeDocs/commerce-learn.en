@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 214
-last-substantial-update: 2025-04-08T00:00:00.000Z
+last-substantial-update: 2025-04-08
 jira: KT-17714
 exl-id: 5863babd-bab2-4ccd-8978-c9bb379500b7
 TQID: 'https://experienceleague.adobe.com/lHugngNcvU2CNxc49jPDsXajipcu8Y2bayQwd-YDe7E'
