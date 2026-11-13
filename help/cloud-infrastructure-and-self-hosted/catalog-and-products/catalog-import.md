@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
-last-substantial-update: 2023-8-15
+last-substantial-update: 2023-08-15
 feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User

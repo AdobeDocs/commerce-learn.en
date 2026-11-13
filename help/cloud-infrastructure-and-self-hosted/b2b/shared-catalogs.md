@@ -4,7 +4,7 @@ description: Learn how to use B2B shared catalogs in Adobe Commerce to maintain 
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
