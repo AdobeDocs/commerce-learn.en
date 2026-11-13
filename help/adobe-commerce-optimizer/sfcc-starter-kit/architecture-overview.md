@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
 product_v2:

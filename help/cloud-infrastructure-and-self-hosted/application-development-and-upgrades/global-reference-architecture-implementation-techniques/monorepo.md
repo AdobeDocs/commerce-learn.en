@@ -4,7 +4,7 @@ description: Learn how to use the monorepo approach for global reference archite
 jira: KT-16728
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2025-01-06T00:00:00.000Z
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development

@@ -4,7 +4,7 @@ description: Learn how to use GitHub workflows in the API Mesh starter kit to de
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
-last-substantial-update: 2025-06-27T00:00:00.000Z
+last-substantial-update: 2025-06-27
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer

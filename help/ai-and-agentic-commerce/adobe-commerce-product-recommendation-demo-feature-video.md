@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
-last-substantial-update: 2026-08-11T00:00:00.000Z
+last-substantial-update: 2026-08-11
 nudge-edit:
   - 2026-08-12T00:00:00.000Z
 jira: KT-20981
