@@ -3,7 +3,7 @@ title: Two-factor authentication
 description: Learn how 2FA protects the Admin in Adobe Commerce and Magento Open Source with multiple providers and sign-in methods you can require for your teams.
 doc-type: Feature Video
 duration: 422
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 feature: Configuration, System, Security
 topic: Commerce, Administration
 role: Admin, Leader, User

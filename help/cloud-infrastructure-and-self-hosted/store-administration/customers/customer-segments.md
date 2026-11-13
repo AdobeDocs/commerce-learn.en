@@ -3,7 +3,7 @@ title: Create Customer Segments
 description: Learn how to create customer segments so you can target content and promotions using address, order history, cart data, and more.
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
