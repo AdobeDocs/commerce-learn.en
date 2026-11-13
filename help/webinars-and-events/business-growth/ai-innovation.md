@@ -2,7 +2,7 @@
 title: Business Growth with AI Innovation
 description: Explore AI-powered eCommerce growth with Adobe Commerce—boost discoverability, optimize storefronts, and expand globally.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -68,3 +68,9 @@ Discover how Adobe Commerce is revolutionizing eCommerce with cutting-edge AI so
 * Enhancing Storefront Experience Through Conversational Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
+
+## Related tutorials
+
+* [Commerce MCP overview](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce Developer Agent learning path](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: composable catalog data model](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

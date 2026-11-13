@@ -2,7 +2,7 @@
 title: Simplify Adobe Commerce Migration with AI Tools
 description: Learn how Adobe Commerce streamlines cloud migration with AI tools, modular adoption, and faster development for scalable business growth.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -60,3 +60,9 @@ Adobe Commerce is making it easier for businesses to grow by helping them move t
 * Storefront enhancements improve performance and content creation with drop-in components and edge delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## Related tutorials
+
+* [Migrate to Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Introduction to App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce storefront on Edge Delivery Services: shopper experience](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

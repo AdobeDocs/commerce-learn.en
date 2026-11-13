@@ -1,6 +1,6 @@
 ---
 title: Planning the modern Adobe Commerce implementation
-description: This webinar is about planning the implementation of a modern commerce system, specifically Adobe Commerce, and includes discussions on the discovery phase, services, global reference architecture, front-end development practices, and best practices.
+description: Learn how to plan an Adobe Commerce implementation, covering discovery, services, Global Reference Architecture, front-end development, and best practices.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -79,5 +79,11 @@ Overview of Adobe Commerce and its four-part series on planning, building, and m
 * Importance of proper planning, organization, and prioritization of tasks, including starting with the hardest parts of the project and considering the use of GRA for reusable components.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## Related tutorials
+
+* [Commerce storefront on Edge Delivery Services: shopper experience](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Data Connection](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introduction to App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

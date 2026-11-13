@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce launch, post launch and ongoing monitoring and troubleshooting
-description: Learn the best practices and tips for preparing and launching a website. Learn about choosing the right staging environment, providing relevant details in support tickets, and using the same monitoring tool as the support team for better communication.
+title: Launch, monitor, and troubleshoot Adobe Commerce Cloud
+description: Learn how to prepare, launch, monitor, and troubleshoot Adobe Commerce Cloud using staging environments, detailed support tickets, and shared monitoring tools.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -62,5 +62,11 @@ This webinar provides several best practices and tips for preparing and launchin
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## Related tutorials
+
+* [Cloud infrastructure and self-hosted: pre-launch checklist](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Cloud infrastructure and self-hosted: New Relic alerts](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Create a support ticket](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
