@@ -2,7 +2,7 @@
 title: Business Growth with Adobe's Vision Forward Roadmap
 description: Discover Adobe Commerce's roadmap for B2B storefronts, real-time personalization, payments, and AI-powered merchant and developer experiences.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -82,3 +82,9 @@ Adobe Commerce’s roadmap for 2026 outlines a comprehensive strategy to enhance
 * Developer Experience & Observability Improvements
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)
+
+## Related tutorials
+
+* [Data Connection](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Observability overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introduction to App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
