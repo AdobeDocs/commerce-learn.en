@@ -4,7 +4,7 @@ description: Learn how to use GraphQL to apply line item discounts on a B2B sale
 doc-type: Technical Video
 duration: 99
 jira: KT-13800
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Developer, User

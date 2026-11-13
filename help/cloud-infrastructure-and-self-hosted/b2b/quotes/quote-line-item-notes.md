@@ -4,7 +4,7 @@ description: Learn how to add and view line item notes on a B2B quote in Adobe C
 doc-type: Technical Video
 duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User

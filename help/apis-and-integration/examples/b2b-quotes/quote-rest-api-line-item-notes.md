@@ -4,7 +4,7 @@ description: Learn how to use the Adobe Commerce REST API to add and retrieve li
 doc-type: Technical Video
 duration: 159
 jira: KT-13801
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Developer, User

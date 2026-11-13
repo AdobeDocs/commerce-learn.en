@@ -4,7 +4,7 @@ description: Learn how to apply and view line item discounts on a B2B quote usin
 doc-type: Technical Video
 duration: 214
 jira: KT-13798
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Developer, User

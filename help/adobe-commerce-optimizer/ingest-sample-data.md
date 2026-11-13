@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 445
-last-substantial-update: 2025-08-05T00:00:00.000Z
+last-substantial-update: 2025-08-05
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
 autotag-review: '2026-08-11T18:59:23.839Z'
