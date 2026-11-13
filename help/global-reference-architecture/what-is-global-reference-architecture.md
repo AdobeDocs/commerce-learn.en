@@ -43,6 +43,10 @@ topic_v2:
 ---
 # Global Reference Architecture
 
+>[!NOTE]
+>
+>This series covers Adobe Commerce on cloud infrastructure and self-hosted deployments.
+
 Learn about Global Reference Architecture, some core concepts, and benefits for this approach. 
 
 ## Audience

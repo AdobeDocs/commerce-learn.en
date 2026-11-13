@@ -1,6 +1,6 @@
 ---
 title: How do you architect Global Reference Architecture
-description: Learn how to architect a global reference architecture. Learn techniques and ideas to ensure your Global Reference Architecture project starts off on the right track
+description: Learn how to architect Global Reference Architecture for Adobe Commerce, including code management techniques, documentation, tools, and team responsibilities.
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -44,6 +44,10 @@ topic_v2:
     internal-label: Privacy
 ---
 # Architecting for GRA
+
+>[!NOTE]
+>
+>This series covers Adobe Commerce on cloud infrastructure and self-hosted deployments.
 
 Learn how to architect Global Reference Architecture or GRA for short. To prepare a GRA better for a successful implementation, the Adobe experts discuss what is and what is not GRA. A detailed discussion on code management using separate packages, split git, and monorepo. Other topics around documentation, tools, and personnel expectations are discussed to elaborate on their parts for a successful GRA implementation.
 

@@ -47,6 +47,10 @@ topic_v2:
 ---
 # Leveraging Global Reference Architecture
 
+>[!NOTE]
+>
+>This series covers Adobe Commerce on cloud infrastructure and self-hosted deployments.
+
 Learn how to leverage Global Reference Architecture or GRA. To prepare a GRA better for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and why they are a valuable resource to a GRA implementation.
 
 ## Audience
