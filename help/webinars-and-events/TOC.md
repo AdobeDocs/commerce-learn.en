@@ -2,6 +2,7 @@
 user-guide-title: Adobe Commerce Webinars and Events
 user-guide-description: Learn about Adobe Commerce through webinars and events.
 breadcrumb-title: Adobe Commerce Webinars and Events
+auto-video-transcripts: true
 ---
 
 # Webinars and events {#webinars-and-events}
