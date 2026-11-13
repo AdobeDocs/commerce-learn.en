@@ -8,6 +8,7 @@ level: Intermediate
 doc-type: Tutorial
 duration: 438
 last-substantial-update: 2026-08-28
+jira: KT-23144
 ---
 # Adobe Commerce Developer Agent App Builder dry run
 
